@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuranIQ - Daily Quranic Puzzle Game</title>
+    <meta name="description"
+        content="Test your Quranic knowledge daily with 4 unique puzzle modes: Ayah Connections, Harf by Harf, Who Am I?, and Ayah Scramble. Play free every day!">
+    <meta name="theme-color" content="#1B5E20">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sudosar.github.io/quraniq/">
+    <meta property="og:title" content="QuranIQ - Daily Quranic Puzzle Game">
+    <meta property="og:description"
+        content="Test your Quranic knowledge daily with 4 unique puzzle modes. Play free every day!">
+    <meta property="og:image" content="https://sudosar.github.io/quraniq/icons/og-preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="QuranIQ - Daily Quranic Puzzle Game">
+    <meta name="twitter:description"
+        content="Test your Quranic knowledge daily with 4 unique puzzle modes. Play free every day!">
+    <meta name="twitter:image" content="https://sudosar.github.io/quraniq/icons/og-preview.png">
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="QuranIQ">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=20260215">
+    <link rel="stylesheet" href="css/juz-puzzle.css?v=20260212">
+    <link rel="stylesheet" href="css/leaderboard.css?v=20260212">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="icons/icon-192.png" type="image/png" sizes="192x192">
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N7SBPH5C6L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-N7SBPH5C6L');
+    </script>
+</head>
+
+<body>
+    <!-- Skip to content link for accessibility -->
+    <a href="#game-area" class="skip-link">Skip to game content</a>
+
+    <!-- Live region for screen reader announcements -->
+    <div id="sr-announce" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+    <!-- Header -->
+    <header id="header" role="banner">
+        <div class="header-left">
+            <button id="menu-btn" class="icon-btn" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    aria-hidden="true">
+                    <line x1="3" y1="6" x2="21" y2="6" />
+                    <line x1="3" y1="12" x2="21" y2="12" />
+                    <line x1="3" y1="18" x2="21" y2="18" />
+                </svg>
+            </button>
+        </div>
+        <div class="header-center">
+            <h1 class="logo">Quran<span class="logo-accent">IQ</span></h1>
+            <div class="subtitle">Daily Quranic Challenge</div>
+        </div>
+        <div class="header-right">
+            <button id="leaderboard-btn" class="icon-btn lb-hidden" aria-label="Group leaderboard"
+                aria-haspopup="dialog">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+                    <circle cx="9" cy="7" r="4" />
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+                </svg>
+                <span id="lb-notif-badge"></span>
+            </button>
+            <button id="stats-btn" class="icon-btn" aria-label="View statistics" aria-haspopup="dialog">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    aria-hidden="true">
+                    <rect x="4" y="14" width="4" height="7" />
+                    <rect x="10" y="9" width="4" height="12" />
+                    <rect x="16" y="4" width="4" height="17" />
+                </svg>
+            </button>
+            <button id="help-btn" class="icon-btn" aria-label="How to play" aria-haspopup="dialog">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <circle cx="12" cy="12" r="9" />
+                    <path d="M9.5 9.5a3 3 0 0 1 5 1c0 2-2.5 2.5-2.5 3.5" />
+                    <circle cx="12" cy="17.5" r="0.5" fill="currentColor" stroke="none" />
+                </svg>
+            </button>
+            <button id="theme-btn" class="icon-btn" aria-label="Toggle dark mode">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    aria-hidden="true">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+                </svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mode Selector -->
+    <nav id="mode-selector" role="tablist" aria-label="Game mode selector">
+        <button class="mode-tab active" data-mode="connections" role="tab" aria-selected="true"
+            aria-controls="connections-game" id="tab-connections">
+            <span class="mode-icon" aria-hidden="true">🔗</span>
+            <span class="mode-name">Connections</span>
+        </button>
+        <button class="mode-tab" data-mode="wordle" role="tab" aria-selected="false" aria-controls="wordle-game"
+            id="tab-wordle">
+            <span class="mode-icon" aria-hidden="true">🔤</span>
+            <span class="mode-name">Harf by Harf</span>
+        </button>
+        <button class="mode-tab" data-mode="deduction" role="tab" aria-selected="false" aria-controls="deduction-game"
+            id="tab-deduction">
+            <span class="mode-icon" aria-hidden="true">🔍</span>
+            <span class="mode-name">Who Am I?</span>
+        </button>
+        <button class="mode-tab" data-mode="scramble" role="tab" aria-selected="false" aria-controls="scramble-game"
+            id="tab-scramble">
+            <span class="mode-icon" aria-hidden="true">🧩</span>
+            <span class="mode-name">Scramble</span>
+        </button>
+        <button class="mode-tab juz-tab" data-mode="juz" role="tab" aria-selected="false" aria-controls="juz-game"
+            id="tab-juz">
+            <span class="mode-icon" aria-hidden="true">🌙</span>
+            <span class="mode-name">Juz Journey</span>
+        </button>
+    </nav>
+
+    <!-- Main Game Area -->
+    <main id="game-area">
+
+        <!-- ==================== CONNECTIONS MODE ==================== -->
+        <section id="connections-game" class="game-mode active" role="tabpanel" aria-labelledby="tab-connections">
+            <div class="game-header">
+                <h2>Ayah Connections</h2>
+                <p class="game-desc">Find 4 groups of 4 related Quranic items</p>
+            </div>
+            <div id="connections-solved" aria-label="Solved groups"></div>
+            <div id="connections-grid" class="connections-grid" role="grid" aria-label="Connection tiles"></div>
+            <p class="conn-tooltip-hint">Tap any word in the verse to see its English meaning.</p>
+            <div class="connections-controls">
+                <div id="connections-mistakes" class="mistakes-display" aria-live="polite">
+                    Mistakes remaining: <span id="mistakes-dots"></span>
+                </div>
+                <div class="btn-row">
+                    <button id="conn-shuffle" class="btn btn-secondary">Shuffle</button>
+                    <button id="conn-deselect" class="btn btn-secondary">Deselect All</button>
+                    <button id="conn-submit" class="btn btn-primary" disabled>Submit</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- ==================== HARF BY HARF MODE ==================== -->
+        <section id="wordle-game" class="game-mode" role="tabpanel" aria-labelledby="tab-wordle">
+            <div class="game-header">
+                <h2>Harf by Harf</h2>
+                <p class="game-desc">Guess the Quranic word in 6 tries</p>
+            </div>
+            <div id="wordle-board" class="wordle-board" role="grid" aria-label="Harf by Harf game board"></div>
+            <div id="wordle-hint" class="wordle-hint" aria-live="polite"></div>
+            <div id="wordle-keyboard" class="wordle-keyboard" role="group" aria-label="Arabic keyboard"></div>
+        </section>
+
+        <!-- ==================== DEDUCTION MODE ==================== -->
+        <section id="deduction-game" class="game-mode" role="tabpanel" aria-labelledby="tab-deduction">
+            <div class="game-header">
+                <h2>Who Am I?</h2>
+                <p class="game-desc">Read clues in first person and guess the Quranic figure</p>
+            </div>
+            <div id="deduction-story" class="deduction-story"></div>
+            <div id="ded-crescent-meter" class="ded-crescent-meter" aria-live="polite"></div>
+            <div id="deduction-clues" class="deduction-clues" role="list" aria-label="Clues"></div>
+            <div id="deduction-grid" class="deduction-grid-container"></div>
+            <div id="deduction-answer" class="deduction-answer" aria-live="polite"></div>
+        </section>
+
+        <!-- ==================== SCRAMBLE MODE ==================== -->
+        <section id="scramble-game" class="game-mode" role="tabpanel" aria-labelledby="tab-scramble">
+            <div class="game-header">
+                <h2>Ayah Scramble</h2>
+                <p class="game-desc">Arrange the Arabic words to complete the verse. Use hints to reveal English
+                    translations.</p>
+            </div>
+            <div id="scramble-reference" class="scramble-reference"></div>
+            <div id="scr-crescent-meter" class="ded-crescent-meter" aria-live="polite"></div>
+            <div id="scramble-dropzone" class="scramble-dropzone" role="list" aria-label="Arranged words"></div>
+            <div id="scramble-words" class="scramble-words" role="list" aria-label="Available words"></div>
+            <div class="scramble-controls">
+                <div id="scramble-moves" class="moves-display" aria-live="polite">Moves: <span>0</span> /
+                    <span>15</span></div>
+                <div class="btn-row">
+                    <button id="scramble-hint" class="btn btn-secondary">Hint</button>
+                    <button id="scramble-reset" class="btn btn-secondary">Reset</button>
+                    <button id="scramble-check" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- ==================== JUZ JOURNEY MODE ==================== -->
+        <section id="juz-game" class="game-mode" role="tabpanel" aria-labelledby="tab-juz">
+            <!-- Ramadan Countdown (shown before Feb 18) -->
+            <div id="juz-countdown-container" class="juz-countdown-container">
+                <div class="juz-countdown-header">
+                    <div class="juz-countdown-crescent">🌙</div>
+                    <h2 class="juz-countdown-title">Juz Journey</h2>
+                    <p class="juz-countdown-subtitle">A Daily Ramadan Quranic Puzzle</p>
+                </div>
+                <div class="juz-countdown-timer-wrap">
+                    <p class="juz-countdown-label">Ramadan begins in</p>
+                    <div id="juz-countdown-timer" class="juz-countdown-timer">
+                        <div class="juz-countdown-unit">
+                            <span id="juz-cd-days" class="juz-cd-num">--</span>
+                            <span class="juz-cd-label">Days</span>
+                        </div>
+                        <div class="juz-countdown-sep">:</div>
+                        <div class="juz-countdown-unit">
+                            <span id="juz-cd-hours" class="juz-cd-num">--</span>
+                            <span class="juz-cd-label">Hours</span>
+                        </div>
+                        <div class="juz-countdown-sep">:</div>
+                        <div class="juz-countdown-unit">
+                            <span id="juz-cd-mins" class="juz-cd-num">--</span>
+                            <span class="juz-cd-label">Minutes</span>
+                        </div>
+                        <div class="juz-countdown-sep">:</div>
+                        <div class="juz-countdown-unit">
+                            <span id="juz-cd-secs" class="juz-cd-num">--</span>
+                            <span class="juz-cd-label">Seconds</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="juz-countdown-verse">
+                    <p class="juz-countdown-arabic">شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ
+                        وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ</p>
+                    <p class="juz-countdown-translation"><em>The month of Ramadan in which the Quran was revealed, a
+                            guidance for the people and clear proofs of guidance and criterion.</em></p>
+                    <p class="juz-countdown-ref">— Al-Baqarah 2:185</p>
+                </div>
+                <div class="juz-countdown-coming">
+                    <div class="juz-coming-badge">Coming Soon</div>
+                    <p>Each day of Ramadan, explore one Juz of the Quran through an interactive 4-round puzzle. Listen
+                        to verses, identify themes, name Surahs, and test your knowledge of the Quran's structure.</p>
+                    <div class="juz-coming-features">
+                        <div class="juz-feature"><span>🎧</span> Listen &amp; Discover Verses</div>
+                        <div class="juz-feature"><span>📖</span> Identify Themes &amp; Topics</div>
+                        <div class="juz-feature"><span>🕌</span> Name the Surah</div>
+                        <div class="juz-feature"><span>📋</span> Order Surahs in the Juz</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Actual Game (shown from Feb 18 onwards) -->
+            <div id="juz-puzzle-container" class="juz-puzzle-container" style="display:none;"></div>
+        </section>
+
+        <!-- ==================== RESULT MODAL ==================== -->
+        <div id="result-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="result-title">
+            <div class="modal-content">
+                <button class="modal-close" id="result-close" aria-label="Close">&times;</button>
+                <div id="result-icon" class="result-icon" aria-hidden="true"></div>
+                <h2 id="result-title"></h2>
+                <div id="result-verse" class="result-verse"></div>
+                <div id="result-audio" class="result-audio-row" style="display:none;">
+                    <button id="result-autoplay-btn" class="result-autoplay-btn"
+                        aria-label="Toggle auto-play recitation"></button>
+                </div>
+                <div id="result-grid" class="result-grid"></div>
+                <div id="result-stars" class="result-stars"></div>
+                <div id="result-stats" class="result-stats"></div>
+                <div class="result-actions">
+                    <button id="share-btn" class="btn btn-primary btn-share">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" aria-hidden="true">
+                            <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+                            <polyline points="16 6 12 2 8 6" />
+                            <line x1="12" y1="2" x2="12" y2="15" />
+                        </svg>
+                        Share Result
+                    </button>
+                    <button id="copy-btn" class="btn btn-secondary">Copy to Clipboard</button>
+                </div>
+                <div id="share-toast" class="share-toast hidden" role="status">Copied to clipboard!</div>
+                <div class="next-puzzle">
+                    <span>Next puzzle in</span>
+                    <span id="countdown-timer" class="countdown" aria-label="Countdown to next puzzle"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- ==================== STATS MODAL ==================== -->
+        <div id="stats-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="stats-title">
+            <div class="modal-content">
+                <button class="modal-close" id="stats-close" aria-label="Close">&times;</button>
+                <h2 id="stats-title">Your Statistics</h2>
+                <div id="stats-mode-tabs" class="stats-mode-tabs" role="tablist" aria-label="Statistics mode selector">
+                    <button class="stats-tab" data-stats-mode="insights" role="tab"
+                        aria-selected="false">Insights</button>
+                    <button class="stats-tab active" data-stats-mode="connections" role="tab"
+                        aria-selected="true">Connections</button>
+                    <button class="stats-tab" data-stats-mode="wordle" role="tab" aria-selected="false">Harf</button>
+                    <button class="stats-tab" data-stats-mode="deduction" role="tab" aria-selected="false">Who Am
+                        I?</button>
+                    <button class="stats-tab" data-stats-mode="scramble" role="tab"
+                        aria-selected="false">Scramble</button>
+                </div>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number" id="stat-played">0</div>
+                        <div class="stat-label">Played</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" id="stat-win-pct">0</div>
+                        <div class="stat-label">Win %</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" id="stat-streak">0</div>
+                        <div class="stat-label">Current Streak</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" id="stat-max-streak">0</div>
+                        <div class="stat-label">Max Streak</div>
+                    </div>
+                </div>
+                <h3 id="dist-heading">Score Distribution</h3>
+                <div id="guess-distribution" class="guess-distribution" aria-labelledby="dist-heading"></div>
+
+                <!-- Performance Insights -->
+                <div id="performance-insights" class="performance-insights"></div>
+            </div>
+        </div>
+
+        <!-- ==================== HELP MODAL ==================== -->
+        <div id="help-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+            <div class="modal-content">
+                <button class="modal-close" id="help-close" aria-label="Close">&times;</button>
+                <h2 id="help-title">How to Play</h2>
+                <div id="help-content" class="help-content"></div>
+            </div>
+        </div>
+
+        <!-- ==================== MENU SIDEBAR ==================== -->
+        <div id="sidebar" class="sidebar hidden" role="navigation" aria-label="Game navigation">
+            <div class="sidebar-header">
+                <h2>Quran<span style="color: var(--islamic-gold)">IQ</span></h2>
+                <button id="sidebar-close" class="icon-btn" aria-label="Close menu">&times;</button>
+            </div>
+            <div class="sidebar-bismillah" aria-hidden="true">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</div>
+            <nav class="sidebar-nav">
+                <a href="#" data-mode="connections" class="sidebar-link active">
+                    <span aria-hidden="true">🔗</span> Ayah Connections
+                </a>
+                <a href="#" data-mode="wordle" class="sidebar-link">
+                    <span aria-hidden="true">🔤</span> Harf by Harf
+                </a>
+                <a href="#" data-mode="deduction" class="sidebar-link">
+                    <span aria-hidden="true">🔍</span> Who Am I?
+                </a>
+                <a href="#" data-mode="scramble" class="sidebar-link">
+                    <span aria-hidden="true">🧩</span> Ayah Scramble
+                </a>
+                <a href="#" data-mode="juz" class="sidebar-link juz-sidebar-link">
+                    <span aria-hidden="true">🌙</span> Juz Journey
+                </a>
+            </nav>
+            <div class="sidebar-actions">
+                <button id="save-progress-btn" class="sidebar-action-btn">
+                    <span aria-hidden="true">💾</span> Save Progress
+                </button>
+                <button id="restore-progress-btn" class="sidebar-action-btn">
+                    <span aria-hidden="true">📥</span> Restore Progress
+                </button>
+            </div>
+            <div class="sidebar-actions" style="border-top:1px solid var(--border);padding-top:8px;margin-top:4px;">
+                <button id="sidebar-leaderboard-btn" class="sidebar-action-btn" aria-label="Group leaderboard">
+                    <span aria-hidden="true">🏆</span> Group Leaderboard
+                </button>
+                <button id="shukr-btn" class="sidebar-action-btn" aria-label="Thanks and credits">
+                    <span aria-hidden="true">🤲</span> Shukr &amp; Thanks
+                </button>
+                <button id="sidebar-install-btn" class="sidebar-action-btn pwa-install-btn hidden"
+                    aria-label="Install QuranIQ app">
+                    <span aria-hidden="true">📲</span> Install App
+                </button>
+            </div>
+            <div class="sidebar-footer">
+                <p>Test your Quranic knowledge daily</p>
+                <p class="sidebar-verse">"وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ"<br><em>And We have certainly made
+                        the Quran easy for remembrance</em> — 54:17</p>
+            </div>
+        </div>
+        <div id="sidebar-overlay" class="sidebar-overlay hidden"></div>
+
+        <!-- ==================== PWA INSTALL BANNER ==================== -->
+        <div id="pwa-install-banner" class="pwa-banner hidden" role="alert">
+            <div class="pwa-banner-content">
+                <div class="pwa-banner-icon" aria-hidden="true">🕌</div>
+                <div class="pwa-banner-text">
+                    <strong>Install QuranIQ</strong>
+                    <span>Play offline &amp; get quick access from your home screen</span>
+                </div>
+            </div>
+            <div class="pwa-banner-actions">
+                <button id="pwa-install-btn" class="pwa-banner-install">Install</button>
+                <button id="pwa-dismiss-btn" class="pwa-banner-dismiss" aria-label="Dismiss">&times;</button>
+            </div>
+        </div>
+
+        <!-- ==================== RESTORE MODAL ==================== -->
+        <div id="restore-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="restore-title">
+            <div class="modal-content">
+                <button class="modal-close" id="restore-close" aria-label="Close">&times;</button>
+                <h2 id="restore-title">Restore Progress</h2>
+                <p style="color:var(--text-secondary);margin-bottom:12px;">Paste your save code below to restore your
+                    progress on this device.</p>
+                <label for="restore-input" class="sr-only">Save code</label>
+                <textarea id="restore-input" class="restore-textarea" placeholder="Paste your QIQ:... save code here"
+                    rows="4"></textarea>
+                <div class="result-actions" style="margin-top:12px;">
+                    <button id="restore-confirm-btn" class="btn btn-primary">Restore</button>
+                    <button id="restore-cancel-btn" class="btn btn-secondary">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ==================== LEADERBOARD MODAL ==================== -->
+        <div id="leaderboard-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="lb-title">
+            <div class="modal-content">
+                <button class="modal-close" id="lb-close" aria-label="Close">&times;</button>
+                <h2 id="lb-title" class="modal-title">👥 Group Leaderboard</h2>
+                <div id="leaderboard-content"></div>
+            </div>
+        </div>
+
+        <!-- ==================== SHUKR MODAL ==================== -->
+        <div id="shukr-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="shukr-title">
+            <div class="modal-content shukr-modal-content">
+                <button class="modal-close" id="shukr-close" aria-label="Close">&times;</button>
+
+                <div class="shukr-header">
+                    <div class="shukr-bismillah" aria-hidden="true">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</div>
+                    <h2 id="shukr-title">Shukr &amp; Thanks</h2>
+                </div>
+
+                <div class="shukr-section shukr-dua">
+                    <p class="shukr-arabic">الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِيَ
+                        لَوْلَا أَنْ هَدَانَا اللَّهُ</p>
+                    <p class="shukr-translation"><em>"Praise be to Allah, who has guided us to this. We would never have
+                            been guided had Allah not guided us."</em> — 7:43</p>
+                    <p class="shukr-body">All praise and thanks belong to <strong>Allah</strong>, the Most Merciful, the
+                        Most Generous. He inspired this work, guided its creation, and made the Quran a source of light,
+                        healing, and wisdom for all of humanity. May this humble effort serve as a means of drawing
+                        closer to His Book.</p>
+                </div>
+
+                <div class="shukr-section">
+                    <p class="shukr-arabic" style="font-size:1.1rem;">رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي
+                        أَنْعَمْتَ عَلَيَّ</p>
+                    <p class="shukr-translation"><em>"My Lord, enable me to be grateful for Your favor which You have
+                            bestowed upon me."</em> — 27:19</p>
+                </div>
+
+                <div class="shukr-section">
+                    <h3 class="shukr-subtitle">🤲 A Request for Du'a</h3>
+                    <p class="shukr-body">QuranIQ was built entirely using <strong>free and open technology</strong>
+                        created by generous people around the world. Nothing in this world truly comes for free — these
+                        services are sustained by the time, effort, and generosity of their creators and communities.
+                    </p>
+                    <p class="shukr-body">We humbly ask you to <strong>make du'a for the people behind these
+                            projects</strong> — that Allah rewards them abundantly, blesses their work, and guides them
+                        to what is best. And if you are able, consider <strong>donating</strong> to support their noble
+                        efforts.</p>
+                </div>
+
+                <div class="shukr-section dhikr-section">
+                    <h3 class="shukr-subtitle">📿 Dhikr Counter</h3>
+                    <p class="shukr-body" style="text-align:center;margin-bottom:12px">Every tap counts toward our
+                        community total. Select a phrase and tap together.</p>
+                    <div class="dhikr-community" id="dhikr-community">
+                        <div class="dhikr-community-count" id="dhikr-community-count">—</div>
+                        <div class="dhikr-community-label">community dhikr</div>
+                    </div>
+                    <div class="dhikr-picker" id="dhikr-picker">
+                        <button class="dhikr-phrase active" data-phrase="subhanallah">سُبْحَانَ اللَّهِ</button>
+                        <button class="dhikr-phrase" data-phrase="alhamdulillah">الْحَمْدُ لِلَّهِ</button>
+                        <button class="dhikr-phrase" data-phrase="allahuakbar">اللَّهُ أَكْبَرُ</button>
+                        <button class="dhikr-phrase" data-phrase="astaghfirullah">أَسْتَغْفِرُ اللَّهَ</button>
+                        <button class="dhikr-phrase" data-phrase="lailahaillallah">لَا إِلَٰهَ إِلَّا اللَّهُ</button>
+                    </div>
+                    <div class="dhikr-counter-wrap">
+                        <button class="dhikr-tap" id="dhikr-tap" aria-label="Tap to count dhikr">
+                            <span class="dhikr-count" id="dhikr-count">0</span>
+                            <span class="dhikr-label">tap</span>
+                        </button>
+                    </div>
+                    <div class="dhikr-controls">
+                        <button class="dhikr-ctrl-btn" id="dhikr-reset" aria-label="Reset counter">↺ Reset</button>
+                    </div>
+                </div>
+
+                <div class="shukr-section">
+                    <h3 class="shukr-subtitle">🌟 With Gratitude To</h3>
+                    <div class="shukr-credits">
+                        <a href="https://quran.com" target="_blank" rel="noopener noreferrer" class="shukr-credit-card">
+                            <strong>Quran.com</strong>
+                            <span>Verse text, word-by-word translations, and deep linking for study. A beautiful gift to
+                                the Ummah.</span>
+                            <span class="shukr-donate">Support them →</span>
+                        </a>
+                        <a href="https://everyayah.com" target="_blank" rel="noopener noreferrer"
+                            class="shukr-credit-card">
+                            <strong>EveryAyah.com</strong>
+                            <span>High-quality verse-by-verse Quran recitations by Mishary Al-Afasy and many other
+                                reciters.</span>
+                            <span class="shukr-donate">Visit &amp; support →</span>
+                        </a>
+                        <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer"
+                            class="shukr-credit-card">
+                            <strong>GitHub Pages</strong>
+                            <span>Free hosting that makes QuranIQ accessible to anyone, anywhere in the world.</span>
+                            <span class="shukr-donate">Learn more →</span>
+                        </a>
+                        <a href="https://fonts.google.com/specimen/Amiri" target="_blank" rel="noopener noreferrer"
+                            class="shukr-credit-card">
+                            <strong>Google Fonts — Amiri</strong>
+                            <span>The beautiful Arabic typeface that renders Quranic text with the dignity it
+                                deserves.</span>
+                            <span class="shukr-donate">Learn more →</span>
+                        </a>
+                        <a href="https://workspace.google.com/products/apps-script/" target="_blank"
+                            rel="noopener noreferrer" class="shukr-credit-card">
+                            <strong>Google Apps Script &amp; Sheets</strong>
+                            <span>Powers the leaderboard backend — storing scores and calculating percentiles at no
+                                cost.</span>
+                            <span class="shukr-donate">Learn more →</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="shukr-section shukr-closing">
+                    <p class="shukr-body">If QuranIQ has benefited you in any way, please share it with your family and
+                        friends — especially during Ramadan. Every person who engages with the Quran through this game
+                        is, <em>in sha Allah</em>, a reward for all of us.</p>
+                    <p class="shukr-arabic" style="font-size:1.1rem;">جَزَاكُمُ اللَّهُ خَيْرًا</p>
+                    <p class="shukr-translation"><em>May Allah reward you all with goodness.</em></p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Firebase SDK (compat for non-module usage) -->
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
+
+    <script src="puzzles.js?v=20260210m"></script>
+    <script src="js/utils.js?v=20260215"></script>
+    <script src="js/connections.js?v=20260215-fix"></script>
+    <script src="js/wordle.js?v=20260210m"></script>
+    <script src="js/deduction.js?v=20260210m"></script>
+    <script src="js/scramble.js?v=20260214a"></script>
+    <script src="js/onboarding.js?v=20260210m"></script>
+    <script src="js/bugreport.js?v=20260210m"></script>
+    <script src="js/analytics.js?v=20260210m"></script>
+    <script src="js/juz-puzzle.js?v=20260212"></script>
+    <script src="js/firebase-groups.js?v=20260213"></script>
+    <script src="js/leaderboard-ui.js?v=20260213"></script>
+    <script src="js/app.js?v=20260215"></script>
+    <script>
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(reg => console.log('SW registered:', reg.scope))
+                    .catch(err => console.log('SW registration failed:', err));
+            });
+        }
+    </script>
+</body>
+
+</html>
