@@ -441,7 +441,7 @@ function showResultModal({ icon, title, verse, arabic, translation, emojiGrid, s
         if (moons !== undefined && moons !== null) {
             fbMoons = moons;
         } else if (crescentRow) {
-            // Connections: count solved groups (full moons + crescents)
+            // Connections: count solved groups (full moons + crescents) in crescent row
             fbMoons = (crescentRow.match(/[🌕🌙]/g) || []).length;
         }
         submitFirebaseScore(app.currentMode, fbMoons).catch(() => { });
