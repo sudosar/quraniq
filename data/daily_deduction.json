@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "puzzle": {
-    "title": "The Voice from the City's Edge",
-    "intro": "When messengers of truth arrived in a city, they were met with denial and threats. From the outskirts, a lone figure emerged, their heart filled with conviction. This individual raced to defend the messengers and call their own people to guidance, a courageous act that would seal their fate. Can you identify this soul and the message they championed?",
+    "title": "The First Covenant",
+    "intro": "A story of honor, a test of obedience, and a moment of forgetfulness that changed the course of existence. This figure was given a lofty station and placed in a realm of peace, but a single prohibition stood between them and eternal bliss. A whisper of temptation led to a choice with consequences that would echo through every generation to come. Who is this soul?",
     "clues": [
-      "I lived in a city that was visited by divine messengers, but my people were skeptical and hostile towards them.",
-      "I heard of the messengers' plight and their message of worshipping the One Creator.",
-      "From the farthest part of the city, I came running to support them.",
-      "I addressed my people directly, questioning why they wouldn't worship the One who created them and to whom they would return.",
-      "I declared my own faith openly, saying, 'Indeed, I have believed in your Lord, so listen to me.'",
-      "My people responded to my plea with violence, but my reward was immediate. Upon my death, it was said to me, 'Enter Paradise.'"
+      "I was taught the names of all things, a knowledge that set me apart.",
+      "A great assembly was commanded to prostrate before me as a sign of respect, but one refused out of arrogance.",
+      "My spouse and I were given a beautiful garden to dwell in, with the freedom to enjoy its bounties.",
+      "We were warned against a single tree, but a cunning whisper convinced us that it held the key to immortality.",
+      "After we transgressed, our state of grace was removed, and we felt the shame of our nakedness.",
+      "I received words of repentance directly from my Lord, who in His mercy forgave me and established me as the first of my kind on Earth."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The Believer from Fir'awn's Family",
-          "Luqman the Wise",
-          "The Believer of Ya-Sin",
-          "A Disciple of 'Isa",
-          "Zayd ibn Harithah"
+          "Prophet Adam",
+          "Iblis",
+          "Prophet Idris",
+          "The Angel Jibril",
+          "Prophet 'Isa"
         ],
-        "answer": "The Believer of Ya-Sin"
+        "answer": "Prophet Adam"
       },
       "trial": {
-        "label": "What Was My Primary Action?",
+        "label": "What Was My Primary Test?",
         "options": [
-          "Concealing my faith in a tyrant's palace",
-          "Rushing to defend messengers and advise my people",
-          "Interpreting the dreams of a ruler",
-          "Building a great wall to contain a corrupting force",
-          "Debating a king about the power of my Lord"
+          "Building a great ark",
+          "Abstaining from the forbidden tree",
+          "Facing a tyrant's fire",
+          "Splitting the sea with a staff",
+          "A test of immense patience through illness"
         ],
-        "answer": "Rushing to defend messengers and advise my people"
+        "answer": "Abstaining from the forbidden tree"
       },
       "location": {
-        "label": "Key Context",
+        "label": "What Was the Source of My Downfall?",
         "options": [
-          "A city visited by three messengers",
-          "The court of the Pharaoh of Egypt",
-          "A cave where we slept for centuries",
-          "The valley of Tuwa by a sacred fire",
-          "The city of Makkah during an elephant attack"
+          "A golden calf",
+          "A magical throne",
+          "A whisper from Shaytan",
+          "A she-camel from a rock",
+          "A dispute over a garden's harvest"
         ],
-        "answer": "A city visited by three messengers"
+        "answer": "A whisper from Shaytan"
       },
       "outcome": {
-        "label": "What Was My Immediate Reward?",
+        "label": "What Was the Consequence?",
         "options": [
-          "Being given wisdom and knowledge",
-          "Being raised to a high station",
-          "Being saved from a fire that became cool",
-          "Being told 'Enter Paradise'",
-          "Being reunited with my long-lost family"
+          "Being swallowed by a great fish",
+          "Receiving command over the wind and jinn",
+          "Drowning in a worldwide flood",
+          "Descent to Earth to begin humanity's story",
+          "Being raised to a high place in the heavens"
         ],
-        "answer": "Being told 'Enter Paradise'"
+        "answer": "Descent to Earth to begin humanity's story"
       }
     },
-    "verseRef": "36:26",
-    "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
-    "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+    "verseRef": "15:30",
+    "arabic": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+    "verse": "So the angels prostrated - all of them entirely, (15:30)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

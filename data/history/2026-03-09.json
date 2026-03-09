@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-09",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مِنْ قِصَّةِ أَصْحَابِ الْكَهْفِ",
@@ -144,6 +143,190 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "عرش",
+    "display": "عَرْش",
+    "hint": "A seat of power for a king or queen.",
+    "verseRef": "27:41",
+    "arabicVerse": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+    "verse": "27:41 — He said, \"Disguise for her her throne; we will see whether she will be guided [to truth] or will be of those who is not guided.\""
+  },
+  "deduction": {
+    "title": "The First Covenant",
+    "intro": "A story of honor, a test of obedience, and a moment of forgetfulness that changed the course of existence. This figure was given a lofty station and placed in a realm of peace, but a single prohibition stood between them and eternal bliss. A whisper of temptation led to a choice with consequences that would echo through every generation to come. Who is this soul?",
+    "clues": [
+      "I was taught the names of all things, a knowledge that set me apart.",
+      "A great assembly was commanded to prostrate before me as a sign of respect, but one refused out of arrogance.",
+      "My spouse and I were given a beautiful garden to dwell in, with the freedom to enjoy its bounties.",
+      "We were warned against a single tree, but a cunning whisper convinced us that it held the key to immortality.",
+      "After we transgressed, our state of grace was removed, and we felt the shame of our nakedness.",
+      "I received words of repentance directly from my Lord, who in His mercy forgave me and established me as the first of my kind on Earth."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Adam",
+          "Iblis",
+          "Prophet Idris",
+          "The Angel Jibril",
+          "Prophet 'Isa"
+        ],
+        "answer": "Prophet Adam"
+      },
+      "trial": {
+        "label": "What Was My Primary Test?",
+        "options": [
+          "Building a great ark",
+          "Abstaining from the forbidden tree",
+          "Facing a tyrant's fire",
+          "Splitting the sea with a staff",
+          "A test of immense patience through illness"
+        ],
+        "answer": "Abstaining from the forbidden tree"
+      },
+      "location": {
+        "label": "What Was the Source of My Downfall?",
+        "options": [
+          "A golden calf",
+          "A magical throne",
+          "A whisper from Shaytan",
+          "A she-camel from a rock",
+          "A dispute over a garden's harvest"
+        ],
+        "answer": "A whisper from Shaytan"
+      },
+      "outcome": {
+        "label": "What Was the Consequence?",
+        "options": [
+          "Being swallowed by a great fish",
+          "Receiving command over the wind and jinn",
+          "Drowning in a worldwide flood",
+          "Descent to Earth to begin humanity's story",
+          "Being raised to a high place in the heavens"
+        ],
+        "answer": "Descent to Earth to begin humanity's story"
+      }
+    },
+    "verseRef": "15:30",
+    "arabic": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+    "verse": "So the angels prostrated - all of them entirely, (15:30)"
+  },
+  "scramble": {
+    "verseRef": "15:49",
+    "reference": "Surah Al-Hijr (15:49)",
+    "segments": [
+      "نَبِّئْ عِبَادِي",
+      "أَنِّي أَنَا",
+      "الْغَفُورُ",
+      "الرَّحِيمُ"
+    ],
+    "translations": [
+      "Inform My slaves",
+      "that I I am",
+      "the Oft-Forgiving",
+      "the Most Merciful"
+    ],
+    "hint": "A divine command to convey a message about two of Allah's most hopeful attributes.",
+    "arabic": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "words": [
+      "۞ نَبِّئْ عِبَادِىٓ",
+      "أَنِّىٓ أَنَا",
+      "ٱلْغَفُورُ",
+      "ٱلرَّحِيمُ"
+    ],
+    "verseEn": "[O Muḥammad], inform My servants that it is I who am the Forgiving, the Merciful,"
+  },
+  "juz": {
+    "date": "2026-03-09",
+    "juz_number": 21,
+    "juz_name": "Utlu Ma Uhiya",
+    "juz_name_ar": "اتْلُ مَا أُوحِيَ",
+    "verse": {
+      "surah_number": 31,
+      "surah_name": "Luqman",
+      "surah_name_ar": "سورة لقمان",
+      "ayah_number": 18,
+      "arabic_text": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
+      "translation": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3487.mp3"
+    },
+    "theme_question": {
+      "correct": "The importance of humility and avoiding arrogance",
+      "options": [
+        "The importance of humility and avoiding arrogance",
+        "The obligation to give charity to the poor",
+        "The prohibition of speaking ill of others",
+        "The command to honor one's parents"
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 31,
+      "options": [
+        {
+          "num": 30,
+          "name": "Ar-Rum",
+          "name_ar": "سورة الروم",
+          "name_en": "The Romans"
+        },
+        {
+          "num": 31,
+          "name": "Luqman",
+          "name_ar": "سورة لقمان",
+          "name_en": "Luqman"
+        },
+        {
+          "num": 28,
+          "name": "Al-Qasas",
+          "name_ar": "سورة القصص",
+          "name_en": "The Stories"
+        },
+        {
+          "num": 32,
+          "name": "As-Sajdah",
+          "name_ar": "سورة السجدة",
+          "name_en": "The Prostration"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 29,
+          "name": "Al-'Ankabut",
+          "name_ar": "سورة العنكبوت",
+          "name_en": "The Spider"
+        },
+        {
+          "num": 30,
+          "name": "Ar-Rum",
+          "name_ar": "سورة الروم",
+          "name_en": "The Romans"
+        },
+        {
+          "num": 31,
+          "name": "Luqman",
+          "name_ar": "سورة لقمان",
+          "name_en": "Luqman"
+        },
+        {
+          "num": 32,
+          "name": "As-Sajdah",
+          "name_ar": "سورة السجدة",
+          "name_en": "The Prostration"
+        },
+        {
+          "num": 33,
+          "name": "Al-Ahzab",
+          "name_ar": "سورة الأحزاب",
+          "name_en": "The Combined Forces"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse is part of a series of profound counsels that Luqman the Wise gives to his son. These timeless pieces of advice, recorded in the Quran, cover core tenets of faith (Tawhid), character (akhlaq), and social conduct. This specific advice directly addresses the inner spiritual disease of arrogance and its outward manifestation in one's posture and behavior towards others.",
+      "theme_explanation": "The theme is the condemnation of arrogance (`kibr`) and the command to practice humility. 'Turning your cheek' (`tuṣaʿʿir khaddaka`) is an idiom for showing contempt and disdain. Walking 'exultantly' (`maraḥan`) describes a boastful, proud gait. Allah reminds us that He dislikes those who are 'self-deluded and boastful' (`mukhtāl fakhūr`), connecting internal pride with external swagger. This verse teaches that true dignity lies not in looking down on others, but in humility before Allah and His creation.",
+      "surah_overview": "Surah Luqman is a Meccan surah named after the wise man Luqman, whose story and advice to his son form a central part of the surah. It emphasizes the wisdom behind Allah's creation, the oneness of Allah (Tawhid), the importance of honoring parents, and the establishment of good character. The surah contrasts the path of the wise and grateful with that of the ignorant and arrogant, using the counsels of Luqman as a practical guide for believers."
+    }
+  }
 }

@@ -1,84 +1,97 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "puzzle": {
-    "date": "2026-03-08",
-    "juz_number": 20,
-    "juz_name": "A'man Khalaqa",
-    "juz_name_ar": "أَمَّنْ خَلَقَ",
+    "date": "2026-03-09",
+    "juz_number": 21,
+    "juz_name": "Utlu Ma Uhiya",
+    "juz_name_ar": "اتْلُ مَا أُوحِيَ",
     "verse": {
-      "surah_number": 28,
-      "surah_name": "Al-Qasas",
-      "surah_name_ar": "سُورَةُ الْقَصَصِ",
-      "ayah_number": 83,
-      "arabic_text": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
-      "translation": "That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption. And the [best] outcome is for the righteous.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3335.mp3"
+      "surah_number": 31,
+      "surah_name": "Luqman",
+      "surah_name_ar": "سورة لقمان",
+      "ayah_number": 18,
+      "arabic_text": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
+      "translation": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3487.mp3"
     },
     "theme_question": {
-      "correct": "Humility and righteousness are the keys to the Hereafter.",
+      "correct": "The importance of humility and avoiding arrogance",
       "options": [
-        "Humility and righteousness are the keys to the Hereafter.",
-        "Worldly success is a sign of God's favor.",
-        "Seeking power is necessary to establish justice.",
-        "Only prophets and messengers are guaranteed Paradise."
+        "The importance of humility and avoiding arrogance",
+        "The obligation to give charity to the poor",
+        "The prohibition of speaking ill of others",
+        "The command to honor one's parents"
       ]
     },
     "surah_question": {
-      "correct_surah": 28,
+      "correct_surah": 31,
       "options": [
         {
-          "num": 27,
-          "name": "An-Naml",
-          "name_ar": "ٱلنَّمْل",
-          "name_en": "The Ant"
-        },
-        {
-          "num": 28,
-          "name": "Al-Qasas",
-          "name_ar": "ٱلْقَصَص",
-          "name_en": "The Stories"
-        },
-        {
-          "num": 29,
-          "name": "Al-Ankabut",
-          "name_ar": "ٱلْعَنْكَبُوت",
-          "name_en": "The Spider"
+          "num": 30,
+          "name": "Ar-Rum",
+          "name_ar": "سورة الروم",
+          "name_en": "The Romans"
         },
         {
           "num": 31,
           "name": "Luqman",
-          "name_ar": "لُقْمَان",
+          "name_ar": "سورة لقمان",
           "name_en": "Luqman"
+        },
+        {
+          "num": 28,
+          "name": "Al-Qasas",
+          "name_ar": "سورة القصص",
+          "name_en": "The Stories"
+        },
+        {
+          "num": 32,
+          "name": "As-Sajdah",
+          "name_ar": "سورة السجدة",
+          "name_en": "The Prostration"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 27,
-          "name": "An-Naml",
-          "name_ar": "ٱلنَّمْل",
-          "name_en": "The Ant"
-        },
-        {
-          "num": 28,
-          "name": "Al-Qasas",
-          "name_ar": "ٱلْقَصَص",
-          "name_en": "The Stories"
-        },
-        {
           "num": 29,
-          "name": "Al-Ankabut",
-          "name_ar": "ٱلْعَنْكَبُوت",
+          "name": "Al-'Ankabut",
+          "name_ar": "سورة العنكبوت",
           "name_en": "The Spider"
+        },
+        {
+          "num": 30,
+          "name": "Ar-Rum",
+          "name_ar": "سورة الروم",
+          "name_en": "The Romans"
+        },
+        {
+          "num": 31,
+          "name": "Luqman",
+          "name_ar": "سورة لقمان",
+          "name_en": "Luqman"
+        },
+        {
+          "num": 32,
+          "name": "As-Sajdah",
+          "name_ar": "سورة السجدة",
+          "name_en": "The Prostration"
+        },
+        {
+          "num": 33,
+          "name": "Al-Ahzab",
+          "name_ar": "سورة الأحزاب",
+          "name_en": "The Combined Forces"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse concludes a major theme in Surah Al-Qasas. It follows the detailed stories of Prophet Musa (Moses) confronting the arrogant Pharaoh, and the cautionary tale of Qarun (Korah), a man from Musa's people who became arrogant due to his immense wealth. Qarun's pride led to his destruction. This verse serves as the universal principle derived from these stories: the ultimate reward of the Hereafter is not for those who seek power, status, or dominance on earth, but for the humble and righteous.",
-      "theme_explanation": "The verse identifies two key negative traits that disqualify a person from the ultimate success of the Hereafter: the desire for 'uluww' (exaltedness, arrogance, superiority over others) and 'fasad' (corruption, mischief, wrongdoing). It teaches that true worth in the sight of Allah is tied to humility and piety. The final phrase, 'And the [best] outcome is for the righteous (al-muttaqin),' is a recurring Quranic promise, affirming that steadfast God-consciousness is the path to eternal success.",
-      "surah_overview": "Surah Al-Qasas, meaning 'The Stories,' is a Meccan surah that primarily narrates the detailed life story of Prophet Musa (Moses). It covers his miraculous birth, his upbringing in Pharaoh's palace, his escape to Madyan, his call to prophethood, and his struggle against the tyranny of Pharaoh. The surah highlights Allah's supreme power and meticulous planning in protecting His messengers and fulfilling His divine will. It serves to comfort Prophet Muhammad ﷺ and the early Muslims, assuring them that just as Musa was victorious over a powerful tyrant, they too would be victorious with Allah's help."
+      "verse_context": "This verse is part of a series of profound counsels that Luqman the Wise gives to his son. These timeless pieces of advice, recorded in the Quran, cover core tenets of faith (Tawhid), character (akhlaq), and social conduct. This specific advice directly addresses the inner spiritual disease of arrogance and its outward manifestation in one's posture and behavior towards others.",
+      "theme_explanation": "The theme is the condemnation of arrogance (`kibr`) and the command to practice humility. 'Turning your cheek' (`tuṣaʿʿir khaddaka`) is an idiom for showing contempt and disdain. Walking 'exultantly' (`maraḥan`) describes a boastful, proud gait. Allah reminds us that He dislikes those who are 'self-deluded and boastful' (`mukhtāl fakhūr`), connecting internal pride with external swagger. This verse teaches that true dignity lies not in looking down on others, but in humility before Allah and His creation.",
+      "surah_overview": "Surah Luqman is a Meccan surah named after the wise man Luqman, whose story and advice to his son form a central part of the surah. It emphasizes the wisdom behind Allah's creation, the oneness of Allah (Tawhid), the importance of honoring parents, and the establishment of good character. The surah contrasts the path of the wise and grateful with that of the ignorant and arrogant, using the counsels of Luqman as a practical guide for believers."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

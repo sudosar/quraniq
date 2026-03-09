@@ -1,32 +1,30 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "puzzle": {
-    "verseRef": "23:29",
-    "reference": "Al-Mu'minun (23:29)",
+    "verseRef": "15:49",
+    "reference": "Surah Al-Hijr (15:49)",
     "segments": [
-      "وَقُل رَّبِّ",
-      "أَنزِلْنِي مُنزَلًا",
-      "مُّبَارَكًا",
-      "وَأَنتَ خَيْرُ",
-      "الْمُنزِلِينَ"
+      "نَبِّئْ عِبَادِي",
+      "أَنِّي أَنَا",
+      "الْغَفُورُ",
+      "الرَّحِيمُ"
     ],
     "translations": [
-      "And say My Lord",
-      "cause me to land (at) a landing place",
-      "blessed and You",
-      "(are) the Best",
-      "(of) those who cause to land.'"
+      "Inform My slaves",
+      "that I I am",
+      "the Oft-Forgiving",
+      "the Most Merciful"
     ],
-    "hint": "A supplication taught to Prophet Nuh (Noah) for seeking a blessed place to settle after the great flood.",
-    "arabic": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًۭا مُّبَارَكًۭا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+    "hint": "A divine command to convey a message about two of Allah's most hopeful attributes.",
+    "arabic": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
     "words": [
-      "وَقُل رَّبِّ",
-      "أَنزِلْنِى مُنزَلًۭا",
-      "مُّبَارَكًۭا وَأَنتَ",
-      "خَيْرُ",
-      "ٱلْمُنزِلِينَ"
+      "۞ نَبِّئْ عِبَادِىٓ",
+      "أَنِّىٓ أَنَا",
+      "ٱلْغَفُورُ",
+      "ٱلرَّحِيمُ"
     ],
-    "verseEn": "And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].'\""
+    "verseEn": "[O Muḥammad], inform My servants that it is I who am the Forgiving, the Merciful,"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

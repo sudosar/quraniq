@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "puzzle": {
-    "word": "نذير",
-    "display": "نَذِير",
-    "hint": "A messenger's role is not just to bring good news, but also this.",
-    "verseRef": "35:23",
-    "arabicVerse": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
-    "verse": "35:23 — You, [O Muḥammad], are not but a warner."
+    "word": "عرش",
+    "display": "عَرْش",
+    "hint": "A seat of power for a king or queen.",
+    "verseRef": "27:41",
+    "arabicVerse": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+    "verse": "27:41 — He said, \"Disguise for her her throne; we will see whether she will be guided [to truth] or will be of those who is not guided.\""
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
