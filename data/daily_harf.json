@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "puzzle": {
-    "word": "عرش",
-    "display": "عَرْش",
-    "hint": "A seat of power for a king or queen.",
-    "verseRef": "27:41",
-    "arabicVerse": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
-    "verse": "27:41 — He said, \"Disguise for her her throne; we will see whether she will be guided [to truth] or will be of those who is not guided.\""
+    "word": "نجم",
+    "display": "نَجْم",
+    "hint": "A guide in the darkness of the desert and sea.",
+    "verseRef": "53:1",
+    "arabicVerse": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+    "verse": "53:1 — By the star when it descends,"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

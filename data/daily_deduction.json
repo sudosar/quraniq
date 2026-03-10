@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "puzzle": {
-    "title": "The First Covenant",
-    "intro": "A story of honor, a test of obedience, and a moment of forgetfulness that changed the course of existence. This figure was given a lofty station and placed in a realm of peace, but a single prohibition stood between them and eternal bliss. A whisper of temptation led to a choice with consequences that would echo through every generation to come. Who is this soul?",
+    "title": "The Carrier of Spiteful Fuel",
+    "intro": "In the shadow of a close relation to a prophet, this soul chose darkness over light. Driven by malice, their actions were not merely words of scorn but deeds intended to inflict physical harm, earning a unique and terrible mention in a chapter of the Quran. Who is this figure, forever linked to a fire of their own stoking?",
     "clues": [
-      "I was taught the names of all things, a knowledge that set me apart.",
-      "A great assembly was commanded to prostrate before me as a sign of respect, but one refused out of arrogance.",
-      "My spouse and I were given a beautiful garden to dwell in, with the freedom to enjoy its bounties.",
-      "We were warned against a single tree, but a cunning whisper convinced us that it held the key to immortality.",
-      "After we transgressed, our state of grace was removed, and we felt the shame of our nakedness.",
-      "I received words of repentance directly from my Lord, who in His mercy forgave me and established me as the first of my kind on Earth."
+      "I was connected by marriage to one of the most powerful families in my city.",
+      "My spouse was a direct relative of a prophet, yet we were among his most bitter enemies.",
+      "I actively participated in the persecution, not content to let my spouse act alone.",
+      "I would gather thorny wood and scatter it in the path the prophet would walk at night.",
+      "A whole chapter of the Quran was revealed condemning my spouse and me, mentioning us both.",
+      "Allah describes me specifically as the 'carrier of firewood' with a rope of palm-fiber around my neck."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Adam",
-          "Iblis",
-          "Prophet Idris",
-          "The Angel Jibril",
-          "Prophet 'Isa"
+          "The Wife of Fir'awn",
+          "The Wife of Prophet Lut",
+          "The Wife of Abu Lahab",
+          "The Wife of Al-'Aziz",
+          "Hind bint 'Utbah"
         ],
-        "answer": "Prophet Adam"
+        "answer": "The Wife of Abu Lahab"
       },
       "trial": {
-        "label": "What Was My Primary Test?",
+        "label": "What Was My Deed?",
         "options": [
-          "Building a great ark",
-          "Abstaining from the forbidden tree",
-          "Facing a tyrant's fire",
-          "Splitting the sea with a staff",
-          "A test of immense patience through illness"
+          "Betraying guests to a wicked town",
+          "Scattering thorny wood to harm the Prophet (ﷺ)",
+          "Attempting to seduce a righteous servant",
+          "Spreading slander against a noble woman",
+          "Persuading my spouse to build a tall tower"
         ],
-        "answer": "Abstaining from the forbidden tree"
+        "answer": "Scattering thorny wood to harm the Prophet (ﷺ)"
       },
       "location": {
-        "label": "What Was the Source of My Downfall?",
+        "label": "What Was Mentioned With Me?",
         "options": [
-          "A golden calf",
-          "A magical throne",
-          "A whisper from Shaytan",
-          "A she-camel from a rock",
-          "A dispute over a garden's harvest"
+          "A tray of heavenly food",
+          "A staff that turned into a serpent",
+          "Garments of pitch",
+          "A rope of palm-fiber",
+          "A necklace of great value"
         ],
-        "answer": "A whisper from Shaytan"
+        "answer": "A rope of palm-fiber"
       },
       "outcome": {
-        "label": "What Was the Consequence?",
+        "label": "What Was My Fate?",
         "options": [
-          "Being swallowed by a great fish",
-          "Receiving command over the wind and jinn",
-          "Drowning in a worldwide flood",
-          "Descent to Earth to begin humanity's story",
-          "Being raised to a high place in the heavens"
+          "Drowning in the sea with an army",
+          "Being swallowed by the earth",
+          "Repenting and being accepted into Islam",
+          "Being specifically condemned in the Quran to a blazing fire",
+          "Being turned into a pillar of salt"
         ],
-        "answer": "Descent to Earth to begin humanity's story"
+        "answer": "Being specifically condemned in the Quran to a blazing fire"
       }
     },
-    "verseRef": "15:30",
-    "arabic": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
-    "verse": "So the angels prostrated - all of them entirely, (15:30)"
+    "verseRef": "111:4",
+    "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "verse": "And his wife [as well] - the carrier of firewood. (111:4)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

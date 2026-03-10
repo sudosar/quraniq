@@ -1,48 +1,48 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "puzzle": {
-    "date": "2026-03-09",
-    "juz_number": 21,
-    "juz_name": "Utlu Ma Uhiya",
-    "juz_name_ar": "اتْلُ مَا أُوحِيَ",
+    "date": "2026-03-10",
+    "juz_number": 22,
+    "juz_name": "Wa Man Yaqnut",
+    "juz_name_ar": "وَمَن يَقْنُتْ",
     "verse": {
-      "surah_number": 31,
-      "surah_name": "Luqman",
-      "surah_name_ar": "سورة لقمان",
-      "ayah_number": 18,
-      "arabic_text": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
-      "translation": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3487.mp3"
+      "surah_number": 33,
+      "surah_name": "Al-Ahzab",
+      "surah_name_ar": "سورة الأحزاب",
+      "ayah_number": 70,
+      "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+      "translation": "O you who have believed, fear Allah and speak words of appropriate justice.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3603.mp3"
     },
     "theme_question": {
-      "correct": "The importance of humility and avoiding arrogance",
+      "correct": "The importance of combining God-consciousness with truthful and upright speech.",
       "options": [
-        "The importance of humility and avoiding arrogance",
-        "The obligation to give charity to the poor",
-        "The prohibition of speaking ill of others",
-        "The command to honor one's parents"
+        "The importance of combining God-consciousness with truthful and upright speech.",
+        "The obligation of giving charity to the poor.",
+        "The prohibition of consuming interest (riba).",
+        "The detailed rules of inheritance."
       ]
     },
     "surah_question": {
-      "correct_surah": 31,
+      "correct_surah": 33,
       "options": [
         {
-          "num": 30,
-          "name": "Ar-Rum",
-          "name_ar": "سورة الروم",
-          "name_en": "The Romans"
+          "num": 34,
+          "name": "Saba'",
+          "name_ar": "سورة سبأ",
+          "name_en": "Sheba"
         },
         {
-          "num": 31,
-          "name": "Luqman",
-          "name_ar": "سورة لقمان",
-          "name_en": "Luqman"
+          "num": 33,
+          "name": "Al-Ahzab",
+          "name_ar": "سورة الأحزاب",
+          "name_en": "The Combined Forces"
         },
         {
-          "num": 28,
-          "name": "Al-Qasas",
-          "name_ar": "سورة القصص",
-          "name_en": "The Stories"
+          "num": 35,
+          "name": "Fatir",
+          "name_ar": "سورة فاطر",
+          "name_en": "The Originator"
         },
         {
           "num": 32,
@@ -55,42 +55,37 @@
     "surah_order": {
       "surahs": [
         {
-          "num": 29,
-          "name": "Al-'Ankabut",
-          "name_ar": "سورة العنكبوت",
-          "name_en": "The Spider"
-        },
-        {
-          "num": 30,
-          "name": "Ar-Rum",
-          "name_ar": "سورة الروم",
-          "name_en": "The Romans"
-        },
-        {
-          "num": 31,
-          "name": "Luqman",
-          "name_ar": "سورة لقمان",
-          "name_en": "Luqman"
-        },
-        {
-          "num": 32,
-          "name": "As-Sajdah",
-          "name_ar": "سورة السجدة",
-          "name_en": "The Prostration"
-        },
-        {
           "num": 33,
           "name": "Al-Ahzab",
           "name_ar": "سورة الأحزاب",
           "name_en": "The Combined Forces"
+        },
+        {
+          "num": 34,
+          "name": "Saba'",
+          "name_ar": "سورة سبأ",
+          "name_en": "Sheba"
+        },
+        {
+          "num": 35,
+          "name": "Fatir",
+          "name_ar": "سورة فاطر",
+          "name_en": "The Originator"
+        },
+        {
+          "num": 36,
+          "name": "Ya-Sin",
+          "name_ar": "سورة يس",
+          "name_en": "Ya Sin"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse is part of a series of profound counsels that Luqman the Wise gives to his son. These timeless pieces of advice, recorded in the Quran, cover core tenets of faith (Tawhid), character (akhlaq), and social conduct. This specific advice directly addresses the inner spiritual disease of arrogance and its outward manifestation in one's posture and behavior towards others.",
-      "theme_explanation": "The theme is the condemnation of arrogance (`kibr`) and the command to practice humility. 'Turning your cheek' (`tuṣaʿʿir khaddaka`) is an idiom for showing contempt and disdain. Walking 'exultantly' (`maraḥan`) describes a boastful, proud gait. Allah reminds us that He dislikes those who are 'self-deluded and boastful' (`mukhtāl fakhūr`), connecting internal pride with external swagger. This verse teaches that true dignity lies not in looking down on others, but in humility before Allah and His creation.",
-      "surah_overview": "Surah Luqman is a Meccan surah named after the wise man Luqman, whose story and advice to his son form a central part of the surah. It emphasizes the wisdom behind Allah's creation, the oneness of Allah (Tawhid), the importance of honoring parents, and the establishment of good character. The surah contrasts the path of the wise and grateful with that of the ignorant and arrogant, using the counsels of Luqman as a practical guide for believers."
+      "verse_context": "This verse appears in the latter part of Surah Al-Ahzab, which provides social and ethical guidance to the nascent Muslim community in Medina. It serves as a general, powerful principle for all believers, linking inner piety directly to the integrity of one's speech as a cornerstone of a righteous life.",
+      "theme_explanation": "The core theme is the inseparable link between God-consciousness (Taqwa) and righteous speech. 'Qawlan Sadida' refers to speech that is truthful, just, direct, and free from falsehood or frivolity. The verse teaches that rectifying one's speech is a means to rectifying all of one's actions and attaining Allah's forgiveness, highlighting the profound impact our words have on our spiritual state.",
+      "surah_overview": "Surah Al-Ahzab ('The Combined Forces') is named after the Battle of the Trench, where a confederation of tribes besieged Medina. The surah recounts this event, highlighting the believers' trust in God. It also establishes crucial social legislation for the Muslim community, including rulings on adoption, divorce, the special status of the Prophet's wives (Mothers of the Believers), and the observance of hijab, thereby shaping the community's identity and conduct."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

@@ -1,29 +1,30 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "puzzle": {
-    "verseRef": "15:49",
-    "reference": "Surah Al-Hijr (15:49)",
+    "verseRef": "51:56",
+    "reference": "Adh-Dhariyat (51:56)",
     "segments": [
-      "نَبِّئْ عِبَادِي",
-      "أَنِّي أَنَا",
-      "الْغَفُورُ",
-      "الرَّحِيمُ"
+      "وَمَا خَلَقْتُ",
+      "الْجِنَّ",
+      "وَالْإِنسَ",
+      "إِلَّا لِيَعْبُدُونِ"
     ],
     "translations": [
-      "Inform My slaves",
-      "that I I am",
-      "the Oft-Forgiving",
-      "the Most Merciful"
+      "And not I have created",
+      "the jinn and the mankind",
+      "except",
+      "that they worship Me"
     ],
-    "hint": "A divine command to convey a message about two of Allah's most hopeful attributes.",
-    "arabic": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "hint": "This verse states the ultimate purpose for the creation of both jinn and humankind.",
+    "arabic": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
     "words": [
-      "۞ نَبِّئْ عِبَادِىٓ",
-      "أَنِّىٓ أَنَا",
-      "ٱلْغَفُورُ",
-      "ٱلرَّحِيمُ"
+      "وَمَا خَلَقْتُ",
+      "ٱلْجِنَّ وَٱلْإِنسَ",
+      "إِلَّا",
+      "لِيَعْبُدُونِ"
     ],
-    "verseEn": "[O Muḥammad], inform My servants that it is I who am the Forgiving, the Merciful,"
+    "verseEn": "And I did not create the jinn and mankind except to worship Me."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

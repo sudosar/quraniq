@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-10",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالٌ تَصِفُ رُدُودَ الْفِعْلِ الْبَشَرِيَّةِ",
@@ -144,6 +143,184 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "نجم",
+    "display": "نَجْم",
+    "hint": "A guide in the darkness of the desert and sea.",
+    "verseRef": "53:1",
+    "arabicVerse": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+    "verse": "53:1 — By the star when it descends,"
+  },
+  "deduction": {
+    "title": "The Carrier of Spiteful Fuel",
+    "intro": "In the shadow of a close relation to a prophet, this soul chose darkness over light. Driven by malice, their actions were not merely words of scorn but deeds intended to inflict physical harm, earning a unique and terrible mention in a chapter of the Quran. Who is this figure, forever linked to a fire of their own stoking?",
+    "clues": [
+      "I was connected by marriage to one of the most powerful families in my city.",
+      "My spouse was a direct relative of a prophet, yet we were among his most bitter enemies.",
+      "I actively participated in the persecution, not content to let my spouse act alone.",
+      "I would gather thorny wood and scatter it in the path the prophet would walk at night.",
+      "A whole chapter of the Quran was revealed condemning my spouse and me, mentioning us both.",
+      "Allah describes me specifically as the 'carrier of firewood' with a rope of palm-fiber around my neck."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Wife of Fir'awn",
+          "The Wife of Prophet Lut",
+          "The Wife of Abu Lahab",
+          "The Wife of Al-'Aziz",
+          "Hind bint 'Utbah"
+        ],
+        "answer": "The Wife of Abu Lahab"
+      },
+      "trial": {
+        "label": "What Was My Deed?",
+        "options": [
+          "Betraying guests to a wicked town",
+          "Scattering thorny wood to harm the Prophet (ﷺ)",
+          "Attempting to seduce a righteous servant",
+          "Spreading slander against a noble woman",
+          "Persuading my spouse to build a tall tower"
+        ],
+        "answer": "Scattering thorny wood to harm the Prophet (ﷺ)"
+      },
+      "location": {
+        "label": "What Was Mentioned With Me?",
+        "options": [
+          "A tray of heavenly food",
+          "A staff that turned into a serpent",
+          "Garments of pitch",
+          "A rope of palm-fiber",
+          "A necklace of great value"
+        ],
+        "answer": "A rope of palm-fiber"
+      },
+      "outcome": {
+        "label": "What Was My Fate?",
+        "options": [
+          "Drowning in the sea with an army",
+          "Being swallowed by the earth",
+          "Repenting and being accepted into Islam",
+          "Being specifically condemned in the Quran to a blazing fire",
+          "Being turned into a pillar of salt"
+        ],
+        "answer": "Being specifically condemned in the Quran to a blazing fire"
+      }
+    },
+    "verseRef": "111:4",
+    "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "verse": "And his wife [as well] - the carrier of firewood. (111:4)"
+  },
+  "scramble": {
+    "verseRef": "51:56",
+    "reference": "Adh-Dhariyat (51:56)",
+    "segments": [
+      "وَمَا خَلَقْتُ",
+      "الْجِنَّ",
+      "وَالْإِنسَ",
+      "إِلَّا لِيَعْبُدُونِ"
+    ],
+    "translations": [
+      "And not I have created",
+      "the jinn and the mankind",
+      "except",
+      "that they worship Me"
+    ],
+    "hint": "This verse states the ultimate purpose for the creation of both jinn and humankind.",
+    "arabic": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+    "words": [
+      "وَمَا خَلَقْتُ",
+      "ٱلْجِنَّ وَٱلْإِنسَ",
+      "إِلَّا",
+      "لِيَعْبُدُونِ"
+    ],
+    "verseEn": "And I did not create the jinn and mankind except to worship Me."
+  },
+  "juz": {
+    "date": "2026-03-10",
+    "juz_number": 22,
+    "juz_name": "Wa Man Yaqnut",
+    "juz_name_ar": "وَمَن يَقْنُتْ",
+    "verse": {
+      "surah_number": 33,
+      "surah_name": "Al-Ahzab",
+      "surah_name_ar": "سورة الأحزاب",
+      "ayah_number": 70,
+      "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+      "translation": "O you who have believed, fear Allah and speak words of appropriate justice.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3603.mp3"
+    },
+    "theme_question": {
+      "correct": "The importance of combining God-consciousness with truthful and upright speech.",
+      "options": [
+        "The importance of combining God-consciousness with truthful and upright speech.",
+        "The obligation of giving charity to the poor.",
+        "The prohibition of consuming interest (riba).",
+        "The detailed rules of inheritance."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 33,
+      "options": [
+        {
+          "num": 34,
+          "name": "Saba'",
+          "name_ar": "سورة سبأ",
+          "name_en": "Sheba"
+        },
+        {
+          "num": 33,
+          "name": "Al-Ahzab",
+          "name_ar": "سورة الأحزاب",
+          "name_en": "The Combined Forces"
+        },
+        {
+          "num": 35,
+          "name": "Fatir",
+          "name_ar": "سورة فاطر",
+          "name_en": "The Originator"
+        },
+        {
+          "num": 32,
+          "name": "As-Sajdah",
+          "name_ar": "سورة السجدة",
+          "name_en": "The Prostration"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 33,
+          "name": "Al-Ahzab",
+          "name_ar": "سورة الأحزاب",
+          "name_en": "The Combined Forces"
+        },
+        {
+          "num": 34,
+          "name": "Saba'",
+          "name_ar": "سورة سبأ",
+          "name_en": "Sheba"
+        },
+        {
+          "num": 35,
+          "name": "Fatir",
+          "name_ar": "سورة فاطر",
+          "name_en": "The Originator"
+        },
+        {
+          "num": 36,
+          "name": "Ya-Sin",
+          "name_ar": "سورة يس",
+          "name_en": "Ya Sin"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse appears in the latter part of Surah Al-Ahzab, which provides social and ethical guidance to the nascent Muslim community in Medina. It serves as a general, powerful principle for all believers, linking inner piety directly to the integrity of one's speech as a cornerstone of a righteous life.",
+      "theme_explanation": "The core theme is the inseparable link between God-consciousness (Taqwa) and righteous speech. 'Qawlan Sadida' refers to speech that is truthful, just, direct, and free from falsehood or frivolity. The verse teaches that rectifying one's speech is a means to rectifying all of one's actions and attaining Allah's forgiveness, highlighting the profound impact our words have on our spiritual state.",
+      "surah_overview": "Surah Al-Ahzab ('The Combined Forces') is named after the Battle of the Trench, where a confederation of tribes besieged Medina. The surah recounts this event, highlighting the believers' trust in God. It also establishes crucial social legislation for the Muslim community, including rulings on adoption, divorce, the special status of the Prophet's wives (Mothers of the Believers), and the observance of hijab, thereby shaping the community's identity and conduct."
+    }
+  }
 }
