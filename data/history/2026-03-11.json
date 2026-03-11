@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-11",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَعْدَادٌ كَمِّيَّةٌ مِنْ أَرْبَعَةٍ إِلَى سَبْعَةٍ",
@@ -144,6 +143,187 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "جنة",
+    "display": "جَنَّة",
+    "hint": "The ultimate reward, a garden of eternal bliss.",
+    "verseRef": "11:108",
+    "arabicVerse": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍۢ",
+    "verse": "11:108 — And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted."
+  },
+  "deduction": {
+    "title": "The Tale of the Sealed Well",
+    "intro": "A community received guidance but chose arrogance. Their story, etched in the annals of time, serves as a stark reminder of the consequences of rejecting truth. They silenced the voice of their warner, and in doing so, sealed their own fate. Can you uncover the identity of this lost community and the event that led to their ruin?",
+    "clues": [
+      "We were a community among many who received a messenger to guide us.",
+      "Like the people of 'Ad and Thamud, we are mentioned in the Quran as a people who denied the truth.",
+      "Our story is a cautionary tale, a lesson for generations to come about the fate of those who disbelieve.",
+      "We lived by a source of water, a feature so central to our identity that it became part of our name.",
+      "We rejected our prophet, and for our disbelief, we faced a terrible punishment from Allah.",
+      "Our name, 'Ashab ar-Rass', literally translates to the 'Companions of the Well', forever linking our identity to our transgression."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who are we?",
+        "options": [
+          "The People of Tubba'",
+          "The People of the Wood",
+          "The People of Rass",
+          "The People of Saba'",
+          "The People of Madyan"
+        ],
+        "answer": "The People of Rass"
+      },
+      "trial": {
+        "label": "What was our primary sin?",
+        "options": [
+          "Building a lofty tower to challenge God",
+          "Cheating in weights and measures",
+          "Arrogantly boasting about a magnificent garden",
+          "Rejecting and denying their Prophet",
+          "Breaking the Sabbath by fishing"
+        ],
+        "answer": "Rejecting and denying their Prophet"
+      },
+      "location": {
+        "label": "What is 'ar-Rass'?",
+        "options": [
+          "A cursed tree in Hell",
+          "A sacred valley",
+          "A mighty dam",
+          "A baked clay tablet",
+          "An old well or water-pit"
+        ],
+        "answer": "An old well or water-pit"
+      },
+      "outcome": {
+        "label": "What was our fate?",
+        "options": [
+          "Guided to the straight path and forgiven",
+          "Transformed into apes",
+          "Scattered by a great flood",
+          "Complete destruction by Allah",
+          "Saved by a believing insider from among them"
+        ],
+        "answer": "Complete destruction by Allah"
+      }
+    },
+    "verseRef": "25:38",
+    "arabic": "وَعَادًۭا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًۭا",
+    "verse": "And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them. (25:38)"
+  },
+  "scramble": {
+    "verseRef": "64:11",
+    "reference": "Surah At-Taghabun (64:11)",
+    "segments": [
+      "مَآ أَصَابَ مِن مُّصِيبَةٍ",
+      "إِلَّا بِإِذْنِ ٱللَّهِ",
+      "وَمَن يُؤْمِنۢ بِٱللَّهِ",
+      "يَهْدِ قَلْبَهُۥ",
+      "وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ"
+    ],
+    "translations": [
+      "Not strikes any disaster",
+      "except by (the) permission (of) Allah",
+      "And whoever believes in Allah",
+      "He guides his heart And Allah",
+      "of every thing (is) All-Knowing"
+    ],
+    "hint": "This verse speaks about finding guidance and peace through faith when facing life's difficulties.",
+    "arabic": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "words": [
+      "مَآ أَصَابَ مِن مُّصِيبَةٍ",
+      "إِلَّا بِإِذْنِ ٱللَّهِ ۗ",
+      "وَمَن يُؤْمِنۢ بِٱللَّهِ",
+      "يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ",
+      "بِكُلِّ شَىْءٍ عَلِيمٌۭ"
+    ],
+    "verseEn": "No disaster strikes except by permission of Allāh. And whoever believes in Allāh - He will guide his heart. And Allāh is Knowing of all things."
+  },
+  "juz": {
+    "date": "2026-03-11",
+    "juz_number": 23,
+    "juz_name": "Wa Ma Liya",
+    "juz_name_ar": "وَمَا لِيَ",
+    "verse": {
+      "surah_number": 38,
+      "surah_name": "Sad",
+      "surah_name_ar": "صٓ",
+      "ayah_number": 29,
+      "arabic_text": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "translation": "[This is] a blessed Book which We have revealed to you, that they might reflect upon its verses and that those of understanding would be reminded.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3999.mp3"
+    },
+    "theme_question": {
+      "correct": "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
+      "options": [
+        "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
+        "The Quran's main function is to be recited for blessings without understanding.",
+        "The Quran was revealed only as a historical record of past nations.",
+        "The Book was sent down exclusively for the people of Makkah."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 38,
+      "options": [
+        {
+          "num": 36,
+          "name": "Ya-Sin",
+          "name_ar": "يسٓ",
+          "name_en": "Ya Sin"
+        },
+        {
+          "num": 38,
+          "name": "Sad",
+          "name_ar": "صٓ",
+          "name_en": "The Letter Sad"
+        },
+        {
+          "num": 37,
+          "name": "As-Saffat",
+          "name_ar": "ٱلصَّـٰٓفَّاتِ",
+          "name_en": "Those who set the Ranks"
+        },
+        {
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَرِ",
+          "name_en": "The Troops"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 36,
+          "name": "Ya-Sin",
+          "name_ar": "يسٓ",
+          "name_en": "Ya Sin"
+        },
+        {
+          "num": 37,
+          "name": "As-Saffat",
+          "name_ar": "ٱلصَّـٰٓفَّاتِ",
+          "name_en": "Those who set the Ranks"
+        },
+        {
+          "num": 38,
+          "name": "Sad",
+          "name_ar": "صٓ",
+          "name_en": "The Letter Sad"
+        },
+        {
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَرِ",
+          "name_en": "The Troops"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse is a powerful declaration about the very nature and purpose of the Quran. It comes within Surah Sad, which discusses themes of prophethood, patience, and accountability. After recounting stories of past prophets like David and Solomon to console Prophet Muhammad (ﷺ), Allah emphasizes that this revealed Book is not mere storytelling but a blessed source of guidance meant for profound contemplation.",
+      "theme_explanation": "The theme is \"Tadabbur al-Quran\"—reflecting upon the Quran. The verse highlights that the Quran's blessings are unlocked not just through ritual recitation, but through deep, thoughtful engagement with its meanings. It invites \"Ulul-Albab\" (people of understanding) to ponder its signs, derive lessons, and remember Allah. This active reflection is what transforms the reader and brings the guidance of the scripture to life.",
+      "surah_overview": "Surah Sad (ص) is a Makkan surah named after the Arabic letter with which it begins. It addresses the disbelief of the Quraysh, comforting the Prophet Muhammad (ﷺ) by narrating the trials and triumphs of previous prophets, particularly Dawud (David) and Sulayman (Solomon), and the patience of Ayyub (Job). The surah powerfully contrasts the fate of the righteous in Paradise with the despair of the disbelievers in Hell, and concludes by reaffirming the core message of Tawhid (the Oneness of Allah)."
+    }
+  }
 }

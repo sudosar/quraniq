@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "puzzle": {
-    "title": "The Carrier of Spiteful Fuel",
-    "intro": "In the shadow of a close relation to a prophet, this soul chose darkness over light. Driven by malice, their actions were not merely words of scorn but deeds intended to inflict physical harm, earning a unique and terrible mention in a chapter of the Quran. Who is this figure, forever linked to a fire of their own stoking?",
+    "title": "The Tale of the Sealed Well",
+    "intro": "A community received guidance but chose arrogance. Their story, etched in the annals of time, serves as a stark reminder of the consequences of rejecting truth. They silenced the voice of their warner, and in doing so, sealed their own fate. Can you uncover the identity of this lost community and the event that led to their ruin?",
     "clues": [
-      "I was connected by marriage to one of the most powerful families in my city.",
-      "My spouse was a direct relative of a prophet, yet we were among his most bitter enemies.",
-      "I actively participated in the persecution, not content to let my spouse act alone.",
-      "I would gather thorny wood and scatter it in the path the prophet would walk at night.",
-      "A whole chapter of the Quran was revealed condemning my spouse and me, mentioning us both.",
-      "Allah describes me specifically as the 'carrier of firewood' with a rope of palm-fiber around my neck."
+      "We were a community among many who received a messenger to guide us.",
+      "Like the people of 'Ad and Thamud, we are mentioned in the Quran as a people who denied the truth.",
+      "Our story is a cautionary tale, a lesson for generations to come about the fate of those who disbelieve.",
+      "We lived by a source of water, a feature so central to our identity that it became part of our name.",
+      "We rejected our prophet, and for our disbelief, we faced a terrible punishment from Allah.",
+      "Our name, 'Ashab ar-Rass', literally translates to the 'Companions of the Well', forever linking our identity to our transgression."
     ],
     "categories": {
       "identity": {
-        "label": "Who Am I?",
+        "label": "Who are we?",
         "options": [
-          "The Wife of Fir'awn",
-          "The Wife of Prophet Lut",
-          "The Wife of Abu Lahab",
-          "The Wife of Al-'Aziz",
-          "Hind bint 'Utbah"
+          "The People of Tubba'",
+          "The People of the Wood",
+          "The People of Rass",
+          "The People of Saba'",
+          "The People of Madyan"
         ],
-        "answer": "The Wife of Abu Lahab"
+        "answer": "The People of Rass"
       },
       "trial": {
-        "label": "What Was My Deed?",
+        "label": "What was our primary sin?",
         "options": [
-          "Betraying guests to a wicked town",
-          "Scattering thorny wood to harm the Prophet (ﷺ)",
-          "Attempting to seduce a righteous servant",
-          "Spreading slander against a noble woman",
-          "Persuading my spouse to build a tall tower"
+          "Building a lofty tower to challenge God",
+          "Cheating in weights and measures",
+          "Arrogantly boasting about a magnificent garden",
+          "Rejecting and denying their Prophet",
+          "Breaking the Sabbath by fishing"
         ],
-        "answer": "Scattering thorny wood to harm the Prophet (ﷺ)"
+        "answer": "Rejecting and denying their Prophet"
       },
       "location": {
-        "label": "What Was Mentioned With Me?",
+        "label": "What is 'ar-Rass'?",
         "options": [
-          "A tray of heavenly food",
-          "A staff that turned into a serpent",
-          "Garments of pitch",
-          "A rope of palm-fiber",
-          "A necklace of great value"
+          "A cursed tree in Hell",
+          "A sacred valley",
+          "A mighty dam",
+          "A baked clay tablet",
+          "An old well or water-pit"
         ],
-        "answer": "A rope of palm-fiber"
+        "answer": "An old well or water-pit"
       },
       "outcome": {
-        "label": "What Was My Fate?",
+        "label": "What was our fate?",
         "options": [
-          "Drowning in the sea with an army",
-          "Being swallowed by the earth",
-          "Repenting and being accepted into Islam",
-          "Being specifically condemned in the Quran to a blazing fire",
-          "Being turned into a pillar of salt"
+          "Guided to the straight path and forgiven",
+          "Transformed into apes",
+          "Scattered by a great flood",
+          "Complete destruction by Allah",
+          "Saved by a believing insider from among them"
         ],
-        "answer": "Being specifically condemned in the Quran to a blazing fire"
+        "answer": "Complete destruction by Allah"
       }
     },
-    "verseRef": "111:4",
-    "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
-    "verse": "And his wife [as well] - the carrier of firewood. (111:4)"
+    "verseRef": "25:38",
+    "arabic": "وَعَادًۭا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًۭا",
+    "verse": "And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them. (25:38)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

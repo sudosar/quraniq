@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "puzzle": {
-    "word": "نجم",
-    "display": "نَجْم",
-    "hint": "A guide in the darkness of the desert and sea.",
-    "verseRef": "53:1",
-    "arabicVerse": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
-    "verse": "53:1 — By the star when it descends,"
+    "word": "جنة",
+    "display": "جَنَّة",
+    "hint": "The ultimate reward, a garden of eternal bliss.",
+    "verseRef": "11:108",
+    "arabicVerse": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍۢ",
+    "verse": "11:108 — And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

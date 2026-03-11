@@ -1,90 +1,91 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "puzzle": {
-    "date": "2026-03-10",
-    "juz_number": 22,
-    "juz_name": "Wa Man Yaqnut",
-    "juz_name_ar": "وَمَن يَقْنُتْ",
+    "date": "2026-03-11",
+    "juz_number": 23,
+    "juz_name": "Wa Ma Liya",
+    "juz_name_ar": "وَمَا لِيَ",
     "verse": {
-      "surah_number": 33,
-      "surah_name": "Al-Ahzab",
-      "surah_name_ar": "سورة الأحزاب",
-      "ayah_number": 70,
-      "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
-      "translation": "O you who have believed, fear Allah and speak words of appropriate justice.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3603.mp3"
+      "surah_number": 38,
+      "surah_name": "Sad",
+      "surah_name_ar": "صٓ",
+      "ayah_number": 29,
+      "arabic_text": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "translation": "[This is] a blessed Book which We have revealed to you, that they might reflect upon its verses and that those of understanding would be reminded.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3999.mp3"
     },
     "theme_question": {
-      "correct": "The importance of combining God-consciousness with truthful and upright speech.",
+      "correct": "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
       "options": [
-        "The importance of combining God-consciousness with truthful and upright speech.",
-        "The obligation of giving charity to the poor.",
-        "The prohibition of consuming interest (riba).",
-        "The detailed rules of inheritance."
+        "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
+        "The Quran's main function is to be recited for blessings without understanding.",
+        "The Quran was revealed only as a historical record of past nations.",
+        "The Book was sent down exclusively for the people of Makkah."
       ]
     },
     "surah_question": {
-      "correct_surah": 33,
+      "correct_surah": 38,
       "options": [
         {
-          "num": 34,
-          "name": "Saba'",
-          "name_ar": "سورة سبأ",
-          "name_en": "Sheba"
+          "num": 36,
+          "name": "Ya-Sin",
+          "name_ar": "يسٓ",
+          "name_en": "Ya Sin"
         },
         {
-          "num": 33,
-          "name": "Al-Ahzab",
-          "name_ar": "سورة الأحزاب",
-          "name_en": "The Combined Forces"
+          "num": 38,
+          "name": "Sad",
+          "name_ar": "صٓ",
+          "name_en": "The Letter Sad"
         },
         {
-          "num": 35,
-          "name": "Fatir",
-          "name_ar": "سورة فاطر",
-          "name_en": "The Originator"
+          "num": 37,
+          "name": "As-Saffat",
+          "name_ar": "ٱلصَّـٰٓفَّاتِ",
+          "name_en": "Those who set the Ranks"
         },
         {
-          "num": 32,
-          "name": "As-Sajdah",
-          "name_ar": "سورة السجدة",
-          "name_en": "The Prostration"
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَرِ",
+          "name_en": "The Troops"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 33,
-          "name": "Al-Ahzab",
-          "name_ar": "سورة الأحزاب",
-          "name_en": "The Combined Forces"
-        },
-        {
-          "num": 34,
-          "name": "Saba'",
-          "name_ar": "سورة سبأ",
-          "name_en": "Sheba"
-        },
-        {
-          "num": 35,
-          "name": "Fatir",
-          "name_ar": "سورة فاطر",
-          "name_en": "The Originator"
-        },
-        {
           "num": 36,
           "name": "Ya-Sin",
-          "name_ar": "سورة يس",
+          "name_ar": "يسٓ",
           "name_en": "Ya Sin"
+        },
+        {
+          "num": 37,
+          "name": "As-Saffat",
+          "name_ar": "ٱلصَّـٰٓفَّاتِ",
+          "name_en": "Those who set the Ranks"
+        },
+        {
+          "num": 38,
+          "name": "Sad",
+          "name_ar": "صٓ",
+          "name_en": "The Letter Sad"
+        },
+        {
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَرِ",
+          "name_en": "The Troops"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse appears in the latter part of Surah Al-Ahzab, which provides social and ethical guidance to the nascent Muslim community in Medina. It serves as a general, powerful principle for all believers, linking inner piety directly to the integrity of one's speech as a cornerstone of a righteous life.",
-      "theme_explanation": "The core theme is the inseparable link between God-consciousness (Taqwa) and righteous speech. 'Qawlan Sadida' refers to speech that is truthful, just, direct, and free from falsehood or frivolity. The verse teaches that rectifying one's speech is a means to rectifying all of one's actions and attaining Allah's forgiveness, highlighting the profound impact our words have on our spiritual state.",
-      "surah_overview": "Surah Al-Ahzab ('The Combined Forces') is named after the Battle of the Trench, where a confederation of tribes besieged Medina. The surah recounts this event, highlighting the believers' trust in God. It also establishes crucial social legislation for the Muslim community, including rulings on adoption, divorce, the special status of the Prophet's wives (Mothers of the Believers), and the observance of hijab, thereby shaping the community's identity and conduct."
+      "verse_context": "This verse is a powerful declaration about the very nature and purpose of the Quran. It comes within Surah Sad, which discusses themes of prophethood, patience, and accountability. After recounting stories of past prophets like David and Solomon to console Prophet Muhammad (ﷺ), Allah emphasizes that this revealed Book is not mere storytelling but a blessed source of guidance meant for profound contemplation.",
+      "theme_explanation": "The theme is \"Tadabbur al-Quran\"—reflecting upon the Quran. The verse highlights that the Quran's blessings are unlocked not just through ritual recitation, but through deep, thoughtful engagement with its meanings. It invites \"Ulul-Albab\" (people of understanding) to ponder its signs, derive lessons, and remember Allah. This active reflection is what transforms the reader and brings the guidance of the scripture to life.",
+      "surah_overview": "Surah Sad (ص) is a Makkan surah named after the Arabic letter with which it begins. It addresses the disbelief of the Quraysh, comforting the Prophet Muhammad (ﷺ) by narrating the trials and triumphs of previous prophets, particularly Dawud (David) and Sulayman (Solomon), and the patience of Ayyub (Job). The surah powerfully contrasts the fate of the righteous in Paradise with the despair of the disbelievers in Hell, and concludes by reaffirming the core message of Tawhid (the Oneness of Allah)."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
