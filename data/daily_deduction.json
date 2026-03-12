@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "puzzle": {
-    "title": "The Tale of the Sealed Well",
-    "intro": "A community received guidance but chose arrogance. Their story, etched in the annals of time, serves as a stark reminder of the consequences of rejecting truth. They silenced the voice of their warner, and in doing so, sealed their own fate. Can you uncover the identity of this lost community and the event that led to their ruin?",
+    "title": "The Weight of Honesty",
+    "intro": "In a community defined by faith and sacrifice, a moment of decision arrived. For some, the comfort of the present outweighed the call to duty. This story is about a small group whose choice led not to outright rebellion, but to a heavy-hearted absence. Their subsequent path was one of profound isolation and a test of truthfulness, where the entire world seemed to shrink around them, waiting for a verdict from the heavens.",
     "clues": [
-      "We were a community among many who received a messenger to guide us.",
-      "Like the people of 'Ad and Thamud, we are mentioned in the Quran as a people who denied the truth.",
-      "Our story is a cautionary tale, a lesson for generations to come about the fate of those who disbelieve.",
-      "We lived by a source of water, a feature so central to our identity that it became part of our name.",
-      "We rejected our prophet, and for our disbelief, we faced a terrible punishment from Allah.",
-      "Our name, 'Ashab ar-Rass', literally translates to the 'Companions of the Well', forever linking our identity to our transgression."
+      "We were devoted followers of the final Prophet (ﷺ) in the city of Madinah.",
+      "When the call came for a difficult and distant expedition, we stayed behind, not from disbelief, but from procrastination and attachment to our comforts.",
+      "While others made false excuses to the Prophet (ﷺ), we chose the difficult path of telling the complete truth about our failure.",
+      "As a consequence of our actions, a severe command was issued: the entire community was forbidden from speaking to us.",
+      "Our trial reached its peak when we were even commanded to separate from our spouses, leaving us utterly isolated.",
+      "After fifty days of sincere repentance, our forgiveness was announced directly from Allah in verses that are recited to this day in Surah At-Tawbah."
     ],
     "categories": {
       "identity": {
-        "label": "Who are we?",
+        "label": "Who Are We?",
         "options": [
-          "The People of Tubba'",
-          "The People of the Wood",
-          "The People of Rass",
-          "The People of Saba'",
-          "The People of Madyan"
+          "The Hypocrites who made false excuses",
+          "The Companions of the Trench",
+          "The Ansar who pledged at 'Aqabah",
+          "The Three Who Were Left Behind",
+          "The Emigrants from Makkah (Muhajirun)"
         ],
-        "answer": "The People of Rass"
+        "answer": "The Three Who Were Left Behind"
       },
       "trial": {
-        "label": "What was our primary sin?",
+        "label": "Trial/Event",
         "options": [
-          "Building a lofty tower to challenge God",
-          "Cheating in weights and measures",
-          "Arrogantly boasting about a magnificent garden",
-          "Rejecting and denying their Prophet",
-          "Breaking the Sabbath by fishing"
+          "Fleeing during the Battle of Uhud",
+          "Staying behind from the Expedition to Tabuk",
+          "Arguing over the spoils of the Battle of Badr",
+          "Spreading the slander against 'Aisha (ra)",
+          "Refusing to pay Zakat after the Prophet's death"
         ],
-        "answer": "Rejecting and denying their Prophet"
+        "answer": "Staying behind from the Expedition to Tabuk"
       },
       "location": {
-        "label": "What is 'ar-Rass'?",
+        "label": "Key Element",
         "options": [
-          "A cursed tree in Hell",
-          "A sacred valley",
-          "A mighty dam",
-          "A baked clay tablet",
-          "An old well or water-pit"
+          "Imprisonment in a well",
+          "A 50-day social boycott",
+          "Being swallowed by a large fish",
+          "Building a rival mosque (Masjid al-Dirar)",
+          "Transformation into apes"
         ],
-        "answer": "An old well or water-pit"
+        "answer": "A 50-day social boycott"
       },
       "outcome": {
-        "label": "What was our fate?",
+        "label": "Outcome",
         "options": [
-          "Guided to the straight path and forgiven",
-          "Transformed into apes",
-          "Scattered by a great flood",
-          "Complete destruction by Allah",
-          "Saved by a believing insider from among them"
+          "Receiving worldly leadership and a kingdom",
+          "Being exiled from the city of Madinah",
+          "Forgiveness revealed in the Quran",
+          "Being drowned by a flood",
+          "Losing all wealth and family"
         ],
-        "answer": "Complete destruction by Allah"
+        "answer": "Forgiveness revealed in the Quran"
       }
     },
-    "verseRef": "25:38",
-    "arabic": "وَعَادًۭا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًۭا",
-    "verse": "And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them. (25:38)"
+    "verseRef": "9:118",
+    "arabic": "وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "verse": "And [He also forgave] the three who were left alone [i.e., boycotted, regretting their error] to the point that the earth closed in on them in spite of its vastness and their souls confined [i.e., anguished] them and they were certain that there is no refuge from Allāh except in Him. Then He turned to them so they could repent. Indeed, Allāh is the Accepting of Repentance, the Merciful. (9:118)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

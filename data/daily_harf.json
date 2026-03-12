@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "puzzle": {
-    "word": "جنة",
-    "display": "جَنَّة",
-    "hint": "The ultimate reward, a garden of eternal bliss.",
-    "verseRef": "11:108",
-    "arabicVerse": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍۢ",
-    "verse": "11:108 — And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted."
+    "word": "شرح",
+    "display": "شَرَحَ",
+    "hint": "To open or expand, especially one's chest for guidance.",
+    "verseRef": "39:22",
+    "arabicVerse": "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍۢ مِّن رَّبِّهِۦ ۚ فَوَيْلٌۭ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۢ مُّبِينٍ",
+    "verse": "39:22 — So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

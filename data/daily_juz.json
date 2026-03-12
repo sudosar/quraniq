@@ -1,90 +1,85 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "puzzle": {
-    "date": "2026-03-11",
-    "juz_number": 23,
-    "juz_name": "Wa Ma Liya",
-    "juz_name_ar": "وَمَا لِيَ",
+    "date": "2026-03-12",
+    "juz_number": 24,
+    "juz_name": "Faman Azlam",
+    "juz_name_ar": "فَمَنْ أَظْلَمُ",
     "verse": {
-      "surah_number": 38,
-      "surah_name": "Sad",
-      "surah_name_ar": "صٓ",
-      "ayah_number": 29,
-      "arabic_text": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
-      "translation": "[This is] a blessed Book which We have revealed to you, that they might reflect upon its verses and that those of understanding would be reminded.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3999.mp3"
+      "surah_number": 40,
+      "surah_name": "Ghafir",
+      "surah_name_ar": "غَافِر",
+      "ayah_number": 60,
+      "arabic_text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "translation": "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell [rendered] contemptible.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4193.mp3"
     },
     "theme_question": {
-      "correct": "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
+      "correct": "The direct command to make supplication (Dua) with a guarantee of response.",
       "options": [
-        "The primary purpose of the Quran's revelation is for deep reflection and remembrance.",
-        "The Quran's main function is to be recited for blessings without understanding.",
-        "The Quran was revealed only as a historical record of past nations.",
-        "The Book was sent down exclusively for the people of Makkah."
+        "The obligation of performing the five daily prayers.",
+        "The direct command to make supplication (Dua) with a guarantee of response.",
+        "The importance of giving charity to the poor.",
+        "The prohibition of associating partners with Allah."
       ]
     },
     "surah_question": {
-      "correct_surah": 38,
+      "correct_surah": 40,
       "options": [
-        {
-          "num": 36,
-          "name": "Ya-Sin",
-          "name_ar": "يسٓ",
-          "name_en": "Ya Sin"
-        },
-        {
-          "num": 38,
-          "name": "Sad",
-          "name_ar": "صٓ",
-          "name_en": "The Letter Sad"
-        },
-        {
-          "num": 37,
-          "name": "As-Saffat",
-          "name_ar": "ٱلصَّـٰٓفَّاتِ",
-          "name_en": "Those who set the Ranks"
-        },
         {
           "num": 39,
           "name": "Az-Zumar",
-          "name_ar": "ٱلزُّمَرِ",
+          "name_ar": "ٱلزُّمَر",
           "name_en": "The Troops"
+        },
+        {
+          "num": 41,
+          "name": "Fussilat",
+          "name_ar": "فُصِّلَتْ",
+          "name_en": "Explained in Detail"
+        },
+        {
+          "num": 40,
+          "name": "Ghafir",
+          "name_ar": "غَافِر",
+          "name_en": "The Forgiver"
+        },
+        {
+          "num": 42,
+          "name": "Ash-Shura",
+          "name_ar": "ٱلشُّورَىٰ",
+          "name_en": "The Consultation"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 36,
-          "name": "Ya-Sin",
-          "name_ar": "يسٓ",
-          "name_en": "Ya Sin"
-        },
-        {
-          "num": 37,
-          "name": "As-Saffat",
-          "name_ar": "ٱلصَّـٰٓفَّاتِ",
-          "name_en": "Those who set the Ranks"
-        },
-        {
-          "num": 38,
-          "name": "Sad",
-          "name_ar": "صٓ",
-          "name_en": "The Letter Sad"
-        },
-        {
           "num": 39,
           "name": "Az-Zumar",
-          "name_ar": "ٱلزُّمَرِ",
+          "name_ar": "ٱلزُّمَر",
           "name_en": "The Troops"
+        },
+        {
+          "num": 40,
+          "name": "Ghafir",
+          "name_ar": "غَافِر",
+          "name_en": "The Forgiver"
+        },
+        {
+          "num": 41,
+          "name": "Fussilat",
+          "name_ar": "فُصِّلَتْ",
+          "name_en": "Explained in Detail"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse is a powerful declaration about the very nature and purpose of the Quran. It comes within Surah Sad, which discusses themes of prophethood, patience, and accountability. After recounting stories of past prophets like David and Solomon to console Prophet Muhammad (ﷺ), Allah emphasizes that this revealed Book is not mere storytelling but a blessed source of guidance meant for profound contemplation.",
-      "theme_explanation": "The theme is \"Tadabbur al-Quran\"—reflecting upon the Quran. The verse highlights that the Quran's blessings are unlocked not just through ritual recitation, but through deep, thoughtful engagement with its meanings. It invites \"Ulul-Albab\" (people of understanding) to ponder its signs, derive lessons, and remember Allah. This active reflection is what transforms the reader and brings the guidance of the scripture to life.",
-      "surah_overview": "Surah Sad (ص) is a Makkan surah named after the Arabic letter with which it begins. It addresses the disbelief of the Quraysh, comforting the Prophet Muhammad (ﷺ) by narrating the trials and triumphs of previous prophets, particularly Dawud (David) and Sulayman (Solomon), and the patience of Ayyub (Job). The surah powerfully contrasts the fate of the righteous in Paradise with the despair of the disbelievers in Hell, and concludes by reaffirming the core message of Tawhid (the Oneness of Allah)."
+      "verse_context": "This verse comes in Surah Ghafir, also known as Al-Mu'min (The Believer). It is a powerful declaration from Allah Himself, inviting His servants to call upon Him directly. It follows discussions about the signs of Allah's power in creation, highlighting that the Creator is the only One worthy of being called upon.",
+      "theme_explanation": "The verse establishes a direct and personal connection between the Creator and the creation. The act of 'Dua' (supplication) is presented not just as a request but as an act of worship ('ibadah). The promise 'I will respond to you' is a profound source of hope and comfort for believers. Conversely, refusing to make Dua is portrayed as an act of arrogance (yastakbirun), as it implies a self-sufficiency and a denial of one's need for Allah, which carries a severe warning.",
+      "surah_overview": "Surah Ghafir (The Forgiver) is the 40th chapter of the Quran. It is a Meccan surah that begins with the Muqatta'at (disjointed letters) Ha, Mim. Its name comes from the mention of Allah as the 'Forgiver of sin' (Ghafir adh-Dhanb) in verse 3. A significant portion of the surah recounts the story of a believing man from the court of Pharaoh who concealed his faith and defended Prophet Musa (Moses), hence the surah's other name, Al-Mu'min (The Believer). The surah emphasizes the Oneness of Allah, the reality of revelation, and the consequences of arrogance and disbelief, contrasting them with the rewards for faith and humility."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

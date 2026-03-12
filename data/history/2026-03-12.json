@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-12",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالُ الْإِدْرَاكِ وَالْفَهْمِ",
@@ -144,6 +143,178 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "شرح",
+    "display": "شَرَحَ",
+    "hint": "To open or expand, especially one's chest for guidance.",
+    "verseRef": "39:22",
+    "arabicVerse": "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍۢ مِّن رَّبِّهِۦ ۚ فَوَيْلٌۭ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۢ مُّبِينٍ",
+    "verse": "39:22 — So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error."
+  },
+  "deduction": {
+    "title": "The Weight of Honesty",
+    "intro": "In a community defined by faith and sacrifice, a moment of decision arrived. For some, the comfort of the present outweighed the call to duty. This story is about a small group whose choice led not to outright rebellion, but to a heavy-hearted absence. Their subsequent path was one of profound isolation and a test of truthfulness, where the entire world seemed to shrink around them, waiting for a verdict from the heavens.",
+    "clues": [
+      "We were devoted followers of the final Prophet (ﷺ) in the city of Madinah.",
+      "When the call came for a difficult and distant expedition, we stayed behind, not from disbelief, but from procrastination and attachment to our comforts.",
+      "While others made false excuses to the Prophet (ﷺ), we chose the difficult path of telling the complete truth about our failure.",
+      "As a consequence of our actions, a severe command was issued: the entire community was forbidden from speaking to us.",
+      "Our trial reached its peak when we were even commanded to separate from our spouses, leaving us utterly isolated.",
+      "After fifty days of sincere repentance, our forgiveness was announced directly from Allah in verses that are recited to this day in Surah At-Tawbah."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The Hypocrites who made false excuses",
+          "The Companions of the Trench",
+          "The Ansar who pledged at 'Aqabah",
+          "The Three Who Were Left Behind",
+          "The Emigrants from Makkah (Muhajirun)"
+        ],
+        "answer": "The Three Who Were Left Behind"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Fleeing during the Battle of Uhud",
+          "Staying behind from the Expedition to Tabuk",
+          "Arguing over the spoils of the Battle of Badr",
+          "Spreading the slander against 'Aisha (ra)",
+          "Refusing to pay Zakat after the Prophet's death"
+        ],
+        "answer": "Staying behind from the Expedition to Tabuk"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Imprisonment in a well",
+          "A 50-day social boycott",
+          "Being swallowed by a large fish",
+          "Building a rival mosque (Masjid al-Dirar)",
+          "Transformation into apes"
+        ],
+        "answer": "A 50-day social boycott"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Receiving worldly leadership and a kingdom",
+          "Being exiled from the city of Madinah",
+          "Forgiveness revealed in the Quran",
+          "Being drowned by a flood",
+          "Losing all wealth and family"
+        ],
+        "answer": "Forgiveness revealed in the Quran"
+      }
+    },
+    "verseRef": "9:118",
+    "arabic": "وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "verse": "And [He also forgave] the three who were left alone [i.e., boycotted, regretting their error] to the point that the earth closed in on them in spite of its vastness and their souls confined [i.e., anguished] them and they were certain that there is no refuge from Allāh except in Him. Then He turned to them so they could repent. Indeed, Allāh is the Accepting of Repentance, the Merciful. (9:118)"
+  },
+  "scramble": {
+    "verseRef": "93:5",
+    "reference": "Ad-Duhaa (93:5)",
+    "segments": [
+      "وَلَسَوْفَ",
+      "يُعْطِيكَ",
+      "رَبُّكَ",
+      "فَتَرْضَىٰ"
+    ],
+    "translations": [
+      "And soon",
+      "will give you",
+      "your Lord",
+      "then you will be satisfied"
+    ],
+    "hint": "A divine promise of future contentment and reward for the Prophet (ﷺ).",
+    "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+    "words": [
+      "وَلَسَوْفَ",
+      "يُعْطِيكَ",
+      "رَبُّكَ",
+      "فَتَرْضَىٰٓ"
+    ],
+    "verseEn": "And your Lord is going to give you, and you will be satisfied."
+  },
+  "juz": {
+    "date": "2026-03-12",
+    "juz_number": 24,
+    "juz_name": "Faman Azlam",
+    "juz_name_ar": "فَمَنْ أَظْلَمُ",
+    "verse": {
+      "surah_number": 40,
+      "surah_name": "Ghafir",
+      "surah_name_ar": "غَافِر",
+      "ayah_number": 60,
+      "arabic_text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "translation": "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell [rendered] contemptible.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4193.mp3"
+    },
+    "theme_question": {
+      "correct": "The direct command to make supplication (Dua) with a guarantee of response.",
+      "options": [
+        "The obligation of performing the five daily prayers.",
+        "The direct command to make supplication (Dua) with a guarantee of response.",
+        "The importance of giving charity to the poor.",
+        "The prohibition of associating partners with Allah."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 40,
+      "options": [
+        {
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَر",
+          "name_en": "The Troops"
+        },
+        {
+          "num": 41,
+          "name": "Fussilat",
+          "name_ar": "فُصِّلَتْ",
+          "name_en": "Explained in Detail"
+        },
+        {
+          "num": 40,
+          "name": "Ghafir",
+          "name_ar": "غَافِر",
+          "name_en": "The Forgiver"
+        },
+        {
+          "num": 42,
+          "name": "Ash-Shura",
+          "name_ar": "ٱلشُّورَىٰ",
+          "name_en": "The Consultation"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 39,
+          "name": "Az-Zumar",
+          "name_ar": "ٱلزُّمَر",
+          "name_en": "The Troops"
+        },
+        {
+          "num": 40,
+          "name": "Ghafir",
+          "name_ar": "غَافِر",
+          "name_en": "The Forgiver"
+        },
+        {
+          "num": 41,
+          "name": "Fussilat",
+          "name_ar": "فُصِّلَتْ",
+          "name_en": "Explained in Detail"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse comes in Surah Ghafir, also known as Al-Mu'min (The Believer). It is a powerful declaration from Allah Himself, inviting His servants to call upon Him directly. It follows discussions about the signs of Allah's power in creation, highlighting that the Creator is the only One worthy of being called upon.",
+      "theme_explanation": "The verse establishes a direct and personal connection between the Creator and the creation. The act of 'Dua' (supplication) is presented not just as a request but as an act of worship ('ibadah). The promise 'I will respond to you' is a profound source of hope and comfort for believers. Conversely, refusing to make Dua is portrayed as an act of arrogance (yastakbirun), as it implies a self-sufficiency and a denial of one's need for Allah, which carries a severe warning.",
+      "surah_overview": "Surah Ghafir (The Forgiver) is the 40th chapter of the Quran. It is a Meccan surah that begins with the Muqatta'at (disjointed letters) Ha, Mim. Its name comes from the mention of Allah as the 'Forgiver of sin' (Ghafir adh-Dhanb) in verse 3. A significant portion of the surah recounts the story of a believing man from the court of Pharaoh who concealed his faith and defended Prophet Musa (Moses), hence the surah's other name, Al-Mu'min (The Believer). The surah emphasizes the Oneness of Allah, the reality of revelation, and the consequences of arrogance and disbelief, contrasting them with the rewards for faith and humility."
+    }
+  }
 }
