@@ -1,148 +1,149 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "puzzle": {
     "categories": [
       {
-        "name": "أَفْعَالُ الْإِدْرَاكِ وَالْفَهْمِ",
-        "nameEn": "Verbs of perception or understanding",
+        "name": "صِفَاتٌ بَشَرِيَّةٌ سَلْبِيَّةٌ",
+        "nameEn": "Negative human traits mentioned in the Quran",
         "color": "yellow",
         "items": [
           {
-            "ar": "يَنظُرُونَ",
-            "en": "they look",
-            "ref": "7:198",
-            "verse": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ ۖ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
-            "verseEn": "And if you invite them to guidance, they do not hear; and you see them looking at you while they do not see."
+            "ar": "هَلُوعًا",
+            "en": "anxious",
+            "ref": "70:19",
+            "verse": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+            "verseEn": "Indeed, mankind was created anxious:"
           },
           {
-            "ar": "يَعْقِلُونَ",
-            "en": "they understand",
-            "ref": "2:171",
-            "verse": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءًۭ وَنِدَآءًۭ ۚ صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَعْقِلُونَ",
-            "verseEn": "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand."
+            "ar": "جَزُوعًا",
+            "en": "fretful",
+            "ref": "70:20",
+            "verse": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا",
+            "verseEn": "When evil touches him, impatient,"
           },
           {
-            "ar": "يَشْعُرُونَ",
-            "en": "they perceive",
-            "ref": "2:12",
-            "verse": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
-            "verseEn": "Unquestionably, it is they who are the corrupters, but they perceive [it] not."
+            "ar": "يَـُٔوسٌ",
+            "en": "despairing",
+            "ref": "11:9",
+            "verse": "وَلَئِنْ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَـٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ",
+            "verseEn": "And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful."
           },
           {
-            "ar": "يَتَفَكَّرُونَ",
-            "en": "they reflect",
-            "ref": "13:3",
-            "verse": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَـٰرًۭا ۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ ۖ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
-            "verseEn": "And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought."
+            "ar": "قَنُوطٌ",
+            "en": "despondent",
+            "ref": "41:49",
+            "verse": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ",
+            "verseEn": "Man is not weary of supplication for good [things], but if evil touches him, he is hopeless and despairing."
           }
         ]
       },
       {
-        "name": "أَنْوَاعٌ مِنَ النَّبَاتِ مَذْكُورَةٌ فِي الْقُرْآنِ",
-        "nameEn": "Specific types of non-fruit plants and trees mentioned in the Quran",
+        "name": "صِفَاتُ الرِّيَاحِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic adjectives describing types of wind",
         "color": "green",
         "items": [
           {
-            "ar": "أَثْلٍ",
-            "en": "Tamarisk",
-            "ref": "34:16",
-            "verse": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
-            "verseEn": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees."
+            "ar": "صَرْصَرًا",
+            "en": "furiously cold",
+            "ref": "41:16",
+            "verse": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِىٓ أَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
+            "verseEn": "So We sent upon them a screaming wind during days of misfortune to make them taste the punishment of disgrace in the worldly life; but the punishment of the Hereafter is more disgracing, and they will not be helped."
           },
           {
-            "ar": "سِدْرٍ",
-            "en": "Lote-tree",
-            "ref": "56:28",
-            "verse": "فِى سِدْرٍۢ مَّخْضُودٍۢ",
-            "verseEn": "[They will be] among lote trees with thorns removed."
+            "ar": "عَاصِفَةً",
+            "en": "stormy",
+            "ref": "21:81",
+            "verse": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+            "verseEn": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing."
           },
           {
-            "ar": "يَقْطِينٍ",
-            "en": "Gourd",
-            "ref": "37:146",
-            "verse": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ مِّن يَقْطِينٍۢ",
-            "verseEn": "And We caused to grow over him a gourd vine."
+            "ar": "ٱلْعَقِيمَ",
+            "en": "the barren",
+            "ref": "51:41",
+            "verse": "وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ",
+            "verseEn": "And in ʿAad [was a sign], when We sent against them the barren wind."
           },
           {
-            "ar": "بَقْلِهَا",
-            "en": "Its herbs",
-            "ref": "2:61",
-            "verse": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
-            "verseEn": "And [recall] when you said, \"O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions.\" [Moses] said, \"Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked.\" And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing."
+            "ar": "قَاصِفًا",
+            "en": "hurricane-like",
+            "ref": "17:69",
+            "verse": "أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًۭا مِّنَ ٱلرِّيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ ۙ ثُمَّ لَا تَجِدُوا۟ لَكُمْ عَلَيْنَا بِهِۦ تَبِيعًۭا",
+            "verseEn": "Or do you feel secure that He will not send you back into it [i.e., the sea] another time and send upon you a hurricane of wind and drown you for what you denied? Then you would not find for yourselves against Us an avenger."
           }
         ]
       },
       {
-        "name": "مُصْطَلَحَاتٌ قُرْآنِيَّةٌ لِأَجْرَامٍ سَمَاوِيَّةٍ وَتَرْتِيبَاتِهَا",
-        "nameEn": "Specific Quranic terms for celestial bodies or their arrangements",
+        "name": "أَدَوَاتُ ٱلِٱسْتِفْهَامِ ٱلْإِنْكَارِيِّ",
+        "nameEn": "Rhetorical question particles implying a negative answer",
         "color": "blue",
         "items": [
           {
-            "ar": "ٱلْخُنَّسِ",
-            "en": "The receding stars",
-            "ref": "81:15",
-            "verse": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
-            "verseEn": "So I swear by the retreating stars -"
+            "ar": "أَفَلَا",
+            "en": "Do... not then?",
+            "ref": "47:24",
+            "verse": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+            "verseEn": "Then do they not reflect upon the Qur’ān, or are there locks upon [their] hearts?"
           },
           {
-            "ar": "ٱلْكُنَّسِ",
-            "en": "The hiding stars",
-            "ref": "81:16",
-            "verse": "ٱلْجَوَارِ ٱلْكُنَّسِ",
-            "verseEn": "Those that run [their courses] and disappear [i.e., set]"
+            "ar": "أَلَمْ",
+            "en": "Have... not?",
+            "ref": "94:1",
+            "verse": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+            "verseEn": "Did We not expand for you, [O Muḥammad], your breast?"
           },
           {
-            "ar": "بُرُوجًا",
-            "en": "Constellations",
-            "ref": "15:16",
-            "verse": "وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًۭا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ",
-            "verseEn": "And We have placed within the heaven great stars and have beautified it for the observers."
+            "ar": "أَلَيْسَ",
+            "en": "Is... not?",
+            "ref": "39:36",
+            "verse": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ",
+            "verseEn": "Is not Allāh sufficient for His Servant [i.e., Prophet Muḥammad (ﷺ)]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allāh leaves astray - for him there is no guide."
           },
           {
-            "ar": "مَوَاقِعِ",
-            "en": "Positions",
-            "ref": "56:75",
-            "verse": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
-            "verseEn": "Then I swear by the setting of the stars,"
+            "ar": "أَءِلَٰهٌ",
+            "en": "Is there a god?",
+            "ref": "27:60",
+            "verse": "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍۢ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ بَلْ هُمْ قَوْمٌۭ يَعْدِلُونَ",
+            "verseEn": "[More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allāh? [No], but they are a people who ascribe equals [to Him]."
           }
         ]
       },
       {
-        "name": "أَدَوَاتُ ٱلِاسْتِفْهَامِ",
-        "nameEn": "Interrogative particles (question words)",
+        "name": "أَصْوَاتُ الْفَزَعِ فِي الْآخِرَةِ",
+        "nameEn": "Nouns describing sounds of distress on the Day of Judgment and in Hellfire",
         "color": "purple",
         "items": [
           {
-            "ar": "أَيْنَ",
-            "en": "Where?",
-            "ref": "81:26",
-            "verse": "فَأَيْنَ تَذْهَبُونَ",
-            "verseEn": "So where are you going?"
+            "ar": "زَفِيرٌ",
+            "en": "groaning/exhaling",
+            "ref": "11:106",
+            "verse": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌۭ وَشَهِيقٌ",
+            "verseEn": "As for those who were [destined to be] wretched, they will be in the Fire. For them therein is [violent] exhaling and inhaling."
           },
           {
-            "ar": "كَيْفَ",
-            "en": "How?",
-            "ref": "88:17",
-            "verse": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
-            "verseEn": "Then do they not look at the camels - how they are created?"
+            "ar": "شَهِيقًا",
+            "en": "gasping/inhaling",
+            "ref": "67:7",
+            "verse": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ",
+            "verseEn": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up."
           },
           {
-            "ar": "أَنَّىٰ",
-            "en": "From where?",
-            "ref": "3:37",
-            "verse": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
-            "verseEn": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\""
+            "ar": "صَرِيخَ",
+            "en": "a scream for help",
+            "ref": "36:43",
+            "verse": "وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ",
+            "verseEn": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved"
           },
           {
-            "ar": "لِمَ",
-            "en": "Why?",
-            "ref": "61:2",
-            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
-            "verseEn": "O you who have believed, why do you say what you do not do?"
+            "ar": "ٱلتَّنَادِ",
+            "en": "the mutual calling",
+            "ref": "40:32",
+            "verse": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
+            "verseEn": "And O my people, indeed I fear for you the Day of Calling -"
           }
         ]
       }
     ]
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

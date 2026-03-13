@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "puzzle": {
-    "title": "The Weight of Honesty",
-    "intro": "In a community defined by faith and sacrifice, a moment of decision arrived. For some, the comfort of the present outweighed the call to duty. This story is about a small group whose choice led not to outright rebellion, but to a heavy-hearted absence. Their subsequent path was one of profound isolation and a test of truthfulness, where the entire world seemed to shrink around them, waiting for a verdict from the heavens.",
+    "title": "The River's Secret",
+    "intro": "In a time of great tyranny, when the cry of newborns was met with fear, a devoted parent was divinely inspired with a plan that defied all logic. It was an act of profound faith, entrusting a precious life to the currents of a mighty river, directly into the heart of the enemy's domain. Can you identify this soul whose trust in Allah's plan saved a future prophet?",
     "clues": [
-      "We were devoted followers of the final Prophet (ﷺ) in the city of Madinah.",
-      "When the call came for a difficult and distant expedition, we stayed behind, not from disbelief, but from procrastination and attachment to our comforts.",
-      "While others made false excuses to the Prophet (ﷺ), we chose the difficult path of telling the complete truth about our failure.",
-      "As a consequence of our actions, a severe command was issued: the entire community was forbidden from speaking to us.",
-      "Our trial reached its peak when we were even commanded to separate from our spouses, leaving us utterly isolated.",
-      "After fifty days of sincere repentance, our forgiveness was announced directly from Allah in verses that are recited to this day in Surah At-Tawbah."
+      "I lived under the rule of a tyrant who saw a threat in the birth of every baby boy among my people.",
+      "When my child was born, my heart was filled with fear, but Allah inspired me with a way to protect him.",
+      "I was instructed to place my infant son in a basket and cast him into the river, with a promise that he would be returned to me.",
+      "My heart felt empty after I let him go, and I almost revealed my secret out of grief, but Allah strengthened me.",
+      "I sent my daughter to follow the basket from a distance, to see what would become of my son.",
+      "When the household of Fir'awn found my son and he refused all wet nurses, I was brought to him and reunited with him, becoming his nurse without them knowing I was his mother."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who Am I?",
         "options": [
-          "The Hypocrites who made false excuses",
-          "The Companions of the Trench",
-          "The Ansar who pledged at 'Aqabah",
-          "The Three Who Were Left Behind",
-          "The Emigrants from Makkah (Muhajirun)"
+          "The Wife of 'Imran",
+          "The Mother of Prophet Musa",
+          "The Wife of Prophet Zakariyya",
+          "The Wife of Prophet Ibrahim (Sarah)",
+          "Hajar, Mother of Isma'il"
         ],
-        "answer": "The Three Who Were Left Behind"
+        "answer": "The Mother of Prophet Musa"
       },
       "trial": {
-        "label": "Trial/Event",
+        "label": "What Was My Great Test?",
         "options": [
-          "Fleeing during the Battle of Uhud",
-          "Staying behind from the Expedition to Tabuk",
-          "Arguing over the spoils of the Battle of Badr",
-          "Spreading the slander against 'Aisha (ra)",
-          "Refusing to pay Zakat after the Prophet's death"
+          "Placing my infant son in the river",
+          "Making a vow to dedicate my child to God's service",
+          "Being accused of unchastity after a miraculous birth",
+          "Enduring barrenness until old age",
+          "Being left in a barren valley with my child"
         ],
-        "answer": "Staying behind from the Expedition to Tabuk"
+        "answer": "Placing my infant son in the river"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Was The Key Object?",
         "options": [
-          "Imprisonment in a well",
-          "A 50-day social boycott",
-          "Being swallowed by a large fish",
-          "Building a rival mosque (Masjid al-Dirar)",
-          "Transformation into apes"
+          "A wooden ark",
+          "A colorful coat",
+          "A golden calf",
+          "A basket/chest",
+          "A clay bird"
         ],
-        "answer": "A 50-day social boycott"
+        "answer": "A basket/chest"
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "What Was The Outcome?",
         "options": [
-          "Receiving worldly leadership and a kingdom",
-          "Being exiled from the city of Madinah",
-          "Forgiveness revealed in the Quran",
-          "Being drowned by a flood",
-          "Losing all wealth and family"
+          "My son spoke from the cradle to defend my honor",
+          "My son was sold into slavery in a distant land",
+          "My son was returned to me to nurse",
+          "I was given glad tidings of a son by angels in old age",
+          "My son was nearly sacrificed and ransomed with a ram"
         ],
-        "answer": "Forgiveness revealed in the Quran"
+        "answer": "My son was returned to me to nurse"
       }
     },
-    "verseRef": "9:118",
-    "arabic": "وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "verse": "And [He also forgave] the three who were left alone [i.e., boycotted, regretting their error] to the point that the earth closed in on them in spite of its vastness and their souls confined [i.e., anguished] them and they were certain that there is no refuge from Allāh except in Him. Then He turned to them so they could repent. Indeed, Allāh is the Accepting of Repentance, the Merciful. (9:118)"
+    "verseRef": "28:13",
+    "arabic": "فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "verse": "So We restored him to his mother that she might be content and not grieve and that she would know that the promise of Allāh is true. But most of them [i.e., the people] do not know. (28:13)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

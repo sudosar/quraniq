@@ -1,84 +1,97 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "puzzle": {
-    "date": "2026-03-12",
-    "juz_number": 24,
-    "juz_name": "Faman Azlam",
-    "juz_name_ar": "فَمَنْ أَظْلَمُ",
+    "date": "2026-03-13",
+    "juz_number": 25,
+    "juz_name": "Ilayhi Yuraddu",
+    "juz_name_ar": "إِلَيْهِ يُرَدُّ",
     "verse": {
-      "surah_number": 40,
-      "surah_name": "Ghafir",
-      "surah_name_ar": "غَافِر",
-      "ayah_number": 60,
-      "arabic_text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
-      "translation": "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell [rendered] contemptible.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4193.mp3"
+      "surah_number": 45,
+      "surah_name": "Al-Jathiyah",
+      "surah_name_ar": "ٱلْجَاثِيَة",
+      "ayah_number": 15,
+      "arabic_text": "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "translation": "Whoever does a good deed—it is for their own soul; and whoever does evil—it is against it. Then to your Lord you will all be returned.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4488.mp3"
     },
     "theme_question": {
-      "correct": "The direct command to make supplication (Dua) with a guarantee of response.",
+      "correct": "The principle of individual accountability for one's actions.",
       "options": [
-        "The obligation of performing the five daily prayers.",
-        "The direct command to make supplication (Dua) with a guarantee of response.",
-        "The importance of giving charity to the poor.",
-        "The prohibition of associating partners with Allah."
+        "The principle of individual accountability for one's actions.",
+        "The necessity of collective responsibility for societal sins.",
+        "The power of intercession to erase all misdeeds.",
+        "The specific rewards for fasting during Ramadan."
       ]
     },
     "surah_question": {
-      "correct_surah": 40,
+      "correct_surah": 45,
       "options": [
-        {
-          "num": 39,
-          "name": "Az-Zumar",
-          "name_ar": "ٱلزُّمَر",
-          "name_en": "The Troops"
-        },
-        {
-          "num": 41,
-          "name": "Fussilat",
-          "name_ar": "فُصِّلَتْ",
-          "name_en": "Explained in Detail"
-        },
-        {
-          "num": 40,
-          "name": "Ghafir",
-          "name_ar": "غَافِر",
-          "name_en": "The Forgiver"
-        },
         {
           "num": 42,
           "name": "Ash-Shura",
           "name_ar": "ٱلشُّورَىٰ",
           "name_en": "The Consultation"
+        },
+        {
+          "num": 44,
+          "name": "Ad-Dukhan",
+          "name_ar": "ٱلدُّخَان",
+          "name_en": "The Smoke"
+        },
+        {
+          "num": 45,
+          "name": "Al-Jathiyah",
+          "name_ar": "ٱلْجَاثِيَة",
+          "name_en": "The Kneeling"
+        },
+        {
+          "num": 46,
+          "name": "Al-Ahqaf",
+          "name_ar": "ٱلْأَحْقَاف",
+          "name_en": "The Curved Sand-Hills"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 39,
-          "name": "Az-Zumar",
-          "name_ar": "ٱلزُّمَر",
-          "name_en": "The Troops"
-        },
-        {
-          "num": 40,
-          "name": "Ghafir",
-          "name_ar": "غَافِر",
-          "name_en": "The Forgiver"
-        },
-        {
           "num": 41,
           "name": "Fussilat",
           "name_ar": "فُصِّلَتْ",
           "name_en": "Explained in Detail"
+        },
+        {
+          "num": 42,
+          "name": "Ash-Shura",
+          "name_ar": "ٱلشُّورَىٰ",
+          "name_en": "The Consultation"
+        },
+        {
+          "num": 43,
+          "name": "Az-Zukhruf",
+          "name_ar": "ٱلزُّخْرُف",
+          "name_en": "The Ornaments of Gold"
+        },
+        {
+          "num": 44,
+          "name": "Ad-Dukhan",
+          "name_ar": "ٱلدُّخَان",
+          "name_en": "The Smoke"
+        },
+        {
+          "num": 45,
+          "name": "Al-Jathiyah",
+          "name_ar": "ٱلْجَاثِيَة",
+          "name_en": "The Kneeling"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse comes in Surah Ghafir, also known as Al-Mu'min (The Believer). It is a powerful declaration from Allah Himself, inviting His servants to call upon Him directly. It follows discussions about the signs of Allah's power in creation, highlighting that the Creator is the only One worthy of being called upon.",
-      "theme_explanation": "The verse establishes a direct and personal connection between the Creator and the creation. The act of 'Dua' (supplication) is presented not just as a request but as an act of worship ('ibadah). The promise 'I will respond to you' is a profound source of hope and comfort for believers. Conversely, refusing to make Dua is portrayed as an act of arrogance (yastakbirun), as it implies a self-sufficiency and a denial of one's need for Allah, which carries a severe warning.",
-      "surah_overview": "Surah Ghafir (The Forgiver) is the 40th chapter of the Quran. It is a Meccan surah that begins with the Muqatta'at (disjointed letters) Ha, Mim. Its name comes from the mention of Allah as the 'Forgiver of sin' (Ghafir adh-Dhanb) in verse 3. A significant portion of the surah recounts the story of a believing man from the court of Pharaoh who concealed his faith and defended Prophet Musa (Moses), hence the surah's other name, Al-Mu'min (The Believer). The surah emphasizes the Oneness of Allah, the reality of revelation, and the consequences of arrogance and disbelief, contrasting them with the rewards for faith and humility."
+      "verse_context": "This verse appears in Surah Al-Jathiyah after a mention of the blessings and guidance given to the Children of Israel, who then differed among themselves. The verse serves as a universal and timeless principle, clarifying that regardless of one's community or lineage, personal actions are what truly matter. It establishes a direct link between one's deeds and their consequences.",
+      "theme_explanation": "The core theme is one of the pillars of Islamic creed: ultimate individual accountability. It powerfully refutes any notion of inherited sin or vicarious atonement. Each soul is the sole bearer of its own burdens and the sole beneficiary of its own righteousness. The good one does benefits their own soul, and the evil one commits harms it. The verse concludes by reminding us that this system of personal responsibility culminates in our return to Allah for the final, perfect judgment.",
+      "surah_overview": "Surah Al-Jathiyah is a Meccan surah whose name, 'The Kneeling,' is derived from verse 28, which vividly depicts every nation kneeling on the Day of Judgment to receive its record of deeds. The surah robustly defends the Quran's divine origin and the reality of the Resurrection. It directs the reader to contemplate Allah's signs in the universe—the heavens, the earth, the alternation of night and day—as undeniable proof of His power and wisdom. It strongly condemns the arrogance of those who mock these signs and prioritize their own desires over divine guidance."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
