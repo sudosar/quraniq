@@ -1,96 +1,103 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "puzzle": {
-    "date": "2026-03-13",
-    "juz_number": 25,
-    "juz_name": "Ilayhi Yuraddu",
-    "juz_name_ar": "إِلَيْهِ يُرَدُّ",
+    "date": "2026-03-14",
+    "juz_number": 26,
+    "juz_name": "Ha Mim",
+    "juz_name_ar": "حم",
     "verse": {
-      "surah_number": 45,
-      "surah_name": "Al-Jathiyah",
-      "surah_name_ar": "ٱلْجَاثِيَة",
-      "ayah_number": 15,
-      "arabic_text": "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
-      "translation": "Whoever does a good deed—it is for their own soul; and whoever does evil—it is against it. Then to your Lord you will all be returned.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4488.mp3"
+      "surah_number": 49,
+      "surah_name": "Al-Hujurat",
+      "surah_name_ar": "ٱلْحُجُرَات",
+      "ayah_number": 13,
+      "arabic_text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
+      "translation": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4625.mp3"
     },
     "theme_question": {
-      "correct": "The principle of individual accountability for one's actions.",
+      "correct": "The depth of their piety and God-consciousness (Taqwa).",
       "options": [
-        "The principle of individual accountability for one's actions.",
-        "The necessity of collective responsibility for societal sins.",
-        "The power of intercession to erase all misdeeds.",
-        "The specific rewards for fasting during Ramadan."
+        "The extent of their wealth and possessions.",
+        "The prestige of their family lineage and tribe.",
+        "The depth of their piety and God-consciousness (Taqwa).",
+        "The vastness of their worldly knowledge and education."
       ]
     },
     "surah_question": {
-      "correct_surah": 45,
+      "correct_surah": 49,
       "options": [
-        {
-          "num": 42,
-          "name": "Ash-Shura",
-          "name_ar": "ٱلشُّورَىٰ",
-          "name_en": "The Consultation"
-        },
-        {
-          "num": 44,
-          "name": "Ad-Dukhan",
-          "name_ar": "ٱلدُّخَان",
-          "name_en": "The Smoke"
-        },
-        {
-          "num": 45,
-          "name": "Al-Jathiyah",
-          "name_ar": "ٱلْجَاثِيَة",
-          "name_en": "The Kneeling"
-        },
         {
           "num": 46,
           "name": "Al-Ahqaf",
           "name_ar": "ٱلْأَحْقَاف",
-          "name_en": "The Curved Sand-Hills"
+          "name_en": "The Wind-Curved Sandhills"
+        },
+        {
+          "num": 47,
+          "name": "Muhammad",
+          "name_ar": "مُحَمَّد",
+          "name_en": "Muhammad"
+        },
+        {
+          "num": 49,
+          "name": "Al-Hujurat",
+          "name_ar": "ٱلْحُجُرَات",
+          "name_en": "The Rooms"
+        },
+        {
+          "num": 50,
+          "name": "Qaf",
+          "name_ar": "قٓ",
+          "name_en": "Qaf"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 41,
-          "name": "Fussilat",
-          "name_ar": "فُصِّلَتْ",
-          "name_en": "Explained in Detail"
+          "num": 46,
+          "name": "Al-Ahqaf",
+          "name_ar": "ٱلْأَحْقَاف",
+          "name_en": "The Wind-Curved Sandhills"
         },
         {
-          "num": 42,
-          "name": "Ash-Shura",
-          "name_ar": "ٱلشُّورَىٰ",
-          "name_en": "The Consultation"
+          "num": 47,
+          "name": "Muhammad",
+          "name_ar": "مُحَمَّد",
+          "name_en": "Muhammad"
         },
         {
-          "num": 43,
-          "name": "Az-Zukhruf",
-          "name_ar": "ٱلزُّخْرُف",
-          "name_en": "The Ornaments of Gold"
+          "num": 48,
+          "name": "Al-Fath",
+          "name_ar": "ٱلْفَتْح",
+          "name_en": "The Victory"
         },
         {
-          "num": 44,
-          "name": "Ad-Dukhan",
-          "name_ar": "ٱلدُّخَان",
-          "name_en": "The Smoke"
+          "num": 49,
+          "name": "Al-Hujurat",
+          "name_ar": "ٱلْحُجُرَات",
+          "name_en": "The Rooms"
         },
         {
-          "num": 45,
-          "name": "Al-Jathiyah",
-          "name_ar": "ٱلْجَاثِيَة",
-          "name_en": "The Kneeling"
+          "num": 50,
+          "name": "Qaf",
+          "name_ar": "قٓ",
+          "name_en": "Qaf"
+        },
+        {
+          "num": 51,
+          "name": "Adh-Dhariyat",
+          "name_ar": "ٱلذَّارِيَات",
+          "name_en": "The Winnowing Winds"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse appears in Surah Al-Jathiyah after a mention of the blessings and guidance given to the Children of Israel, who then differed among themselves. The verse serves as a universal and timeless principle, clarifying that regardless of one's community or lineage, personal actions are what truly matter. It establishes a direct link between one's deeds and their consequences.",
-      "theme_explanation": "The core theme is one of the pillars of Islamic creed: ultimate individual accountability. It powerfully refutes any notion of inherited sin or vicarious atonement. Each soul is the sole bearer of its own burdens and the sole beneficiary of its own righteousness. The good one does benefits their own soul, and the evil one commits harms it. The verse concludes by reminding us that this system of personal responsibility culminates in our return to Allah for the final, perfect judgment.",
-      "surah_overview": "Surah Al-Jathiyah is a Meccan surah whose name, 'The Kneeling,' is derived from verse 28, which vividly depicts every nation kneeling on the Day of Judgment to receive its record of deeds. The surah robustly defends the Quran's divine origin and the reality of the Resurrection. It directs the reader to contemplate Allah's signs in the universe—the heavens, the earth, the alternation of night and day—as undeniable proof of His power and wisdom. It strongly condemns the arrogance of those who mock these signs and prioritize their own desires over divine guidance."
+      "verse_context": "This verse was revealed to address issues of tribalism and racism. It establishes a universal principle that supersedes all worldly standards of status. Some narrations link it to an incident involving Bilal ibn Rabah (RA), emphasizing that his status as a former Abyssinian slave was irrelevant in the sight of Allah compared to his profound piety.",
+      "theme_explanation": "The central theme is the abolition of false pride based on race, ethnicity, or social status. Allah explicitly states that He created human diversity not for division or hierarchy, but for mutual recognition ('lita'arafu'). The sole criterion for honor ('akramakum') before Him is 'Taqwa'—piety, righteousness, and God-consciousness. This verse is a foundational charter for equality and human dignity in Islam.",
+      "surah_overview": "Surah Al-Hujurat (The Rooms) is a Madani surah often called the 'Surah of Manners' (Akhlaq). It provides crucial guidance on the etiquette a believer should have towards Allah, His Messenger (ﷺ), and fellow Muslims. It addresses issues like raising one's voice, verifying news, and avoiding mockery, suspicion, and backbiting. The surah culminates with this powerful verse (49:13) on human unity and the true basis of honor."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

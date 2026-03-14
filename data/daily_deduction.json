@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "puzzle": {
-    "title": "The River's Secret",
-    "intro": "In a time of great tyranny, when the cry of newborns was met with fear, a devoted parent was divinely inspired with a plan that defied all logic. It was an act of profound faith, entrusting a precious life to the currents of a mighty river, directly into the heart of the enemy's domain. Can you identify this soul whose trust in Allah's plan saved a future prophet?",
+    "title": "The Guardian of a Sacred Trust",
+    "intro": "In the quiet halls of a sacred sanctuary, a devoted servant of Allah carried a heavy heart. With age advancing and no heir to carry on the legacy, this pious soul turned to the Divine in a moment of profound and private supplication. What followed was a miracle that defied the laws of nature, a testament to unwavering faith. Your task is to uncover the identity of this remarkable figure.",
     "clues": [
-      "I lived under the rule of a tyrant who saw a threat in the birth of every baby boy among my people.",
-      "When my child was born, my heart was filled with fear, but Allah inspired me with a way to protect him.",
-      "I was instructed to place my infant son in a basket and cast him into the river, with a promise that he would be returned to me.",
-      "My heart felt empty after I let him go, and I almost revealed my secret out of grief, but Allah strengthened me.",
-      "I sent my daughter to follow the basket from a distance, to see what would become of my son.",
-      "When the household of Fir'awn found my son and he refused all wet nurses, I was brought to him and reunited with him, becoming his nurse without them knowing I was his mother."
+      "I was entrusted with the care of a pious young individual who was destined for greatness, a sign for all people.",
+      "Whenever I entered the sanctuary to see the one in my care, I found provisions that were not from me, a miracle from Allah.",
+      "Despite my old age and my wife's barrenness, I secretly called out to my Lord for a righteous heir.",
+      "While I was standing in prayer in the sanctuary, angels brought me the glad tidings of a son.",
+      "As a sign from my Lord, I was commanded not to speak to people for three nights, though I was perfectly able.",
+      "The son I was granted was named Yahya, a name not given to anyone before him."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The Wife of 'Imran",
-          "The Mother of Prophet Musa",
-          "The Wife of Prophet Zakariyya",
-          "The Wife of Prophet Ibrahim (Sarah)",
-          "Hajar, Mother of Isma'il"
+          "Prophet Zakariyya",
+          "'Imran",
+          "Prophet 'Isa",
+          "Prophet Yahya",
+          "Luqman the Wise"
         ],
-        "answer": "The Mother of Prophet Musa"
+        "answer": "Prophet Zakariyya"
       },
       "trial": {
-        "label": "What Was My Great Test?",
+        "label": "What Was My Core Supplication?",
         "options": [
-          "Placing my infant son in the river",
-          "Making a vow to dedicate my child to God's service",
-          "Being accused of unchastity after a miraculous birth",
-          "Enduring barrenness until old age",
-          "Being left in a barren valley with my child"
+          "A prayer for a righteous heir",
+          "A request for a kingdom like no other",
+          "A plea to be saved from a great flood",
+          "A prayer for forgiveness after being swallowed by a large fish",
+          "A request for a heavenly feast"
         ],
-        "answer": "Placing my infant son in the river"
+        "answer": "A prayer for a righteous heir"
       },
       "location": {
-        "label": "What Was The Key Object?",
+        "label": "What Was The Sign Given To Me?",
         "options": [
-          "A wooden ark",
-          "A colorful coat",
-          "A golden calf",
-          "A basket/chest",
-          "A clay bird"
+          "The inability to speak for three days",
+          "A staff that turned into a serpent",
+          "A hand that shone white without disease",
+          "A camel emerging from a rock",
+          "A cool and peaceful fire"
         ],
-        "answer": "A basket/chest"
+        "answer": "The inability to speak for three days"
       },
       "outcome": {
-        "label": "What Was The Outcome?",
+        "label": "What Was The Miraculous Result?",
         "options": [
-          "My son spoke from the cradle to defend my honor",
-          "My son was sold into slavery in a distant land",
-          "My son was returned to me to nurse",
-          "I was given glad tidings of a son by angels in old age",
-          "My son was nearly sacrificed and ransomed with a ram"
+          "The birth of my son, Yahya",
+          "The parting of the Red Sea",
+          "The construction of a great ship",
+          "The submission of the wind and jinn",
+          "The virgin birth of a child to the one in my care"
         ],
-        "answer": "My son was returned to me to nurse"
+        "answer": "The birth of my son, Yahya"
       }
     },
-    "verseRef": "28:13",
-    "arabic": "فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
-    "verse": "So We restored him to his mother that she might be content and not grieve and that she would know that the promise of Allāh is true. But most of them [i.e., the people] do not know. (28:13)"
+    "verseRef": "19:10",
+    "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍۢ سَوِيًّۭا",
+    "verse": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\" (19:10)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

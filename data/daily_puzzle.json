@@ -1,148 +1,149 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "puzzle": {
     "categories": [
       {
-        "name": "صِفَاتٌ بَشَرِيَّةٌ سَلْبِيَّةٌ",
-        "nameEn": "Negative human traits mentioned in the Quran",
+        "name": "مُرَادِفَاتُ الْبَاطِلِ",
+        "nameEn": "Quranic Synonyms for Falsehood",
         "color": "yellow",
         "items": [
           {
-            "ar": "هَلُوعًا",
-            "en": "anxious",
-            "ref": "70:19",
-            "verse": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
-            "verseEn": "Indeed, mankind was created anxious:"
+            "ar": "ٱلْكَذِبَ",
+            "en": "the lie",
+            "ref": "16:116",
+            "verse": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَـٰذَا حَلَـٰلٌۭ وَهَـٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+            "verseEn": "And do not say about what your tongues assert of untruth, \"This is lawful and this is unlawful,\" to invent falsehood about Allāh. Indeed, those who invent falsehood about Allāh will not succeed."
           },
           {
-            "ar": "جَزُوعًا",
-            "en": "fretful",
-            "ref": "70:20",
-            "verse": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا",
-            "verseEn": "When evil touches him, impatient,"
+            "ar": "إِفْكٌ",
+            "en": "a fabrication",
+            "ref": "46:11",
+            "verse": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ",
+            "verseEn": "And those who disbelieve say of those who believe, \"If it had [truly] been good, they would not have preceded us to it.\" And when they are not guided by it, they will say, \"This is an ancient falsehood.\""
           },
           {
-            "ar": "يَـُٔوسٌ",
-            "en": "despairing",
-            "ref": "11:9",
-            "verse": "وَلَئِنْ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةًۭ ثُمَّ نَزَعْنَـٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌۭ كَفُورٌۭ",
-            "verseEn": "And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful."
+            "ar": "بَٰطِلًا",
+            "en": "falsehood",
+            "ref": "3:191",
+            "verse": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًۭا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+            "verseEn": "Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire."
           },
           {
-            "ar": "قَنُوطٌ",
-            "en": "despondent",
-            "ref": "41:49",
-            "verse": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ",
-            "verseEn": "Man is not weary of supplication for good [things], but if evil touches him, he is hopeless and despairing."
+            "ar": "ٱلْحِنثِ",
+            "en": "the falsehood",
+            "ref": "56:46",
+            "verse": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+            "verseEn": "And they used to persist in the great violation,"
           }
         ]
       },
       {
-        "name": "صِفَاتُ الرِّيَاحِ فِي الْقُرْآنِ",
-        "nameEn": "Quranic adjectives describing types of wind",
+        "name": "كَلِمَاتٌ مِنْ قِصَّةِ مُوَاجَهَةِ إِبْرَاهِيمَ لِعَبَدَةِ الْأَصْنَامِ",
+        "nameEn": "Words from the story of Prophet Ibrahim's confrontation with the idolaters",
         "color": "green",
         "items": [
           {
-            "ar": "صَرْصَرًا",
-            "en": "furiously cold",
-            "ref": "41:16",
-            "verse": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِىٓ أَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
-            "verseEn": "So We sent upon them a screaming wind during days of misfortune to make them taste the punishment of disgrace in the worldly life; but the punishment of the Hereafter is more disgracing, and they will not be helped."
+            "ar": "أُفٍّ",
+            "en": "Fie (a word of disgust)",
+            "ref": "21:67",
+            "verse": "أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+            "verseEn": "Uff to you and to what you worship instead of Allāh. Then will you not use reason?\""
           },
           {
-            "ar": "عَاصِفَةً",
-            "en": "stormy",
-            "ref": "21:81",
-            "verse": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
-            "verseEn": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing."
+            "ar": "جُذَٰذًا",
+            "en": "Into fragments",
+            "ref": "21:58",
+            "verse": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+            "verseEn": "So he made them into fragments, except a large one among them, that they might return to it [and question]."
           },
           {
-            "ar": "ٱلْعَقِيمَ",
-            "en": "the barren",
-            "ref": "51:41",
-            "verse": "وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ",
-            "verseEn": "And in ʿAad [was a sign], when We sent against them the barren wind."
+            "ar": "فَرَاغَ",
+            "en": "Then he turned",
+            "ref": "37:91",
+            "verse": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+            "verseEn": "Then he turned to their gods and said, \"Do you not eat?"
           },
           {
-            "ar": "قَاصِفًا",
-            "en": "hurricane-like",
-            "ref": "17:69",
-            "verse": "أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًۭا مِّنَ ٱلرِّيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ ۙ ثُمَّ لَا تَجِدُوا۟ لَكُمْ عَلَيْنَا بِهِۦ تَبِيعًۭا",
-            "verseEn": "Or do you feel secure that He will not send you back into it [i.e., the sea] another time and send upon you a hurricane of wind and drown you for what you denied? Then you would not find for yourselves against Us an avenger."
+            "ar": "بَرْدًا",
+            "en": "Coolness",
+            "ref": "21:69",
+            "verse": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+            "verseEn": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\""
           }
         ]
       },
       {
-        "name": "أَدَوَاتُ ٱلِٱسْتِفْهَامِ ٱلْإِنْكَارِيِّ",
-        "nameEn": "Rhetorical question particles implying a negative answer",
+        "name": "أَفْعَالٌ رُبَاعِيَّةٌ مُضَعَّفَةٌ",
+        "nameEn": "Reduplicated quadriliteral verbs",
         "color": "blue",
         "items": [
           {
-            "ar": "أَفَلَا",
-            "en": "Do... not then?",
-            "ref": "47:24",
-            "verse": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
-            "verseEn": "Then do they not reflect upon the Qur’ān, or are there locks upon [their] hearts?"
+            "ar": "حَصْحَصَ",
+            "en": "it became manifest",
+            "ref": "12:51",
+            "verse": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+            "verseEn": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful."
           },
           {
-            "ar": "أَلَمْ",
-            "en": "Have... not?",
-            "ref": "94:1",
-            "verse": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-            "verseEn": "Did We not expand for you, [O Muḥammad], your breast?"
+            "ar": "فَدَمْدَمَ",
+            "en": "so He crushed",
+            "ref": "91:14",
+            "verse": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+            "verseEn": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them]."
           },
           {
-            "ar": "أَلَيْسَ",
-            "en": "Is... not?",
-            "ref": "39:36",
-            "verse": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ",
-            "verseEn": "Is not Allāh sufficient for His Servant [i.e., Prophet Muḥammad (ﷺ)]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allāh leaves astray - for him there is no guide."
+            "ar": "فَكُبْكِبُوا۟",
+            "en": "so they were thrown headlong",
+            "ref": "26:94",
+            "verse": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+            "verseEn": "So they will be overturned into it [i.e., Hellfire], they and the deviators"
           },
           {
-            "ar": "أَءِلَٰهٌ",
-            "en": "Is there a god?",
-            "ref": "27:60",
-            "verse": "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍۢ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ بَلْ هُمْ قَوْمٌۭ يَعْدِلُونَ",
-            "verseEn": "[More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allāh? [No], but they are a people who ascribe equals [to Him]."
+            "ar": "عَسْعَسَ",
+            "en": "it departed/approached",
+            "ref": "81:17",
+            "verse": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+            "verseEn": "And by the night as it closes in"
           }
         ]
       },
       {
-        "name": "أَصْوَاتُ الْفَزَعِ فِي الْآخِرَةِ",
-        "nameEn": "Nouns describing sounds of distress on the Day of Judgment and in Hellfire",
+        "name": "كَلِمَاتٌ تَخْتِمُ سُوَرَهَا",
+        "nameEn": "Words that are the final word of their respective Surah",
         "color": "purple",
         "items": [
           {
-            "ar": "زَفِيرٌ",
-            "en": "groaning/exhaling",
-            "ref": "11:106",
-            "verse": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌۭ وَشَهِيقٌ",
-            "verseEn": "As for those who were [destined to be] wretched, they will be in the Fire. For them therein is [violent] exhaling and inhaling."
+            "ar": "ٱلنَّاسِ",
+            "en": "mankind",
+            "ref": "114:6",
+            "verse": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+            "verseEn": "From among the jinn and mankind\"."
           },
           {
-            "ar": "شَهِيقًا",
-            "en": "gasping/inhaling",
-            "ref": "67:7",
-            "verse": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ",
-            "verseEn": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up."
+            "ar": "حَسَدَ",
+            "en": "he envies",
+            "ref": "113:5",
+            "verse": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "verseEn": "And from the evil of an envier when he envies.\""
           },
           {
-            "ar": "صَرِيخَ",
-            "en": "a scream for help",
-            "ref": "36:43",
-            "verse": "وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ",
-            "verseEn": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved"
+            "ar": "مَّسَدٍ",
+            "en": "palm-fiber",
+            "ref": "111:5",
+            "verse": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+            "verseEn": "Around her neck is a rope of [twisted] fiber."
           },
           {
-            "ar": "ٱلتَّنَادِ",
-            "en": "the mutual calling",
-            "ref": "40:32",
-            "verse": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
-            "verseEn": "And O my people, indeed I fear for you the Day of Calling -"
+            "ar": "دِينِ",
+            "en": "religion",
+            "ref": "109:6",
+            "verse": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+            "verseEn": "For you is your religion, and for me is my religion.\""
           }
         ]
       }
     ]
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
