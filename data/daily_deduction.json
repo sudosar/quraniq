@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "puzzle": {
-    "title": "The Guardian of a Sacred Trust",
-    "intro": "In the quiet halls of a sacred sanctuary, a devoted servant of Allah carried a heavy heart. With age advancing and no heir to carry on the legacy, this pious soul turned to the Divine in a moment of profound and private supplication. What followed was a miracle that defied the laws of nature, a testament to unwavering faith. Your task is to uncover the identity of this remarkable figure.",
+    "title": "The Turning of the Tide",
+    "intro": "A community stood at the precipice of divine retribution. Their messenger, having departed in frustration, left them to face an impending doom. Yet, in a moment of collective clarity, this group achieved something unprecedented. Follow the story of their last-minute plea that changed their fate.",
     "clues": [
-      "I was entrusted with the care of a pious young individual who was destined for greatness, a sign for all people.",
-      "Whenever I entered the sanctuary to see the one in my care, I found provisions that were not from me, a miracle from Allah.",
-      "Despite my old age and my wife's barrenness, I secretly called out to my Lord for a righteous heir.",
-      "While I was standing in prayer in the sanctuary, angels brought me the glad tidings of a son.",
-      "As a sign from my Lord, I was commanded not to speak to people for three nights, though I was perfectly able.",
-      "The son I was granted was named Yahya, a name not given to anyone before him."
+      "A messenger was sent to us, calling us to worship the One True God, but we initially turned away in arrogance.",
+      "Our messenger became distressed with our persistent disbelief and left our community, thinking we were beyond hope.",
+      "After the messenger's departure, we saw the signs of a terrible punishment gathering on the horizon, filling our hearts with terror.",
+      "In a moment of desperation, we all gathered—young and old—to repent and cry out to Allah for mercy.",
+      "Unlike other nations who were destroyed, our sincere faith was accepted at the very last moment.",
+      "Our story is mentioned as the sole exception: a town whose belief benefited it after the punishment had become imminent."
     ],
     "categories": {
       "identity": {
-        "label": "Who Am I?",
+        "label": "Who are we?",
         "options": [
-          "Prophet Zakariyya",
-          "'Imran",
-          "Prophet 'Isa",
-          "Prophet Yahya",
-          "Luqman the Wise"
+          "The People of Madyan",
+          "The People of Prophet Nuh",
+          "The People of Prophet Yunus",
+          "The People of 'Ad",
+          "The People of Thamud"
         ],
-        "answer": "Prophet Zakariyya"
+        "answer": "The People of Prophet Yunus"
       },
       "trial": {
-        "label": "What Was My Core Supplication?",
+        "label": "What was our pivotal moment?",
         "options": [
-          "A prayer for a righteous heir",
-          "A request for a kingdom like no other",
-          "A plea to be saved from a great flood",
-          "A prayer for forgiveness after being swallowed by a large fish",
-          "A request for a heavenly feast"
+          "Splitting the sea to escape a tyrant",
+          "Being tested with a river before a battle",
+          "Repenting just as punishment was about to arrive",
+          "Demanding a table spread with food from the sky",
+          "Arguing over the color of a sacrificial cow"
         ],
-        "answer": "A prayer for a righteous heir"
+        "answer": "Repenting just as punishment was about to arrive"
       },
       "location": {
-        "label": "What Was The Sign Given To Me?",
+        "label": "What was the sign of our doom?",
         "options": [
-          "The inability to speak for three days",
-          "A staff that turned into a serpent",
-          "A hand that shone white without disease",
-          "A camel emerging from a rock",
-          "A cool and peaceful fire"
+          "A she-camel emerging from a rock",
+          "A devastating flood engulfing the land",
+          "A swarm of locusts and frogs",
+          "A dreadful punishment appearing in the sky",
+          "A violent, cold wind lasting for days"
         ],
-        "answer": "The inability to speak for three days"
+        "answer": "A dreadful punishment appearing in the sky"
       },
       "outcome": {
-        "label": "What Was The Miraculous Result?",
+        "label": "What was the result of our actions?",
         "options": [
-          "The birth of my son, Yahya",
-          "The parting of the Red Sea",
-          "The construction of a great ship",
-          "The submission of the wind and jinn",
-          "The virgin birth of a child to the one in my care"
+          "We were turned into apes",
+          "Our city was turned upside down",
+          "The punishment was lifted and we were allowed to enjoy our lives for a time",
+          "We were drowned by a great flood",
+          "Our lush gardens were replaced with bitter fruit"
         ],
-        "answer": "The birth of my son, Yahya"
+        "answer": "The punishment was lifted and we were allowed to enjoy our lives for a time"
       }
     },
-    "verseRef": "19:10",
-    "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍۢ سَوِيًّۭا",
-    "verse": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\" (19:10)"
+    "verseRef": "10:98",
+    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

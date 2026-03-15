@@ -1,148 +1,149 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "puzzle": {
     "categories": [
       {
-        "name": "مُرَادِفَاتُ الْبَاطِلِ",
-        "nameEn": "Quranic Synonyms for Falsehood",
+        "name": "أَعْمَالُ الْقُلُوبِ",
+        "nameEn": "States or Actions of the Believer's Heart",
         "color": "yellow",
         "items": [
           {
-            "ar": "ٱلْكَذِبَ",
-            "en": "the lie",
-            "ref": "16:116",
-            "verse": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَـٰذَا حَلَـٰلٌۭ وَهَـٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
-            "verseEn": "And do not say about what your tongues assert of untruth, \"This is lawful and this is unlawful,\" to invent falsehood about Allāh. Indeed, those who invent falsehood about Allāh will not succeed."
+            "ar": "وَجِلَتْ",
+            "en": "trembled",
+            "ref": "22:35",
+            "verse": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّـٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "verseEn": "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them."
           },
           {
-            "ar": "إِفْكٌ",
-            "en": "a fabrication",
-            "ref": "46:11",
-            "verse": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ",
-            "verseEn": "And those who disbelieve say of those who believe, \"If it had [truly] been good, they would not have preceded us to it.\" And when they are not guided by it, they will say, \"This is an ancient falsehood.\""
+            "ar": "يَخْشَىٰ",
+            "en": "fears",
+            "ref": "80:9",
+            "verse": "وَهُوَ يَخْشَىٰ",
+            "verseEn": "While he fears [Allāh],"
           },
           {
-            "ar": "بَٰطِلًا",
-            "en": "falsehood",
-            "ref": "3:191",
-            "verse": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًۭا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
-            "verseEn": "Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire."
+            "ar": "يُوقِنُونَ",
+            "en": "are certain",
+            "ref": "2:4",
+            "verse": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "verseEn": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
           },
           {
-            "ar": "ٱلْحِنثِ",
-            "en": "the falsehood",
-            "ref": "56:46",
-            "verse": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
-            "verseEn": "And they used to persist in the great violation,"
+            "ar": "يَتَوَكَّلُونَ",
+            "en": "they rely",
+            "ref": "16:42",
+            "verse": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "verseEn": "[They are] those who endured patiently and upon their Lord relied."
           }
         ]
       },
       {
-        "name": "كَلِمَاتٌ مِنْ قِصَّةِ مُوَاجَهَةِ إِبْرَاهِيمَ لِعَبَدَةِ الْأَصْنَامِ",
-        "nameEn": "Words from the story of Prophet Ibrahim's confrontation with the idolaters",
+        "name": "أَنْوَاعُ الْمَسَاكِنِ وَالدُّورِ",
+        "nameEn": "Types of Dwellings or Abodes",
         "color": "green",
         "items": [
           {
-            "ar": "أُفٍّ",
-            "en": "Fie (a word of disgust)",
-            "ref": "21:67",
-            "verse": "أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
-            "verseEn": "Uff to you and to what you worship instead of Allāh. Then will you not use reason?\""
+            "ar": "غُرَفٌ",
+            "en": "Chambers",
+            "ref": "39:20",
+            "verse": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌۭ مِّن فَوْقِهَا غُرَفٌۭ مَّبْنِيَّةٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+            "verseEn": "But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise."
           },
           {
-            "ar": "جُذَٰذًا",
-            "en": "Into fragments",
-            "ref": "21:58",
-            "verse": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
-            "verseEn": "So he made them into fragments, except a large one among them, that they might return to it [and question]."
+            "ar": "قُصُورًا",
+            "en": "Palaces",
+            "ref": "25:10",
+            "verse": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًۭا مِّن ذَٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+            "verseEn": "Blessed is He who, if He willed, could have made for you [something] better than that - gardens beneath which rivers flow - and could make for you palaces."
           },
           {
-            "ar": "فَرَاغَ",
-            "en": "Then he turned",
-            "ref": "37:91",
-            "verse": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
-            "verseEn": "Then he turned to their gods and said, \"Do you not eat?"
+            "ar": "دَارُ",
+            "en": "Abode",
+            "ref": "16:30",
+            "verse": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًۭا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ",
+            "verseEn": "And it will be said to those who feared Allāh, \"What did your Lord send down?\" They will say, \"[That which is] good.\" For those who do good in this world is good; and the home of the Hereafter is better. And how excellent is the home of the righteous -"
           },
           {
-            "ar": "بَرْدًا",
-            "en": "Coolness",
-            "ref": "21:69",
-            "verse": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
-            "verseEn": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\""
+            "ar": "مَّأْوَىٰهُمُ",
+            "en": "Their Abode",
+            "ref": "3:197",
+            "verse": "مَتَـٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+            "verseEn": "[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place."
           }
         ]
       },
       {
-        "name": "أَفْعَالٌ رُبَاعِيَّةٌ مُضَعَّفَةٌ",
-        "nameEn": "Reduplicated quadriliteral verbs",
+        "name": "أَوْصَافُ السَّمَاءِ يَوْمَ الْقِيَامَةِ",
+        "nameEn": "Words Describing the State of the Sky on the Day of Judgment",
         "color": "blue",
         "items": [
           {
-            "ar": "حَصْحَصَ",
-            "en": "it became manifest",
-            "ref": "12:51",
-            "verse": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
-            "verseEn": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful."
+            "ar": "ٱلْمُهْلِ",
+            "en": "the molten metal",
+            "ref": "70:8",
+            "verse": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+            "verseEn": "On the Day the sky will be like murky oil,"
           },
           {
-            "ar": "فَدَمْدَمَ",
-            "en": "so He crushed",
-            "ref": "91:14",
-            "verse": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
-            "verseEn": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them]."
+            "ar": "كُشِطَتْ",
+            "en": "is stripped away",
+            "ref": "81:11",
+            "verse": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+            "verseEn": "And when the sky is stripped away"
           },
           {
-            "ar": "فَكُبْكِبُوا۟",
-            "en": "so they were thrown headlong",
-            "ref": "26:94",
-            "verse": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
-            "verseEn": "So they will be overturned into it [i.e., Hellfire], they and the deviators"
+            "ar": "مَوْرًا",
+            "en": "reeling",
+            "ref": "52:9",
+            "verse": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+            "verseEn": "On the Day the heaven will sway with circular motion"
           },
           {
-            "ar": "عَسْعَسَ",
-            "en": "it departed/approached",
-            "ref": "81:17",
-            "verse": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
-            "verseEn": "And by the night as it closes in"
+            "ar": "وَرْدَةً",
+            "en": "a rose",
+            "ref": "55:37",
+            "verse": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+            "verseEn": "And when the heaven is split open and becomes rose-colored like oil -"
           }
         ]
       },
       {
-        "name": "كَلِمَاتٌ تَخْتِمُ سُوَرَهَا",
-        "nameEn": "Words that are the final word of their respective Surah",
+        "name": "أَسْمَاءٌ تُشَكِّلُ الْمُضَافَ فِي تَرْكِيبٍ إِضَافِيٍّ لِتَكْوِينِ لَقَبٍ",
+        "nameEn": "Nouns forming the first part of a title in a possessive construction",
         "color": "purple",
         "items": [
           {
-            "ar": "ٱلنَّاسِ",
-            "en": "mankind",
-            "ref": "114:6",
-            "verse": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
-            "verseEn": "From among the jinn and mankind\"."
+            "ar": "رَبِّ",
+            "en": "Lord of",
+            "ref": "1:2",
+            "verse": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[All] praise is [due] to Allāh, Lord of the worlds -"
           },
           {
-            "ar": "حَسَدَ",
-            "en": "he envies",
-            "ref": "113:5",
-            "verse": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-            "verseEn": "And from the evil of an envier when he envies.\""
+            "ar": "أَهْلَ",
+            "en": "people of",
+            "ref": "3:64",
+            "verse": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+            "verseEn": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\""
           },
           {
-            "ar": "مَّسَدٍ",
-            "en": "palm-fiber",
-            "ref": "111:5",
-            "verse": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
-            "verseEn": "Around her neck is a rope of [twisted] fiber."
+            "ar": "أُوْلِى",
+            "en": "possessors of",
+            "ref": "4:59",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍۢ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ ذَٰلِكَ خَيْرٌۭ وَأَحْسَنُ تَأْوِيلًا",
+            "verseEn": "O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result."
           },
           {
-            "ar": "دِينِ",
-            "en": "religion",
-            "ref": "109:6",
-            "verse": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
-            "verseEn": "For you is your religion, and for me is my religion.\""
+            "ar": "ذُو",
+            "en": "possessor of",
+            "ref": "55:27",
+            "verse": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+            "verseEn": "And there will remain the Face of your Lord, Owner of Majesty and Honor."
           }
         ]
       }
     ]
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

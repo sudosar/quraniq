@@ -1,0 +1,344 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَعْمَالُ الْقُلُوبِ",
+        "nameEn": "States or Actions of the Believer's Heart",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "وَجِلَتْ",
+            "en": "trembled",
+            "ref": "22:35",
+            "verse": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّـٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "verseEn": "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them."
+          },
+          {
+            "ar": "يَخْشَىٰ",
+            "en": "fears",
+            "ref": "80:9",
+            "verse": "وَهُوَ يَخْشَىٰ",
+            "verseEn": "While he fears [Allāh],"
+          },
+          {
+            "ar": "يُوقِنُونَ",
+            "en": "are certain",
+            "ref": "2:4",
+            "verse": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "verseEn": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
+          },
+          {
+            "ar": "يَتَوَكَّلُونَ",
+            "en": "they rely",
+            "ref": "16:42",
+            "verse": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "verseEn": "[They are] those who endured patiently and upon their Lord relied."
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الْمَسَاكِنِ وَالدُّورِ",
+        "nameEn": "Types of Dwellings or Abodes",
+        "color": "green",
+        "items": [
+          {
+            "ar": "غُرَفٌ",
+            "en": "Chambers",
+            "ref": "39:20",
+            "verse": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌۭ مِّن فَوْقِهَا غُرَفٌۭ مَّبْنِيَّةٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+            "verseEn": "But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise."
+          },
+          {
+            "ar": "قُصُورًا",
+            "en": "Palaces",
+            "ref": "25:10",
+            "verse": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًۭا مِّن ذَٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+            "verseEn": "Blessed is He who, if He willed, could have made for you [something] better than that - gardens beneath which rivers flow - and could make for you palaces."
+          },
+          {
+            "ar": "دَارُ",
+            "en": "Abode",
+            "ref": "16:30",
+            "verse": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًۭا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ",
+            "verseEn": "And it will be said to those who feared Allāh, \"What did your Lord send down?\" They will say, \"[That which is] good.\" For those who do good in this world is good; and the home of the Hereafter is better. And how excellent is the home of the righteous -"
+          },
+          {
+            "ar": "مَّأْوَىٰهُمُ",
+            "en": "Their Abode",
+            "ref": "3:197",
+            "verse": "مَتَـٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+            "verseEn": "[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place."
+          }
+        ]
+      },
+      {
+        "name": "أَوْصَافُ السَّمَاءِ يَوْمَ الْقِيَامَةِ",
+        "nameEn": "Words Describing the State of the Sky on the Day of Judgment",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلْمُهْلِ",
+            "en": "the molten metal",
+            "ref": "70:8",
+            "verse": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+            "verseEn": "On the Day the sky will be like murky oil,"
+          },
+          {
+            "ar": "كُشِطَتْ",
+            "en": "is stripped away",
+            "ref": "81:11",
+            "verse": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+            "verseEn": "And when the sky is stripped away"
+          },
+          {
+            "ar": "مَوْرًا",
+            "en": "reeling",
+            "ref": "52:9",
+            "verse": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+            "verseEn": "On the Day the heaven will sway with circular motion"
+          },
+          {
+            "ar": "وَرْدَةً",
+            "en": "a rose",
+            "ref": "55:37",
+            "verse": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+            "verseEn": "And when the heaven is split open and becomes rose-colored like oil -"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءٌ تُشَكِّلُ الْمُضَافَ فِي تَرْكِيبٍ إِضَافِيٍّ لِتَكْوِينِ لَقَبٍ",
+        "nameEn": "Nouns forming the first part of a title in a possessive construction",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "رَبِّ",
+            "en": "Lord of",
+            "ref": "1:2",
+            "verse": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[All] praise is [due] to Allāh, Lord of the worlds -"
+          },
+          {
+            "ar": "أَهْلَ",
+            "en": "people of",
+            "ref": "3:64",
+            "verse": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+            "verseEn": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\""
+          },
+          {
+            "ar": "أُوْلِى",
+            "en": "possessors of",
+            "ref": "4:59",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍۢ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ ذَٰلِكَ خَيْرٌۭ وَأَحْسَنُ تَأْوِيلًا",
+            "verseEn": "O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result."
+          },
+          {
+            "ar": "ذُو",
+            "en": "possessor of",
+            "ref": "55:27",
+            "verse": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+            "verseEn": "And there will remain the Face of your Lord, Owner of Majesty and Honor."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "روح",
+    "display": "رُوح",
+    "hint": "Its complete knowledge belongs only to Allah; it was breathed into Adam.",
+    "verseRef": "17:85",
+    "arabicVerse": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًۭا",
+    "verse": "17:85 — And they ask you, [O Muḥammad], about the soul. Say, \"The soul is of the affair [i.e., concern] of my Lord. And you [i.e., mankind] have not been given of knowledge except a little.\""
+  },
+  "deduction": {
+    "title": "The Turning of the Tide",
+    "intro": "A community stood at the precipice of divine retribution. Their messenger, having departed in frustration, left them to face an impending doom. Yet, in a moment of collective clarity, this group achieved something unprecedented. Follow the story of their last-minute plea that changed their fate.",
+    "clues": [
+      "A messenger was sent to us, calling us to worship the One True God, but we initially turned away in arrogance.",
+      "Our messenger became distressed with our persistent disbelief and left our community, thinking we were beyond hope.",
+      "After the messenger's departure, we saw the signs of a terrible punishment gathering on the horizon, filling our hearts with terror.",
+      "In a moment of desperation, we all gathered—young and old—to repent and cry out to Allah for mercy.",
+      "Unlike other nations who were destroyed, our sincere faith was accepted at the very last moment.",
+      "Our story is mentioned as the sole exception: a town whose belief benefited it after the punishment had become imminent."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who are we?",
+        "options": [
+          "The People of Madyan",
+          "The People of Prophet Nuh",
+          "The People of Prophet Yunus",
+          "The People of 'Ad",
+          "The People of Thamud"
+        ],
+        "answer": "The People of Prophet Yunus"
+      },
+      "trial": {
+        "label": "What was our pivotal moment?",
+        "options": [
+          "Splitting the sea to escape a tyrant",
+          "Being tested with a river before a battle",
+          "Repenting just as punishment was about to arrive",
+          "Demanding a table spread with food from the sky",
+          "Arguing over the color of a sacrificial cow"
+        ],
+        "answer": "Repenting just as punishment was about to arrive"
+      },
+      "location": {
+        "label": "What was the sign of our doom?",
+        "options": [
+          "A she-camel emerging from a rock",
+          "A devastating flood engulfing the land",
+          "A swarm of locusts and frogs",
+          "A dreadful punishment appearing in the sky",
+          "A violent, cold wind lasting for days"
+        ],
+        "answer": "A dreadful punishment appearing in the sky"
+      },
+      "outcome": {
+        "label": "What was the result of our actions?",
+        "options": [
+          "We were turned into apes",
+          "Our city was turned upside down",
+          "The punishment was lifted and we were allowed to enjoy our lives for a time",
+          "We were drowned by a great flood",
+          "Our lush gardens were replaced with bitter fruit"
+        ],
+        "answer": "The punishment was lifted and we were allowed to enjoy our lives for a time"
+      }
+    },
+    "verseRef": "10:98",
+    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+  },
+  "scramble": {
+    "verseRef": "90:4",
+    "reference": "Al-Balad (90:4)",
+    "segments": [
+      "لَقَدْ خَلَقْنَا",
+      "ٱلْإِنسَـٰنَ",
+      "فِى",
+      "كَبَدٍ"
+    ],
+    "translations": [
+      "Certainly We have created",
+      "man",
+      "(to be) in",
+      "hardship"
+    ],
+    "hint": "This verse speaks about the inherent nature of human life and the struggles it entails.",
+    "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "words": [
+      "لَقَدْ خَلَقْنَا",
+      "ٱلْإِنسَـٰنَ",
+      "فِى",
+      "كَبَدٍ"
+    ],
+    "verseEn": "We have certainly created man into hardship."
+  },
+  "juz": {
+    "date": "2026-03-15",
+    "juz_number": 27,
+    "juz_name": "Qala Fama Khatbukum",
+    "juz_name_ar": "قَالَ فَمَا خَطْبُكُمْ",
+    "verse": {
+      "surah_number": 55,
+      "surah_name": "Ar-Rahman",
+      "surah_name_ar": "ٱلرَّحْمَـٰن",
+      "ayah_number": 60,
+      "arabic_text": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "translation": "Is the reward for good [anything] but good?",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4961.mp3"
+    },
+    "theme_question": {
+      "correct": "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
+      "options": [
+        "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
+        "The requirement to forgive those who have wronged you.",
+        "The prohibition of associating partners with Allah.",
+        "The command to only consume what is lawful (halal)."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 55,
+      "options": [
+        {
+          "num": 56,
+          "name": "Al-Waqi'ah",
+          "name_ar": "ٱلْوَاقِعَة",
+          "name_en": "The Inevitable"
+        },
+        {
+          "num": 55,
+          "name": "Ar-Rahman",
+          "name_ar": "ٱلرَّحْمَـٰن",
+          "name_en": "The Most Merciful"
+        },
+        {
+          "num": 53,
+          "name": "An-Najm",
+          "name_ar": "ٱلنَّجْم",
+          "name_en": "The Star"
+        },
+        {
+          "num": 50,
+          "name": "Qaf",
+          "name_ar": "قٓ",
+          "name_en": "The Letter Qaf"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 51,
+          "name": "Adh-Dhariyat",
+          "name_ar": "ٱلذَّٰرِيَٰت",
+          "name_en": "The Winnowing Winds"
+        },
+        {
+          "num": 52,
+          "name": "At-Tur",
+          "name_ar": "ٱلطُّور",
+          "name_en": "The Mount"
+        },
+        {
+          "num": 53,
+          "name": "An-Najm",
+          "name_ar": "ٱلنَّجْم",
+          "name_en": "The Star"
+        },
+        {
+          "num": 54,
+          "name": "Al-Qamar",
+          "name_ar": "ٱلْقَمَر",
+          "name_en": "The Moon"
+        },
+        {
+          "num": 55,
+          "name": "Ar-Rahman",
+          "name_ar": "ٱلرَّحْمَـٰن",
+          "name_en": "The Most Merciful"
+        },
+        {
+          "num": 56,
+          "name": "Al-Waqi'ah",
+          "name_ar": "ٱلْوَاقِعَة",
+          "name_en": "The Inevitable"
+        },
+        {
+          "num": 57,
+          "name": "Al-Hadid",
+          "name_ar": "ٱلْحَدِيد",
+          "name_en": "The Iron"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This powerful rhetorical question appears in Surah Ar-Rahman after a detailed description of the two magnificent gardens awaiting the righteous in Paradise. It serves as a profound conclusion, affirming that this beautiful reward is the direct and fitting consequence of the beautiful deeds ('Ihsan') performed in this life.",
+      "theme_explanation": "The theme is 'Ihsan' (إحسان), a comprehensive Islamic term for excellence, perfection, and goodness in faith and actions. The verse establishes a fundamental divine law: goodness begets goodness. It assures believers that not only will their good deeds be rewarded, but the reward itself will be of the highest quality, reflecting the quality of the deed. It is an encouragement to strive for excellence in worship and dealings with others, with the certainty that Allah's reward will be even more excellent.",
+      "surah_overview": "Surah Ar-Rahman (The Most Merciful) is a Meccan surah celebrated for its unique rhythmic structure, earning it the title 'The Bride of the Quran' (عروس القرآن). The surah powerfully repeats the refrain, 'So which of the favors of your Lord would you deny?', addressing both jinn and humankind. It vividly contrasts Allah's countless blessings in creation with the reality of Judgment, the terrors of Hell, and the sublime beauty of Paradise, all while centering on God's all-encompassing mercy."
+    }
+  }
+}

@@ -1,102 +1,109 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "puzzle": {
-    "date": "2026-03-14",
-    "juz_number": 26,
-    "juz_name": "Ha Mim",
-    "juz_name_ar": "حم",
+    "date": "2026-03-15",
+    "juz_number": 27,
+    "juz_name": "Qala Fama Khatbukum",
+    "juz_name_ar": "قَالَ فَمَا خَطْبُكُمْ",
     "verse": {
-      "surah_number": 49,
-      "surah_name": "Al-Hujurat",
-      "surah_name_ar": "ٱلْحُجُرَات",
-      "ayah_number": 13,
-      "arabic_text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
-      "translation": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4625.mp3"
+      "surah_number": 55,
+      "surah_name": "Ar-Rahman",
+      "surah_name_ar": "ٱلرَّحْمَـٰن",
+      "ayah_number": 60,
+      "arabic_text": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "translation": "Is the reward for good [anything] but good?",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4961.mp3"
     },
     "theme_question": {
-      "correct": "The depth of their piety and God-consciousness (Taqwa).",
+      "correct": "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
       "options": [
-        "The extent of their wealth and possessions.",
-        "The prestige of their family lineage and tribe.",
-        "The depth of their piety and God-consciousness (Taqwa).",
-        "The vastness of their worldly knowledge and education."
+        "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
+        "The requirement to forgive those who have wronged you.",
+        "The prohibition of associating partners with Allah.",
+        "The command to only consume what is lawful (halal)."
       ]
     },
     "surah_question": {
-      "correct_surah": 49,
+      "correct_surah": 55,
       "options": [
         {
-          "num": 46,
-          "name": "Al-Ahqaf",
-          "name_ar": "ٱلْأَحْقَاف",
-          "name_en": "The Wind-Curved Sandhills"
+          "num": 56,
+          "name": "Al-Waqi'ah",
+          "name_ar": "ٱلْوَاقِعَة",
+          "name_en": "The Inevitable"
         },
         {
-          "num": 47,
-          "name": "Muhammad",
-          "name_ar": "مُحَمَّد",
-          "name_en": "Muhammad"
+          "num": 55,
+          "name": "Ar-Rahman",
+          "name_ar": "ٱلرَّحْمَـٰن",
+          "name_en": "The Most Merciful"
         },
         {
-          "num": 49,
-          "name": "Al-Hujurat",
-          "name_ar": "ٱلْحُجُرَات",
-          "name_en": "The Rooms"
+          "num": 53,
+          "name": "An-Najm",
+          "name_ar": "ٱلنَّجْم",
+          "name_en": "The Star"
         },
         {
           "num": 50,
           "name": "Qaf",
           "name_ar": "قٓ",
-          "name_en": "Qaf"
+          "name_en": "The Letter Qaf"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 46,
-          "name": "Al-Ahqaf",
-          "name_ar": "ٱلْأَحْقَاف",
-          "name_en": "The Wind-Curved Sandhills"
-        },
-        {
-          "num": 47,
-          "name": "Muhammad",
-          "name_ar": "مُحَمَّد",
-          "name_en": "Muhammad"
-        },
-        {
-          "num": 48,
-          "name": "Al-Fath",
-          "name_ar": "ٱلْفَتْح",
-          "name_en": "The Victory"
-        },
-        {
-          "num": 49,
-          "name": "Al-Hujurat",
-          "name_ar": "ٱلْحُجُرَات",
-          "name_en": "The Rooms"
-        },
-        {
-          "num": 50,
-          "name": "Qaf",
-          "name_ar": "قٓ",
-          "name_en": "Qaf"
-        },
-        {
           "num": 51,
           "name": "Adh-Dhariyat",
-          "name_ar": "ٱلذَّارِيَات",
+          "name_ar": "ٱلذَّٰرِيَٰت",
           "name_en": "The Winnowing Winds"
+        },
+        {
+          "num": 52,
+          "name": "At-Tur",
+          "name_ar": "ٱلطُّور",
+          "name_en": "The Mount"
+        },
+        {
+          "num": 53,
+          "name": "An-Najm",
+          "name_ar": "ٱلنَّجْم",
+          "name_en": "The Star"
+        },
+        {
+          "num": 54,
+          "name": "Al-Qamar",
+          "name_ar": "ٱلْقَمَر",
+          "name_en": "The Moon"
+        },
+        {
+          "num": 55,
+          "name": "Ar-Rahman",
+          "name_ar": "ٱلرَّحْمَـٰن",
+          "name_en": "The Most Merciful"
+        },
+        {
+          "num": 56,
+          "name": "Al-Waqi'ah",
+          "name_ar": "ٱلْوَاقِعَة",
+          "name_en": "The Inevitable"
+        },
+        {
+          "num": 57,
+          "name": "Al-Hadid",
+          "name_ar": "ٱلْحَدِيد",
+          "name_en": "The Iron"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse was revealed to address issues of tribalism and racism. It establishes a universal principle that supersedes all worldly standards of status. Some narrations link it to an incident involving Bilal ibn Rabah (RA), emphasizing that his status as a former Abyssinian slave was irrelevant in the sight of Allah compared to his profound piety.",
-      "theme_explanation": "The central theme is the abolition of false pride based on race, ethnicity, or social status. Allah explicitly states that He created human diversity not for division or hierarchy, but for mutual recognition ('lita'arafu'). The sole criterion for honor ('akramakum') before Him is 'Taqwa'—piety, righteousness, and God-consciousness. This verse is a foundational charter for equality and human dignity in Islam.",
-      "surah_overview": "Surah Al-Hujurat (The Rooms) is a Madani surah often called the 'Surah of Manners' (Akhlaq). It provides crucial guidance on the etiquette a believer should have towards Allah, His Messenger (ﷺ), and fellow Muslims. It addresses issues like raising one's voice, verifying news, and avoiding mockery, suspicion, and backbiting. The surah culminates with this powerful verse (49:13) on human unity and the true basis of honor."
+      "verse_context": "This powerful rhetorical question appears in Surah Ar-Rahman after a detailed description of the two magnificent gardens awaiting the righteous in Paradise. It serves as a profound conclusion, affirming that this beautiful reward is the direct and fitting consequence of the beautiful deeds ('Ihsan') performed in this life.",
+      "theme_explanation": "The theme is 'Ihsan' (إحسان), a comprehensive Islamic term for excellence, perfection, and goodness in faith and actions. The verse establishes a fundamental divine law: goodness begets goodness. It assures believers that not only will their good deeds be rewarded, but the reward itself will be of the highest quality, reflecting the quality of the deed. It is an encouragement to strive for excellence in worship and dealings with others, with the certainty that Allah's reward will be even more excellent.",
+      "surah_overview": "Surah Ar-Rahman (The Most Merciful) is a Meccan surah celebrated for its unique rhythmic structure, earning it the title 'The Bride of the Quran' (عروس القرآن). The surah powerfully repeats the refrain, 'So which of the favors of your Lord would you deny?', addressing both jinn and humankind. It vividly contrasts Allah's countless blessings in creation with the reality of Judgment, the terrors of Hell, and the sublime beauty of Paradise, all while centering on God's all-encompassing mercy."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

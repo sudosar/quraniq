@@ -1,29 +1,30 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "puzzle": {
-    "verseRef": "40:60",
-    "reference": "Ghafir (40:60)",
+    "verseRef": "90:4",
+    "reference": "Al-Balad (90:4)",
     "segments": [
-      "وَقَالَ رَبُّكُمُ",
-      "ادْعُونِي",
-      "أَسْتَجِبْ",
-      "لَكُمْ"
+      "لَقَدْ خَلَقْنَا",
+      "ٱلْإِنسَـٰنَ",
+      "فِى",
+      "كَبَدٍ"
     ],
     "translations": [
-      "And said your Lord Call upon Me I will respond",
-      "to you Indeed those who",
-      "(are) proud to worship Me",
-      "will enter Hell (in) humiliation"
+      "Certainly We have created",
+      "man",
+      "(to be) in",
+      "hardship"
     ],
-    "hint": "A powerful promise from Allah regarding supplication (du'a) and His immediate response.",
-    "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+    "hint": "This verse speaks about the inherent nature of human life and the struggles it entails.",
+    "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
     "words": [
-      "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ",
-      "لَكُمْ ۚ إِنَّ ٱلَّذِينَ",
-      "يَسْتَكْبِرُونَ عَنْ عِبَادَتِى",
-      "سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ"
+      "لَقَدْ خَلَقْنَا",
+      "ٱلْإِنسَـٰنَ",
+      "فِى",
+      "كَبَدٍ"
     ],
-    "verseEn": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible."
+    "verseEn": "We have certainly created man into hardship."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
