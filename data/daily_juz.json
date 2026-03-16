@@ -1,108 +1,121 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "puzzle": {
-    "date": "2026-03-15",
-    "juz_number": 27,
-    "juz_name": "Qala Fama Khatbukum",
-    "juz_name_ar": "قَالَ فَمَا خَطْبُكُمْ",
+    "date": "2026-03-16",
+    "juz_number": 28,
+    "juz_name": "Qad Sami'a",
+    "juz_name_ar": "قَدْ سَمِعَ",
     "verse": {
-      "surah_number": 55,
-      "surah_name": "Ar-Rahman",
-      "surah_name_ar": "ٱلرَّحْمَـٰن",
-      "ayah_number": 60,
-      "arabic_text": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
-      "translation": "Is the reward for good [anything] but good?",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4961.mp3"
+      "surah_number": 59,
+      "surah_name": "Al-Hashr",
+      "surah_name_ar": "الحشر",
+      "ayah_number": 21,
+      "arabic_text": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "translation": "Had We sent down this Quran upon a mountain, you would have seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, so that they may reflect.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5147.mp3"
     },
     "theme_question": {
-      "correct": "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
+      "correct": "The profound spiritual weight and impact of the Quran's revelation.",
       "options": [
-        "The divine principle that acts of goodness and excellence are rewarded with goodness from Allah.",
-        "The requirement to forgive those who have wronged you.",
-        "The prohibition of associating partners with Allah.",
-        "The command to only consume what is lawful (halal)."
+        "The profound spiritual weight and impact of the Quran's revelation.",
+        "The physical strength and endurance of mountains.",
+        "The importance of building mosques on high ground.",
+        "The prohibition against altering the natural landscape."
       ]
     },
     "surah_question": {
-      "correct_surah": 55,
+      "correct_surah": 59,
       "options": [
         {
-          "num": 56,
-          "name": "Al-Waqi'ah",
-          "name_ar": "ٱلْوَاقِعَة",
-          "name_en": "The Inevitable"
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "المجادلة",
+          "name_en": "The Pleading Woman"
         },
         {
-          "num": 55,
-          "name": "Ar-Rahman",
-          "name_ar": "ٱلرَّحْمَـٰن",
-          "name_en": "The Most Merciful"
+          "num": 59,
+          "name": "Al-Hashr",
+          "name_ar": "الحشر",
+          "name_en": "The Exile"
         },
         {
-          "num": 53,
-          "name": "An-Najm",
-          "name_ar": "ٱلنَّجْم",
-          "name_en": "The Star"
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "المنافقون",
+          "name_en": "The Hypocrites"
         },
         {
-          "num": 50,
-          "name": "Qaf",
-          "name_ar": "قٓ",
-          "name_en": "The Letter Qaf"
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "الطلاق",
+          "name_en": "The Divorce"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 51,
-          "name": "Adh-Dhariyat",
-          "name_ar": "ٱلذَّٰرِيَٰت",
-          "name_en": "The Winnowing Winds"
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "المجادلة",
+          "name_en": "The Pleading Woman"
         },
         {
-          "num": 52,
-          "name": "At-Tur",
-          "name_ar": "ٱلطُّور",
-          "name_en": "The Mount"
+          "num": 59,
+          "name": "Al-Hashr",
+          "name_ar": "الحشر",
+          "name_en": "The Exile"
         },
         {
-          "num": 53,
-          "name": "An-Najm",
-          "name_ar": "ٱلنَّجْم",
-          "name_en": "The Star"
+          "num": 60,
+          "name": "Al-Mumtahanah",
+          "name_ar": "الممتحنة",
+          "name_en": "She that is to be examined"
         },
         {
-          "num": 54,
-          "name": "Al-Qamar",
-          "name_ar": "ٱلْقَمَر",
-          "name_en": "The Moon"
+          "num": 61,
+          "name": "As-Saff",
+          "name_ar": "الصف",
+          "name_en": "The Ranks"
         },
         {
-          "num": 55,
-          "name": "Ar-Rahman",
-          "name_ar": "ٱلرَّحْمَـٰن",
-          "name_en": "The Most Merciful"
+          "num": 62,
+          "name": "Al-Jumu'ah",
+          "name_ar": "الجمعة",
+          "name_en": "Friday"
         },
         {
-          "num": 56,
-          "name": "Al-Waqi'ah",
-          "name_ar": "ٱلْوَاقِعَة",
-          "name_en": "The Inevitable"
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "المنافقون",
+          "name_en": "The Hypocrites"
         },
         {
-          "num": 57,
-          "name": "Al-Hadid",
-          "name_ar": "ٱلْحَدِيد",
-          "name_en": "The Iron"
+          "num": 64,
+          "name": "At-Taghabun",
+          "name_ar": "التغابن",
+          "name_en": "The Mutual Disillusion"
+        },
+        {
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "الطلاق",
+          "name_en": "The Divorce"
+        },
+        {
+          "num": 66,
+          "name": "At-Tahrim",
+          "name_ar": "التحريم",
+          "name_en": "The Prohibition"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This powerful rhetorical question appears in Surah Ar-Rahman after a detailed description of the two magnificent gardens awaiting the righteous in Paradise. It serves as a profound conclusion, affirming that this beautiful reward is the direct and fitting consequence of the beautiful deeds ('Ihsan') performed in this life.",
-      "theme_explanation": "The theme is 'Ihsan' (إحسان), a comprehensive Islamic term for excellence, perfection, and goodness in faith and actions. The verse establishes a fundamental divine law: goodness begets goodness. It assures believers that not only will their good deeds be rewarded, but the reward itself will be of the highest quality, reflecting the quality of the deed. It is an encouragement to strive for excellence in worship and dealings with others, with the certainty that Allah's reward will be even more excellent.",
-      "surah_overview": "Surah Ar-Rahman (The Most Merciful) is a Meccan surah celebrated for its unique rhythmic structure, earning it the title 'The Bride of the Quran' (عروس القرآن). The surah powerfully repeats the refrain, 'So which of the favors of your Lord would you deny?', addressing both jinn and humankind. It vividly contrasts Allah's countless blessings in creation with the reality of Judgment, the terrors of Hell, and the sublime beauty of Paradise, all while centering on God's all-encompassing mercy."
+      "verse_context": "This verse is one of the final verses of Surah Al-Hashr. After discussing the historical event of the expulsion of the Banu Nadir tribe and contrasting the qualities of the believers and hypocrites, the surah concludes with a powerful reflection on Allah's greatness, His names, and the profound nature of His revelation, the Quran.",
+      "theme_explanation": "The theme is the immense spiritual gravity of the Quran. Allah uses the powerful imagery of a solid, unyielding mountain crumbling to illustrate how a human heart, if truly open, should react to His words—with humility, awe, and reverence. It is a powerful rebuke to hearts that remain hard and unmoved by the divine message and a call for deep reflection (`tafakkur`) on its meanings.",
+      "surah_overview": "Surah Al-Hashr (The Exile) is a Madani surah. Its name is derived from the expulsion of the Jewish tribe of Banu Nadir from Medina after they broke their treaty. The surah details this event, establishes rules for the distribution of spoils, praises the selflessness of the Ansar (helpers), and warns against the hypocrisy of those who ally with the enemies of Islam. It concludes with a magnificent passage about the Quran's impact and a declaration of Allah's most beautiful names and attributes, highlighting His supreme power and wisdom."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-16",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "ظُرُوفُ الْمَكَانِ",
@@ -144,6 +143,214 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "حديد",
+    "display": "حَدِيد",
+    "hint": "A strong metal mentioned as being sent down, from which weapons and tools are made.",
+    "verseRef": "22:21",
+    "arabicVerse": "وَلَهُم مَّقَـٰمِعُ مِنْ حَدِيدٍۢ",
+    "verse": "22:21 — And for [striking] them are maces of iron."
+  },
+  "deduction": {
+    "title": "The Garden of Delusion",
+    "intro": "Before you stands a figure blessed with immense worldly provision, a paradise on earth seemingly crafted by their own fortune. But within the lush greenery and flowing rivers, a seed of arrogance took root, blinding this soul to the true source of all blessings. Can you uncover the identity of this individual whose story serves as a timeless warning against ingratitude?",
+    "clues": [
+      "I was given two of something that brought me great pride and made me feel superior to my companion.",
+      "I walked through my property, boasting that it would never perish.",
+      "I even expressed doubt about the Final Hour, suggesting that if it did come, I would find something even better in the hereafter.",
+      "My companion, a person of lesser means but greater faith, advised me to remember Allah upon entering my property.",
+      "I argued with my companion, belittling them for having less wealth and fewer allies than I.",
+      "In a single night, a disaster from the sky struck my vines, and by morning, my lush paradise was reduced to barren ruin."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qarun",
+          "The Owner of the Two Gardens",
+          "The Believer of Ya-Sin",
+          "The Samiri",
+          "The Companions of the Garden (Al-Qalam)"
+        ],
+        "answer": "The Owner of the Two Gardens"
+      },
+      "trial": {
+        "label": "What Was My Core Test?",
+        "options": [
+          "Withholding Charity from the Poor",
+          "Building a Lofty Tower",
+          "Misleading a Nation with a Golden Calf",
+          "Arrogance and Ingratitude for Blessings",
+          "Betraying a Prophet out of Jealousy"
+        ],
+        "answer": "Arrogance and Ingratitude for Blessings"
+      },
+      "location": {
+        "label": "What Was at the Heart of My Story?",
+        "options": [
+          "A Golden Calf",
+          "A Magnificent Throne",
+          "Keys to Treasure-houses",
+          "Two Gardens with Vines and Date Palms",
+          "A She-Camel as a Sign"
+        ],
+        "answer": "Two Gardens with Vines and Date Palms"
+      },
+      "outcome": {
+        "label": "What Was the Ultimate Outcome?",
+        "options": [
+          "I Was Swallowed by the Earth",
+          "I Was Transformed into an Ape",
+          "My Gardens Were Utterly Destroyed Overnight",
+          "I Was Drowned in the Sea",
+          "I Humbly Submitted to Allah"
+        ],
+        "answer": "My Gardens Were Utterly Destroyed Overnight"
+      }
+    },
+    "verseRef": "18:42",
+    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
+  },
+  "scramble": {
+    "verseRef": "41:34",
+    "reference": "Fussilat (41:34)",
+    "segments": [
+      "وَلَا تَسْتَوِي الْحَسَنَةُ",
+      "وَلَا السَّيِّئَةُ",
+      "ادْفَعْ بِالَّتِي",
+      "هِيَ أَحْسَنُ"
+    ],
+    "translations": [
+      "And not (are) equal the good (deed) and the evil (deed)",
+      "Repel by (that) which [it] (is) better",
+      "then behold One who between you and between him",
+      "(was) enmity (will become) as if he (was) a friend intimate"
+    ],
+    "hint": "This verse teaches the principle of responding to negativity with a superior, positive action.",
+    "arabic": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ",
+    "words": [
+      "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ",
+      "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ",
+      "فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ",
+      "عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ"
+    ],
+    "verseEn": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon, the one whom between you and him is enmity [will become] as though he was a devoted friend."
+  },
+  "juz": {
+    "date": "2026-03-16",
+    "juz_number": 28,
+    "juz_name": "Qad Sami'a",
+    "juz_name_ar": "قَدْ سَمِعَ",
+    "verse": {
+      "surah_number": 59,
+      "surah_name": "Al-Hashr",
+      "surah_name_ar": "الحشر",
+      "ayah_number": 21,
+      "arabic_text": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "translation": "Had We sent down this Quran upon a mountain, you would have seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, so that they may reflect.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5147.mp3"
+    },
+    "theme_question": {
+      "correct": "The profound spiritual weight and impact of the Quran's revelation.",
+      "options": [
+        "The profound spiritual weight and impact of the Quran's revelation.",
+        "The physical strength and endurance of mountains.",
+        "The importance of building mosques on high ground.",
+        "The prohibition against altering the natural landscape."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 59,
+      "options": [
+        {
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "المجادلة",
+          "name_en": "The Pleading Woman"
+        },
+        {
+          "num": 59,
+          "name": "Al-Hashr",
+          "name_ar": "الحشر",
+          "name_en": "The Exile"
+        },
+        {
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "المنافقون",
+          "name_en": "The Hypocrites"
+        },
+        {
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "الطلاق",
+          "name_en": "The Divorce"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "المجادلة",
+          "name_en": "The Pleading Woman"
+        },
+        {
+          "num": 59,
+          "name": "Al-Hashr",
+          "name_ar": "الحشر",
+          "name_en": "The Exile"
+        },
+        {
+          "num": 60,
+          "name": "Al-Mumtahanah",
+          "name_ar": "الممتحنة",
+          "name_en": "She that is to be examined"
+        },
+        {
+          "num": 61,
+          "name": "As-Saff",
+          "name_ar": "الصف",
+          "name_en": "The Ranks"
+        },
+        {
+          "num": 62,
+          "name": "Al-Jumu'ah",
+          "name_ar": "الجمعة",
+          "name_en": "Friday"
+        },
+        {
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "المنافقون",
+          "name_en": "The Hypocrites"
+        },
+        {
+          "num": 64,
+          "name": "At-Taghabun",
+          "name_ar": "التغابن",
+          "name_en": "The Mutual Disillusion"
+        },
+        {
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "الطلاق",
+          "name_en": "The Divorce"
+        },
+        {
+          "num": 66,
+          "name": "At-Tahrim",
+          "name_ar": "التحريم",
+          "name_en": "The Prohibition"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse is one of the final verses of Surah Al-Hashr. After discussing the historical event of the expulsion of the Banu Nadir tribe and contrasting the qualities of the believers and hypocrites, the surah concludes with a powerful reflection on Allah's greatness, His names, and the profound nature of His revelation, the Quran.",
+      "theme_explanation": "The theme is the immense spiritual gravity of the Quran. Allah uses the powerful imagery of a solid, unyielding mountain crumbling to illustrate how a human heart, if truly open, should react to His words—with humility, awe, and reverence. It is a powerful rebuke to hearts that remain hard and unmoved by the divine message and a call for deep reflection (`tafakkur`) on its meanings.",
+      "surah_overview": "Surah Al-Hashr (The Exile) is a Madani surah. Its name is derived from the expulsion of the Jewish tribe of Banu Nadir from Medina after they broke their treaty. The surah details this event, establishes rules for the distribution of spoils, praises the selflessness of the Ansar (helpers), and warns against the hypocrisy of those who ally with the enemies of Islam. It concludes with a magnificent passage about the Quran's impact and a declaration of Allah's most beautiful names and attributes, highlighting His supreme power and wisdom."
+    }
+  }
 }

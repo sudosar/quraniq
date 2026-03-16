@@ -1,29 +1,30 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "puzzle": {
-    "verseRef": "90:4",
-    "reference": "Al-Balad (90:4)",
+    "verseRef": "41:34",
+    "reference": "Fussilat (41:34)",
     "segments": [
-      "لَقَدْ خَلَقْنَا",
-      "ٱلْإِنسَـٰنَ",
-      "فِى",
-      "كَبَدٍ"
+      "وَلَا تَسْتَوِي الْحَسَنَةُ",
+      "وَلَا السَّيِّئَةُ",
+      "ادْفَعْ بِالَّتِي",
+      "هِيَ أَحْسَنُ"
     ],
     "translations": [
-      "Certainly We have created",
-      "man",
-      "(to be) in",
-      "hardship"
+      "And not (are) equal the good (deed) and the evil (deed)",
+      "Repel by (that) which [it] (is) better",
+      "then behold One who between you and between him",
+      "(was) enmity (will become) as if he (was) a friend intimate"
     ],
-    "hint": "This verse speaks about the inherent nature of human life and the struggles it entails.",
-    "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "hint": "This verse teaches the principle of responding to negativity with a superior, positive action.",
+    "arabic": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ",
     "words": [
-      "لَقَدْ خَلَقْنَا",
-      "ٱلْإِنسَـٰنَ",
-      "فِى",
-      "كَبَدٍ"
+      "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ",
+      "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ",
+      "فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ",
+      "عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ"
     ],
-    "verseEn": "We have certainly created man into hardship."
+    "verseEn": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon, the one whom between you and him is enmity [will become] as though he was a devoted friend."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

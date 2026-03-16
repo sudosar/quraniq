@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "puzzle": {
-    "title": "The Turning of the Tide",
-    "intro": "A community stood at the precipice of divine retribution. Their messenger, having departed in frustration, left them to face an impending doom. Yet, in a moment of collective clarity, this group achieved something unprecedented. Follow the story of their last-minute plea that changed their fate.",
+    "title": "The Garden of Delusion",
+    "intro": "Before you stands a figure blessed with immense worldly provision, a paradise on earth seemingly crafted by their own fortune. But within the lush greenery and flowing rivers, a seed of arrogance took root, blinding this soul to the true source of all blessings. Can you uncover the identity of this individual whose story serves as a timeless warning against ingratitude?",
     "clues": [
-      "A messenger was sent to us, calling us to worship the One True God, but we initially turned away in arrogance.",
-      "Our messenger became distressed with our persistent disbelief and left our community, thinking we were beyond hope.",
-      "After the messenger's departure, we saw the signs of a terrible punishment gathering on the horizon, filling our hearts with terror.",
-      "In a moment of desperation, we all gathered—young and old—to repent and cry out to Allah for mercy.",
-      "Unlike other nations who were destroyed, our sincere faith was accepted at the very last moment.",
-      "Our story is mentioned as the sole exception: a town whose belief benefited it after the punishment had become imminent."
+      "I was given two of something that brought me great pride and made me feel superior to my companion.",
+      "I walked through my property, boasting that it would never perish.",
+      "I even expressed doubt about the Final Hour, suggesting that if it did come, I would find something even better in the hereafter.",
+      "My companion, a person of lesser means but greater faith, advised me to remember Allah upon entering my property.",
+      "I argued with my companion, belittling them for having less wealth and fewer allies than I.",
+      "In a single night, a disaster from the sky struck my vines, and by morning, my lush paradise was reduced to barren ruin."
     ],
     "categories": {
       "identity": {
-        "label": "Who are we?",
+        "label": "Who Am I?",
         "options": [
-          "The People of Madyan",
-          "The People of Prophet Nuh",
-          "The People of Prophet Yunus",
-          "The People of 'Ad",
-          "The People of Thamud"
+          "Qarun",
+          "The Owner of the Two Gardens",
+          "The Believer of Ya-Sin",
+          "The Samiri",
+          "The Companions of the Garden (Al-Qalam)"
         ],
-        "answer": "The People of Prophet Yunus"
+        "answer": "The Owner of the Two Gardens"
       },
       "trial": {
-        "label": "What was our pivotal moment?",
+        "label": "What Was My Core Test?",
         "options": [
-          "Splitting the sea to escape a tyrant",
-          "Being tested with a river before a battle",
-          "Repenting just as punishment was about to arrive",
-          "Demanding a table spread with food from the sky",
-          "Arguing over the color of a sacrificial cow"
+          "Withholding Charity from the Poor",
+          "Building a Lofty Tower",
+          "Misleading a Nation with a Golden Calf",
+          "Arrogance and Ingratitude for Blessings",
+          "Betraying a Prophet out of Jealousy"
         ],
-        "answer": "Repenting just as punishment was about to arrive"
+        "answer": "Arrogance and Ingratitude for Blessings"
       },
       "location": {
-        "label": "What was the sign of our doom?",
+        "label": "What Was at the Heart of My Story?",
         "options": [
-          "A she-camel emerging from a rock",
-          "A devastating flood engulfing the land",
-          "A swarm of locusts and frogs",
-          "A dreadful punishment appearing in the sky",
-          "A violent, cold wind lasting for days"
+          "A Golden Calf",
+          "A Magnificent Throne",
+          "Keys to Treasure-houses",
+          "Two Gardens with Vines and Date Palms",
+          "A She-Camel as a Sign"
         ],
-        "answer": "A dreadful punishment appearing in the sky"
+        "answer": "Two Gardens with Vines and Date Palms"
       },
       "outcome": {
-        "label": "What was the result of our actions?",
+        "label": "What Was the Ultimate Outcome?",
         "options": [
-          "We were turned into apes",
-          "Our city was turned upside down",
-          "The punishment was lifted and we were allowed to enjoy our lives for a time",
-          "We were drowned by a great flood",
-          "Our lush gardens were replaced with bitter fruit"
+          "I Was Swallowed by the Earth",
+          "I Was Transformed into an Ape",
+          "My Gardens Were Utterly Destroyed Overnight",
+          "I Was Drowned in the Sea",
+          "I Humbly Submitted to Allah"
         ],
-        "answer": "The punishment was lifted and we were allowed to enjoy our lives for a time"
+        "answer": "My Gardens Were Utterly Destroyed Overnight"
       }
     },
-    "verseRef": "10:98",
-    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
-    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+    "verseRef": "18:42",
+    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
