@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-16",
+  "date": "2026-03-17",
   "puzzle": {
-    "word": "حديد",
-    "display": "حَدِيد",
-    "hint": "A strong metal mentioned as being sent down, from which weapons and tools are made.",
-    "verseRef": "22:21",
-    "arabicVerse": "وَلَهُم مَّقَـٰمِعُ مِنْ حَدِيدٍۢ",
-    "verse": "22:21 — And for [striking] them are maces of iron."
+    "word": "اجر",
+    "display": "أَجْر",
+    "hint": "The wage earned for a good deed.",
+    "verseRef": "9:22",
+    "arabicVerse": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌۭ",
+    "verse": "9:22 — [They will be] abiding therein forever. Indeed, Allāh has with Him a great reward."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

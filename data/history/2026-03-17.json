@@ -1,0 +1,371 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْوَاعُ السَّوَائِلِ",
+        "nameEn": "Types of liquids mentioned in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "خَمْرًا",
+            "en": "Wine",
+            "ref": "12:36",
+            "verse": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+            "verseEn": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing [grapes for] wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\""
+          },
+          {
+            "ar": "لَّبَنًا",
+            "en": "Milk",
+            "ref": "16:66",
+            "verse": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ",
+            "verseEn": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers."
+          },
+          {
+            "ar": "مِدَادًا",
+            "en": "Ink",
+            "ref": "18:109",
+            "verse": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا",
+            "verseEn": "Say, \"If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement.\""
+          },
+          {
+            "ar": "بِٱلدُّهْنِ",
+            "en": "Oil",
+            "ref": "23:20",
+            "verse": "وَشَجَرَةًۭ تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍۢ لِّلْـَٔاكِلِينَ",
+            "verseEn": "And [We brought forth] a tree issuing from Mount Sinai which produces oil and food [i.e., olives] for those who eat."
+          }
+        ]
+      },
+      {
+        "name": "أَثَاثُ الْجَنَّةِ",
+        "nameEn": "Types of furnishings mentioned in Paradise",
+        "color": "green",
+        "items": [
+          {
+            "ar": "نَمَارِقُ",
+            "en": "cushions",
+            "ref": "88:15",
+            "verse": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+            "verseEn": "And cushions lined up"
+          },
+          {
+            "ar": "زَرَابِىُّ",
+            "en": "carpets",
+            "ref": "88:16",
+            "verse": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+            "verseEn": "And carpets spread around."
+          },
+          {
+            "ar": "رَفْرَفٍ",
+            "en": "cushions",
+            "ref": "55:76",
+            "verse": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+            "verseEn": "Reclining on green cushions and beautiful fine carpets."
+          },
+          {
+            "ar": "ٱلْأَرَآئِكِ",
+            "en": "couches",
+            "ref": "36:56",
+            "verse": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+            "verseEn": "They and their spouses - in shade, reclining on adorned couches."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ فَاعِلِينَ فِي صِيغَةِ الْجَمْعِ الْمُؤَنَّثِ تُشِيرُ إِلَى الْمَلَائِكَةِ",
+        "nameEn": "Feminine plural participles used in oaths referring to angels",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلصَّـٰٓفَّـٰتِ",
+            "en": "Those who arrange in ranks",
+            "ref": "37:1",
+            "verse": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا",
+            "verseEn": "By those [angels] lined up in rows"
+          },
+          {
+            "ar": "ٱلزَّٰجِرَٰتِ",
+            "en": "Those who drive",
+            "ref": "37:2",
+            "verse": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا",
+            "verseEn": "And those who drive [the clouds]"
+          },
+          {
+            "ar": "ٱلسَّـٰبِقَـٰتِ",
+            "en": "Those who race ahead",
+            "ref": "79:4",
+            "verse": "فَٱلسَّـٰبِقَـٰتِ سَبْقًۭا",
+            "verseEn": "And those who race each other in a race"
+          },
+          {
+            "ar": "ٱلْمُدَبِّرَٰتِ",
+            "en": "Those who arrange affairs",
+            "ref": "79:5",
+            "verse": "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا",
+            "verseEn": "And those who arrange [each] matter,"
+          }
+        ]
+      },
+      {
+        "name": "أَوَائِلُ كَلِمَاتِ الْآيَاتِ الَّتِي تَبْدَأُ أَجْزَاءً جَدِيدَةً",
+        "nameEn": "First words of verses that begin a new Juz'",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يَعْتَذِرُونَ",
+            "en": "They make excuses",
+            "ref": "9:94",
+            "verse": "يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "They will make excuses to you when you have returned to them. Say, \"Make no excuse - never will we believe you. Allāh has already informed us of your news [i.e., affair]. And Allāh will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.\""
+          },
+          {
+            "ar": "رُّبَمَا",
+            "en": "Perhaps",
+            "ref": "15:2",
+            "verse": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+            "verseEn": "Perhaps those who disbelieve will wish that they had been Muslims."
+          },
+          {
+            "ar": "تَبَٰرَكَ",
+            "en": "Blessed is He",
+            "ref": "67:1",
+            "verse": "تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+            "verseEn": "Blessed is He in whose hand is dominion, and He is over all things competent -"
+          },
+          {
+            "ar": "عَمَّ",
+            "en": "About what",
+            "ref": "78:1",
+            "verse": "عَمَّ يَتَسَآءَلُونَ",
+            "verseEn": "About what are they asking one another?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "اجر",
+    "display": "أَجْر",
+    "hint": "The wage earned for a good deed.",
+    "verseRef": "9:22",
+    "arabicVerse": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌۭ",
+    "verse": "9:22 — [They will be] abiding therein forever. Indeed, Allāh has with Him a great reward."
+  },
+  "deduction": {
+    "title": "The Cradle's Testimony",
+    "intro": "In a moment of profound accusation, when silence would have been an admission of guilt, a miraculous voice emerged from an unlikely source. This newborn soul, a sign for all humanity, was given the power of speech to defend the honor of its guardian and proclaim a divine mission. Can you identify this blessed figure whose very first words were a testament to their miraculous origin and purpose?",
+    "clues": [
+      "My arrival in this world was a sign, and I was blessed from the day I was born.",
+      "I was given the book and appointed a prophet while still an infant in the cradle.",
+      "From clay, I fashioned the shape of a bird, and by Allah's permission, it came to life when I breathed into it.",
+      "By Allah's leave, I healed the one born blind and the leper, and I brought the dead back to life.",
+      "My followers requested a table spread with food from the heavens, and Allah answered our prayer as a sign for them.",
+      "I was not crucified, nor was I killed, but it was made to appear so to them; rather, Allah raised me to Himself."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yahya",
+          "Prophet Ishaq",
+          "Prophet 'Isa",
+          "Prophet Isma'il",
+          "Prophet Musa"
+        ],
+        "answer": "Prophet 'Isa"
+      },
+      "trial": {
+        "label": "What was the central accusation I defended against?",
+        "options": [
+          "A plot of betrayal by my own siblings",
+          "The rebellion of my people who worshipped a golden calf",
+          "An accusation against my mother's chastity",
+          "A test of sacrificing my own child",
+          "An accusation of sorcery against a ruler"
+        ],
+        "answer": "An accusation against my mother's chastity"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A golden calf",
+          "A magnificent palace",
+          "A bird",
+          "A great ark",
+          "A solid iron barrier"
+        ],
+        "answer": "A bird"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "I was raised to Allah and saved from crucifixion",
+          "I was swallowed by a great fish and then saved",
+          "I lived to a very old age and died peacefully",
+          "I was thrown into a fire but remained unharmed",
+          "I was martyred by my own people"
+        ],
+        "answer": "I was raised to Allah and saved from crucifixion"
+      }
+    },
+    "verseRef": "4:157",
+    "arabic": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
+    "verse": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain. (4:157)"
+  },
+  "scramble": {
+    "verseRef": "29:69",
+    "reference": "Al-Ankabut (29:69)",
+    "segments": [
+      "وَالَّذِينَ جَاهَدُوا",
+      "فِينَا",
+      "لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+      "وَإِنَّ اللَّهَ",
+      "لَمَعَ الْمُحْسِنِينَ"
+    ],
+    "translations": [
+      "And those who strive",
+      "for Us We will surely, guide them",
+      "(to) Our ways And indeed",
+      "Allah surely (is) with",
+      "the good-doers"
+    ],
+    "hint": "This verse connects the effort made for God's sake with His promise of guidance and support for the righteous.",
+    "arabic": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+    "words": [
+      "وَٱلَّذِينَ جَـٰهَدُوا۟",
+      "فِينَا لَنَهْدِيَنَّهُمْ",
+      "سُبُلَنَا ۚ وَإِنَّ",
+      "ٱللَّهَ لَمَعَ",
+      "ٱلْمُحْسِنِينَ"
+    ],
+    "verseEn": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allāh is with the doers of good."
+  },
+  "juz": {
+    "date": "2026-03-17",
+    "juz_number": 29,
+    "juz_name": "Tabarak",
+    "juz_name_ar": "تَبَارَكَ",
+    "verse": {
+      "surah_number": 68,
+      "surah_name": "Al-Qalam",
+      "surah_name_ar": "الْقَلَم",
+      "ayah_number": 4,
+      "arabic_text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "translation": "And indeed, you are of a great moral character.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5275.mp3"
+    },
+    "theme_question": {
+      "correct": "The sublime moral character of Prophet Muhammad (ﷺ)",
+      "options": [
+        "The sublime moral character of Prophet Muhammad (ﷺ)",
+        "The obligation of the five daily prayers",
+        "The scientific miracles described in the Quran",
+        "The historical account of the people of 'Ad"
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 68,
+      "options": [
+        {
+          "num": 68,
+          "name": "Al-Qalam",
+          "name_ar": "الْقَلَم",
+          "name_en": "The Pen"
+        },
+        {
+          "num": 67,
+          "name": "Al-Mulk",
+          "name_ar": "الْمُلْك",
+          "name_en": "The Sovereignty"
+        },
+        {
+          "num": 72,
+          "name": "Al-Jinn",
+          "name_ar": "الْجِنّ",
+          "name_en": "The Jinn"
+        },
+        {
+          "num": 51,
+          "name": "Adh-Dhariyat",
+          "name_ar": "الذَّارِيَات",
+          "name_en": "The Winnowing Winds"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 67,
+          "name": "Al-Mulk",
+          "name_ar": "الْمُلْك",
+          "name_en": "The Sovereignty"
+        },
+        {
+          "num": 68,
+          "name": "Al-Qalam",
+          "name_ar": "الْقَلَم",
+          "name_en": "The Pen"
+        },
+        {
+          "num": 69,
+          "name": "Al-Haqqah",
+          "name_ar": "الْحَاقَّة",
+          "name_en": "The Reality"
+        },
+        {
+          "num": 70,
+          "name": "Al-Ma'arij",
+          "name_ar": "الْمَعَارِج",
+          "name_en": "The Ascending Stairways"
+        },
+        {
+          "num": 71,
+          "name": "Nuh",
+          "name_ar": "نُوح",
+          "name_en": "Noah"
+        },
+        {
+          "num": 72,
+          "name": "Al-Jinn",
+          "name_ar": "الْجِنّ",
+          "name_en": "The Jinn"
+        },
+        {
+          "num": 73,
+          "name": "Al-Muzzammil",
+          "name_ar": "الْمُزَّمِّل",
+          "name_en": "The Enshrouded One"
+        },
+        {
+          "num": 74,
+          "name": "Al-Muddaththir",
+          "name_ar": "الْمُدَّثِّر",
+          "name_en": "The Cloaked One"
+        },
+        {
+          "num": 75,
+          "name": "Al-Qiyamah",
+          "name_ar": "الْقِيَامَة",
+          "name_en": "The Resurrection"
+        },
+        {
+          "num": 76,
+          "name": "Al-Insan",
+          "name_ar": "الْإِنسَان",
+          "name_en": "Man"
+        },
+        {
+          "num": 77,
+          "name": "Al-Mursalat",
+          "name_ar": "الْمُرْسَلَات",
+          "name_en": "The Emissaries"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse was revealed in Makkah as a divine testimony to the Prophet Muhammad's (ﷺ) character, in response to the disbelievers who slandered him. It affirms that his conduct was not something he fabricated but was a reflection of the divine guidance he received. It stands as a powerful defense and an honor from Allah.",
+      "theme_explanation": "The theme is the perfection of the Prophet's (ﷺ) character ('khuluq'). The term 'khuluq 'azim' (great moral character) is comprehensive, encompassing all virtues like patience, mercy, truthfulness, humility, and justice. This verse establishes him as the ultimate role model for humanity, a 'walking Quran' whose life was the practical application of its teachings.",
+      "surah_overview": "Surah Al-Qalam, named after the pen mentioned in the first verse, is a Makkan surah. It begins by swearing by the pen and what is written, defending the Prophet (ﷺ) against accusations of madness. It contrasts the fate of the believers with that of the deniers, using the parable of the 'Companions of the Garden' to warn against arrogance and ingratitude. The surah concludes by encouraging the Prophet to be patient and steadfast in his mission."
+    }
+  }
+}

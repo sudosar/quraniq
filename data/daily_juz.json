@@ -1,120 +1,133 @@
 {
-  "date": "2026-03-16",
+  "date": "2026-03-17",
   "puzzle": {
-    "date": "2026-03-16",
-    "juz_number": 28,
-    "juz_name": "Qad Sami'a",
-    "juz_name_ar": "قَدْ سَمِعَ",
+    "date": "2026-03-17",
+    "juz_number": 29,
+    "juz_name": "Tabarak",
+    "juz_name_ar": "تَبَارَكَ",
     "verse": {
-      "surah_number": 59,
-      "surah_name": "Al-Hashr",
-      "surah_name_ar": "الحشر",
-      "ayah_number": 21,
-      "arabic_text": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
-      "translation": "Had We sent down this Quran upon a mountain, you would have seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, so that they may reflect.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5147.mp3"
+      "surah_number": 68,
+      "surah_name": "Al-Qalam",
+      "surah_name_ar": "الْقَلَم",
+      "ayah_number": 4,
+      "arabic_text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "translation": "And indeed, you are of a great moral character.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5275.mp3"
     },
     "theme_question": {
-      "correct": "The profound spiritual weight and impact of the Quran's revelation.",
+      "correct": "The sublime moral character of Prophet Muhammad (ﷺ)",
       "options": [
-        "The profound spiritual weight and impact of the Quran's revelation.",
-        "The physical strength and endurance of mountains.",
-        "The importance of building mosques on high ground.",
-        "The prohibition against altering the natural landscape."
+        "The sublime moral character of Prophet Muhammad (ﷺ)",
+        "The obligation of the five daily prayers",
+        "The scientific miracles described in the Quran",
+        "The historical account of the people of 'Ad"
       ]
     },
     "surah_question": {
-      "correct_surah": 59,
+      "correct_surah": 68,
       "options": [
         {
-          "num": 58,
-          "name": "Al-Mujadila",
-          "name_ar": "المجادلة",
-          "name_en": "The Pleading Woman"
+          "num": 68,
+          "name": "Al-Qalam",
+          "name_ar": "الْقَلَم",
+          "name_en": "The Pen"
         },
         {
-          "num": 59,
-          "name": "Al-Hashr",
-          "name_ar": "الحشر",
-          "name_en": "The Exile"
+          "num": 67,
+          "name": "Al-Mulk",
+          "name_ar": "الْمُلْك",
+          "name_en": "The Sovereignty"
         },
         {
-          "num": 63,
-          "name": "Al-Munafiqun",
-          "name_ar": "المنافقون",
-          "name_en": "The Hypocrites"
+          "num": 72,
+          "name": "Al-Jinn",
+          "name_ar": "الْجِنّ",
+          "name_en": "The Jinn"
         },
         {
-          "num": 65,
-          "name": "At-Talaq",
-          "name_ar": "الطلاق",
-          "name_en": "The Divorce"
+          "num": 51,
+          "name": "Adh-Dhariyat",
+          "name_ar": "الذَّارِيَات",
+          "name_en": "The Winnowing Winds"
         }
       ]
     },
     "surah_order": {
       "surahs": [
         {
-          "num": 58,
-          "name": "Al-Mujadila",
-          "name_ar": "المجادلة",
-          "name_en": "The Pleading Woman"
+          "num": 67,
+          "name": "Al-Mulk",
+          "name_ar": "الْمُلْك",
+          "name_en": "The Sovereignty"
         },
         {
-          "num": 59,
-          "name": "Al-Hashr",
-          "name_ar": "الحشر",
-          "name_en": "The Exile"
+          "num": 68,
+          "name": "Al-Qalam",
+          "name_ar": "الْقَلَم",
+          "name_en": "The Pen"
         },
         {
-          "num": 60,
-          "name": "Al-Mumtahanah",
-          "name_ar": "الممتحنة",
-          "name_en": "She that is to be examined"
+          "num": 69,
+          "name": "Al-Haqqah",
+          "name_ar": "الْحَاقَّة",
+          "name_en": "The Reality"
         },
         {
-          "num": 61,
-          "name": "As-Saff",
-          "name_ar": "الصف",
-          "name_en": "The Ranks"
+          "num": 70,
+          "name": "Al-Ma'arij",
+          "name_ar": "الْمَعَارِج",
+          "name_en": "The Ascending Stairways"
         },
         {
-          "num": 62,
-          "name": "Al-Jumu'ah",
-          "name_ar": "الجمعة",
-          "name_en": "Friday"
+          "num": 71,
+          "name": "Nuh",
+          "name_ar": "نُوح",
+          "name_en": "Noah"
         },
         {
-          "num": 63,
-          "name": "Al-Munafiqun",
-          "name_ar": "المنافقون",
-          "name_en": "The Hypocrites"
+          "num": 72,
+          "name": "Al-Jinn",
+          "name_ar": "الْجِنّ",
+          "name_en": "The Jinn"
         },
         {
-          "num": 64,
-          "name": "At-Taghabun",
-          "name_ar": "التغابن",
-          "name_en": "The Mutual Disillusion"
+          "num": 73,
+          "name": "Al-Muzzammil",
+          "name_ar": "الْمُزَّمِّل",
+          "name_en": "The Enshrouded One"
         },
         {
-          "num": 65,
-          "name": "At-Talaq",
-          "name_ar": "الطلاق",
-          "name_en": "The Divorce"
+          "num": 74,
+          "name": "Al-Muddaththir",
+          "name_ar": "الْمُدَّثِّر",
+          "name_en": "The Cloaked One"
         },
         {
-          "num": 66,
-          "name": "At-Tahrim",
-          "name_ar": "التحريم",
-          "name_en": "The Prohibition"
+          "num": 75,
+          "name": "Al-Qiyamah",
+          "name_ar": "الْقِيَامَة",
+          "name_en": "The Resurrection"
+        },
+        {
+          "num": 76,
+          "name": "Al-Insan",
+          "name_ar": "الْإِنسَان",
+          "name_en": "Man"
+        },
+        {
+          "num": 77,
+          "name": "Al-Mursalat",
+          "name_ar": "الْمُرْسَلَات",
+          "name_en": "The Emissaries"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse is one of the final verses of Surah Al-Hashr. After discussing the historical event of the expulsion of the Banu Nadir tribe and contrasting the qualities of the believers and hypocrites, the surah concludes with a powerful reflection on Allah's greatness, His names, and the profound nature of His revelation, the Quran.",
-      "theme_explanation": "The theme is the immense spiritual gravity of the Quran. Allah uses the powerful imagery of a solid, unyielding mountain crumbling to illustrate how a human heart, if truly open, should react to His words—with humility, awe, and reverence. It is a powerful rebuke to hearts that remain hard and unmoved by the divine message and a call for deep reflection (`tafakkur`) on its meanings.",
-      "surah_overview": "Surah Al-Hashr (The Exile) is a Madani surah. Its name is derived from the expulsion of the Jewish tribe of Banu Nadir from Medina after they broke their treaty. The surah details this event, establishes rules for the distribution of spoils, praises the selflessness of the Ansar (helpers), and warns against the hypocrisy of those who ally with the enemies of Islam. It concludes with a magnificent passage about the Quran's impact and a declaration of Allah's most beautiful names and attributes, highlighting His supreme power and wisdom."
+      "verse_context": "This verse was revealed in Makkah as a divine testimony to the Prophet Muhammad's (ﷺ) character, in response to the disbelievers who slandered him. It affirms that his conduct was not something he fabricated but was a reflection of the divine guidance he received. It stands as a powerful defense and an honor from Allah.",
+      "theme_explanation": "The theme is the perfection of the Prophet's (ﷺ) character ('khuluq'). The term 'khuluq 'azim' (great moral character) is comprehensive, encompassing all virtues like patience, mercy, truthfulness, humility, and justice. This verse establishes him as the ultimate role model for humanity, a 'walking Quran' whose life was the practical application of its teachings.",
+      "surah_overview": "Surah Al-Qalam, named after the pen mentioned in the first verse, is a Makkan surah. It begins by swearing by the pen and what is written, defending the Prophet (ﷺ) against accusations of madness. It contrasts the fate of the believers with that of the deniers, using the parable of the 'Companions of the Garden' to warn against arrogance and ingratitude. The surah concludes by encouraging the Prophet to be patient and steadfast in his mission."
     }
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

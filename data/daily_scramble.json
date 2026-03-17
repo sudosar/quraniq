@@ -1,29 +1,33 @@
 {
-  "date": "2026-03-16",
+  "date": "2026-03-17",
   "puzzle": {
-    "verseRef": "41:34",
-    "reference": "Fussilat (41:34)",
+    "verseRef": "29:69",
+    "reference": "Al-Ankabut (29:69)",
     "segments": [
-      "وَلَا تَسْتَوِي الْحَسَنَةُ",
-      "وَلَا السَّيِّئَةُ",
-      "ادْفَعْ بِالَّتِي",
-      "هِيَ أَحْسَنُ"
+      "وَالَّذِينَ جَاهَدُوا",
+      "فِينَا",
+      "لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+      "وَإِنَّ اللَّهَ",
+      "لَمَعَ الْمُحْسِنِينَ"
     ],
     "translations": [
-      "And not (are) equal the good (deed) and the evil (deed)",
-      "Repel by (that) which [it] (is) better",
-      "then behold One who between you and between him",
-      "(was) enmity (will become) as if he (was) a friend intimate"
+      "And those who strive",
+      "for Us We will surely, guide them",
+      "(to) Our ways And indeed",
+      "Allah surely (is) with",
+      "the good-doers"
     ],
-    "hint": "This verse teaches the principle of responding to negativity with a superior, positive action.",
-    "arabic": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ",
+    "hint": "This verse connects the effort made for God's sake with His promise of guidance and support for the righteous.",
+    "arabic": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
     "words": [
-      "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ",
-      "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ",
-      "فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ",
-      "عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ"
+      "وَٱلَّذِينَ جَـٰهَدُوا۟",
+      "فِينَا لَنَهْدِيَنَّهُمْ",
+      "سُبُلَنَا ۚ وَإِنَّ",
+      "ٱللَّهَ لَمَعَ",
+      "ٱلْمُحْسِنِينَ"
     ],
-    "verseEn": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon, the one whom between you and him is enmity [will become] as though he was a devoted friend."
+    "verseEn": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allāh is with the doers of good."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

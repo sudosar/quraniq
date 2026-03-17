@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-16",
+  "date": "2026-03-17",
   "puzzle": {
-    "title": "The Garden of Delusion",
-    "intro": "Before you stands a figure blessed with immense worldly provision, a paradise on earth seemingly crafted by their own fortune. But within the lush greenery and flowing rivers, a seed of arrogance took root, blinding this soul to the true source of all blessings. Can you uncover the identity of this individual whose story serves as a timeless warning against ingratitude?",
+    "title": "The Cradle's Testimony",
+    "intro": "In a moment of profound accusation, when silence would have been an admission of guilt, a miraculous voice emerged from an unlikely source. This newborn soul, a sign for all humanity, was given the power of speech to defend the honor of its guardian and proclaim a divine mission. Can you identify this blessed figure whose very first words were a testament to their miraculous origin and purpose?",
     "clues": [
-      "I was given two of something that brought me great pride and made me feel superior to my companion.",
-      "I walked through my property, boasting that it would never perish.",
-      "I even expressed doubt about the Final Hour, suggesting that if it did come, I would find something even better in the hereafter.",
-      "My companion, a person of lesser means but greater faith, advised me to remember Allah upon entering my property.",
-      "I argued with my companion, belittling them for having less wealth and fewer allies than I.",
-      "In a single night, a disaster from the sky struck my vines, and by morning, my lush paradise was reduced to barren ruin."
+      "My arrival in this world was a sign, and I was blessed from the day I was born.",
+      "I was given the book and appointed a prophet while still an infant in the cradle.",
+      "From clay, I fashioned the shape of a bird, and by Allah's permission, it came to life when I breathed into it.",
+      "By Allah's leave, I healed the one born blind and the leper, and I brought the dead back to life.",
+      "My followers requested a table spread with food from the heavens, and Allah answered our prayer as a sign for them.",
+      "I was not crucified, nor was I killed, but it was made to appear so to them; rather, Allah raised me to Himself."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Qarun",
-          "The Owner of the Two Gardens",
-          "The Believer of Ya-Sin",
-          "The Samiri",
-          "The Companions of the Garden (Al-Qalam)"
+          "Prophet Yahya",
+          "Prophet Ishaq",
+          "Prophet 'Isa",
+          "Prophet Isma'il",
+          "Prophet Musa"
         ],
-        "answer": "The Owner of the Two Gardens"
+        "answer": "Prophet 'Isa"
       },
       "trial": {
-        "label": "What Was My Core Test?",
+        "label": "What was the central accusation I defended against?",
         "options": [
-          "Withholding Charity from the Poor",
-          "Building a Lofty Tower",
-          "Misleading a Nation with a Golden Calf",
-          "Arrogance and Ingratitude for Blessings",
-          "Betraying a Prophet out of Jealousy"
+          "A plot of betrayal by my own siblings",
+          "The rebellion of my people who worshipped a golden calf",
+          "An accusation against my mother's chastity",
+          "A test of sacrificing my own child",
+          "An accusation of sorcery against a ruler"
         ],
-        "answer": "Arrogance and Ingratitude for Blessings"
+        "answer": "An accusation against my mother's chastity"
       },
       "location": {
-        "label": "What Was at the Heart of My Story?",
+        "label": "Key Element",
         "options": [
-          "A Golden Calf",
-          "A Magnificent Throne",
-          "Keys to Treasure-houses",
-          "Two Gardens with Vines and Date Palms",
-          "A She-Camel as a Sign"
+          "A golden calf",
+          "A magnificent palace",
+          "A bird",
+          "A great ark",
+          "A solid iron barrier"
         ],
-        "answer": "Two Gardens with Vines and Date Palms"
+        "answer": "A bird"
       },
       "outcome": {
-        "label": "What Was the Ultimate Outcome?",
+        "label": "Outcome",
         "options": [
-          "I Was Swallowed by the Earth",
-          "I Was Transformed into an Ape",
-          "My Gardens Were Utterly Destroyed Overnight",
-          "I Was Drowned in the Sea",
-          "I Humbly Submitted to Allah"
+          "I was raised to Allah and saved from crucifixion",
+          "I was swallowed by a great fish and then saved",
+          "I lived to a very old age and died peacefully",
+          "I was thrown into a fire but remained unharmed",
+          "I was martyred by my own people"
         ],
-        "answer": "My Gardens Were Utterly Destroyed Overnight"
+        "answer": "I was raised to Allah and saved from crucifixion"
       }
     },
-    "verseRef": "18:42",
-    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
-    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
+    "verseRef": "4:157",
+    "arabic": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
+    "verse": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain. (4:157)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
