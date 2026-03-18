@@ -1,0 +1,524 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "حَيَوَانَاتٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Animals mentioned in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلْفَرَاشِ",
+            "en": "The Moths",
+            "ref": "101:4",
+            "verse": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "verseEn": "It is the Day when people will be like moths, dispersed,"
+          },
+          {
+            "ar": "جَرَادٌ",
+            "en": "Locusts",
+            "ref": "54:7",
+            "verse": "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌۭ مُّنتَشِرٌۭ",
+            "verseEn": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,"
+          },
+          {
+            "ar": "ثُعْبَانٌ",
+            "en": "Serpent",
+            "ref": "7:107",
+            "verse": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌۭ مُّبِينٌۭ",
+            "verseEn": "So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest."
+          },
+          {
+            "ar": "قِرَدَةً",
+            "en": "Apes",
+            "ref": "2:65",
+            "verse": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+            "verseEn": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\""
+          }
+        ]
+      },
+      {
+        "name": "أَوْصَافٌ لِسَطْحِ الْأَرْضِ وَمُكَوِّنَاتِهِ",
+        "nameEn": "Terms describing the state or composition of the earth's surface",
+        "color": "green",
+        "items": [
+          {
+            "ar": "غُثَآءً",
+            "en": "Debris",
+            "ref": "23:41",
+            "verse": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءًۭ ۚ فَبُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "So the shriek seized them in truth, and We made them as [plant] stubble. Then away with the wrongdoing people."
+          },
+          {
+            "ar": "صَلْدًا",
+            "en": "Bare rock",
+            "ref": "2:264",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌۭ فَأَصَابَهُۥ وَابِلٌۭ فَتَرَكَهُۥ صَلْدًۭا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+            "verseEn": "O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people."
+          },
+          {
+            "ar": "صَعِيدًا",
+            "en": "Soil / Dust",
+            "ref": "4:43",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَـٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+            "verseEn": "O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying or in a state of janābah, except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning and Forgiving."
+          },
+          {
+            "ar": "جُرُزًا",
+            "en": "Barren",
+            "ref": "18:8",
+            "verse": "وَإِنَّا لَجَـٰعِلُونَ مَا عَلَيْهَا صَعِيدًۭا جُرُزًا",
+            "verseEn": "And indeed, We will make that which is upon it [into] a barren ground."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ أَفْعَالٍ بِمَعْنَى الْأَمْرِ",
+        "nameEn": "Nouns that function as imperative verbs (Ism Fi'l Amr)",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "هَيْتَ",
+            "en": "Come!",
+            "ref": "12:23",
+            "verse": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "And she, in whose house he was, sought to seduce him. She closed the doors and said, \"Come, you.\" He said, \"[I seek] the refuge of Allāh. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\""
+          },
+          {
+            "ar": "هَلُمَّ",
+            "en": "Come forth!",
+            "ref": "33:18",
+            "verse": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+            "verseEn": "Already Allāh knows the hinderers among you and those [hypocrites] who say to their brothers, \"Come to us,\" and do not go to battle, except for a few,"
+          },
+          {
+            "ar": "عَلَيْكُمْ",
+            "en": "Take charge of",
+            "ref": "5:105",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do."
+          },
+          {
+            "ar": "مَكَانَكُمْ",
+            "en": "Stay in your place!",
+            "ref": "10:28",
+            "verse": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ",
+            "verseEn": "And [mention, O Muḥammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\" Then We will separate them, and their \"partners\" will say, \"You did not used to worship us,"
+          }
+        ]
+      },
+      {
+        "name": "أَوَائِلُ آيَاتِ السَّجْدَةِ",
+        "nameEn": "First word of verses containing a prostration (Sajdah)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "إِنَّ",
+            "en": "Indeed",
+            "ref": "7:206",
+            "verse": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩",
+            "verseEn": "Indeed, those who are near your Lord [i.e., the angels] are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate."
+          },
+          {
+            "ar": "وَلِلَّهِ",
+            "en": "And to Allah",
+            "ref": "13:15",
+            "verse": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَـٰلُهُم بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ ۩",
+            "verseEn": "And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons."
+          },
+          {
+            "ar": "أُو۟لَـٰٓئِكَ",
+            "en": "Those are",
+            "ref": "19:58",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩",
+            "verseEn": "Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping."
+          },
+          {
+            "ar": "يَـٰٓأَيُّهَا",
+            "en": "O you who",
+            "ref": "22:77",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+            "verseEn": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شورى",
+    "display": "شُورَىٰ",
+    "hint": "A principle of collective decision-making mentioned in the Quran.",
+    "verseRef": "42:38",
+    "arabicVerse": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "verse": "42:38 — And those who have responded to their Lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend,"
+  },
+  "deduction": {
+    "title": "The Warning Carried on the Wind",
+    "intro": "A messenger was sent to a people of immense power and arrogance, who built magnificent structures as if they would live forever. This individual's call to truth was met with scorn and ridicule, but their warning of a coming storm was a test of faith that would shake the very foundations of their civilization. Can you identify this steadfast soul?",
+    "clues": [
+      "I was sent to my own brethren, a people known for their great physical strength and architectural skill.",
+      "I warned them about their pride in their constructions, asking if they built landmarks on every high place for mere amusement.",
+      "My people accused me of foolishness and falsehood, rejecting my call to fear Allah and obey my message.",
+      "They challenged me to bring the punishment I spoke of, confident in the power of their idols and their own might.",
+      "I reminded them of how Allah had made them successors after the people of Nuh, and had increased them in stature.",
+      "When they saw a dense cloud approaching, they rejoiced thinking it was rain, but I knew it was the destructive, furious wind that Allah had promised."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Salih",
+          "Prophet Hud",
+          "Prophet Nuh",
+          "Prophet Shu'ayb",
+          "Prophet Lut"
+        ],
+        "answer": "Prophet Hud"
+      },
+      "trial": {
+        "label": "What Was My Primary Trial?",
+        "options": [
+          "Convincing my people to abandon a golden calf.",
+          "Calling the arrogant people of 'Ad to monotheism.",
+          "Dealing with the deceit of my brothers in a well.",
+          "Confronting a king who claimed divinity and threw me into a fire.",
+          "Persuading my people to stop cheating in weights and measures."
+        ],
+        "answer": "Calling the arrogant people of 'Ad to monotheism."
+      },
+      "location": {
+        "label": "What Was the Punishment?",
+        "options": [
+          "A great flood that covered the earth.",
+          "A shower of stones of baked clay.",
+          "A furious and destructive wind (Sarsar).",
+          "A mighty earthquake and a terrible cry (Sayhah).",
+          "Being transformed into apes."
+        ],
+        "answer": "A furious and destructive wind (Sarsar)."
+      },
+      "outcome": {
+        "label": "What Was the Outcome?",
+        "options": [
+          "I was swallowed by a giant fish but later saved.",
+          "I and the believers with me were saved by Allah's mercy.",
+          "I was raised to the heavens without experiencing death.",
+          "I was given a kingdom and the ability to understand animals.",
+          "My people all believed and their punishment was averted."
+        ],
+        "answer": "I and the believers with me were saved by Allah's mercy."
+      }
+    },
+    "verseRef": "46:21",
+    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
+  },
+  "scramble": {
+    "verseRef": "2:286",
+    "reference": "Al-Baqarah (2:286)",
+    "segments": [
+      "لَا يُكَلِّفُ ٱللَّهُ",
+      "نَفْسًا",
+      "إِلَّا",
+      "وُسْعَهَا"
+    ],
+    "translations": [
+      "(Does) not burden Allah any soul except its capacity for it what it earned and against it what it earned Our Lord",
+      "(Do) not take us to task if we forget or we err Our Lord And (do) not lay upon us a burden like that",
+      "(which) You laid [it] on those who (were) from before us Our Lord [And] (do) not lay on us what not (the) strength we have",
+      "[of it] (to bear) And pardon [from] us and forgive [for] us and have mercy on us You (are) our Protector so help us against the people  [the] disbelievers"
+    ],
+    "hint": "This verse speaks of Allah's mercy and justice in assigning responsibilities to humankind.",
+    "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "words": [
+      "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا",
+      "لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا",
+      "حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا",
+      "بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+    ],
+    "verseEn": "Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
+  },
+  "juz": {
+    "date": "2026-03-18",
+    "juz_number": 30,
+    "juz_name": "'Amma",
+    "juz_name_ar": "عَمَّ",
+    "verse": {
+      "surah_number": 94,
+      "surah_name": "Al-Inshirah",
+      "surah_name_ar": "الشَّرْح",
+      "ayah_number": 5,
+      "arabic_text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": "So, surely with hardship comes ease.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6095.mp3"
+    },
+    "theme_question": {
+      "correct": "The divine promise that ease is intrinsically linked with hardship.",
+      "options": [
+        "The divine promise that ease is intrinsically linked with hardship.",
+        "A command to seek ease only after hardship has completely passed.",
+        "The idea that worldly hardship is a punishment with no relief.",
+        "A suggestion that ease and hardship are unrelated, random events."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 94,
+      "options": [
+        {
+          "num": 93,
+          "name": "Ad-Duhaa",
+          "name_ar": "الضُّحَىٰ",
+          "name_en": "The Morning Brightness"
+        },
+        {
+          "num": 94,
+          "name": "Al-Inshirah",
+          "name_ar": "الشَّرْح",
+          "name_en": "The Relief"
+        },
+        {
+          "num": 95,
+          "name": "At-Tin",
+          "name_ar": "التِّيْن",
+          "name_en": "The Fig"
+        },
+        {
+          "num": 92,
+          "name": "Al-Layl",
+          "name_ar": "الَّيْل",
+          "name_en": "The Night"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 78,
+          "name": "An-Naba'",
+          "name_ar": "النَّبَأ",
+          "name_en": "The Tidings"
+        },
+        {
+          "num": 79,
+          "name": "An-Nazi'at",
+          "name_ar": "النَّازِعَات",
+          "name_en": "Those Who Drag Forth"
+        },
+        {
+          "num": 80,
+          "name": "'Abasa",
+          "name_ar": "عَبَسَ",
+          "name_en": "He Frowned"
+        },
+        {
+          "num": 81,
+          "name": "At-Takwir",
+          "name_ar": "التَّكْوِيْر",
+          "name_en": "The Overthrowing"
+        },
+        {
+          "num": 82,
+          "name": "Al-Infitar",
+          "name_ar": "الْإِنْفِطَار",
+          "name_en": "The Cleaving"
+        },
+        {
+          "num": 83,
+          "name": "Al-Mutaffifin",
+          "name_ar": "الْمُطَفِّفِيْن",
+          "name_en": "The Defrauding"
+        },
+        {
+          "num": 84,
+          "name": "Al-Inshiqaq",
+          "name_ar": "الْإِنْشِقَاق",
+          "name_en": "The Sundering"
+        },
+        {
+          "num": 85,
+          "name": "Al-Buruj",
+          "name_ar": "الْبُرُوْج",
+          "name_en": "The Mansions of the Stars"
+        },
+        {
+          "num": 86,
+          "name": "At-Tariq",
+          "name_ar": "الطَّارِق",
+          "name_en": "The Nightcommer"
+        },
+        {
+          "num": 87,
+          "name": "Al-A'la",
+          "name_ar": "الْأَعْلَى",
+          "name_en": "The Most High"
+        },
+        {
+          "num": 88,
+          "name": "Al-Ghashiyah",
+          "name_ar": "الْغَاشِيَة",
+          "name_en": "The Overwhelming"
+        },
+        {
+          "num": 89,
+          "name": "Al-Fajr",
+          "name_ar": "الْفَجْر",
+          "name_en": "The Dawn"
+        },
+        {
+          "num": 90,
+          "name": "Al-Balad",
+          "name_ar": "الْبَلَد",
+          "name_en": "The City"
+        },
+        {
+          "num": 91,
+          "name": "Ash-Shams",
+          "name_ar": "الشَّمْس",
+          "name_en": "The Sun"
+        },
+        {
+          "num": 92,
+          "name": "Al-Layl",
+          "name_ar": "الَّيْل",
+          "name_en": "The Night"
+        },
+        {
+          "num": 93,
+          "name": "Ad-Duhaa",
+          "name_ar": "الضُّحَىٰ",
+          "name_en": "The Morning Brightness"
+        },
+        {
+          "num": 94,
+          "name": "Al-Inshirah",
+          "name_ar": "الشَّرْح",
+          "name_en": "The Relief"
+        },
+        {
+          "num": 95,
+          "name": "At-Tin",
+          "name_ar": "التِّيْن",
+          "name_en": "The Fig"
+        },
+        {
+          "num": 96,
+          "name": "Al-'Alaq",
+          "name_ar": "الْعَلَق",
+          "name_en": "The Clot"
+        },
+        {
+          "num": 97,
+          "name": "Al-Qadr",
+          "name_ar": "الْقَدْر",
+          "name_en": "The Power"
+        },
+        {
+          "num": 98,
+          "name": "Al-Bayyinah",
+          "name_ar": "الْبَيِّنَة",
+          "name_en": "The Clear Proof"
+        },
+        {
+          "num": 99,
+          "name": "Az-Zalzalah",
+          "name_ar": "الزَّلْزَلَة",
+          "name_en": "The Earthquake"
+        },
+        {
+          "num": 100,
+          "name": "Al-'Adiyat",
+          "name_ar": "الْعَادِيَات",
+          "name_en": "The Courser"
+        },
+        {
+          "num": 101,
+          "name": "Al-Qari'ah",
+          "name_ar": "الْقَارِعَة",
+          "name_en": "The Calamity"
+        },
+        {
+          "num": 102,
+          "name": "At-Takathur",
+          "name_ar": "التَّكَاثُر",
+          "name_en": "The Rivalry in Worldly Increase"
+        },
+        {
+          "num": 103,
+          "name": "Al-'Asr",
+          "name_ar": "الْعَصْر",
+          "name_en": "The Declining Day"
+        },
+        {
+          "num": 104,
+          "name": "Al-Humazah",
+          "name_ar": "الْهُمَزَة",
+          "name_en": "The Traducer"
+        },
+        {
+          "num": 105,
+          "name": "Al-Fil",
+          "name_ar": "الْفِيْل",
+          "name_en": "The Elephant"
+        },
+        {
+          "num": 106,
+          "name": "Quraysh",
+          "name_ar": "قُرَيْش",
+          "name_en": "Quraysh"
+        },
+        {
+          "num": 107,
+          "name": "Al-Ma'un",
+          "name_ar": "الْمَاعُوْن",
+          "name_en": "The Small Kindnesses"
+        },
+        {
+          "num": 108,
+          "name": "Al-Kawthar",
+          "name_ar": "الْكَوْثَر",
+          "name_en": "The Abundance"
+        },
+        {
+          "num": 109,
+          "name": "Al-Kafirun",
+          "name_ar": "الْكَافِرُوْن",
+          "name_en": "The Disbelievers"
+        },
+        {
+          "num": 110,
+          "name": "An-Nasr",
+          "name_ar": "النَّصْر",
+          "name_en": "The Divine Support"
+        },
+        {
+          "num": 111,
+          "name": "Al-Masad",
+          "name_ar": "الْمَسَد",
+          "name_en": "The Palm Fiber"
+        },
+        {
+          "num": 112,
+          "name": "Al-Ikhlas",
+          "name_ar": "الْإِخْلَاص",
+          "name_en": "The Sincerity"
+        },
+        {
+          "num": 113,
+          "name": "Al-Falaq",
+          "name_ar": "الْفَلَق",
+          "name_en": "The Daybreak"
+        },
+        {
+          "num": 114,
+          "name": "An-Nas",
+          "name_ar": "النَّاس",
+          "name_en": "Mankind"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse was revealed in Makkah during a period of intense hardship for Prophet Muhammad (ﷺ) and the early Muslims. It serves as a direct consolation from Allah, reminding the Prophet that the difficulties he was facing were temporary and that relief was not just coming after, but was present *with* the struggle. The verse is repeated for emphasis in the next ayah (94:6).",
+      "theme_explanation": "The theme is one of divine hope and resilience. The Arabic word 'ma'a' (مَعَ) means 'with', not 'ba'da' (بَعْدَ) which means 'after'. This subtle but profound choice of words teaches that ease is not a separate event that follows hardship, but is intrinsically connected to it. The very process of enduring hardship with faith and patience is a source of spiritual ease and brings one closer to the ultimate relief from Allah. It's a universal principle for believers facing any trial.",
+      "surah_overview": "Surah Al-Inshirah, meaning 'The Relief' or 'The Opening-Forth,' is the 94th surah of the Quran. It is a short Makkan surah of 8 verses, revealed to comfort and reassure Prophet Muhammad (ﷺ). The surah begins by reminding the Prophet of the blessings Allah has bestowed upon him, such as opening his heart and removing his burdens. It then presents the core principle that with every hardship comes ease, repeating it for emphasis. The surah concludes by advising the Prophet to turn to his Lord with devotion and supplication once his immediate tasks are completed."
+    }
+  }
+}

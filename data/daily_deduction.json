@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "puzzle": {
-    "title": "The Cradle's Testimony",
-    "intro": "In a moment of profound accusation, when silence would have been an admission of guilt, a miraculous voice emerged from an unlikely source. This newborn soul, a sign for all humanity, was given the power of speech to defend the honor of its guardian and proclaim a divine mission. Can you identify this blessed figure whose very first words were a testament to their miraculous origin and purpose?",
+    "title": "The Warning Carried on the Wind",
+    "intro": "A messenger was sent to a people of immense power and arrogance, who built magnificent structures as if they would live forever. This individual's call to truth was met with scorn and ridicule, but their warning of a coming storm was a test of faith that would shake the very foundations of their civilization. Can you identify this steadfast soul?",
     "clues": [
-      "My arrival in this world was a sign, and I was blessed from the day I was born.",
-      "I was given the book and appointed a prophet while still an infant in the cradle.",
-      "From clay, I fashioned the shape of a bird, and by Allah's permission, it came to life when I breathed into it.",
-      "By Allah's leave, I healed the one born blind and the leper, and I brought the dead back to life.",
-      "My followers requested a table spread with food from the heavens, and Allah answered our prayer as a sign for them.",
-      "I was not crucified, nor was I killed, but it was made to appear so to them; rather, Allah raised me to Himself."
+      "I was sent to my own brethren, a people known for their great physical strength and architectural skill.",
+      "I warned them about their pride in their constructions, asking if they built landmarks on every high place for mere amusement.",
+      "My people accused me of foolishness and falsehood, rejecting my call to fear Allah and obey my message.",
+      "They challenged me to bring the punishment I spoke of, confident in the power of their idols and their own might.",
+      "I reminded them of how Allah had made them successors after the people of Nuh, and had increased them in stature.",
+      "When they saw a dense cloud approaching, they rejoiced thinking it was rain, but I knew it was the destructive, furious wind that Allah had promised."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Yahya",
-          "Prophet Ishaq",
-          "Prophet 'Isa",
-          "Prophet Isma'il",
-          "Prophet Musa"
+          "Prophet Salih",
+          "Prophet Hud",
+          "Prophet Nuh",
+          "Prophet Shu'ayb",
+          "Prophet Lut"
         ],
-        "answer": "Prophet 'Isa"
+        "answer": "Prophet Hud"
       },
       "trial": {
-        "label": "What was the central accusation I defended against?",
+        "label": "What Was My Primary Trial?",
         "options": [
-          "A plot of betrayal by my own siblings",
-          "The rebellion of my people who worshipped a golden calf",
-          "An accusation against my mother's chastity",
-          "A test of sacrificing my own child",
-          "An accusation of sorcery against a ruler"
+          "Convincing my people to abandon a golden calf.",
+          "Calling the arrogant people of 'Ad to monotheism.",
+          "Dealing with the deceit of my brothers in a well.",
+          "Confronting a king who claimed divinity and threw me into a fire.",
+          "Persuading my people to stop cheating in weights and measures."
         ],
-        "answer": "An accusation against my mother's chastity"
+        "answer": "Calling the arrogant people of 'Ad to monotheism."
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Was the Punishment?",
         "options": [
-          "A golden calf",
-          "A magnificent palace",
-          "A bird",
-          "A great ark",
-          "A solid iron barrier"
+          "A great flood that covered the earth.",
+          "A shower of stones of baked clay.",
+          "A furious and destructive wind (Sarsar).",
+          "A mighty earthquake and a terrible cry (Sayhah).",
+          "Being transformed into apes."
         ],
-        "answer": "A bird"
+        "answer": "A furious and destructive wind (Sarsar)."
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "What Was the Outcome?",
         "options": [
-          "I was raised to Allah and saved from crucifixion",
-          "I was swallowed by a great fish and then saved",
-          "I lived to a very old age and died peacefully",
-          "I was thrown into a fire but remained unharmed",
-          "I was martyred by my own people"
+          "I was swallowed by a giant fish but later saved.",
+          "I and the believers with me were saved by Allah's mercy.",
+          "I was raised to the heavens without experiencing death.",
+          "I was given a kingdom and the ability to understand animals.",
+          "My people all believed and their punishment was averted."
         ],
-        "answer": "I was raised to Allah and saved from crucifixion"
+        "answer": "I and the believers with me were saved by Allah's mercy."
       }
     },
-    "verseRef": "4:157",
-    "arabic": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
-    "verse": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain. (4:157)"
+    "verseRef": "46:21",
+    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

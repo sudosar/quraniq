@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "puzzle": {
-    "word": "اجر",
-    "display": "أَجْر",
-    "hint": "The wage earned for a good deed.",
-    "verseRef": "9:22",
-    "arabicVerse": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌۭ",
-    "verse": "9:22 — [They will be] abiding therein forever. Indeed, Allāh has with Him a great reward."
+    "word": "شورى",
+    "display": "شُورَىٰ",
+    "hint": "A principle of collective decision-making mentioned in the Quran.",
+    "verseRef": "42:38",
+    "arabicVerse": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "verse": "42:38 — And those who have responded to their Lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend,"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

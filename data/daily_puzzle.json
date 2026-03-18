@@ -1,148 +1,149 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "puzzle": {
     "categories": [
       {
-        "name": "أَنْوَاعُ السَّوَائِلِ",
-        "nameEn": "Types of liquids mentioned in the Quran",
+        "name": "حَيَوَانَاتٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Animals mentioned in the Quran",
         "color": "yellow",
         "items": [
           {
-            "ar": "خَمْرًا",
-            "en": "Wine",
-            "ref": "12:36",
-            "verse": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
-            "verseEn": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing [grapes for] wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\""
+            "ar": "ٱلْفَرَاشِ",
+            "en": "The Moths",
+            "ref": "101:4",
+            "verse": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "verseEn": "It is the Day when people will be like moths, dispersed,"
           },
           {
-            "ar": "لَّبَنًا",
-            "en": "Milk",
-            "ref": "16:66",
-            "verse": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ",
-            "verseEn": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers."
+            "ar": "جَرَادٌ",
+            "en": "Locusts",
+            "ref": "54:7",
+            "verse": "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌۭ مُّنتَشِرٌۭ",
+            "verseEn": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,"
           },
           {
-            "ar": "مِدَادًا",
-            "en": "Ink",
-            "ref": "18:109",
-            "verse": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا",
-            "verseEn": "Say, \"If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement.\""
+            "ar": "ثُعْبَانٌ",
+            "en": "Serpent",
+            "ref": "7:107",
+            "verse": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌۭ مُّبِينٌۭ",
+            "verseEn": "So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest."
           },
           {
-            "ar": "بِٱلدُّهْنِ",
-            "en": "Oil",
-            "ref": "23:20",
-            "verse": "وَشَجَرَةًۭ تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍۢ لِّلْـَٔاكِلِينَ",
-            "verseEn": "And [We brought forth] a tree issuing from Mount Sinai which produces oil and food [i.e., olives] for those who eat."
+            "ar": "قِرَدَةً",
+            "en": "Apes",
+            "ref": "2:65",
+            "verse": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+            "verseEn": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\""
           }
         ]
       },
       {
-        "name": "أَثَاثُ الْجَنَّةِ",
-        "nameEn": "Types of furnishings mentioned in Paradise",
+        "name": "أَوْصَافٌ لِسَطْحِ الْأَرْضِ وَمُكَوِّنَاتِهِ",
+        "nameEn": "Terms describing the state or composition of the earth's surface",
         "color": "green",
         "items": [
           {
-            "ar": "نَمَارِقُ",
-            "en": "cushions",
-            "ref": "88:15",
-            "verse": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
-            "verseEn": "And cushions lined up"
+            "ar": "غُثَآءً",
+            "en": "Debris",
+            "ref": "23:41",
+            "verse": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءًۭ ۚ فَبُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "So the shriek seized them in truth, and We made them as [plant] stubble. Then away with the wrongdoing people."
           },
           {
-            "ar": "زَرَابِىُّ",
-            "en": "carpets",
-            "ref": "88:16",
-            "verse": "وَزَرَابِىُّ مَبْثُوثَةٌ",
-            "verseEn": "And carpets spread around."
+            "ar": "صَلْدًا",
+            "en": "Bare rock",
+            "ref": "2:264",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌۭ فَأَصَابَهُۥ وَابِلٌۭ فَتَرَكَهُۥ صَلْدًۭا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+            "verseEn": "O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people."
           },
           {
-            "ar": "رَفْرَفٍ",
-            "en": "cushions",
-            "ref": "55:76",
-            "verse": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
-            "verseEn": "Reclining on green cushions and beautiful fine carpets."
+            "ar": "صَعِيدًا",
+            "en": "Soil / Dust",
+            "ref": "4:43",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَـٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+            "verseEn": "O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying or in a state of janābah, except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning and Forgiving."
           },
           {
-            "ar": "ٱلْأَرَآئِكِ",
-            "en": "couches",
-            "ref": "36:56",
-            "verse": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
-            "verseEn": "They and their spouses - in shade, reclining on adorned couches."
+            "ar": "جُرُزًا",
+            "en": "Barren",
+            "ref": "18:8",
+            "verse": "وَإِنَّا لَجَـٰعِلُونَ مَا عَلَيْهَا صَعِيدًۭا جُرُزًا",
+            "verseEn": "And indeed, We will make that which is upon it [into] a barren ground."
           }
         ]
       },
       {
-        "name": "أَسْمَاءُ فَاعِلِينَ فِي صِيغَةِ الْجَمْعِ الْمُؤَنَّثِ تُشِيرُ إِلَى الْمَلَائِكَةِ",
-        "nameEn": "Feminine plural participles used in oaths referring to angels",
+        "name": "أَسْمَاءُ أَفْعَالٍ بِمَعْنَى الْأَمْرِ",
+        "nameEn": "Nouns that function as imperative verbs (Ism Fi'l Amr)",
         "color": "blue",
         "items": [
           {
-            "ar": "ٱلصَّـٰٓفَّـٰتِ",
-            "en": "Those who arrange in ranks",
-            "ref": "37:1",
-            "verse": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا",
-            "verseEn": "By those [angels] lined up in rows"
+            "ar": "هَيْتَ",
+            "en": "Come!",
+            "ref": "12:23",
+            "verse": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "And she, in whose house he was, sought to seduce him. She closed the doors and said, \"Come, you.\" He said, \"[I seek] the refuge of Allāh. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\""
           },
           {
-            "ar": "ٱلزَّٰجِرَٰتِ",
-            "en": "Those who drive",
-            "ref": "37:2",
-            "verse": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا",
-            "verseEn": "And those who drive [the clouds]"
+            "ar": "هَلُمَّ",
+            "en": "Come forth!",
+            "ref": "33:18",
+            "verse": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+            "verseEn": "Already Allāh knows the hinderers among you and those [hypocrites] who say to their brothers, \"Come to us,\" and do not go to battle, except for a few,"
           },
           {
-            "ar": "ٱلسَّـٰبِقَـٰتِ",
-            "en": "Those who race ahead",
-            "ref": "79:4",
-            "verse": "فَٱلسَّـٰبِقَـٰتِ سَبْقًۭا",
-            "verseEn": "And those who race each other in a race"
+            "ar": "عَلَيْكُمْ",
+            "en": "Take charge of",
+            "ref": "5:105",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do."
           },
           {
-            "ar": "ٱلْمُدَبِّرَٰتِ",
-            "en": "Those who arrange affairs",
-            "ref": "79:5",
-            "verse": "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا",
-            "verseEn": "And those who arrange [each] matter,"
+            "ar": "مَكَانَكُمْ",
+            "en": "Stay in your place!",
+            "ref": "10:28",
+            "verse": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ",
+            "verseEn": "And [mention, O Muḥammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\" Then We will separate them, and their \"partners\" will say, \"You did not used to worship us,"
           }
         ]
       },
       {
-        "name": "أَوَائِلُ كَلِمَاتِ الْآيَاتِ الَّتِي تَبْدَأُ أَجْزَاءً جَدِيدَةً",
-        "nameEn": "First words of verses that begin a new Juz'",
+        "name": "أَوَائِلُ آيَاتِ السَّجْدَةِ",
+        "nameEn": "First word of verses containing a prostration (Sajdah)",
         "color": "purple",
         "items": [
           {
-            "ar": "يَعْتَذِرُونَ",
-            "en": "They make excuses",
-            "ref": "9:94",
-            "verse": "يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
-            "verseEn": "They will make excuses to you when you have returned to them. Say, \"Make no excuse - never will we believe you. Allāh has already informed us of your news [i.e., affair]. And Allāh will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.\""
+            "ar": "إِنَّ",
+            "en": "Indeed",
+            "ref": "7:206",
+            "verse": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩",
+            "verseEn": "Indeed, those who are near your Lord [i.e., the angels] are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate."
           },
           {
-            "ar": "رُّبَمَا",
-            "en": "Perhaps",
-            "ref": "15:2",
-            "verse": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
-            "verseEn": "Perhaps those who disbelieve will wish that they had been Muslims."
+            "ar": "وَلِلَّهِ",
+            "en": "And to Allah",
+            "ref": "13:15",
+            "verse": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَظِلَـٰلُهُم بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ ۩",
+            "verseEn": "And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons."
           },
           {
-            "ar": "تَبَٰرَكَ",
-            "en": "Blessed is He",
-            "ref": "67:1",
-            "verse": "تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
-            "verseEn": "Blessed is He in whose hand is dominion, and He is over all things competent -"
+            "ar": "أُو۟لَـٰٓئِكَ",
+            "en": "Those are",
+            "ref": "19:58",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩",
+            "verseEn": "Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping."
           },
           {
-            "ar": "عَمَّ",
-            "en": "About what",
-            "ref": "78:1",
-            "verse": "عَمَّ يَتَسَآءَلُونَ",
-            "verseEn": "About what are they asking one another?"
+            "ar": "يَـٰٓأَيُّهَا",
+            "en": "O you who",
+            "ref": "22:77",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+            "verseEn": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed."
           }
         ]
       }
     ]
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }
