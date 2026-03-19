@@ -1,54 +1,54 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "puzzle": {
-    "date": "2026-03-18",
+    "date": "2026-03-19",
     "juz_number": 30,
     "juz_name": "'Amma",
     "juz_name_ar": "عَمَّ",
     "verse": {
-      "surah_number": 94,
-      "surah_name": "Al-Inshirah",
-      "surah_name_ar": "الشَّرْح",
-      "ayah_number": 5,
-      "arabic_text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
-      "translation": "So, surely with hardship comes ease.",
-      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6095.mp3"
+      "surah_number": 99,
+      "surah_name": "Az-Zalzalah",
+      "surah_name_ar": "ٱلزَّلْزَلَة",
+      "ayah_number": 7,
+      "arabic_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "translation": "So whoever does an atom's weight of good will see it.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6145.mp3"
     },
     "theme_question": {
-      "correct": "The divine promise that ease is intrinsically linked with hardship.",
+      "correct": "The absolute accountability for even the smallest of deeds.",
       "options": [
-        "The divine promise that ease is intrinsically linked with hardship.",
-        "A command to seek ease only after hardship has completely passed.",
-        "The idea that worldly hardship is a punishment with no relief.",
-        "A suggestion that ease and hardship are unrelated, random events."
+        "The absolute accountability for even the smallest of deeds.",
+        "The necessity of giving charity to the poor.",
+        "The power of collective worship over individual acts.",
+        "The forgiveness granted for all minor sins."
       ]
     },
     "surah_question": {
-      "correct_surah": 94,
+      "correct_surah": 99,
       "options": [
         {
-          "num": 93,
-          "name": "Ad-Duhaa",
-          "name_ar": "الضُّحَىٰ",
-          "name_en": "The Morning Brightness"
+          "num": 97,
+          "name": "Al-Qadr",
+          "name_ar": "ٱلْقَدْر",
+          "name_en": "The Power"
         },
         {
-          "num": 94,
-          "name": "Al-Inshirah",
-          "name_ar": "الشَّرْح",
-          "name_en": "The Relief"
+          "num": 99,
+          "name": "Az-Zalzalah",
+          "name_ar": "ٱلزَّلْزَلَة",
+          "name_en": "The Earthquake"
         },
         {
-          "num": 95,
-          "name": "At-Tin",
-          "name_ar": "التِّيْن",
-          "name_en": "The Fig"
+          "num": 102,
+          "name": "At-Takathur",
+          "name_ar": "ٱلتَّكَاثُر",
+          "name_en": "The Rivalry in Worldly Increase"
         },
         {
-          "num": 92,
-          "name": "Al-Layl",
-          "name_ar": "الَّيْل",
-          "name_en": "The Night"
+          "num": 88,
+          "name": "Al-Ghashiyah",
+          "name_ar": "ٱلْغَاشِيَة",
+          "name_en": "The Overwhelming"
         }
       ]
     },
@@ -57,13 +57,13 @@
         {
           "num": 78,
           "name": "An-Naba'",
-          "name_ar": "النَّبَأ",
+          "name_ar": "ٱلنَّبَإِ",
           "name_en": "The Tidings"
         },
         {
           "num": 79,
           "name": "An-Nazi'at",
-          "name_ar": "النَّازِعَات",
+          "name_ar": "ٱلنَّٰزِعَٰت",
           "name_en": "Those Who Drag Forth"
         },
         {
@@ -75,151 +75,151 @@
         {
           "num": 81,
           "name": "At-Takwir",
-          "name_ar": "التَّكْوِيْر",
+          "name_ar": "ٱلتَّكْوِير",
           "name_en": "The Overthrowing"
         },
         {
           "num": 82,
           "name": "Al-Infitar",
-          "name_ar": "الْإِنْفِطَار",
+          "name_ar": "ٱلْإِنْفِطَار",
           "name_en": "The Cleaving"
         },
         {
           "num": 83,
           "name": "Al-Mutaffifin",
-          "name_ar": "الْمُطَفِّفِيْن",
+          "name_ar": "ٱلْمُطَفِّفِين",
           "name_en": "The Defrauding"
         },
         {
           "num": 84,
           "name": "Al-Inshiqaq",
-          "name_ar": "الْإِنْشِقَاق",
+          "name_ar": "ٱلْإِنْشِقَاق",
           "name_en": "The Sundering"
         },
         {
           "num": 85,
           "name": "Al-Buruj",
-          "name_ar": "الْبُرُوْج",
+          "name_ar": "ٱلْبُرُوج",
           "name_en": "The Mansions of the Stars"
         },
         {
           "num": 86,
           "name": "At-Tariq",
-          "name_ar": "الطَّارِق",
+          "name_ar": "ٱلطَّارِق",
           "name_en": "The Nightcommer"
         },
         {
           "num": 87,
           "name": "Al-A'la",
-          "name_ar": "الْأَعْلَى",
+          "name_ar": "ٱلْأَعْلَىٰ",
           "name_en": "The Most High"
         },
         {
           "num": 88,
           "name": "Al-Ghashiyah",
-          "name_ar": "الْغَاشِيَة",
+          "name_ar": "ٱلْغَاشِيَة",
           "name_en": "The Overwhelming"
         },
         {
           "num": 89,
           "name": "Al-Fajr",
-          "name_ar": "الْفَجْر",
+          "name_ar": "ٱلْفَجْر",
           "name_en": "The Dawn"
         },
         {
           "num": 90,
           "name": "Al-Balad",
-          "name_ar": "الْبَلَد",
+          "name_ar": "ٱلْبَلَد",
           "name_en": "The City"
         },
         {
           "num": 91,
           "name": "Ash-Shams",
-          "name_ar": "الشَّمْس",
+          "name_ar": "ٱلشَّمْس",
           "name_en": "The Sun"
         },
         {
           "num": 92,
           "name": "Al-Layl",
-          "name_ar": "الَّيْل",
+          "name_ar": "ٱلَّيْل",
           "name_en": "The Night"
         },
         {
           "num": 93,
           "name": "Ad-Duhaa",
-          "name_ar": "الضُّحَىٰ",
-          "name_en": "The Morning Brightness"
+          "name_ar": "ٱلضُّحَىٰ",
+          "name_en": "The Morning Hours"
         },
         {
           "num": 94,
-          "name": "Al-Inshirah",
-          "name_ar": "الشَّرْح",
+          "name": "Ash-Sharh",
+          "name_ar": "ٱلشَّرْح",
           "name_en": "The Relief"
         },
         {
           "num": 95,
           "name": "At-Tin",
-          "name_ar": "التِّيْن",
+          "name_ar": "ٱلتِّين",
           "name_en": "The Fig"
         },
         {
           "num": 96,
           "name": "Al-'Alaq",
-          "name_ar": "الْعَلَق",
+          "name_ar": "ٱلْعَلَق",
           "name_en": "The Clot"
         },
         {
           "num": 97,
           "name": "Al-Qadr",
-          "name_ar": "الْقَدْر",
+          "name_ar": "ٱلْقَدْر",
           "name_en": "The Power"
         },
         {
           "num": 98,
           "name": "Al-Bayyinah",
-          "name_ar": "الْبَيِّنَة",
+          "name_ar": "ٱلْبَيِّنَة",
           "name_en": "The Clear Proof"
         },
         {
           "num": 99,
           "name": "Az-Zalzalah",
-          "name_ar": "الزَّلْزَلَة",
+          "name_ar": "ٱلزَّلْزَلَة",
           "name_en": "The Earthquake"
         },
         {
           "num": 100,
           "name": "Al-'Adiyat",
-          "name_ar": "الْعَادِيَات",
-          "name_en": "The Courser"
+          "name_ar": "ٱلْعَٰدِيَٰت",
+          "name_en": "The Chargers"
         },
         {
           "num": 101,
           "name": "Al-Qari'ah",
-          "name_ar": "الْقَارِعَة",
+          "name_ar": "ٱلْقَارِعَة",
           "name_en": "The Calamity"
         },
         {
           "num": 102,
           "name": "At-Takathur",
-          "name_ar": "التَّكَاثُر",
+          "name_ar": "ٱلتَّكَاثُر",
           "name_en": "The Rivalry in Worldly Increase"
         },
         {
           "num": 103,
           "name": "Al-'Asr",
-          "name_ar": "الْعَصْر",
+          "name_ar": "ٱلْعَصْر",
           "name_en": "The Declining Day"
         },
         {
           "num": 104,
           "name": "Al-Humazah",
-          "name_ar": "الْهُمَزَة",
+          "name_ar": "ٱلْهُمَزَة",
           "name_en": "The Traducer"
         },
         {
           "num": 105,
           "name": "Al-Fil",
-          "name_ar": "الْفِيْل",
+          "name_ar": "ٱلْفِيل",
           "name_en": "The Elephant"
         },
         {
@@ -231,57 +231,57 @@
         {
           "num": 107,
           "name": "Al-Ma'un",
-          "name_ar": "الْمَاعُوْن",
+          "name_ar": "ٱلْمَاعُون",
           "name_en": "The Small Kindnesses"
         },
         {
           "num": 108,
           "name": "Al-Kawthar",
-          "name_ar": "الْكَوْثَر",
+          "name_ar": "ٱلْكَوْثَر",
           "name_en": "The Abundance"
         },
         {
           "num": 109,
           "name": "Al-Kafirun",
-          "name_ar": "الْكَافِرُوْن",
+          "name_ar": "ٱلْكَافِرُون",
           "name_en": "The Disbelievers"
         },
         {
           "num": 110,
           "name": "An-Nasr",
-          "name_ar": "النَّصْر",
+          "name_ar": "ٱلنَّصْر",
           "name_en": "The Divine Support"
         },
         {
           "num": 111,
           "name": "Al-Masad",
-          "name_ar": "الْمَسَد",
+          "name_ar": "ٱلْمَسَد",
           "name_en": "The Palm Fiber"
         },
         {
           "num": 112,
           "name": "Al-Ikhlas",
-          "name_ar": "الْإِخْلَاص",
+          "name_ar": "ٱلْإِخْلَاص",
           "name_en": "The Sincerity"
         },
         {
           "num": 113,
           "name": "Al-Falaq",
-          "name_ar": "الْفَلَق",
+          "name_ar": "ٱلْفَلَق",
           "name_en": "The Daybreak"
         },
         {
           "num": 114,
           "name": "An-Nas",
-          "name_ar": "النَّاس",
+          "name_ar": "ٱلنَّاس",
           "name_en": "Mankind"
         }
       ]
     },
     "educational_notes": {
-      "verse_context": "This verse was revealed in Makkah during a period of intense hardship for Prophet Muhammad (ﷺ) and the early Muslims. It serves as a direct consolation from Allah, reminding the Prophet that the difficulties he was facing were temporary and that relief was not just coming after, but was present *with* the struggle. The verse is repeated for emphasis in the next ayah (94:6).",
-      "theme_explanation": "The theme is one of divine hope and resilience. The Arabic word 'ma'a' (مَعَ) means 'with', not 'ba'da' (بَعْدَ) which means 'after'. This subtle but profound choice of words teaches that ease is not a separate event that follows hardship, but is intrinsically connected to it. The very process of enduring hardship with faith and patience is a source of spiritual ease and brings one closer to the ultimate relief from Allah. It's a universal principle for believers facing any trial.",
-      "surah_overview": "Surah Al-Inshirah, meaning 'The Relief' or 'The Opening-Forth,' is the 94th surah of the Quran. It is a short Makkan surah of 8 verses, revealed to comfort and reassure Prophet Muhammad (ﷺ). The surah begins by reminding the Prophet of the blessings Allah has bestowed upon him, such as opening his heart and removing his burdens. It then presents the core principle that with every hardship comes ease, repeating it for emphasis. The surah concludes by advising the Prophet to turn to his Lord with devotion and supplication once his immediate tasks are completed."
+      "verse_context": "This verse, along with the one that follows it ('And whoever does an atom's weight of evil will see it.'), concludes Surah Az-Zalzalah. The surah vividly describes the cataclysmic earthquake that will signal the Day of Judgment, when the Earth will give up its burdens and testify to all that was done upon it. These final verses serve as the ultimate summary of accountability.",
+      "theme_explanation": "The theme is the meticulous and inescapable justice of Allah. The phrase 'mithqala dharrah' (an atom's weight) emphasizes that nothing is too small to be recorded and judged. It serves as both a profound encouragement to do good, no matter how insignificant it may seem, and a stark warning against evil, no matter how trivial. It instills a deep sense of mindfulness (muraqabah) in a believer.",
+      "surah_overview": "Surah Az-Zalzalah (The Earthquake) is a powerful, early Meccan surah. Its eight verses paint a dramatic picture of the Day of Resurrection. It describes the earth shaking violently, expelling its dead, and bearing witness to humanity's deeds. The surah's core message is the certainty of judgment and the perfect, detailed record of every action, culminating in the final two verses that establish the principle of absolute accountability."
     }
   },
   "generated": true,

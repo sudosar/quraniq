@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "puzzle": {
-    "title": "The Warning Carried on the Wind",
-    "intro": "A messenger was sent to a people of immense power and arrogance, who built magnificent structures as if they would live forever. This individual's call to truth was met with scorn and ridicule, but their warning of a coming storm was a test of faith that would shake the very foundations of their civilization. Can you identify this steadfast soul?",
+    "title": "The Sculptor of a Golden Lie",
+    "intro": "A figure emerges in the absence of a great leader, seizing a moment of weakness. With skilled hands and a deceptive tongue, this individual crafts an object of worship, testing the faith of a nation and leading many down a path of misguidance. Uncover the story of this artisan of apostasy.",
     "clues": [
-      "I was sent to my own brethren, a people known for their great physical strength and architectural skill.",
-      "I warned them about their pride in their constructions, asking if they built landmarks on every high place for mere amusement.",
-      "My people accused me of foolishness and falsehood, rejecting my call to fear Allah and obey my message.",
-      "They challenged me to bring the punishment I spoke of, confident in the power of their idols and their own might.",
-      "I reminded them of how Allah had made them successors after the people of Nuh, and had increased them in stature.",
-      "When they saw a dense cloud approaching, they rejoiced thinking it was rain, but I knew it was the destructive, furious wind that Allah had promised."
+      "I was among the people who were delivered from a great tyrant across the sea.",
+      "I perceived something the others did not; a trace left behind by the heavenly messenger.",
+      "I gathered a handful from that special trace, knowing it held a strange power.",
+      "Using the people's own jewelry, I fashioned a hollow body that produced a sound.",
+      "I presented my creation, a calf, and declared, 'This is your god and the god of Musa, who has forgotten!'",
+      "When the prophet returned in anger, my fate was sealed: to live as a pariah, forever saying, 'Let there be no touching.'"
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Salih",
-          "Prophet Hud",
-          "Prophet Nuh",
-          "Prophet Shu'ayb",
-          "Prophet Lut"
+          "Jalut (Goliath)",
+          "Qarun",
+          "As-Samiri",
+          "Bal'am ibn Ba'ura",
+          "Haman"
         ],
-        "answer": "Prophet Hud"
+        "answer": "As-Samiri"
       },
       "trial": {
-        "label": "What Was My Primary Trial?",
+        "label": "What Was My Act?",
         "options": [
-          "Convincing my people to abandon a golden calf.",
-          "Calling the arrogant people of 'Ad to monotheism.",
-          "Dealing with the deceit of my brothers in a well.",
-          "Confronting a king who claimed divinity and threw me into a fire.",
-          "Persuading my people to stop cheating in weights and measures."
+          "Building a tower to the heavens",
+          "Fashioning the Golden Calf",
+          "Hoarding immense treasure",
+          "Refusing to prostrate to Adam",
+          "Plotting to crucify a prophet"
         ],
-        "answer": "Calling the arrogant people of 'Ad to monotheism."
+        "answer": "Fashioning the Golden Calf"
       },
       "location": {
-        "label": "What Was the Punishment?",
+        "label": "What Was the Key Element?",
         "options": [
-          "A great flood that covered the earth.",
-          "A shower of stones of baked clay.",
-          "A furious and destructive wind (Sarsar).",
-          "A mighty earthquake and a terrible cry (Sayhah).",
-          "Being transformed into apes."
+          "A staff that became a serpent",
+          "Clay that formed living birds",
+          "Dust from the messenger's track",
+          "Softened iron for armor",
+          "A rock that gushed twelve springs"
         ],
-        "answer": "A furious and destructive wind (Sarsar)."
+        "answer": "Dust from the messenger's track"
       },
       "outcome": {
-        "label": "What Was the Outcome?",
+        "label": "What Was My Punishment?",
         "options": [
-          "I was swallowed by a giant fish but later saved.",
-          "I and the believers with me were saved by Allah's mercy.",
-          "I was raised to the heavens without experiencing death.",
-          "I was given a kingdom and the ability to understand animals.",
-          "My people all believed and their punishment was averted."
+          "Drowned in the sea with an army",
+          "Swallowed by the earth with my wealth",
+          "Transformed into an ape",
+          "Cursed to be a lifelong outcast",
+          "Struck by a mighty blast from the sky"
         ],
-        "answer": "I and the believers with me were saved by Allah's mercy."
+        "answer": "Cursed to be a lifelong outcast"
       }
     },
-    "verseRef": "46:21",
-    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
-    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
+    "verseRef": "20:88",
+    "arabic": "فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ",
+    "verse": "And he extracted for them [the statue of] a calf which had a lowing sound, and they said, \"This is your god and the god of Moses, but he forgot.\" (20:88)"
   },
   "generated": true,
   "model": "auto (chain)"
