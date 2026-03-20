@@ -1,12 +1,13 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "puzzle": {
-    "word": "شمس",
-    "display": "شَمْس",
-    "hint": "The greater of the two celestial lights often mentioned together.",
-    "verseRef": "6:78",
-    "arabicVerse": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ",
-    "verse": "6:78 — And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allāh."
+    "word": "وريد",
+    "display": "وَرِيدِ",
+    "hint": "Closer to you than this life-giving vessel.",
+    "verseRef": "50:16",
+    "arabicVerse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+    "verse": "50:16 — And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

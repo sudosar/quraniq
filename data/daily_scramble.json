@@ -1,29 +1,30 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "puzzle": {
-    "verseRef": "66:8",
-    "reference": "Surah At-Tahrim (66:8)",
+    "verseRef": "42:30",
+    "reference": "Surah Ash-Shura (42:30)",
     "segments": [
-      "رَبَّنَآ أَتْمِمْ لَنَا",
-      "نُورَنَا وَٱغْفِرْ لَنَآ",
-      "إِنَّكَ عَلَىٰ كُلِّ",
-      "شَىْءٍ قَدِيرٌ"
+      "وَمَآ أَصَٰبَكُم",
+      "مِّن مُّصِيبَةٍ",
+      "فَبِمَا كَسَبَتْ أَيْدِيكُمْ",
+      "وَيَعْفُوا۟ عَن كَثِيرٍ"
     ],
     "translations": [
-      "O (you) who believe believe Turn to Allah (in) repentance sincere Perhaps your Lord will remove",
-      "from you your evil deeds and admit you (into) Gardens flow from underneath it the rivers (on the) Day not will be disgraced",
-      "(by) Allah the Prophet and those who believed with him Their light will run before their hands and on their right they will say",
-      "Our Lord Perfect for us our light and grant forgiveness to us Indeed, You (are) over every thing All-Powerful"
+      "And whatever befalls you of",
+      "(the) misfortune (is because) of what have earned",
+      "your hands But He pardons",
+      "[from] much"
     ],
-    "hint": "A supplication made by the believers, asking for their light to be completed and for forgiveness.",
-    "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "hint": "This verse connects accountability for one's actions with the vastness of Allah's mercy and forgiveness.",
+    "arabic": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍۢ",
     "words": [
-      "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ",
-      "عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ يَوْمَ لَا يُخْزِى",
-      "ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِمْ يَقُولُونَ",
-      "رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ"
+      "وَمَآ أَصَـٰبَكُم مِّن",
+      "مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ",
+      "أَيْدِيكُمْ وَيَعْفُوا۟",
+      "عَن كَثِيرٍۢ"
     ],
-    "verseEn": "O you who have believed, repent to Allāh with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allāh will not disgrace the Prophet and those who believed with him. Their light will proceed before them and on their right; they will say, \"Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.\""
+    "verseEn": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much."
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

@@ -1,65 +1,66 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "puzzle": {
-    "title": "The Sculptor of a Golden Lie",
-    "intro": "A figure emerges in the absence of a great leader, seizing a moment of weakness. With skilled hands and a deceptive tongue, this individual crafts an object of worship, testing the faith of a nation and leading many down a path of misguidance. Uncover the story of this artisan of apostasy.",
+    "title": "The Burden of a Promise",
+    "intro": "In the annals of faith, some names are mentioned as a testament to a single, profound quality. Today's figure is one such soul, whose very name is tied to a pledge of steadfastness. This individual is honored in the Quran for a character trait that serves as a lesson for all of humanity, earning a place among the most righteous. Can you uncover the identity of this paragon of patience and commitment?",
     "clues": [
-      "I was among the people who were delivered from a great tyrant across the sea.",
-      "I perceived something the others did not; a trace left behind by the heavenly messenger.",
-      "I gathered a handful from that special trace, knowing it held a strange power.",
-      "Using the people's own jewelry, I fashioned a hollow body that produced a sound.",
-      "I presented my creation, a calf, and declared, 'This is your god and the god of Musa, who has forgotten!'",
-      "When the prophet returned in anger, my fate was sealed: to live as a pariah, forever saying, 'Let there be no touching.'"
+      "My story in the Quran is brief, yet my name is mentioned twice, listed among the patient and the righteous.",
+      "I am honored in one chapter alongside Ismail and Idris, remembered for our collective steadfastness.",
+      "My name itself is a title, signifying 'one of the portion' or 'one who took on a charge or guarantee'.",
+      "Allah explicitly states that He entered me into His mercy because I was truly among the righteous.",
+      "In another chapter, I am mentioned with Ismail and Al-Yasa' (Elisha) as one of the chosen and best.",
+      "I am Dhul-Kifl, and my entire Quranic legacy is captured in my unwavering patience and righteousness."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Jalut (Goliath)",
-          "Qarun",
-          "As-Samiri",
-          "Bal'am ibn Ba'ura",
-          "Haman"
+          "Prophet Al-Yasa'",
+          "Prophet Shu'ayb",
+          "Prophet Dhul-Kifl",
+          "Luqman the Wise",
+          "Prophet Idris"
         ],
-        "answer": "As-Samiri"
+        "answer": "Prophet Dhul-Kifl"
       },
       "trial": {
-        "label": "What Was My Act?",
+        "label": "What is my defining characteristic in the Quran?",
         "options": [
-          "Building a tower to the heavens",
-          "Fashioning the Golden Calf",
-          "Hoarding immense treasure",
-          "Refusing to prostrate to Adam",
-          "Plotting to crucify a prophet"
+          "Building an Ark",
+          "Steadfast Patience",
+          "Interpreting Dreams",
+          "Receiving the Torah",
+          "Mastering Ironwork"
         ],
-        "answer": "Fashioning the Golden Calf"
+        "answer": "Steadfast Patience"
       },
       "location": {
-        "label": "What Was the Key Element?",
+        "label": "I am mentioned alongside whom in Surah Al-Anbiya?",
         "options": [
-          "A staff that became a serpent",
-          "Clay that formed living birds",
-          "Dust from the messenger's track",
-          "Softened iron for armor",
-          "A rock that gushed twelve springs"
+          "Dawud and Sulayman",
+          "Musa and Harun",
+          "Zakariyya and Yahya",
+          "Ismail and Idris",
+          "Adam and Nuh"
         ],
-        "answer": "Dust from the messenger's track"
+        "answer": "Ismail and Idris"
       },
       "outcome": {
-        "label": "What Was My Punishment?",
+        "label": "What was my reward mentioned in the Quran?",
         "options": [
-          "Drowned in the sea with an army",
-          "Swallowed by the earth with my wealth",
-          "Transformed into an ape",
-          "Cursed to be a lifelong outcast",
-          "Struck by a mighty blast from the sky"
+          "Being admitted into Allah's Mercy",
+          "Receiving a vast kingdom",
+          "Being saved from a great fire",
+          "Being taught the speech of birds",
+          "Receiving scripture named after me"
         ],
-        "answer": "Cursed to be a lifelong outcast"
+        "answer": "Being admitted into Allah's Mercy"
       }
     },
-    "verseRef": "20:88",
-    "arabic": "فَأَخْرَجَ لَهُمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌۭ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ",
-    "verse": "And he extracted for them [the statue of] a calf which had a lowing sound, and they said, \"This is your god and the god of Moses, but he forgot.\" (20:88)"
+    "verseRef": "21:85",
+    "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+    "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
   },
-  "generated": true
+  "generated": true,
+  "model": "auto (chain)"
 }

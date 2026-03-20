@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-20",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "حُرُوفُ ٱلْعَطْفِ وَٱلِٱنتِقَالِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "وريد",
+    "display": "وَرِيدِ",
+    "hint": "Closer to you than this life-giving vessel.",
+    "verseRef": "50:16",
+    "arabicVerse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+    "verse": "50:16 — And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
+  },
+  "deduction": {
+    "title": "The Burden of a Promise",
+    "intro": "In the annals of faith, some names are mentioned as a testament to a single, profound quality. Today's figure is one such soul, whose very name is tied to a pledge of steadfastness. This individual is honored in the Quran for a character trait that serves as a lesson for all of humanity, earning a place among the most righteous. Can you uncover the identity of this paragon of patience and commitment?",
+    "clues": [
+      "My story in the Quran is brief, yet my name is mentioned twice, listed among the patient and the righteous.",
+      "I am honored in one chapter alongside Ismail and Idris, remembered for our collective steadfastness.",
+      "My name itself is a title, signifying 'one of the portion' or 'one who took on a charge or guarantee'.",
+      "Allah explicitly states that He entered me into His mercy because I was truly among the righteous.",
+      "In another chapter, I am mentioned with Ismail and Al-Yasa' (Elisha) as one of the chosen and best.",
+      "I am Dhul-Kifl, and my entire Quranic legacy is captured in my unwavering patience and righteousness."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Al-Yasa'",
+          "Prophet Shu'ayb",
+          "Prophet Dhul-Kifl",
+          "Luqman the Wise",
+          "Prophet Idris"
+        ],
+        "answer": "Prophet Dhul-Kifl"
+      },
+      "trial": {
+        "label": "What is my defining characteristic in the Quran?",
+        "options": [
+          "Building an Ark",
+          "Steadfast Patience",
+          "Interpreting Dreams",
+          "Receiving the Torah",
+          "Mastering Ironwork"
+        ],
+        "answer": "Steadfast Patience"
+      },
+      "location": {
+        "label": "I am mentioned alongside whom in Surah Al-Anbiya?",
+        "options": [
+          "Dawud and Sulayman",
+          "Musa and Harun",
+          "Zakariyya and Yahya",
+          "Ismail and Idris",
+          "Adam and Nuh"
+        ],
+        "answer": "Ismail and Idris"
+      },
+      "outcome": {
+        "label": "What was my reward mentioned in the Quran?",
+        "options": [
+          "Being admitted into Allah's Mercy",
+          "Receiving a vast kingdom",
+          "Being saved from a great fire",
+          "Being taught the speech of birds",
+          "Receiving scripture named after me"
+        ],
+        "answer": "Being admitted into Allah's Mercy"
+      }
+    },
+    "verseRef": "21:85",
+    "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+    "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+  },
+  "scramble": {
+    "verseRef": "42:30",
+    "reference": "Surah Ash-Shura (42:30)",
+    "segments": [
+      "وَمَآ أَصَٰبَكُم",
+      "مِّن مُّصِيبَةٍ",
+      "فَبِمَا كَسَبَتْ أَيْدِيكُمْ",
+      "وَيَعْفُوا۟ عَن كَثِيرٍ"
+    ],
+    "translations": [
+      "And whatever befalls you of",
+      "(the) misfortune (is because) of what have earned",
+      "your hands But He pardons",
+      "[from] much"
+    ],
+    "hint": "This verse connects accountability for one's actions with the vastness of Allah's mercy and forgiveness.",
+    "arabic": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍۢ",
+    "words": [
+      "وَمَآ أَصَـٰبَكُم مِّن",
+      "مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ",
+      "أَيْدِيكُمْ وَيَعْفُوا۟",
+      "عَن كَثِيرٍۢ"
+    ],
+    "verseEn": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much."
+  }
 }
