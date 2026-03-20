@@ -1,29 +1,35 @@
 {
-  "date": "2026-03-20",
+  "date": "2026-02-26",
   "puzzle": {
-    "verseRef": "42:30",
-    "reference": "Surah Ash-Shura (42:30)",
+    "verseRef": "25:74",
+    "reference": "Surah Al-Furqan (25:74)",
     "segments": [
-      "وَمَآ أَصَٰبَكُم",
-      "مِّن مُّصِيبَةٍ",
-      "فَبِمَا كَسَبَتْ أَيْدِيكُمْ",
-      "وَيَعْفُوا۟ عَن كَثِيرٍ"
+      "وَٱلَّذِينَ يَقُولُونَ",
+      "رَبَّنَا هَبْ لَنَا",
+      "مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا",
+      "قُرَّةَ أَعْيُنٍ",
+      "وَٱجْعَلْنَا",
+      "لِلْمُتَّقِينَ إِمَامًا"
     ],
     "translations": [
-      "And whatever befalls you of",
-      "(the) misfortune (is because) of what have earned",
-      "your hands But He pardons",
-      "[from] much"
+      "And those who say Our Lord",
+      "Grant to us",
+      "from our spouses",
+      "and our offspring comfort",
+      "(to) our eyes and make us",
+      "for the righteous a leader"
     ],
-    "hint": "This verse connects accountability for one's actions with the vastness of Allah's mercy and forgiveness.",
-    "arabic": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍۢ",
+    "hint": "A beautiful supplication asking Allah for a righteous family and to be an example for the pious.",
+    "arabic": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ أَعْيُنٍۢ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
     "words": [
-      "وَمَآ أَصَـٰبَكُم مِّن",
-      "مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ",
-      "أَيْدِيكُمْ وَيَعْفُوا۟",
-      "عَن كَثِيرٍۢ"
+      "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا",
+      "هَبْ لَنَا",
+      "مِنْ أَزْوَٰجِنَا",
+      "وَذُرِّيَّـٰتِنَا قُرَّةَ",
+      "أَعْيُنٍۢ وَٱجْعَلْنَا",
+      "لِلْمُتَّقِينَ إِمَامًا"
     ],
-    "verseEn": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much."
+    "verseEn": "And those who say, \"Our Lord, grant us from among our wives and offspring comfort to our eyes and make us a leader [i.e., example] for the righteous.\""
   },
   "generated": true,
   "model": "auto (chain)"
