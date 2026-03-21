@@ -1,0 +1,323 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَوَادٌّ ثَمِينَةٌ",
+        "nameEn": "Precious Substances",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ذَهَبٍ",
+            "en": "gold",
+            "ref": "35:33",
+            "verse": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَلُؤْلُؤًۭا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌۭ",
+            "verseEn": "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk."
+          },
+          {
+            "ar": "فِضَّةٍ",
+            "en": "silver",
+            "ref": "76:16",
+            "verse": "قَوَارِيرَا۟ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا",
+            "verseEn": "Clear glasses [made] from silver of which they have determined the measure."
+          },
+          {
+            "ar": "ٱلْمَرْجَانُ",
+            "en": "coral",
+            "ref": "55:22",
+            "verse": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+            "verseEn": "From both of them emerge pearl and coral."
+          },
+          {
+            "ar": "مِسْكٌ",
+            "en": "musk",
+            "ref": "83:26",
+            "verse": "خِتَـٰمُهُۥ مِسْكٌۭ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+            "verseEn": "The last of it is musk. So for this let the competitors compete."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْأَمْرِ الْإِلَٰهِيِّ",
+        "nameEn": "Verbs of Divine Command",
+        "color": "green",
+        "items": [
+          {
+            "ar": "كُن",
+            "en": "Be",
+            "ref": "3:47",
+            "verse": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+            "verseEn": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is."
+          },
+          {
+            "ar": "ٱقْرَأْ",
+            "en": "Read",
+            "ref": "96:1",
+            "verse": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+            "verseEn": "Recite in the name of your Lord who created"
+          },
+          {
+            "ar": "ٱهْبِطُوا۟",
+            "en": "Go down",
+            "ref": "7:24",
+            "verse": "قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّۭ وَمَتَـٰعٌ إِلَىٰ حِينٍۢ",
+            "verseEn": "[Allāh] said, \"Descend, being to one another enemies. And for you on the earth is a place of settlement and enjoyment [i.e., provision] for a time.\""
+          },
+          {
+            "ar": "ٱرْكَبُوا۟",
+            "en": "Embark",
+            "ref": "11:41",
+            "verse": "۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "And [Noah] said, \"Embark therein; in the name of Allāh [are] its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.\""
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ ذَاتُ خَصَائِصَ نَحْوِيَّةٍ فَرِيدَةٍ",
+        "nameEn": "Words with Unique Grammatical Properties",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أُولَٰتِ",
+            "en": "possessors of",
+            "ref": "65:6",
+            "verse": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَـٰتِ حَمْلٍۢ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍۢ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+            "verseEn": "Lodge them [in a section] of where you dwell out of your means and do not harm them in order to oppress them. And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for him [i.e., the father] another woman."
+          },
+          {
+            "ar": "مَثْنَىٰ",
+            "en": "in twos",
+            "ref": "4:3",
+            "verse": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+            "verseEn": "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice]."
+          },
+          {
+            "ar": "أُخَرُ",
+            "en": "other",
+            "ref": "3:7",
+            "verse": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌۭ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "verseEn": "It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding."
+          },
+          {
+            "ar": "أَحَدٌ",
+            "en": "One",
+            "ref": "112:1",
+            "verse": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "verseEn": "Say, \"He is Allāh, [who is] One,"
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْكَشْفِ وَالسَّتْرِ الْإِلَٰهِيَّةِ",
+        "nameEn": "Divine Actions of Concealment and Disclosure",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "نَسْلَخُ",
+            "en": "We strip away",
+            "ref": "36:37",
+            "verse": "وَءَايَةٌۭ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+            "verseEn": "And a sign for them is the night. We remove from it the [light of] day, so they are [left] in darkness."
+          },
+          {
+            "ar": "يُجَلِّيهَا",
+            "en": "disclose it",
+            "ref": "7:187",
+            "verse": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى ۖ لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ۚ ثَقُلَتْ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا بَغْتَةًۭ ۗ يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+            "verseEn": "They ask you, [O Muḥammad], about the Hour: when is its arrival? Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allāh, but most of the people do not know.\""
+          },
+          {
+            "ar": "نَطْوِى",
+            "en": "We roll up",
+            "ref": "21:104",
+            "verse": "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍۢ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَـٰعِلِينَ",
+            "verseEn": "The Day when We will fold the heaven like the folding of a [written] sheet for the records. As We began the first creation, We will repeat it. [That is] a promise binding upon Us. Indeed, We will do it."
+          },
+          {
+            "ar": "فَالِقُ",
+            "en": "Splitter",
+            "ref": "6:96",
+            "verse": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+            "verseEn": "[He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation. That is the determination of the Exalted in Might, the Knowing."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نذير",
+    "display": "نَذِير",
+    "hint": "A messenger's role is not just to bring good news, but also this.",
+    "verseRef": "35:23",
+    "arabicVerse": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+    "verse": "35:23 — You, [O Muḥammad], are not but a warner."
+  },
+  "deduction": {
+    "title": "The Voice from the City's Edge",
+    "intro": "When messengers of truth arrived in a city, they were met with denial and threats. From the outskirts, a lone figure emerged, their heart filled with conviction. This individual raced to defend the messengers and call their own people to guidance, a courageous act that would seal their fate. Can you identify this soul and the message they championed?",
+    "clues": [
+      "I lived in a city that was visited by divine messengers, but my people were skeptical and hostile towards them.",
+      "I heard of the messengers' plight and their message of worshipping the One Creator.",
+      "From the farthest part of the city, I came running to support them.",
+      "I addressed my people directly, questioning why they wouldn't worship the One who created them and to whom they would return.",
+      "I declared my own faith openly, saying, 'Indeed, I have believed in your Lord, so listen to me.'",
+      "My people responded to my plea with violence, but my reward was immediate. Upon my death, it was said to me, 'Enter Paradise.'"
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Believer from Fir'awn's Family",
+          "Luqman the Wise",
+          "The Believer of Ya-Sin",
+          "A Disciple of 'Isa",
+          "Zayd ibn Harithah"
+        ],
+        "answer": "The Believer of Ya-Sin"
+      },
+      "trial": {
+        "label": "What Was My Primary Action?",
+        "options": [
+          "Concealing my faith in a tyrant's palace",
+          "Rushing to defend messengers and advise my people",
+          "Interpreting the dreams of a ruler",
+          "Building a great wall to contain a corrupting force",
+          "Debating a king about the power of my Lord"
+        ],
+        "answer": "Rushing to defend messengers and advise my people"
+      },
+      "location": {
+        "label": "Key Context",
+        "options": [
+          "A city visited by three messengers",
+          "The court of the Pharaoh of Egypt",
+          "A cave where we slept for centuries",
+          "The valley of Tuwa by a sacred fire",
+          "The city of Makkah during an elephant attack"
+        ],
+        "answer": "A city visited by three messengers"
+      },
+      "outcome": {
+        "label": "What Was My Immediate Reward?",
+        "options": [
+          "Being given wisdom and knowledge",
+          "Being raised to a high station",
+          "Being saved from a fire that became cool",
+          "Being told 'Enter Paradise'",
+          "Being reunited with my long-lost family"
+        ],
+        "answer": "Being told 'Enter Paradise'"
+      }
+    },
+    "verseRef": "36:26",
+    "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+    "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+  },
+  "scramble": {
+    "verseRef": "23:29",
+    "reference": "Al-Mu'minun (23:29)",
+    "segments": [
+      "وَقُل رَّبِّ",
+      "أَنزِلْنِي مُنزَلًا",
+      "مُّبَارَكًا",
+      "وَأَنتَ خَيْرُ",
+      "الْمُنزِلِينَ"
+    ],
+    "translations": [
+      "And say My Lord",
+      "cause me to land (at) a landing place",
+      "blessed and You",
+      "(are) the Best",
+      "(of) those who cause to land.'"
+    ],
+    "hint": "A supplication taught to Prophet Nuh (Noah) for seeking a blessed place to settle after the great flood.",
+    "arabic": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًۭا مُّبَارَكًۭا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+    "words": [
+      "وَقُل رَّبِّ",
+      "أَنزِلْنِى مُنزَلًۭا",
+      "مُّبَارَكًۭا وَأَنتَ",
+      "خَيْرُ",
+      "ٱلْمُنزِلِينَ"
+    ],
+    "verseEn": "And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].'\""
+  },
+  "juz": {
+    "date": "2026-03-08",
+    "juz_number": 20,
+    "juz_name": "A'man Khalaqa",
+    "juz_name_ar": "أَمَّنْ خَلَقَ",
+    "verse": {
+      "surah_number": 28,
+      "surah_name": "Al-Qasas",
+      "surah_name_ar": "سُورَةُ الْقَصَصِ",
+      "ayah_number": 83,
+      "arabic_text": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+      "translation": "That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption. And the [best] outcome is for the righteous.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3335.mp3"
+    },
+    "theme_question": {
+      "correct": "Humility and righteousness are the keys to the Hereafter.",
+      "options": [
+        "Humility and righteousness are the keys to the Hereafter.",
+        "Worldly success is a sign of God's favor.",
+        "Seeking power is necessary to establish justice.",
+        "Only prophets and messengers are guaranteed Paradise."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 28,
+      "options": [
+        {
+          "num": 27,
+          "name": "An-Naml",
+          "name_ar": "ٱلنَّمْل",
+          "name_en": "The Ant"
+        },
+        {
+          "num": 28,
+          "name": "Al-Qasas",
+          "name_ar": "ٱلْقَصَص",
+          "name_en": "The Stories"
+        },
+        {
+          "num": 29,
+          "name": "Al-Ankabut",
+          "name_ar": "ٱلْعَنْكَبُوت",
+          "name_en": "The Spider"
+        },
+        {
+          "num": 31,
+          "name": "Luqman",
+          "name_ar": "لُقْمَان",
+          "name_en": "Luqman"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 27,
+          "name": "An-Naml",
+          "name_ar": "ٱلنَّمْل",
+          "name_en": "The Ant"
+        },
+        {
+          "num": 28,
+          "name": "Al-Qasas",
+          "name_ar": "ٱلْقَصَص",
+          "name_en": "The Stories"
+        },
+        {
+          "num": 29,
+          "name": "Al-Ankabut",
+          "name_ar": "ٱلْعَنْكَبُوت",
+          "name_en": "The Spider"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse concludes a major theme in Surah Al-Qasas. It follows the detailed stories of Prophet Musa (Moses) confronting the arrogant Pharaoh, and the cautionary tale of Qarun (Korah), a man from Musa's people who became arrogant due to his immense wealth. Qarun's pride led to his destruction. This verse serves as the universal principle derived from these stories: the ultimate reward of the Hereafter is not for those who seek power, status, or dominance on earth, but for the humble and righteous.",
+      "theme_explanation": "The verse identifies two key negative traits that disqualify a person from the ultimate success of the Hereafter: the desire for 'uluww' (exaltedness, arrogance, superiority over others) and 'fasad' (corruption, mischief, wrongdoing). It teaches that true worth in the sight of Allah is tied to humility and piety. The final phrase, 'And the [best] outcome is for the righteous (al-muttaqin),' is a recurring Quranic promise, affirming that steadfast God-consciousness is the path to eternal success.",
+      "surah_overview": "Surah Al-Qasas, meaning 'The Stories,' is a Meccan surah that primarily narrates the detailed life story of Prophet Musa (Moses). It covers his miraculous birth, his upbringing in Pharaoh's palace, his escape to Madyan, his call to prophethood, and his struggle against the tyranny of Pharaoh. The surah highlights Allah's supreme power and meticulous planning in protecting His messengers and fulfilling His divine will. It serves to comfort Prophet Muhammad ﷺ and the early Muslims, assuring them that just as Musa was victorious over a powerful tyrant, they too would be victorious with Allah's help."
+    }
+  }
+}

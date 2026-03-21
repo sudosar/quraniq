@@ -226,7 +226,7 @@ function normalizeForMatch(str) {
         .replace(/[\u0671]/g, '\u0627') // alef wasla -> alef
         .replace(/[\u0622\u0623\u0625]/g, '\u0627') // alef variants -> alef
         .replace(/[\u0624]/g, '\u0648') // waw hamza -> waw
-        .replace(/[\u0626]/g, '\u064A') // ya hamza -> ya
+        .replace(/[\u0626]/g, '') // ya hamza -> remove entirely to match Uthmani isolated hamza
         .replace(/[\u0629]/g, '\u0647') // taa marbuta -> ha
         .replace(/[\u0649]/g, '\u064A') // alef maqsura -> ya
         .replace(/\u0621/g, '') // remove standalone hamza
@@ -245,6 +245,7 @@ function deepNormalize(str) {
     if (!str) return '';
     return str
         .replace(/[\u0621\u0623\u0625\u0624\u0626\u0622]/g, '') // remove all hamza forms
+        .replace(/\u064A(?=[\u0627\u0648])/g, '') // optionally remove yeh chair if preceding alef/waw
         .replace(/\u0648(?=[\u064A\u0627])/g, ''); // remove و before ي/ا (handles رؤيا vs ريا)
 }
 
@@ -536,7 +537,8 @@ function playVerseAudio(ref, btn) {
     audio.play().then(() => {
         // Track this verse as actively explored (user heard the recitation)
         trackVerses([ref]);
-    }).catch(() => {
+    }).catch(e => {
+        console.error('Audio play failed:', e, 'URL:', url);
         quranAudio.playing = false;
         if (btn) btn.textContent = '▶';
     });
@@ -636,7 +638,10 @@ function loadVerseTracker() {
         const data = JSON.parse(localStorage.getItem(VERSES_KEY));
         if (data && Array.isArray(data.refs)) return data;
         return { refs: [] };
-    } catch { return { refs: [] }; }
+    } catch (e) {
+        console.warn('Load verse tracker failed:', e);
+        return { refs: [] };
+    }
 }
 
 /**
@@ -660,7 +665,11 @@ function trackVerses(newRefs) {
     });
     if (added > 0) {
         tracker.refs = Array.from(existing);
-        localStorage.setItem(VERSES_KEY, JSON.stringify(tracker));
+        try {
+            localStorage.setItem(VERSES_KEY, JSON.stringify(tracker));
+        } catch (e) {
+            console.warn('Save verse tracker failed (storage quota likely exceeded):', e);
+        }
     }
     return { total: existing.size, added };
 }
