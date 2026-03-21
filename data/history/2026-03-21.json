@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-21",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَوْقَاتُ النَّهَارِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "احد",
+    "display": "أَحَد",
+    "hint": "A fundamental concept of divine unity.",
+    "verseRef": "112:1",
+    "arabicVerse": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "verse": "112:1 — Say, \"He is Allāh, [who is] One,"
+  },
+  "deduction": {
+    "title": "The Call of the Miraculous Sign",
+    "intro": "In a time of great prosperity and architectural marvels, a divine message arrived for a people entrenched in their ways. This individual was sent as a warning, bringing with them a unique sign from their Lord, a test for those who would defy the truth. Can you identify this messenger whose call was met with arrogance and ultimately, destruction?",
+    "clues": [
+      "I was sent to a people who carved dwellings into mountains and valleys.",
+      "My mission was to call my community to worship Allah alone, away from their idols.",
+      "A unique sign was given through me, a creature that emerged from a rock, whose drink was to be respected.",
+      "My people challenged me to produce this sign, and when it appeared, they plotted against it.",
+      "I warned them of a dire punishment if they harmed the sacred creature, giving them a three-day respite.",
+      "Despite my warnings, a group among them conspired and ultimately killed the creature, sealing their fate."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Shu'ayb",
+          "Prophet Lut",
+          "Prophet Isa",
+          "Prophet Salih"
+        ],
+        "answer": "Prophet Salih"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The splitting of the sea",
+          "The great flood",
+          "The fire not burning",
+          "The miraculous she-camel",
+          "The sacrifice of a son"
+        ],
+        "answer": "The miraculous she-camel"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Mountain Dwellings",
+          "The Golden Calf",
+          "The Throne"
+        ],
+        "answer": "The Mountain Dwellings"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Drowning in the sea",
+          "Transformation into apes",
+          "Destruction by a mighty blast",
+          "Swallowed by the earth",
+          "Victory over enemies"
+        ],
+        "answer": "Destruction by a mighty blast"
+      }
+    },
+    "verseRef": "26:155",
+    "arabic": "قَالَ هَـٰذِهِۦ نَاقَةٌۭ لَّهَا شِرْبٌۭ وَلَكُمْ شِرْبُ يَوْمٍۢ مَّعْلُومٍۢ",
+    "verse": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day. (26:155)"
+  },
+  "scramble": {
+    "verseRef": "73:8",
+    "reference": "Al-Muzzammil (73:8)",
+    "segments": [
+      "وَٱذْكُرِ ٱسْمَ",
+      "رَبِّكَ",
+      "وَتَبَتَّلْ",
+      "إِلَيْهِ",
+      "تَبْتِيلًۭا"
+    ],
+    "translations": [
+      "And remember (the) name",
+      "(of) your Lord",
+      "and devote yourself",
+      "to Him",
+      "(with) devotion"
+    ],
+    "hint": "This verse encourages a profound act of remembrance and complete dedication to the Divine.",
+    "arabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًۭا",
+    "words": [
+      "وَٱذْكُرِ ٱسْمَ",
+      "رَبِّكَ",
+      "وَتَبَتَّلْ",
+      "إِلَيْهِ",
+      "تَبْتِيلًۭا"
+    ],
+    "verseEn": "And remember the name of your Lord and devote yourself to Him with [complete] devotion."
+  }
 }
