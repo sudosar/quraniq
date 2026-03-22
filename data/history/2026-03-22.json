@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-22",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَحْكَامٌ شَرْعِيَّةٌ تتَعَلَّقُ بِالزَّوَاجِ وَالطَّلَاقِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "جنة",
+    "display": "جَنَّة",
+    "hint": "A reward whose width is like the heavens and the earth.",
+    "verseRef": "57:21",
+    "arabicVerse": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "verse": "57:21 — Race [i.e., compete] toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allāh and His messengers. That is the bounty of Allāh which He gives to whom He wills, and Allāh is the possessor of great bounty."
+  },
+  "deduction": {
+    "title": "The First Covenant",
+    "intro": "A being of unique creation, honored above many, was placed in a garden of unparalleled beauty. Given a place of peace and a single, clear prohibition, this soul stood at a pivotal crossroads. A moment of forgetfulness, a whispered temptation, and a choice was made that would forever alter the destiny of all who came after. Can you uncover the identity of this foundational figure?",
+    "clues": [
+      "I was taught the names of all things, a knowledge that distinguished me in the presence of the angels.",
+      "From me, a companion was created, and together we were told to dwell in a blissful garden.",
+      "We were granted access to all its bounties, with the sole exception of one specific tree.",
+      "A whisperer promised me an everlasting kingdom and immortality if I were to disobey.",
+      "After we transgressed, I received words of repentance from my Lord, and He turned to me in mercy.",
+      "My act of disobedience led to my descent to Earth, where I became the first of my kind and the first prophet."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Idris",
+          "Prophet Nuh",
+          "Prophet Adam",
+          "Iblis",
+          "Harut"
+        ],
+        "answer": "Prophet Adam"
+      },
+      "trial": {
+        "label": "What Was My Primary Trial?",
+        "options": [
+          "Building a Great Ark",
+          "Facing a Tyrant's Fire",
+          "A Test of Immense Wealth",
+          "Splitting the Sea",
+          "The Forbidden Tree"
+        ],
+        "answer": "The Forbidden Tree"
+      },
+      "location": {
+        "label": "What Was the Source of Deception?",
+        "options": [
+          "A Golden Calf",
+          "A Whisper from Shaytan",
+          "A Blood-Stained Shirt",
+          "The Arrogance of a Vizier",
+          "A Deceptive Royal Decree"
+        ],
+        "answer": "A Whisper from Shaytan"
+      },
+      "outcome": {
+        "label": "What Was the Ultimate Outcome?",
+        "options": [
+          "Drowned in a Flood",
+          "Swallowed by the Earth",
+          "Turned into Apes",
+          "Forgiveness and Guidance",
+          "Destroyed by a Mighty Blast"
+        ],
+        "answer": "Forgiveness and Guidance"
+      }
+    },
+    "verseRef": "20:122",
+    "arabic": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+    "verse": "Then his Lord chose him and turned to him in forgiveness and guided [him]. (20:122)"
+  },
+  "scramble": {
+    "verseRef": "40:60",
+    "reference": "Ghafir (40:60)",
+    "segments": [
+      "وَقَالَ رَبُّكُمُ",
+      "ٱدْعُونِىٓ",
+      "أَسْتَجِبْ",
+      "لَكُمْ"
+    ],
+    "translations": [
+      "And said your Lord Call upon Me I will respond",
+      "to you Indeed those who",
+      "(are) proud to worship Me",
+      "will enter Hell (in) humiliation"
+    ],
+    "hint": "A divine promise about the power of supplication (du'a) and Allah's direct response to His servants.",
+    "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+    "words": [
+      "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ",
+      "لَكُمْ ۚ إِنَّ ٱلَّذِينَ",
+      "يَسْتَكْبِرُونَ عَنْ عِبَادَتِى",
+      "سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ"
+    ],
+    "verseEn": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible."
+  }
 }

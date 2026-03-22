@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "puzzle": {
-    "title": "The Call of the Miraculous Sign",
-    "intro": "In a time of great prosperity and architectural marvels, a divine message arrived for a people entrenched in their ways. This individual was sent as a warning, bringing with them a unique sign from their Lord, a test for those who would defy the truth. Can you identify this messenger whose call was met with arrogance and ultimately, destruction?",
+    "title": "The First Covenant",
+    "intro": "A being of unique creation, honored above many, was placed in a garden of unparalleled beauty. Given a place of peace and a single, clear prohibition, this soul stood at a pivotal crossroads. A moment of forgetfulness, a whispered temptation, and a choice was made that would forever alter the destiny of all who came after. Can you uncover the identity of this foundational figure?",
     "clues": [
-      "I was sent to a people who carved dwellings into mountains and valleys.",
-      "My mission was to call my community to worship Allah alone, away from their idols.",
-      "A unique sign was given through me, a creature that emerged from a rock, whose drink was to be respected.",
-      "My people challenged me to produce this sign, and when it appeared, they plotted against it.",
-      "I warned them of a dire punishment if they harmed the sacred creature, giving them a three-day respite.",
-      "Despite my warnings, a group among them conspired and ultimately killed the creature, sealing their fate."
+      "I was taught the names of all things, a knowledge that distinguished me in the presence of the angels.",
+      "From me, a companion was created, and together we were told to dwell in a blissful garden.",
+      "We were granted access to all its bounties, with the sole exception of one specific tree.",
+      "A whisperer promised me an everlasting kingdom and immortality if I were to disobey.",
+      "After we transgressed, I received words of repentance from my Lord, and He turned to me in mercy.",
+      "My act of disobedience led to my descent to Earth, where I became the first of my kind and the first prophet."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Hud",
-          "Prophet Shu'ayb",
-          "Prophet Lut",
-          "Prophet Isa",
-          "Prophet Salih"
+          "Prophet Idris",
+          "Prophet Nuh",
+          "Prophet Adam",
+          "Iblis",
+          "Harut"
         ],
-        "answer": "Prophet Salih"
+        "answer": "Prophet Adam"
       },
       "trial": {
-        "label": "Trial/Event",
+        "label": "What Was My Primary Trial?",
         "options": [
-          "The splitting of the sea",
-          "The great flood",
-          "The fire not burning",
-          "The miraculous she-camel",
-          "The sacrifice of a son"
+          "Building a Great Ark",
+          "Facing a Tyrant's Fire",
+          "A Test of Immense Wealth",
+          "Splitting the Sea",
+          "The Forbidden Tree"
         ],
-        "answer": "The miraculous she-camel"
+        "answer": "The Forbidden Tree"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Was the Source of Deception?",
         "options": [
-          "The Ark",
-          "The Staff",
-          "The Mountain Dwellings",
-          "The Golden Calf",
-          "The Throne"
+          "A Golden Calf",
+          "A Whisper from Shaytan",
+          "A Blood-Stained Shirt",
+          "The Arrogance of a Vizier",
+          "A Deceptive Royal Decree"
         ],
-        "answer": "The Mountain Dwellings"
+        "answer": "A Whisper from Shaytan"
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "What Was the Ultimate Outcome?",
         "options": [
-          "Drowning in the sea",
-          "Transformation into apes",
-          "Destruction by a mighty blast",
-          "Swallowed by the earth",
-          "Victory over enemies"
+          "Drowned in a Flood",
+          "Swallowed by the Earth",
+          "Turned into Apes",
+          "Forgiveness and Guidance",
+          "Destroyed by a Mighty Blast"
         ],
-        "answer": "Destruction by a mighty blast"
+        "answer": "Forgiveness and Guidance"
       }
     },
-    "verseRef": "26:155",
-    "arabic": "قَالَ هَـٰذِهِۦ نَاقَةٌۭ لَّهَا شِرْبٌۭ وَلَكُمْ شِرْبُ يَوْمٍۢ مَّعْلُومٍۢ",
-    "verse": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day. (26:155)"
+    "verseRef": "20:122",
+    "arabic": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+    "verse": "Then his Lord chose him and turned to him in forgiveness and guided [him]. (20:122)"
   },
   "generated": true,
   "model": "auto (chain)"

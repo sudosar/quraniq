@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "puzzle": {
-    "word": "احد",
-    "display": "أَحَد",
-    "hint": "A fundamental concept of divine unity.",
-    "verseRef": "112:1",
-    "arabicVerse": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-    "verse": "112:1 — Say, \"He is Allāh, [who is] One,"
+    "word": "جنة",
+    "display": "جَنَّة",
+    "hint": "A reward whose width is like the heavens and the earth.",
+    "verseRef": "57:21",
+    "arabicVerse": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "verse": "57:21 — Race [i.e., compete] toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allāh and His messengers. That is the bounty of Allāh which He gives to whom He wills, and Allāh is the possessor of great bounty."
   },
   "generated": true,
   "model": "auto (chain)"
