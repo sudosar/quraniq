@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-23",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَنْبِيَاءٌ مَذْكُورُونَ بِأَسْمَائِهِمْ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "كبد",
+    "display": "كَبَد",
+    "hint": "The struggle and toil inherent in human existence.",
+    "verseRef": "90:4",
+    "arabicVerse": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "verse": "90:4 — We have certainly created man into hardship."
+  },
+  "deduction": {
+    "title": "The Prayer in the Sanctuary",
+    "intro": "In a sacred sanctuary, a devoted servant of Allah, advanced in age, offered a heartfelt plea. This individual yearned for an heir to carry on a legacy of faith, despite circumstances that made it seem impossible. A miraculous answer came, but it was accompanied by a unique sign to affirm the divine promise. Who is this patient soul whose quiet prayer was answered in a wondrous way?",
+    "clues": [
+      "I was a guardian and a caretaker, entrusted with a sacred responsibility within my community.",
+      "I watched over a righteous child who received provisions directly from Allah, which strengthened my own faith in His power.",
+      "In my old age, and with my wife being barren, I secretly called upon my Lord for a righteous heir.",
+      "While I was standing in prayer in the sanctuary, angels brought me the glad tidings of a son, whose name was chosen by Allah Himself.",
+      "I asked for a sign to reassure my heart, and it was granted to me in a peculiar way.",
+      "My sign was that I was unable to speak to people for three nights, though I was perfectly healthy, communicating only through gestures."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ibrahim",
+          "'Imran, father of Maryam",
+          "Prophet Ya'qub",
+          "Prophet Zakariyya",
+          "Luqman the Wise"
+        ],
+        "answer": "Prophet Zakariyya"
+      },
+      "trial": {
+        "label": "What did I pray for?",
+        "options": [
+          "A kingdom unlike any other",
+          "To see Allah on the mountain",
+          "For my son to be saved from sacrifice",
+          "A righteous heir in old age",
+          "For my people to be saved from a flood"
+        ],
+        "answer": "A righteous heir in old age"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A hand turning white without disease",
+          "A she-camel emerging from a rock",
+          "The inability to speak for three nights",
+          "A fire made cool and peaceful",
+          "A staff that split the sea"
+        ],
+        "answer": "The inability to speak for three nights"
+      },
+      "outcome": {
+        "label": "Who was the promised child?",
+        "options": [
+          "Prophet Ishaq",
+          "Prophet Yahya",
+          "Prophet Isma'il",
+          "Prophet Yusuf",
+          "Prophet 'Isa"
+        ],
+        "answer": "Prophet Yahya"
+      }
+    },
+    "verseRef": "19:10",
+    "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍۢ سَوِيًّۭا",
+    "verse": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\" (19:10)"
+  },
+  "scramble": {
+    "verseRef": "6:59",
+    "reference": "Al-An'am (6:59)",
+    "segments": [
+      "وَعِندَهُۥ",
+      "مَفَاتِحُ ٱلْغَيْبِ",
+      "لَا يَعْلَمُهَآ",
+      "إِلَّا هُوَ"
+    ],
+    "translations": [
+      "And with Him (are the) keys (of) the unseen no (one) knows them except Him And He knows",
+      "what (is) in the land and in the sea And not falls of any leaf",
+      "but He knows it And not a grain in the darkness[es] (of) the earth and not",
+      "moist and not dry but (is) in a Record Clear"
+    ],
+    "hint": "This verse speaks about Allah's exclusive and absolute knowledge of all that is hidden.",
+    "arabic": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+    "words": [
+      "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ",
+      "مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ",
+      "إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا",
+      "رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ"
+    ],
+    "verseEn": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record."
+  }
 }

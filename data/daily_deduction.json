@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "puzzle": {
-    "title": "The First Covenant",
-    "intro": "A being of unique creation, honored above many, was placed in a garden of unparalleled beauty. Given a place of peace and a single, clear prohibition, this soul stood at a pivotal crossroads. A moment of forgetfulness, a whispered temptation, and a choice was made that would forever alter the destiny of all who came after. Can you uncover the identity of this foundational figure?",
+    "title": "The Prayer in the Sanctuary",
+    "intro": "In a sacred sanctuary, a devoted servant of Allah, advanced in age, offered a heartfelt plea. This individual yearned for an heir to carry on a legacy of faith, despite circumstances that made it seem impossible. A miraculous answer came, but it was accompanied by a unique sign to affirm the divine promise. Who is this patient soul whose quiet prayer was answered in a wondrous way?",
     "clues": [
-      "I was taught the names of all things, a knowledge that distinguished me in the presence of the angels.",
-      "From me, a companion was created, and together we were told to dwell in a blissful garden.",
-      "We were granted access to all its bounties, with the sole exception of one specific tree.",
-      "A whisperer promised me an everlasting kingdom and immortality if I were to disobey.",
-      "After we transgressed, I received words of repentance from my Lord, and He turned to me in mercy.",
-      "My act of disobedience led to my descent to Earth, where I became the first of my kind and the first prophet."
+      "I was a guardian and a caretaker, entrusted with a sacred responsibility within my community.",
+      "I watched over a righteous child who received provisions directly from Allah, which strengthened my own faith in His power.",
+      "In my old age, and with my wife being barren, I secretly called upon my Lord for a righteous heir.",
+      "While I was standing in prayer in the sanctuary, angels brought me the glad tidings of a son, whose name was chosen by Allah Himself.",
+      "I asked for a sign to reassure my heart, and it was granted to me in a peculiar way.",
+      "My sign was that I was unable to speak to people for three nights, though I was perfectly healthy, communicating only through gestures."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Idris",
-          "Prophet Nuh",
-          "Prophet Adam",
-          "Iblis",
-          "Harut"
+          "Prophet Ibrahim",
+          "'Imran, father of Maryam",
+          "Prophet Ya'qub",
+          "Prophet Zakariyya",
+          "Luqman the Wise"
         ],
-        "answer": "Prophet Adam"
+        "answer": "Prophet Zakariyya"
       },
       "trial": {
-        "label": "What Was My Primary Trial?",
+        "label": "What did I pray for?",
         "options": [
-          "Building a Great Ark",
-          "Facing a Tyrant's Fire",
-          "A Test of Immense Wealth",
-          "Splitting the Sea",
-          "The Forbidden Tree"
+          "A kingdom unlike any other",
+          "To see Allah on the mountain",
+          "For my son to be saved from sacrifice",
+          "A righteous heir in old age",
+          "For my people to be saved from a flood"
         ],
-        "answer": "The Forbidden Tree"
+        "answer": "A righteous heir in old age"
       },
       "location": {
-        "label": "What Was the Source of Deception?",
+        "label": "Key Element",
         "options": [
-          "A Golden Calf",
-          "A Whisper from Shaytan",
-          "A Blood-Stained Shirt",
-          "The Arrogance of a Vizier",
-          "A Deceptive Royal Decree"
+          "A hand turning white without disease",
+          "A she-camel emerging from a rock",
+          "The inability to speak for three nights",
+          "A fire made cool and peaceful",
+          "A staff that split the sea"
         ],
-        "answer": "A Whisper from Shaytan"
+        "answer": "The inability to speak for three nights"
       },
       "outcome": {
-        "label": "What Was the Ultimate Outcome?",
+        "label": "Who was the promised child?",
         "options": [
-          "Drowned in a Flood",
-          "Swallowed by the Earth",
-          "Turned into Apes",
-          "Forgiveness and Guidance",
-          "Destroyed by a Mighty Blast"
+          "Prophet Ishaq",
+          "Prophet Yahya",
+          "Prophet Isma'il",
+          "Prophet Yusuf",
+          "Prophet 'Isa"
         ],
-        "answer": "Forgiveness and Guidance"
+        "answer": "Prophet Yahya"
       }
     },
-    "verseRef": "20:122",
-    "arabic": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
-    "verse": "Then his Lord chose him and turned to him in forgiveness and guided [him]. (20:122)"
+    "verseRef": "19:10",
+    "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍۢ سَوِيًّۭا",
+    "verse": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\" (19:10)"
   },
   "generated": true,
   "model": "auto (chain)"
