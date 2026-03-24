@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-24",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَرْقَامٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "شمس",
+    "display": "شَمْس",
+    "hint": "The celestial body that marks the day.",
+    "verseRef": "36:38",
+    "arabicVerse": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّۢ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+    "verse": "36:38 — And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing."
+  },
+  "deduction": {
+    "title": "The Challenge to a False Deity",
+    "intro": "In a land where devotion was misplaced, a lone voice rose to challenge the prevailing falsehood. This messenger of truth confronted a community steeped in idolatry, posing a question that echoed through the ages: would they abandon their hollow worship for the One True Creator? Follow the journey of this steadfast individual who stood against a tide of disbelief to restore the call to monotheism.",
+    "clues": [
+      "I was sent as a messenger to my people, a servant of Allah tasked with guidance.",
+      "My community had turned away from the True God, directing their worship to an idol they had named.",
+      "I questioned their devotion, asking them, 'Do you call upon this idol and forsake the Best of creators?'",
+      "The false god my people worshipped was known by the name Ba'l.",
+      "I reminded them that Allah is their Lord and the Lord of their forefathers.",
+      "My name is mentioned in the Quran, and peace was sent upon me and those like me ('Ilyasin')."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Shu'ayb",
+          "Prophet Ilyas (Elijah)",
+          "Prophet Musa (Moses)",
+          "Prophet Ibrahim"
+        ],
+        "answer": "Prophet Ilyas (Elijah)"
+      },
+      "trial": {
+        "label": "What Was My Primary Mission?",
+        "options": [
+          "Building an ark to save believers from a flood",
+          "Challenging a tyrant who claimed to give life and death",
+          "Splitting the sea to escape a pursuing army",
+          "Correcting dishonest practices in weights and measures",
+          "Confronting the worship of the idol Ba'l"
+        ],
+        "answer": "Confronting the worship of the idol Ba'l"
+      },
+      "location": {
+        "label": "What Was the Name of the Idol?",
+        "options": [
+          "The Golden Calf",
+          "Al-Lat",
+          "Wadd",
+          "Ba'l",
+          "A She-Camel"
+        ],
+        "answer": "Ba'l"
+      },
+      "outcome": {
+        "label": "What Was the Ultimate Record of My Stand?",
+        "options": [
+          "I was remembered as a righteous servant among later generations",
+          "My people were destroyed by a mighty flood",
+          "I was given a kingdom and the ability to command the jinn",
+          "My entire family was saved, except for my wife who lagged behind",
+          "I was raised to the heavens by Allah's command"
+        ],
+        "answer": "I was remembered as a righteous servant among later generations"
+      }
+    },
+    "verseRef": "37:124",
+    "arabic": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+    "verse": "When he said to his people, \"Will you not fear Allāh? (37:124)"
+  },
+  "scramble": {
+    "verseRef": "9:51",
+    "reference": "At-Tawbah (9:51)",
+    "segments": [
+      "قُل لَّن يُصِيبَنَآ",
+      "إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا",
+      "هُوَ مَوْلَىٰنَا",
+      "وَعَلَى ٱللَّهِ",
+      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+    ],
+    "translations": [
+      "Say Never will befall us",
+      "except what Allah has decreed",
+      "Allah has decreed for us He",
+      "(is) our Protector And on Allah",
+      "[so] let the believers put (their) trust [so] let the believers put (their) trust"
+    ],
+    "hint": "A powerful declaration of trust and reliance on Allah's decree (Qadr).",
+    "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "words": [
+      "قُل لَّن يُصِيبَنَآ",
+      "إِلَّا مَا كَتَبَ",
+      "ٱللَّهُ لَنَا هُوَ",
+      "مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ",
+      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+    ],
+    "verseEn": "Say, \"Never will we be struck except by what Allāh has decreed for us; He is our protector.\" And upon Allāh let the believers rely."
+  }
 }

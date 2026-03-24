@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "puzzle": {
-    "title": "The Prayer in the Sanctuary",
-    "intro": "In a sacred sanctuary, a devoted servant of Allah, advanced in age, offered a heartfelt plea. This individual yearned for an heir to carry on a legacy of faith, despite circumstances that made it seem impossible. A miraculous answer came, but it was accompanied by a unique sign to affirm the divine promise. Who is this patient soul whose quiet prayer was answered in a wondrous way?",
+    "title": "The Challenge to a False Deity",
+    "intro": "In a land where devotion was misplaced, a lone voice rose to challenge the prevailing falsehood. This messenger of truth confronted a community steeped in idolatry, posing a question that echoed through the ages: would they abandon their hollow worship for the One True Creator? Follow the journey of this steadfast individual who stood against a tide of disbelief to restore the call to monotheism.",
     "clues": [
-      "I was a guardian and a caretaker, entrusted with a sacred responsibility within my community.",
-      "I watched over a righteous child who received provisions directly from Allah, which strengthened my own faith in His power.",
-      "In my old age, and with my wife being barren, I secretly called upon my Lord for a righteous heir.",
-      "While I was standing in prayer in the sanctuary, angels brought me the glad tidings of a son, whose name was chosen by Allah Himself.",
-      "I asked for a sign to reassure my heart, and it was granted to me in a peculiar way.",
-      "My sign was that I was unable to speak to people for three nights, though I was perfectly healthy, communicating only through gestures."
+      "I was sent as a messenger to my people, a servant of Allah tasked with guidance.",
+      "My community had turned away from the True God, directing their worship to an idol they had named.",
+      "I questioned their devotion, asking them, 'Do you call upon this idol and forsake the Best of creators?'",
+      "The false god my people worshipped was known by the name Ba'l.",
+      "I reminded them that Allah is their Lord and the Lord of their forefathers.",
+      "My name is mentioned in the Quran, and peace was sent upon me and those like me ('Ilyasin')."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Ibrahim",
-          "'Imran, father of Maryam",
-          "Prophet Ya'qub",
-          "Prophet Zakariyya",
-          "Luqman the Wise"
+          "Prophet Hud",
+          "Prophet Shu'ayb",
+          "Prophet Ilyas (Elijah)",
+          "Prophet Musa (Moses)",
+          "Prophet Ibrahim"
         ],
-        "answer": "Prophet Zakariyya"
+        "answer": "Prophet Ilyas (Elijah)"
       },
       "trial": {
-        "label": "What did I pray for?",
+        "label": "What Was My Primary Mission?",
         "options": [
-          "A kingdom unlike any other",
-          "To see Allah on the mountain",
-          "For my son to be saved from sacrifice",
-          "A righteous heir in old age",
-          "For my people to be saved from a flood"
+          "Building an ark to save believers from a flood",
+          "Challenging a tyrant who claimed to give life and death",
+          "Splitting the sea to escape a pursuing army",
+          "Correcting dishonest practices in weights and measures",
+          "Confronting the worship of the idol Ba'l"
         ],
-        "answer": "A righteous heir in old age"
+        "answer": "Confronting the worship of the idol Ba'l"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Was the Name of the Idol?",
         "options": [
-          "A hand turning white without disease",
-          "A she-camel emerging from a rock",
-          "The inability to speak for three nights",
-          "A fire made cool and peaceful",
-          "A staff that split the sea"
+          "The Golden Calf",
+          "Al-Lat",
+          "Wadd",
+          "Ba'l",
+          "A She-Camel"
         ],
-        "answer": "The inability to speak for three nights"
+        "answer": "Ba'l"
       },
       "outcome": {
-        "label": "Who was the promised child?",
+        "label": "What Was the Ultimate Record of My Stand?",
         "options": [
-          "Prophet Ishaq",
-          "Prophet Yahya",
-          "Prophet Isma'il",
-          "Prophet Yusuf",
-          "Prophet 'Isa"
+          "I was remembered as a righteous servant among later generations",
+          "My people were destroyed by a mighty flood",
+          "I was given a kingdom and the ability to command the jinn",
+          "My entire family was saved, except for my wife who lagged behind",
+          "I was raised to the heavens by Allah's command"
         ],
-        "answer": "Prophet Yahya"
+        "answer": "I was remembered as a righteous servant among later generations"
       }
     },
-    "verseRef": "19:10",
-    "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍۢ سَوِيًّۭا",
-    "verse": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\" (19:10)"
+    "verseRef": "37:124",
+    "arabic": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+    "verse": "When he said to his people, \"Will you not fear Allāh? (37:124)"
   },
   "generated": true,
   "model": "auto (chain)"

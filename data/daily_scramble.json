@@ -1,29 +1,32 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "puzzle": {
-    "verseRef": "6:59",
-    "reference": "Al-An'am (6:59)",
+    "verseRef": "9:51",
+    "reference": "At-Tawbah (9:51)",
     "segments": [
-      "وَعِندَهُۥ",
-      "مَفَاتِحُ ٱلْغَيْبِ",
-      "لَا يَعْلَمُهَآ",
-      "إِلَّا هُوَ"
+      "قُل لَّن يُصِيبَنَآ",
+      "إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا",
+      "هُوَ مَوْلَىٰنَا",
+      "وَعَلَى ٱللَّهِ",
+      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
     ],
     "translations": [
-      "And with Him (are the) keys (of) the unseen no (one) knows them except Him And He knows",
-      "what (is) in the land and in the sea And not falls of any leaf",
-      "but He knows it And not a grain in the darkness[es] (of) the earth and not",
-      "moist and not dry but (is) in a Record Clear"
+      "Say Never will befall us",
+      "except what Allah has decreed",
+      "Allah has decreed for us He",
+      "(is) our Protector And on Allah",
+      "[so] let the believers put (their) trust [so] let the believers put (their) trust"
     ],
-    "hint": "This verse speaks about Allah's exclusive and absolute knowledge of all that is hidden.",
-    "arabic": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+    "hint": "A powerful declaration of trust and reliance on Allah's decree (Qadr).",
+    "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
     "words": [
-      "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ",
-      "مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ",
-      "إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا",
-      "رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ"
+      "قُل لَّن يُصِيبَنَآ",
+      "إِلَّا مَا كَتَبَ",
+      "ٱللَّهُ لَنَا هُوَ",
+      "مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ",
+      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
     ],
-    "verseEn": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record."
+    "verseEn": "Say, \"Never will we be struck except by what Allāh has decreed for us; He is our protector.\" And upon Allāh let the believers rely."
   },
   "generated": true,
   "model": "auto (chain)"
