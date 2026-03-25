@@ -1,32 +1,29 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "puzzle": {
-    "verseRef": "9:51",
-    "reference": "At-Tawbah (9:51)",
+    "verseRef": "31:18",
+    "reference": "Surah Luqman (31:18)",
     "segments": [
-      "قُل لَّن يُصِيبَنَآ",
-      "إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا",
-      "هُوَ مَوْلَىٰنَا",
-      "وَعَلَى ٱللَّهِ",
-      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+      "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ",
+      "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا",
+      "إِنَّ اللَّهَ لَا يُحِبُّ",
+      "كُلَّ مُخْتَالٍ فَخُورٍ"
     ],
     "translations": [
-      "Say Never will befall us",
-      "except what Allah has decreed",
-      "Allah has decreed for us He",
-      "(is) our Protector And on Allah",
-      "[so] let the believers put (their) trust [so] let the believers put (their) trust"
+      "And (do) not turn your cheek from men",
+      "and (do) not walk in the earth",
+      "exultantly Indeed Allah (does) not",
+      "like every self-conceited boaster"
     ],
-    "hint": "A powerful declaration of trust and reliance on Allah's decree (Qadr).",
-    "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "hint": "A piece of advice from Luqman to his son about the importance of humility and avoiding arrogance.",
+    "arabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
     "words": [
-      "قُل لَّن يُصِيبَنَآ",
-      "إِلَّا مَا كَتَبَ",
-      "ٱللَّهُ لَنَا هُوَ",
-      "مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ",
-      "فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+      "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ",
+      "وَلَا تَمْشِ فِى ٱلْأَرْضِ",
+      "مَرَحًا ۖ إِنَّ ٱللَّهَ لَا",
+      "يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ"
     ],
-    "verseEn": "Say, \"Never will we be struck except by what Allāh has decreed for us; He is our protector.\" And upon Allāh let the believers rely."
+    "verseEn": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allāh does not like everyone self-deluded and boastful."
   },
   "generated": true,
   "model": "auto (chain)"

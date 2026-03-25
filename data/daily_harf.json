@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "puzzle": {
-    "word": "شمس",
-    "display": "شَمْس",
-    "hint": "The celestial body that marks the day.",
-    "verseRef": "36:38",
-    "arabicVerse": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّۢ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
-    "verse": "36:38 — And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing."
+    "word": "كهف",
+    "display": "كَهْف",
+    "hint": "A place of refuge for the youth.",
+    "verseRef": "18:9",
+    "arabicVerse": "أَمْ حَسِبْتَ أَنَّ أَصْحَـٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَـٰتِنَا عَجَبًا",
+    "verse": "18:9 — Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?"
   },
   "generated": true,
   "model": "auto (chain)"
