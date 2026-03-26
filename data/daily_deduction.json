@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "puzzle": {
-    "title": "The Reluctant Messenger",
-    "intro": "Destiny calls upon a soul living in self-imposed exile. Fleeing a past transgression, this individual is chosen for a monumental task: to confront the most powerful tyrant of the age. With divine signs and a trusted companion, this messenger must return to the land of their youth to deliver a message of liberation and monotheism. Can you uncover the identity of this reluctant hero?",
+    "title": "The Unveiling of a Hidden Truth",
+    "intro": "Within the opulent walls of a powerful household, a prominent figure's life of comfort and authority is thrown into turmoil. An encounter with a servant of remarkable piety sparks an internal conflict between desire and righteousness, leading to a desperate act of deception. Follow the trail of a torn garment and a shocking confession to uncover the identity of this individual whose story is a profound lesson in temptation, consequence, and the eventual triumph of truth.",
     "clues": [
-      "I was raised in the heart of my enemy's household, yet I never knew them as my own.",
-      "In a moment of anger, I struck a person and unintentionally caused their death, forcing me to flee my home.",
-      "While traveling with my family, I saw a fire on a distant mountain and approached it, seeking warmth and guidance.",
-      "At that mountain, I spoke directly with my Lord, who commanded me to go to a tyrant and ask him to free my people.",
-      "My Lord granted me two great signs: my staff, which could turn into a serpent, and my hand, which would shine with a brilliant white light.",
-      "I asked my Lord to appoint my brother, Harun, as a helper for me, as he was more eloquent in speech."
+      "I lived in a home of great wealth and high status in the land of Egypt.",
+      "A young servant of exceptional beauty and character was brought to live under my roof.",
+      "Overcome by temptation, I pursued this individual, but my advances were firmly rejected.",
+      "In a moment of panic and rage, I tore the servant's garment from behind.",
+      "To defend my reputation, I invited the women of the city, who, upon seeing the servant, cut their own hands in astonishment.",
+      "Years later, I finally declared, 'Now the truth is manifest; it was I who sought to seduce him, and indeed, he is of the truthful.'"
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Yusuf",
-          "Prophet Ibrahim",
-          "Prophet Musa",
-          "Prophet Muhammad (ﷺ)",
-          "Dhul-Qarnayn"
+          "The wife of Fir'awn",
+          "The Queen of Sheba",
+          "The wife of Al-'Aziz",
+          "The wife of Prophet Lut",
+          "The mother of Maryam"
         ],
-        "answer": "Prophet Musa"
+        "answer": "The wife of Al-'Aziz"
       },
       "trial": {
-        "label": "What was my primary mission?",
+        "label": "What Was My Trial?",
         "options": [
-          "Building a great ark to survive a flood",
-          "Interpreting the dreams of a king in Egypt",
-          "Leading an army against the giant Jalut",
-          "Confronting Fir'awn and freeing the Israelites",
-          "Rebuilding the Kaaba with my son"
+          "Hiding my faith from a tyrannical spouse",
+          "Seducing a righteous servant in my home",
+          "Arguing with my father over idol worship",
+          "Betraying my people to an invading army",
+          "Enduring the loss of all my children and wealth"
         ],
-        "answer": "Confronting Fir'awn and freeing the Israelites"
+        "answer": "Seducing a righteous servant in my home"
       },
       "location": {
-        "label": "What object was a key sign for me?",
+        "label": "What Object Was Key Evidence?",
         "options": [
-          "A coat of many colors that caused jealousy",
-          "A staff that turned into a serpent",
-          "A ship built on dry land",
-          "A ring that controlled the wind and Jinn",
-          "A clay bird that came to life"
+          "A golden calf",
+          "A staff that became a snake",
+          "A torn shirt",
+          "An ark of covenant",
+          "A bird made from clay"
         ],
-        "answer": "A staff that turned into a serpent"
+        "answer": "A torn shirt"
       },
       "outcome": {
-        "label": "What was a major event following the confrontation?",
+        "label": "What Was The Final Outcome?",
         "options": [
-          "Parting the Red Sea to escape",
-          "Being thrown into a fire which became cool and safe",
-          "Being swallowed by a giant fish and repenting",
-          "Being raised to the heavens without dying",
-          "Being given a kingdom that no one after me would have"
+          "I was drowned in the sea for my disbelief",
+          "I publicly confessed the truth and cleared an innocent name",
+          "I was turned into a pillar of salt as a warning",
+          "I submitted to Allah alongside Prophet Sulayman",
+          "I was promised a house in Paradise for my faith"
         ],
-        "answer": "Parting the Red Sea to escape"
+        "answer": "I publicly confessed the truth and cleared an innocent name"
       }
     },
-    "verseRef": "28:32",
-    "arabic": "ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَـٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَـٰسِقِينَ",
-    "verse": "Insert your hand into the opening of your garment; it will come out white, without disease. And draw in your arm close to you [as prevention] from fear, for those are two proofs from your Lord to Pharaoh and his establishment. Indeed, they have been a people defiantly disobedient.\" (28:32)"
+    "verseRef": "12:51",
+    "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+    "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
   },
   "generated": true,
   "model": "auto (chain)"

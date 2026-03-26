@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "puzzle": {
-    "word": "كهف",
-    "display": "كَهْف",
-    "hint": "A place of refuge for the youth.",
-    "verseRef": "18:9",
-    "arabicVerse": "أَمْ حَسِبْتَ أَنَّ أَصْحَـٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَـٰتِنَا عَجَبًا",
-    "verse": "18:9 — Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?"
+    "word": "زقوم",
+    "display": "زَقُّوم",
+    "hint": "A bitter tree for the inhabitants of the Fire, its fruit like the heads of devils.",
+    "verseRef": "56:52",
+    "arabicVerse": "لَـَٔاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+    "verse": "56:52 — Will be eating from trees of zaqqūm"
   },
   "generated": true,
   "model": "auto (chain)"

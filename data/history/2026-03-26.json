@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-26",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَجْزَاءُ الْجِسْمِ",
@@ -144,6 +143,104 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "زقوم",
+    "display": "زَقُّوم",
+    "hint": "A bitter tree for the inhabitants of the Fire, its fruit like the heads of devils.",
+    "verseRef": "56:52",
+    "arabicVerse": "لَـَٔاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+    "verse": "56:52 — Will be eating from trees of zaqqūm"
+  },
+  "deduction": {
+    "title": "The Unveiling of a Hidden Truth",
+    "intro": "Within the opulent walls of a powerful household, a prominent figure's life of comfort and authority is thrown into turmoil. An encounter with a servant of remarkable piety sparks an internal conflict between desire and righteousness, leading to a desperate act of deception. Follow the trail of a torn garment and a shocking confession to uncover the identity of this individual whose story is a profound lesson in temptation, consequence, and the eventual triumph of truth.",
+    "clues": [
+      "I lived in a home of great wealth and high status in the land of Egypt.",
+      "A young servant of exceptional beauty and character was brought to live under my roof.",
+      "Overcome by temptation, I pursued this individual, but my advances were firmly rejected.",
+      "In a moment of panic and rage, I tore the servant's garment from behind.",
+      "To defend my reputation, I invited the women of the city, who, upon seeing the servant, cut their own hands in astonishment.",
+      "Years later, I finally declared, 'Now the truth is manifest; it was I who sought to seduce him, and indeed, he is of the truthful.'"
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The wife of Fir'awn",
+          "The Queen of Sheba",
+          "The wife of Al-'Aziz",
+          "The wife of Prophet Lut",
+          "The mother of Maryam"
+        ],
+        "answer": "The wife of Al-'Aziz"
+      },
+      "trial": {
+        "label": "What Was My Trial?",
+        "options": [
+          "Hiding my faith from a tyrannical spouse",
+          "Seducing a righteous servant in my home",
+          "Arguing with my father over idol worship",
+          "Betraying my people to an invading army",
+          "Enduring the loss of all my children and wealth"
+        ],
+        "answer": "Seducing a righteous servant in my home"
+      },
+      "location": {
+        "label": "What Object Was Key Evidence?",
+        "options": [
+          "A golden calf",
+          "A staff that became a snake",
+          "A torn shirt",
+          "An ark of covenant",
+          "A bird made from clay"
+        ],
+        "answer": "A torn shirt"
+      },
+      "outcome": {
+        "label": "What Was The Final Outcome?",
+        "options": [
+          "I was drowned in the sea for my disbelief",
+          "I publicly confessed the truth and cleared an innocent name",
+          "I was turned into a pillar of salt as a warning",
+          "I submitted to Allah alongside Prophet Sulayman",
+          "I was promised a house in Paradise for my faith"
+        ],
+        "answer": "I publicly confessed the truth and cleared an innocent name"
+      }
+    },
+    "verseRef": "12:51",
+    "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+    "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+  },
+  "scramble": {
+    "verseRef": "21:35",
+    "reference": "Surah Al-Anbiya (21:35)",
+    "segments": [
+      "كُلُّ نَفْسٍ",
+      "ذَآئِقَةُ ٱلْمَوْتِ",
+      "وَنَبْلُوكُم",
+      "بِٱلشَّرِّ وَٱلْخَيْرِ",
+      "فِتْنَةً",
+      "وَإِلَيْنَا تُرْجَعُونَ"
+    ],
+    "translations": [
+      "Every soul",
+      "(will) taste [the] death",
+      "And We test you with [the] bad",
+      "and [the] good (as) a trial",
+      "and to Us",
+      "you will be returned"
+    ],
+    "hint": "A reminder about the temporary nature of this life and its trials.",
+    "arabic": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ",
+    "words": [
+      "كُلُّ نَفْسٍۢ",
+      "ذَآئِقَةُ ٱلْمَوْتِ ۗ",
+      "وَنَبْلُوكُم بِٱلشَّرِّ",
+      "وَٱلْخَيْرِ فِتْنَةًۭ ۖ",
+      "وَإِلَيْنَا",
+      "تُرْجَعُونَ"
+    ],
+    "verseEn": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."
+  }
 }
