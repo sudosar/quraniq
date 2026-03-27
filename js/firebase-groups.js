@@ -204,21 +204,26 @@ async function processPendingMigration() {
 
                 // Check if old UID is still a member (hasn't been cleaned up)
                 const oldMemberSnap = await FB_STATE.db.ref(`groups/${code}/members/${oldUid}`).once('value');
+                // Also check if new UID is already a member (prevent duplicates)
+                const newMemberSnap = await FB_STATE.db.ref(`groups/${code}/members/${newUid}`).once('value');
 
-                // Add new UID as member
-                await FB_STATE.db.ref(`groups/${code}/members/${newUid}`).set(true);
-                await FB_STATE.db.ref(`users/${newUid}/groups/${code}`).set(true);
+                // Add new UID as member (if not already)
+                if (!newMemberSnap.val()) {
+                    await FB_STATE.db.ref(`groups/${code}/members/${newUid}`).set(true);
+                    await FB_STATE.db.ref(`users/${newUid}/groups/${code}`).set(true);
+                }
 
-                // Remove old UID from group (swap)
+                // Remove old UID from group (swap) if it exists
                 if (oldMemberSnap.val()) {
                     await FB_STATE.db.ref(`groups/${code}/members/${oldUid}`).remove();
                     await FB_STATE.db.ref(`users/${oldUid}/groups/${code}`).remove();
                     // Member count stays the same (swap, not add)
-                } else {
-                    // Old UID was already removed, increment count
+                } else if (!newMemberSnap.val()) {
+                    // Old UID was already removed AND new UID wasn't already a member, increment count
                     const countSnap = await FB_STATE.db.ref(`groups/${code}/memberCount`).once('value');
                     await FB_STATE.db.ref(`groups/${code}/memberCount`).set((countSnap.val() || 0) + 1);
                 }
+                // If new UID was already a member, do nothing (already in group)
 
                 console.log('[FB] Migration: re-joined group', code);
             } catch (err) {
@@ -712,70 +717,122 @@ async function fetchGroupLeaderboard(groupCode) {
         const results = await Promise.all(promises);
         let validResults = results.filter(r => r !== null);
 
-        // Dedup: detect ghost UIDs (same display name as current user but different UID)
+        // DEDUPLICATION: Detect and merge duplicate users (same display name, different UIDs)
         // This happens when a user clears cache, gets a new anonymous UID, and re-joins
-        const myEntry = validResults.find(r => r.isMe);
-        if (myEntry) {
-            const ghosts = validResults.filter(r =>
-                !r.isMe &&
-                r.displayName === myEntry.displayName &&
-                r.uid !== myEntry.uid
-            );
-            for (const ghost of ghosts) {
-                console.log('[FB] Dedup: merging ghost UID', ghost.uid.substring(0, 8), 'into', myEntry.uid.substring(0, 8));
-                // Merge scores: keep the higher totals
-                if (ghost.ramadanTotal > myEntry.ramadanTotal) {
-                    myEntry.ramadanTotal = ghost.ramadanTotal;
+        // We need to deduplicate for ALL users, not just the current user
+        
+        // Group entries by display name (case-insensitive, trimmed)
+        const entriesByName = {};
+        validResults.forEach(entry => {
+            const displayName = entry.displayName || 'Anonymous';
+            const key = displayName.trim().toLowerCase();
+            if (!entriesByName[key]) {
+                entriesByName[key] = [];
+            }
+            entriesByName[key].push(entry);
+        });
+
+        // For each name with multiple entries, keep the "best" one and remove ghosts
+        const ghostsToRemove = [];
+        const currentUid = FB_STATE.user?.uid;
+
+        Object.values(entriesByName).forEach(entries => {
+            if (entries.length <= 1) return;
+
+            console.log(`[FB] Dedup: Found ${entries.length} entries for "${entries[0].displayName}"`);
+
+            // Determine which entry to keep:
+            // 1. If current user is among them, keep current user's entry
+            // 2. Otherwise, keep the entry with highest ramadanTotal (or todayTotal as tiebreaker)
+            let keepEntry = entries[0];
+            const currentUserEntry = entries.find(e => e.uid === currentUid);
+            
+            if (currentUserEntry) {
+                keepEntry = currentUserEntry;
+            } else {
+                // Find entry with highest ramadanTotal (todayTotal as tiebreaker)
+                for (let i = 1; i < entries.length; i++) {
+                    const entry = entries[i];
+                    if (entry.ramadanTotal > keepEntry.ramadanTotal ||
+                        (entry.ramadanTotal === keepEntry.ramadanTotal && entry.todayTotal > keepEntry.todayTotal)) {
+                        keepEntry = entry;
+                    }
                 }
-                if (ghost.todayTotal > myEntry.todayTotal) {
-                    myEntry.todayTotal = ghost.todayTotal;
-                    myEntry.todayScores = ghost.todayScores;
-                }
-                if ((ghost.quranPercent || 0) > (myEntry.quranPercent || 0)) {
-                    myEntry.quranPercent = ghost.quranPercent;
-                    myEntry.versesExplored = ghost.versesExplored;
-                }
-                if (ghost.streak > myEntry.streak) {
-                    myEntry.streak = ghost.streak;
-                }
-                // Merge per-game all-time totals (keep higher of each)
-                if (ghost.allTimeScores && myEntry.allTimeScores) {
-                    for (const g of Object.keys(ghost.allTimeScores)) {
-                        if ((ghost.allTimeScores[g] || 0) > (myEntry.allTimeScores[g] || 0)) {
-                            myEntry.allTimeScores[g] = ghost.allTimeScores[g];
+            }
+
+            // Mark all other entries as ghosts
+            entries.forEach(entry => {
+                if (entry.uid !== keepEntry.uid) {
+                    ghostsToRemove.push(entry);
+                    
+                    // Merge scores into keepEntry (keep higher values)
+                    if (entry.ramadanTotal > keepEntry.ramadanTotal) {
+                        keepEntry.ramadanTotal = entry.ramadanTotal;
+                    }
+                    if (entry.todayTotal > keepEntry.todayTotal) {
+                        keepEntry.todayTotal = entry.todayTotal;
+                        keepEntry.todayScores = entry.todayScores;
+                    }
+                    if ((entry.quranPercent || 0) > (keepEntry.quranPercent || 0)) {
+                        keepEntry.quranPercent = entry.quranPercent;
+                        keepEntry.versesExplored = entry.versesExplored;
+                    }
+                    if (entry.streak > keepEntry.streak) {
+                        keepEntry.streak = entry.streak;
+                    }
+                    // Merge per-game all-time totals
+                    if (entry.allTimeScores && keepEntry.allTimeScores) {
+                        for (const g of Object.keys(entry.allTimeScores)) {
+                            if ((entry.allTimeScores[g] || 0) > (keepEntry.allTimeScores[g] || 0)) {
+                                keepEntry.allTimeScores[g] = entry.allTimeScores[g];
+                            }
                         }
                     }
                 }
-                // Remove ghost from group in background (don't block UI)
-                (async () => {
+            });
+        });
+
+        // Remove ghosts from display
+        validResults = validResults.filter(r => !ghostsToRemove.includes(r));
+
+        // Clean up ghosts from Firebase in background
+        if (ghostsToRemove.length > 0) {
+            (async () => {
+                for (const ghost of ghostsToRemove) {
                     try {
-                        // Merge ghost scores into current user in Firebase
-                        const ghostScoresSnap = await FB_STATE.db.ref(`users/${ghost.uid}/scores`).once('value');
-                        const ghostScores = ghostScoresSnap.val();
-                        if (ghostScores) {
-                            const myScoresSnap = await FB_STATE.db.ref(`users/${myEntry.uid}/scores`).once('value');
-                            const myScores = myScoresSnap.val() || {};
-                            // Merge: for each date, keep the higher total
-                            for (const [date, gs] of Object.entries(ghostScores)) {
-                                if (!myScores[date] || (gs.total || 0) > (myScores[date].total || 0)) {
-                                    myScores[date] = gs;
+                        // Find which entry to merge scores into (the kept entry for this display name)
+                        const keptEntry = validResults.find(e => 
+                            e.displayName.trim().toLowerCase() === ghost.displayName.trim().toLowerCase()
+                        );
+                        
+                        if (keptEntry) {
+                            // Merge ghost scores into kept entry in Firebase
+                            const ghostScoresSnap = await FB_STATE.db.ref(`users/${ghost.uid}/scores`).once('value');
+                            const ghostScores = ghostScoresSnap.val();
+                            if (ghostScores) {
+                                const keptScoresSnap = await FB_STATE.db.ref(`users/${keptEntry.uid}/scores`).once('value');
+                                const keptScores = keptScoresSnap.val() || {};
+                                // Merge: for each date, keep the higher total
+                                for (const [date, gs] of Object.entries(ghostScores)) {
+                                    if (!keptScores[date] || (gs.total || 0) > (keptScores[date].total || 0)) {
+                                        keptScores[date] = gs;
+                                    }
                                 }
+                                await FB_STATE.db.ref(`users/${keptEntry.uid}/scores`).set(keptScores);
                             }
-                            await FB_STATE.db.ref(`users/${myEntry.uid}/scores`).set(myScores);
                         }
+                        
                         // Remove ghost from group
                         await FB_STATE.db.ref(`groups/${groupCode}/members/${ghost.uid}`).remove();
                         await FB_STATE.db.ref(`users/${ghost.uid}/groups/${groupCode}`).remove();
                         const countSnap = await FB_STATE.db.ref(`groups/${groupCode}/memberCount`).once('value');
                         await FB_STATE.db.ref(`groups/${groupCode}/memberCount`).set(Math.max(0, (countSnap.val() || 1) - 1));
-                        console.log('[FB] Dedup: ghost UID removed from group');
+                        console.log(`[FB] Dedup: Removed ghost UID ${ghost.uid.substring(0, 8)} (${ghost.displayName}) from group`);
                     } catch (err) {
-                        console.error('[FB] Dedup cleanup failed:', err);
+                        console.error('[FB] Dedup cleanup failed for ghost', ghost.uid.substring(0, 8), err);
                     }
-                })();
-            }
-            // Remove ghosts from display
-            validResults = validResults.filter(r => !ghosts.includes(r));
+                }
+            })();
         }
 
         // Sort by Total (primary), Today (secondary), Quran % (tertiary)
