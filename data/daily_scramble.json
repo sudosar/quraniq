@@ -1,35 +1,29 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "puzzle": {
-    "verseRef": "21:35",
-    "reference": "Surah Al-Anbiya (21:35)",
+    "verseRef": "75:4",
+    "reference": "Surah Al-Qiyamah (75:4)",
     "segments": [
-      "كُلُّ نَفْسٍ",
-      "ذَآئِقَةُ ٱلْمَوْتِ",
-      "وَنَبْلُوكُم",
-      "بِٱلشَّرِّ وَٱلْخَيْرِ",
-      "فِتْنَةً",
-      "وَإِلَيْنَا تُرْجَعُونَ"
+      "بَلَىٰ قَادِرِينَ",
+      "عَلَىٰ أَن",
+      "نُّسَوِّيَ",
+      "بَنَانَهُ"
     ],
     "translations": [
-      "Every soul",
-      "(will) taste [the] death",
-      "And We test you with [the] bad",
-      "and [the] good (as) a trial",
-      "and to Us",
-      "you will be returned"
+      "Nay (We are) Able",
+      "on that",
+      "We can restore",
+      "his fingertips"
     ],
-    "hint": "A reminder about the temporary nature of this life and its trials.",
-    "arabic": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ",
+    "hint": "This verse is a powerful rebuttal to those who doubt the resurrection, highlighting Allah's ability to recreate even the most intricate and unique parts of a person.",
+    "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
     "words": [
-      "كُلُّ نَفْسٍۢ",
-      "ذَآئِقَةُ ٱلْمَوْتِ ۗ",
-      "وَنَبْلُوكُم بِٱلشَّرِّ",
-      "وَٱلْخَيْرِ فِتْنَةًۭ ۖ",
-      "وَإِلَيْنَا",
-      "تُرْجَعُونَ"
+      "بَلَىٰ قَـٰدِرِينَ",
+      "عَلَىٰٓ أَن",
+      "نُّسَوِّىَ",
+      "بَنَانَهُۥ"
     ],
-    "verseEn": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."
+    "verseEn": "Yes. [We are] Able [even] to proportion his fingertips."
   },
   "generated": true,
   "model": "auto (chain)"

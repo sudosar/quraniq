@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "puzzle": {
-    "word": "زقوم",
-    "display": "زَقُّوم",
-    "hint": "A bitter tree for the inhabitants of the Fire, its fruit like the heads of devils.",
-    "verseRef": "56:52",
-    "arabicVerse": "لَـَٔاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
-    "verse": "56:52 — Will be eating from trees of zaqqūm"
+    "word": "قلم",
+    "display": "قَلَم",
+    "hint": "The instrument of knowledge by which Allah taught.",
+    "verseRef": "96:4",
+    "arabicVerse": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+    "verse": "96:4 — Who taught by the pen"
   },
   "generated": true,
   "model": "auto (chain)"

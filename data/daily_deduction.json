@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "puzzle": {
-    "title": "The Unveiling of a Hidden Truth",
-    "intro": "Within the opulent walls of a powerful household, a prominent figure's life of comfort and authority is thrown into turmoil. An encounter with a servant of remarkable piety sparks an internal conflict between desire and righteousness, leading to a desperate act of deception. Follow the trail of a torn garment and a shocking confession to uncover the identity of this individual whose story is a profound lesson in temptation, consequence, and the eventual triumph of truth.",
+    "title": "The Plea for Just Measure",
+    "intro": "A soul was sent to a community steeped in dishonest practices. Their mission was to call them back to integrity and the worship of the One True God, but their call was met with arrogance and threats. Can you identify this steadfast messenger and the people they were sent to guide?",
     "clues": [
-      "I lived in a home of great wealth and high status in the land of Egypt.",
-      "A young servant of exceptional beauty and character was brought to live under my roof.",
-      "Overcome by temptation, I pursued this individual, but my advances were firmly rejected.",
-      "In a moment of panic and rage, I tore the servant's garment from behind.",
-      "To defend my reputation, I invited the women of the city, who, upon seeing the servant, cut their own hands in astonishment.",
-      "Years later, I finally declared, 'Now the truth is manifest; it was I who sought to seduce him, and indeed, he is of the truthful.'"
+      "I was sent to a people who were known for their corruption in trade.",
+      "My community lived near a dense, wooded area, and they were also known as the 'Companions of the Wood' (Ashab al-Aykah).",
+      "I warned them specifically against giving short measure and weight, urging them to be fair in all their dealings.",
+      "They mocked me, sarcastically asking if my prayers commanded them to abandon their ways of commerce.",
+      "The chiefs of my people threatened to expel me and the believers from our city unless we returned to their faith.",
+      "When they refused to repent, a mighty cry or earthquake seized them, and they were left lifeless in their homes by morning."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The wife of Fir'awn",
-          "The Queen of Sheba",
-          "The wife of Al-'Aziz",
-          "The wife of Prophet Lut",
-          "The mother of Maryam"
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Shu'ayb",
+          "Prophet Lut",
+          "Prophet Ishaq"
         ],
-        "answer": "The wife of Al-'Aziz"
+        "answer": "Prophet Shu'ayb"
       },
       "trial": {
-        "label": "What Was My Trial?",
+        "label": "What was my primary mission?",
         "options": [
-          "Hiding my faith from a tyrannical spouse",
-          "Seducing a righteous servant in my home",
-          "Arguing with my father over idol worship",
-          "Betraying my people to an invading army",
-          "Enduring the loss of all my children and wealth"
+          "Building a great ark to survive a flood",
+          "Warning against carving homes from mountains",
+          "Challenging a ruler who claimed divinity",
+          "Correcting dishonest trade practices",
+          "Demonstrating the resurrection of the dead"
         ],
-        "answer": "Seducing a righteous servant in my home"
+        "answer": "Correcting dishonest trade practices"
       },
       "location": {
-        "label": "What Object Was Key Evidence?",
+        "label": "What people was I sent to?",
         "options": [
-          "A golden calf",
-          "A staff that became a snake",
-          "A torn shirt",
-          "An ark of covenant",
-          "A bird made from clay"
+          "The people of Madyan",
+          "The people of Saba",
+          "The people of 'Ad",
+          "The people of Thamud",
+          "The people of Rass"
         ],
-        "answer": "A torn shirt"
+        "answer": "The people of Madyan"
       },
       "outcome": {
-        "label": "What Was The Final Outcome?",
+        "label": "What was the fate of the disbelievers?",
         "options": [
-          "I was drowned in the sea for my disbelief",
-          "I publicly confessed the truth and cleared an innocent name",
-          "I was turned into a pillar of salt as a warning",
-          "I submitted to Allah alongside Prophet Sulayman",
-          "I was promised a house in Paradise for my faith"
+          "Drowned by a great flood",
+          "Destroyed by a furious, cold wind",
+          "Pelted by stones of baked clay",
+          "Transformed into apes",
+          "Seized by a mighty earthquake/cry"
         ],
-        "answer": "I publicly confessed the truth and cleared an innocent name"
+        "answer": "Seized by a mighty earthquake/cry"
       }
     },
-    "verseRef": "12:51",
-    "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
-    "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+    "verseRef": "11:88",
+    "arabic": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "verse": "He said, \"O my people, have you considered: if I am upon clear evidence from my Lord and He has provided me with a good provision from Him...? And I do not intend to differ from you in that which I have forbidden you; I only intend reform as much as I am able. And my success is not but through Allāh. Upon Him I have relied, and to Him I return. (11:88)"
   },
   "generated": true,
   "model": "auto (chain)"

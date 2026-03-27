@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-27",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالُ الْحَرَكَةِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "قلم",
+    "display": "قَلَم",
+    "hint": "The instrument of knowledge by which Allah taught.",
+    "verseRef": "96:4",
+    "arabicVerse": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+    "verse": "96:4 — Who taught by the pen"
+  },
+  "deduction": {
+    "title": "The Plea for Just Measure",
+    "intro": "A soul was sent to a community steeped in dishonest practices. Their mission was to call them back to integrity and the worship of the One True God, but their call was met with arrogance and threats. Can you identify this steadfast messenger and the people they were sent to guide?",
+    "clues": [
+      "I was sent to a people who were known for their corruption in trade.",
+      "My community lived near a dense, wooded area, and they were also known as the 'Companions of the Wood' (Ashab al-Aykah).",
+      "I warned them specifically against giving short measure and weight, urging them to be fair in all their dealings.",
+      "They mocked me, sarcastically asking if my prayers commanded them to abandon their ways of commerce.",
+      "The chiefs of my people threatened to expel me and the believers from our city unless we returned to their faith.",
+      "When they refused to repent, a mighty cry or earthquake seized them, and they were left lifeless in their homes by morning."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Shu'ayb",
+          "Prophet Lut",
+          "Prophet Ishaq"
+        ],
+        "answer": "Prophet Shu'ayb"
+      },
+      "trial": {
+        "label": "What was my primary mission?",
+        "options": [
+          "Building a great ark to survive a flood",
+          "Warning against carving homes from mountains",
+          "Challenging a ruler who claimed divinity",
+          "Correcting dishonest trade practices",
+          "Demonstrating the resurrection of the dead"
+        ],
+        "answer": "Correcting dishonest trade practices"
+      },
+      "location": {
+        "label": "What people was I sent to?",
+        "options": [
+          "The people of Madyan",
+          "The people of Saba",
+          "The people of 'Ad",
+          "The people of Thamud",
+          "The people of Rass"
+        ],
+        "answer": "The people of Madyan"
+      },
+      "outcome": {
+        "label": "What was the fate of the disbelievers?",
+        "options": [
+          "Drowned by a great flood",
+          "Destroyed by a furious, cold wind",
+          "Pelted by stones of baked clay",
+          "Transformed into apes",
+          "Seized by a mighty earthquake/cry"
+        ],
+        "answer": "Seized by a mighty earthquake/cry"
+      }
+    },
+    "verseRef": "11:88",
+    "arabic": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "verse": "He said, \"O my people, have you considered: if I am upon clear evidence from my Lord and He has provided me with a good provision from Him...? And I do not intend to differ from you in that which I have forbidden you; I only intend reform as much as I am able. And my success is not but through Allāh. Upon Him I have relied, and to Him I return. (11:88)"
+  },
+  "scramble": {
+    "verseRef": "75:4",
+    "reference": "Surah Al-Qiyamah (75:4)",
+    "segments": [
+      "بَلَىٰ قَادِرِينَ",
+      "عَلَىٰ أَن",
+      "نُّسَوِّيَ",
+      "بَنَانَهُ"
+    ],
+    "translations": [
+      "Nay (We are) Able",
+      "on that",
+      "We can restore",
+      "his fingertips"
+    ],
+    "hint": "This verse is a powerful rebuttal to those who doubt the resurrection, highlighting Allah's ability to recreate even the most intricate and unique parts of a person.",
+    "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+    "words": [
+      "بَلَىٰ قَـٰدِرِينَ",
+      "عَلَىٰٓ أَن",
+      "نُّسَوِّىَ",
+      "بَنَانَهُۥ"
+    ],
+    "verseEn": "Yes. [We are] Able [even] to proportion his fingertips."
+  }
 }
