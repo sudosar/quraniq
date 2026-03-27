@@ -636,7 +636,17 @@ const VERSES_KEY = 'quraniq_verses';
 function loadVerseTracker() {
     try {
         const data = JSON.parse(localStorage.getItem(VERSES_KEY));
-        if (data && Array.isArray(data.refs)) return data;
+        if (data && Array.isArray(data.refs)) {
+            // Clean up any duplicate verses
+            const uniqueRefs = [...new Set(data.refs)];
+            if (uniqueRefs.length !== data.refs.length) {
+                // Save cleaned version
+                const cleaned = { refs: uniqueRefs };
+                localStorage.setItem(VERSES_KEY, JSON.stringify(cleaned));
+                return cleaned;
+            }
+            return data;
+        }
         return { refs: [] };
     } catch (e) {
         console.warn('Load verse tracker failed:', e);
@@ -681,14 +691,16 @@ function trackVerses(newRefs) {
 function getVerseStats() {
     const tracker = loadVerseTracker();
     const surahs = new Set();
-    tracker.refs.forEach(ref => {
+    // Use Set to deduplicate verses for accurate count
+    const uniqueRefs = [...new Set(tracker.refs)];
+    uniqueRefs.forEach(ref => {
         const match = ref.match(/(\d+):/);
         if (match) surahs.add(parseInt(match[1]));
     });
     return {
-        totalVerses: tracker.refs.length,
+        totalVerses: uniqueRefs.length,
         uniqueSurahs: surahs.size,
-        quranPercent: Math.round((tracker.refs.length / 6236) * 1000) / 10 // 1 decimal
+        quranPercent: Math.round((uniqueRefs.length / 6236) * 1000) / 10 // 1 decimal
     };
 }
 

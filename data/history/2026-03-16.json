@@ -1,0 +1,359 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْإِدْرَاكِ",
+        "nameEn": "Verbs of perception",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَنظُرُونَ",
+            "en": "they look",
+            "ref": "7:198",
+            "verse": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ ۖ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+            "verseEn": "And if you invite them to guidance, they do not hear; and you see them looking at you while they do not see."
+          },
+          {
+            "ar": "يَرَوْنَ",
+            "en": "they see",
+            "ref": "2:165",
+            "verse": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًۭا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّۭا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًۭا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+            "verseEn": "And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment."
+          },
+          {
+            "ar": "يَشْعُرُونَ",
+            "en": "they perceive",
+            "ref": "2:12",
+            "verse": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+            "verseEn": "Unquestionably, it is they who are the corrupters, but they perceive [it] not."
+          },
+          {
+            "ar": "يَعْقِلُونَ",
+            "en": "they understand",
+            "ref": "2:171",
+            "verse": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءًۭ وَنِدَآءًۭ ۚ صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَعْقِلُونَ",
+            "verseEn": "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ لِلْعِقَابِ وَالسَّخَطِ الْإِلَٰهِيِّ",
+        "nameEn": "Words for divine punishment and displeasure",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَذَابٌ",
+            "en": "a punishment",
+            "ref": "37:9",
+            "verse": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ",
+            "verseEn": "Repelled; and for them is a constant punishment,"
+          },
+          {
+            "ar": "بِسَخَطٍ",
+            "en": "with displeasure",
+            "ref": "3:162",
+            "verse": "أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ",
+            "verseEn": "So is one who pursues the pleasure of Allāh like one who brings upon himself the anger of Allāh and whose refuge is Hell? And wretched is the destination."
+          },
+          {
+            "ar": "بِٱلْبَأْسَآءِ",
+            "en": "with adversity",
+            "ref": "6:42",
+            "verse": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍۢ مِّن قَبْلِكَ فَأَخَذْنَـٰهُم بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+            "verseEn": "And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us]."
+          },
+          {
+            "ar": "نَكَالًا",
+            "en": "an exemplary punishment",
+            "ref": "2:66",
+            "verse": "فَجَعَلْنَـٰهَا نَكَـٰلًۭا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ",
+            "verseEn": "And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allāh."
+          }
+        ]
+      },
+      {
+        "name": "أَوْصَافٌ لِلْمَلَائِكَةِ مَبْنِيَّةٌ عَلَىٰ أَعْمَالِهِمْ",
+        "nameEn": "Descriptions of angels based on their actions",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلنَّٰزِعَٰتِ",
+            "en": "Those who pull out",
+            "ref": "79:1",
+            "verse": "وَٱلنَّـٰزِعَـٰتِ غَرْقًۭا",
+            "verseEn": "By those [angels] who extract with violence"
+          },
+          {
+            "ar": "ٱلنَّٰشِطَٰتِ",
+            "en": "Those who draw out gently",
+            "ref": "79:2",
+            "verse": "وَٱلنَّـٰشِطَـٰتِ نَشْطًۭا",
+            "verseEn": "And [by] those who remove with ease"
+          },
+          {
+            "ar": "ٱلسَّٰبِحَٰتِ",
+            "en": "Those who glide",
+            "ref": "79:3",
+            "verse": "وَٱلسَّـٰبِحَـٰتِ سَبْحًۭا",
+            "verseEn": "And [by] those who glide [as if] swimming"
+          },
+          {
+            "ar": "ٱلصَّٰٓفَّٰتِ",
+            "en": "Those arranged in rows",
+            "ref": "37:1",
+            "verse": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا",
+            "verseEn": "By those [angels] lined up in rows"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ مَفْعُولِينَ عَلَى وَزْنِ 'مَفْعُول' تَصِفُ نَعِيمَ الصَّالِحِينَ",
+        "nameEn": "Passive participles on the pattern 'maf'ūl' describing rewards of the righteous",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مَّوْضُونَةٍ",
+            "en": "Woven",
+            "ref": "56:15",
+            "verse": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+            "verseEn": "On thrones woven [with ornament],"
+          },
+          {
+            "ar": "مَّنضُودٍ",
+            "en": "Piled up",
+            "ref": "56:29",
+            "verse": "وَطَلْحٍۢ مَّنضُودٍۢ",
+            "verseEn": "And [banana] trees layered [with fruit]."
+          },
+          {
+            "ar": "مَّسْكُوبٍ",
+            "en": "Poured out",
+            "ref": "56:31",
+            "verse": "وَمَآءٍۢ مَّسْكُوبٍۢ",
+            "verseEn": "And water poured out"
+          },
+          {
+            "ar": "مَّرْقُومٌ",
+            "en": "Inscribed",
+            "ref": "83:20",
+            "verse": "كِتَـٰبٌۭ مَّرْقُومٌۭ",
+            "verseEn": "It is [their destination recorded in] a register inscribed"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شمس",
+    "display": "شَمْس",
+    "hint": "The celestial lamp that marks the day.",
+    "verseRef": "71:16",
+    "arabicVerse": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًۭا وَجَعَلَ ٱلشَّمْسَ سِرَاجًۭا",
+    "verse": "71:16 — And made the moon therein a [reflected] light and made the sun a burning lamp?"
+  },
+  "deduction": {
+    "title": "The Echoes from the Well",
+    "intro": "A community was sent a messenger, a voice of truth amidst their heedless ways. Yet, their hearts were sealed, and their actions led them to a fate tied to a central feature of their land. Listen to the tale of a people who chose denial over guidance, and whose story serves as a stark reminder for all who follow.",
+    "clues": [
+      "We were a community, thriving in our land, yet we turned away from the signs of the Divine.",
+      "A prophet was sent to us, calling us to worship the One True God, but we dismissed the message.",
+      "Our people were known for our connection to a particular source of water, a central point in our lives.",
+      "In our arrogance, we rejected our messenger and conspired against this servant of Allah.",
+      "Our name is mentioned alongside the people of 'Ad and Thamud as a lesson for those who disbelieve.",
+      "We ultimately seized our prophet and, according to many traditions, cast this soul into a well, sealing our own doom."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "People of Madyan",
+          "People of Tubba'",
+          "People of Rass",
+          "People of the Wood (Al-Aykah)",
+          "People of Saba'"
+        ],
+        "answer": "People of Rass"
+      },
+      "trial": {
+        "label": "What Was Our Primary Sin?",
+        "options": [
+          "Giving short measure and weight in trade",
+          "Worshipping a golden calf",
+          "Houghing a sacred she-camel",
+          "Rejecting and killing their prophet",
+          "Building lofty buildings for pride"
+        ],
+        "answer": "Rejecting and killing their prophet"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A Great Dam",
+          "A Split Sea",
+          "A Well",
+          "A Fertile Garden",
+          "A Tower to the Heavens"
+        ],
+        "answer": "A Well"
+      },
+      "outcome": {
+        "label": "What Was Our Fate?",
+        "options": [
+          "Transformed into apes",
+          "Guided to build an ark to safety",
+          "Complete destruction",
+          "Became rulers of the land",
+          "Scattered by a flood"
+        ],
+        "answer": "Complete destruction"
+      }
+    },
+    "verseRef": "25:38",
+    "arabic": "وَعَادًۭا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًۭا",
+    "verse": "And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them. (25:38)"
+  },
+  "scramble": {
+    "verseRef": "7:126",
+    "reference": "Al-A'raf (7:126)",
+    "segments": [
+      "رَبَّنَآ",
+      "أَفْرِغْ عَلَيْنَا",
+      "صَبْرًا",
+      "وَتَوَفَّنَا",
+      "مُسْلِمِينَ"
+    ],
+    "translations": [
+      "And not you take revenge from us except",
+      "that we believed in (the) Signs",
+      "(of) our Lord when they came to us",
+      "Our Lord Pour upon us",
+      "patience and cause us to die (as) Muslims"
+    ],
+    "hint": "A prayer for steadfastness and a righteous end, uttered by those who found faith in the face of tyranny.",
+    "arabic": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَـٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ",
+    "words": [
+      "وَمَا تَنقِمُ مِنَّآ إِلَّآ",
+      "أَنْ ءَامَنَّا بِـَٔايَـٰتِ",
+      "رَبِّنَا لَمَّا جَآءَتْنَا ۚ",
+      "رَبَّنَآ أَفْرِغْ عَلَيْنَا",
+      "صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ"
+    ],
+    "verseEn": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\""
+  },
+  "juz": {
+    "date": "2026-03-16",
+    "juz_number": 28,
+    "juz_name": "Qad Sami'a",
+    "juz_name_ar": "قَدْ سَمِعَ",
+    "verse": {
+      "surah_number": 65,
+      "surah_name": "At-Talaq",
+      "surah_name_ar": "سورة الطلاق",
+      "ayah_number": 3,
+      "arabic_text": "وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+      "translation": "And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5220.mp3"
+    },
+    "theme_question": {
+      "correct": "The sufficiency of Allah for those who place their full trust in Him.",
+      "options": [
+        "The sufficiency of Allah for those who place their full trust in Him.",
+        "The specific timings for the five daily prayers.",
+        "The prohibition of consuming interest (riba).",
+        "The detailed laws of inheritance for relatives."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 65,
+      "options": [
+        {
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "ٱلْمُجَادِلَة",
+          "name_en": "The Pleading Woman"
+        },
+        {
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "ٱلطَّلَاق",
+          "name_en": "The Divorce"
+        },
+        {
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "ٱلْمُنَافِقُونَ",
+          "name_en": "The Hypocrites"
+        },
+        {
+          "num": 67,
+          "name": "Al-Mulk",
+          "name_ar": "ٱلْمُلْك",
+          "name_en": "The Sovereignty"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 58,
+          "name": "Al-Mujadila",
+          "name_ar": "ٱلْمُجَادِلَة",
+          "name_en": "The Pleading Woman"
+        },
+        {
+          "num": 59,
+          "name": "Al-Hashr",
+          "name_ar": "ٱلْحَشْر",
+          "name_en": "The Exile"
+        },
+        {
+          "num": 60,
+          "name": "Al-Mumtahanah",
+          "name_ar": "ٱلْمُمْتَحَنَة",
+          "name_en": "She that is to be examined"
+        },
+        {
+          "num": 61,
+          "name": "As-Saff",
+          "name_ar": "ٱلصَّفّ",
+          "name_en": "The Ranks"
+        },
+        {
+          "num": 62,
+          "name": "Al-Jumu'ah",
+          "name_ar": "ٱلْجُمُعَة",
+          "name_en": "The Congregation, Friday"
+        },
+        {
+          "num": 63,
+          "name": "Al-Munafiqun",
+          "name_ar": "ٱلْمُنَافِقُونَ",
+          "name_en": "The Hypocrites"
+        },
+        {
+          "num": 64,
+          "name": "At-Taghabun",
+          "name_ar": "ٱلتَّغَابُن",
+          "name_en": "The Mutual Disillusion"
+        },
+        {
+          "num": 65,
+          "name": "At-Talaq",
+          "name_ar": "ٱلطَّلَاق",
+          "name_en": "The Divorce"
+        },
+        {
+          "num": 66,
+          "name": "At-Tahrim",
+          "name_ar": "ٱلتَّحْرِيم",
+          "name_en": "The Prohibition"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse appears in Surah At-Talaq, which primarily deals with the laws of divorce. Amidst these legal rulings, Allah inserts powerful reminders of His divine oversight, mercy, and provision. This specific clause comes after instructions on observing the waiting period ('iddah) with God-consciousness (taqwa), promising that for those who fear Allah, He will provide a way out of difficulties and sustain them from sources they could never imagine.",
+      "theme_explanation": "The central theme is Tawakkul (تَوَكُّل), the profound Islamic concept of complete reliance and trust in Allah. It teaches that after a person has striven and done their part, they must entrust the outcome to God. The verse promises that this trust is never misplaced; Allah is 'Hasb'—Sufficient, the ultimate Provider, and the One who will suffice all the needs of the believer who depends on Him. It is a powerful antidote to anxiety and despair.",
+      "surah_overview": "Surah At-Talaq (The Divorce), a Medinan surah, is named after its primary subject matter. While it lays down clear legal guidelines for divorce, its overarching message is about maintaining piety (taqwa) and awareness of Allah even during times of marital discord and separation. The surah repeatedly emphasizes that adhering to Allah's limits brings about ease and unforeseen blessings, reinforcing the idea that Islamic law is designed for the well-being of the community and individuals."
+    }
+  }
+}

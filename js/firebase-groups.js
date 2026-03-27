@@ -238,6 +238,25 @@ async function processPendingMigration() {
             console.error('[FB] Migration: score migration failed:', err);
         }
 
+        // Migrate verse stats from old UID to new UID
+        try {
+            const [versesSnap, percentSnap] = await Promise.all([
+                FB_STATE.db.ref(`users/${oldUid}/versesExplored`).once('value'),
+                FB_STATE.db.ref(`users/${oldUid}/quranPercent`).once('value')
+            ]);
+            const oldVerses = versesSnap.val();
+            const oldPercent = percentSnap.val();
+            if (oldVerses !== null) {
+                await FB_STATE.db.ref(`users/${newUid}/versesExplored`).set(oldVerses);
+            }
+            if (oldPercent !== null) {
+                await FB_STATE.db.ref(`users/${newUid}/quranPercent`).set(oldPercent);
+            }
+            console.log('[FB] Migration: verse stats migrated');
+        } catch (err) {
+            console.error('[FB] Migration: verse stats migration failed:', err);
+        }
+
         // Clean up old user data
         try {
             await FB_STATE.db.ref(`users/${oldUid}`).remove();
