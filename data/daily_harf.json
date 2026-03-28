@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "puzzle": {
-    "word": "قلم",
-    "display": "قَلَم",
-    "hint": "The instrument of knowledge by which Allah taught.",
-    "verseRef": "96:4",
-    "arabicVerse": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
-    "verse": "96:4 — Who taught by the pen"
+    "word": "حديد",
+    "display": "حَدِيد",
+    "hint": "A metal of great might, mentioned as something people could be turned into, even if they wished to escape resurrection.",
+    "verseRef": "17:50",
+    "arabicVerse": "۞ قُلْ كُونُوا۟ حِجَارَةً أَوْ حَدِيدًا",
+    "verse": "17:50 — Say, \"Be you stones or iron"
   },
   "generated": true,
   "model": "auto (chain)"

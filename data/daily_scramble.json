@@ -1,29 +1,29 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "puzzle": {
-    "verseRef": "75:4",
-    "reference": "Surah Al-Qiyamah (75:4)",
+    "verseRef": "54:10",
+    "reference": "Al-Qamar (54:10)",
     "segments": [
-      "بَلَىٰ قَادِرِينَ",
-      "عَلَىٰ أَن",
-      "نُّسَوِّيَ",
-      "بَنَانَهُ"
+      "فَدَعَا رَبَّهُۥٓ",
+      "أَنِّى",
+      "مَغْلُوبٌ",
+      "فَٱنتَصِرْ"
     ],
     "translations": [
-      "Nay (We are) Able",
-      "on that",
-      "We can restore",
-      "his fingertips"
+      "So he called his Lord",
+      "I am",
+      "one overpowered",
+      "so help"
     ],
-    "hint": "This verse is a powerful rebuttal to those who doubt the resurrection, highlighting Allah's ability to recreate even the most intricate and unique parts of a person.",
-    "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+    "hint": "A prophet's plea for divine help when feeling overwhelmed by his people's rejection.",
+    "arabic": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌۭ فَٱنتَصِرْ",
     "words": [
-      "بَلَىٰ قَـٰدِرِينَ",
-      "عَلَىٰٓ أَن",
-      "نُّسَوِّىَ",
-      "بَنَانَهُۥ"
+      "فَدَعَا رَبَّهُۥٓ",
+      "أَنِّى",
+      "مَغْلُوبٌۭ",
+      "فَٱنتَصِرْ"
     ],
-    "verseEn": "Yes. [We are] Able [even] to proportion his fingertips."
+    "verseEn": "So he invoked his Lord, \"Indeed, I am overpowered, so help.\""
   },
   "generated": true,
   "model": "auto (chain)"
