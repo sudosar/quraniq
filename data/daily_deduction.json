@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "puzzle": {
-    "title": "The Towering Challenge",
-    "intro": "Before a decisive battle, a formidable figure steps forward, their immense presence casting a shadow of doubt over the opposing army. Confident in their own might, this individual issues a challenge for single combat, believing none would dare to face them. This moment would become a testament to the nature of true strength, proving that worldly power is nothing before the will of Allah.",
+    "title": "The Deception at the Water's Edge",
+    "intro": "A community dwelling by the sea was given a clear command, a test of their devotion centered around a sacred day. But a clever trick seemed to offer a loophole, a way to have it all. Can you uncover the identity of these people who tried to outwit the divine decree and the fate that befell them?",
     "clues": [
-      "I was a champion of my people, known for my immense physical size and strength.",
-      "My army and I advanced against a small band of believers led by their king, Talut.",
-      "Full of arrogance, I strode out between the armies and demanded a duel to decide the battle's outcome.",
-      "I looked upon my opponents with contempt, certain that my power was unmatchable.",
-      "A young shepherd boy, armed with only a sling, bravely stepped forward to accept my challenge.",
-      "Despite my imposing stature and armor, I was defeated by a single projectile from this young challenger, who would later become a great prophet and king."
+      "We lived in a town situated right by the sea, a location that was central to our livelihood.",
+      "We were given a specific day of the week for rest and worship, a day on which we were commanded not to work.",
+      "A strange test was put upon us: on the very day we were forbidden to work, the creatures of the sea would come in abundance, swimming openly near the shore.",
+      "On all other days, when we were permitted to seek our provision from the sea, the waters seemed empty and our efforts were fruitless.",
+      "Some among us devised a scheme: we set up our nets and dug trenches on the day of rest, trapping the bounty to be collected the following day.",
+      "For our transgression and insolence, a terrible punishment came upon us. We were told, 'Be apes, despised.'"
     ],
     "categories": {
       "identity": {
-        "label": "Who Am I?",
+        "label": "Who Are We?",
         "options": [
-          "Jalut (Goliath)",
-          "Namrud",
-          "Fir'awn (Pharaoh)",
-          "The Samiri",
-          "Tubba'"
+          "The People of Rass",
+          "The People of Madyan",
+          "The Companions of the Sabbath",
+          "The People of Tubba'",
+          "The People of the Wood (Aykah)"
         ],
-        "answer": "Jalut (Goliath)"
+        "answer": "The Companions of the Sabbath"
       },
       "trial": {
-        "label": "What Was My Challenge?",
+        "label": "What Was Our Test?",
         "options": [
-          "Single combat against a young believer",
-          "Building a tower to reach the heavens",
-          "Demanding prostration from a prophet",
-          "Fashioning a golden calf for worship",
-          "Debating with Prophet Ibrahim about Allah"
+          "Giving unjust measure in trade",
+          "Building a golden calf",
+          "Houghing a miraculous she-camel",
+          "Plotting against a righteous brother",
+          "Fishing on a sacred day"
         ],
-        "answer": "Single combat against a young believer"
+        "answer": "Fishing on a sacred day"
       },
       "location": {
-        "label": "What Was My Downfall?",
+        "label": "What Was the Key Element?",
         "options": [
-          "A stone from a sling",
-          "A devastating flood",
-          "A swarm of birds with baked-clay stones",
-          "Being swallowed by the earth",
-          "Drowning in a parted sea"
+          "A She-Camel",
+          "Fish",
+          "A Gourd Plant",
+          "A Flock of Birds",
+          "A Golden Calf"
         ],
-        "answer": "A stone from a sling"
+        "answer": "Fish"
       },
       "outcome": {
-        "label": "What Was the Result of My Defeat?",
+        "label": "What Was Our Fate?",
         "options": [
-          "The victory of Talut's army and the rise of Dawud",
-          "My entire army being drowned in pursuit of a prophet",
-          "The establishment of the Kaaba as a house of worship",
-          "My people being punished with a mighty shriek",
-          "My kingdom being inherited by Prophet Sulayman"
+          "Drowned by a great flood",
+          "Destroyed by a mighty blast",
+          "Transformed into apes",
+          "Pelted with stones of baked clay",
+          "Swallowed by the earth"
         ],
-        "answer": "The victory of Talut's army and the rise of Dawud"
+        "answer": "Transformed into apes"
       }
     },
-    "verseRef": "2:251",
-    "arabic": "فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ",
-    "verse": "So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds. (2:251)"
+    "verseRef": "7:166",
+    "arabic": "فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+    "verse": "So when they were insolent about that which they had been forbidden, We said to them, \"Be apes, despised.\" (7:166)"
   },
   "generated": true,
   "model": "auto (chain)"
