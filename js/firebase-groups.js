@@ -637,7 +637,7 @@ async function fetchGroupLeaderboard(groupCode) {
             try {
                 const [nameSnap, scoresSnap, verseSnap, pctSnap] = await Promise.all([
                     FB_STATE.db.ref(`users/${uid}/displayName`).once('value'),
-                    FB_STATE.db.ref(`users/${uid}/scores`).orderByKey().limitToLast(30).once('value'),
+                    FB_STATE.db.ref(`users/${uid}/scores`).orderByKey().once('value'),
                     FB_STATE.db.ref(`users/${uid}/versesExplored`).once('value'),
                     FB_STATE.db.ref(`users/${uid}/quranPercent`).once('value')
                 ]);
