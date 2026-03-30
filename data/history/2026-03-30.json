@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-30",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَقَارِبُ الْأَنْبِيَاء",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "ظلم",
+    "display": "ظُلْم",
+    "hint": "Described as the greatest of wrongs when associated with the Divine.",
+    "verseRef": "31:13",
+    "arabicVerse": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+    "verse": "31:13 — And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\""
+  },
+  "deduction": {
+    "title": "The Warning Amidst the Dunes",
+    "intro": "A messenger was sent to a powerful and arrogant civilization, famed for their towering structures and immense physical strength. This individual came not with armies or wealth, but with a clear warning and a call back to the worship of the One True God. Despite the blessings bestowed upon them, the people met this call with ridicule and defiance, unknowingly sealing their own fate. Can you identify this soul and the story of their people's downfall?",
+    "clues": [
+      "I was sent to my own brethren, a people of great physical strength and architectural skill.",
+      "They prided themselves on building lofty structures on every high place, yet I questioned the purpose of these monuments.",
+      "I reminded them of the blessings Allah had given them, like cattle and children, gardens and springs, but they accused me of falsehood.",
+      "My people challenged me directly, saying, 'Bring upon us what you threaten us with, if you are of the truthful.'",
+      "I warned them of a punishment that would appear as a vast cloud advancing toward their valleys, which they would mistake for life-giving rain.",
+      "I am the one who warned the people of 'Ad in the wind-swept sand-hills of Al-Ahqaf."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Salih",
+          "Prophet Shu'ayb",
+          "Prophet Hud",
+          "Prophet Nuh",
+          "Prophet Lut"
+        ],
+        "answer": "Prophet Hud"
+      },
+      "trial": {
+        "label": "What was my primary trial?",
+        "options": [
+          "Debating a king about who gives life and death",
+          "Calling the arrogant people of 'Ad to Tawhid",
+          "Leading an exodus away from a tyrannical Pharaoh",
+          "Building a massive ark to survive a global flood",
+          "Being swallowed by a giant fish as a test"
+        ],
+        "answer": "Calling the arrogant people of 'Ad to Tawhid"
+      },
+      "location": {
+        "label": "What is a key element in my people's story?",
+        "options": [
+          "A staff that turned into a serpent",
+          "A she-camel that emerged from a rock",
+          "A fire that was made cool and peaceful",
+          "A furious and destructive wind",
+          "A flock of birds carrying baked clay stones"
+        ],
+        "answer": "A furious and destructive wind"
+      },
+      "outcome": {
+        "label": "What was the outcome for my people?",
+        "options": [
+          "Annihilation by a wind for seven nights and eight days",
+          "Being turned into apes for violating the Sabbath",
+          "Drowning in the sea after a miraculous parting",
+          "Destruction by a mighty blast and earthquake",
+          "Being pelted by a rain of hard stones"
+        ],
+        "answer": "Annihilation by a wind for seven nights and eight days"
+      }
+    },
+    "verseRef": "46:21",
+    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
+  },
+  "scramble": {
+    "verseRef": "67:15",
+    "reference": "Al-Mulk (67:15)",
+    "segments": [
+      "هُوَ ٱلَّذِى جَعَلَ",
+      "لَكُمُ ٱلْأَرْضَ ذَلُولًۭا",
+      "فَٱمْشُوا۟ فِى مَنَاكِبِهَا",
+      "وَكُلُوا۟ مِن رِّزْقِهِۦ",
+      "وَإِلَيْهِ ٱلنُّشُورُ"
+    ],
+    "translations": [
+      "He (is) the One Who made",
+      "for you the earth subservient",
+      "so walk in (the) paths thereof",
+      "and eat of His provision",
+      "and to Him (is) the Resurrection"
+    ],
+    "hint": "A reminder of Allah's provision in this world and our ultimate return to Him.",
+    "arabic": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًۭا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+    "words": [
+      "هُوَ ٱلَّذِى جَعَلَ",
+      "لَكُمُ ٱلْأَرْضَ ذَلُولًۭا",
+      "فَٱمْشُوا۟ فِى مَنَاكِبِهَا",
+      "وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ",
+      "وَإِلَيْهِ ٱلنُّشُورُ"
+    ],
+    "verseEn": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection."
+  }
 }

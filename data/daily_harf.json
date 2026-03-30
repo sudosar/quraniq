@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "puzzle": {
-    "word": "نبا",
-    "display": "نَبَأ",
-    "hint": "A great tiding or a significant piece of news.",
-    "verseRef": "6:67",
-    "arabicVerse": "لِّكُلِّ نَبَإٍۢ مُّسْتَقَرٌّۭ ۚ وَسَوْفَ تَعْلَمُونَ",
-    "verse": "6:67 — For every news [i.e., happening] is a finality; and you are going to know."
+    "word": "ظلم",
+    "display": "ظُلْم",
+    "hint": "Described as the greatest of wrongs when associated with the Divine.",
+    "verseRef": "31:13",
+    "arabicVerse": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+    "verse": "31:13 — And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\""
   },
   "generated": true,
   "model": "auto (chain)"

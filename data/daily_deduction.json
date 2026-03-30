@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "puzzle": {
-    "title": "The Deception at the Water's Edge",
-    "intro": "A community dwelling by the sea was given a clear command, a test of their devotion centered around a sacred day. But a clever trick seemed to offer a loophole, a way to have it all. Can you uncover the identity of these people who tried to outwit the divine decree and the fate that befell them?",
+    "title": "The Warning Amidst the Dunes",
+    "intro": "A messenger was sent to a powerful and arrogant civilization, famed for their towering structures and immense physical strength. This individual came not with armies or wealth, but with a clear warning and a call back to the worship of the One True God. Despite the blessings bestowed upon them, the people met this call with ridicule and defiance, unknowingly sealing their own fate. Can you identify this soul and the story of their people's downfall?",
     "clues": [
-      "We lived in a town situated right by the sea, a location that was central to our livelihood.",
-      "We were given a specific day of the week for rest and worship, a day on which we were commanded not to work.",
-      "A strange test was put upon us: on the very day we were forbidden to work, the creatures of the sea would come in abundance, swimming openly near the shore.",
-      "On all other days, when we were permitted to seek our provision from the sea, the waters seemed empty and our efforts were fruitless.",
-      "Some among us devised a scheme: we set up our nets and dug trenches on the day of rest, trapping the bounty to be collected the following day.",
-      "For our transgression and insolence, a terrible punishment came upon us. We were told, 'Be apes, despised.'"
+      "I was sent to my own brethren, a people of great physical strength and architectural skill.",
+      "They prided themselves on building lofty structures on every high place, yet I questioned the purpose of these monuments.",
+      "I reminded them of the blessings Allah had given them, like cattle and children, gardens and springs, but they accused me of falsehood.",
+      "My people challenged me directly, saying, 'Bring upon us what you threaten us with, if you are of the truthful.'",
+      "I warned them of a punishment that would appear as a vast cloud advancing toward their valleys, which they would mistake for life-giving rain.",
+      "I am the one who warned the people of 'Ad in the wind-swept sand-hills of Al-Ahqaf."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who Am I?",
         "options": [
-          "The People of Rass",
-          "The People of Madyan",
-          "The Companions of the Sabbath",
-          "The People of Tubba'",
-          "The People of the Wood (Aykah)"
+          "Prophet Salih",
+          "Prophet Shu'ayb",
+          "Prophet Hud",
+          "Prophet Nuh",
+          "Prophet Lut"
         ],
-        "answer": "The Companions of the Sabbath"
+        "answer": "Prophet Hud"
       },
       "trial": {
-        "label": "What Was Our Test?",
+        "label": "What was my primary trial?",
         "options": [
-          "Giving unjust measure in trade",
-          "Building a golden calf",
-          "Houghing a miraculous she-camel",
-          "Plotting against a righteous brother",
-          "Fishing on a sacred day"
+          "Debating a king about who gives life and death",
+          "Calling the arrogant people of 'Ad to Tawhid",
+          "Leading an exodus away from a tyrannical Pharaoh",
+          "Building a massive ark to survive a global flood",
+          "Being swallowed by a giant fish as a test"
         ],
-        "answer": "Fishing on a sacred day"
+        "answer": "Calling the arrogant people of 'Ad to Tawhid"
       },
       "location": {
-        "label": "What Was the Key Element?",
+        "label": "What is a key element in my people's story?",
         "options": [
-          "A She-Camel",
-          "Fish",
-          "A Gourd Plant",
-          "A Flock of Birds",
-          "A Golden Calf"
+          "A staff that turned into a serpent",
+          "A she-camel that emerged from a rock",
+          "A fire that was made cool and peaceful",
+          "A furious and destructive wind",
+          "A flock of birds carrying baked clay stones"
         ],
-        "answer": "Fish"
+        "answer": "A furious and destructive wind"
       },
       "outcome": {
-        "label": "What Was Our Fate?",
+        "label": "What was the outcome for my people?",
         "options": [
-          "Drowned by a great flood",
-          "Destroyed by a mighty blast",
-          "Transformed into apes",
-          "Pelted with stones of baked clay",
-          "Swallowed by the earth"
+          "Annihilation by a wind for seven nights and eight days",
+          "Being turned into apes for violating the Sabbath",
+          "Drowning in the sea after a miraculous parting",
+          "Destruction by a mighty blast and earthquake",
+          "Being pelted by a rain of hard stones"
         ],
-        "answer": "Transformed into apes"
+        "answer": "Annihilation by a wind for seven nights and eight days"
       }
     },
-    "verseRef": "7:166",
-    "arabic": "فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
-    "verse": "So when they were insolent about that which they had been forbidden, We said to them, \"Be apes, despised.\" (7:166)"
+    "verseRef": "46:21",
+    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
   },
   "generated": true,
   "model": "auto (chain)"
