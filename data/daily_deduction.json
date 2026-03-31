@@ -1,65 +1,65 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "puzzle": {
-    "title": "The Warning Amidst the Dunes",
-    "intro": "A messenger was sent to a powerful and arrogant civilization, famed for their towering structures and immense physical strength. This individual came not with armies or wealth, but with a clear warning and a call back to the worship of the One True God. Despite the blessings bestowed upon them, the people met this call with ridicule and defiance, unknowingly sealing their own fate. Can you identify this soul and the story of their people's downfall?",
+    "title": "The Prayer from the Palace",
+    "intro": "In the heart of an empire defined by arrogance and disbelief, one soul found the light of truth. Surrounded by unimaginable luxury and the gravest tyranny, this individual chose an eternal home over a temporary throne, offering a prayer that would echo through time as a symbol of unwavering faith against all odds. Can you identify this noble figure?",
     "clues": [
-      "I was sent to my own brethren, a people of great physical strength and architectural skill.",
-      "They prided themselves on building lofty structures on every high place, yet I questioned the purpose of these monuments.",
-      "I reminded them of the blessings Allah had given them, like cattle and children, gardens and springs, but they accused me of falsehood.",
-      "My people challenged me directly, saying, 'Bring upon us what you threaten us with, if you are of the truthful.'",
-      "I warned them of a punishment that would appear as a vast cloud advancing toward their valleys, which they would mistake for life-giving rain.",
-      "I am the one who warned the people of 'Ad in the wind-swept sand-hills of Al-Ahqaf."
+      "I lived within the walls of a grand palace, a witness to both immense power and profound disbelief.",
+      "My heart was moved by the sight of a vulnerable infant adrift, and I argued for the child's life.",
+      "The one I helped raise grew up in my own home, destined to challenge the authority of my powerful spouse.",
+      "I saw clear signs and miracles, which solidified my faith while my spouse only grew in arrogance.",
+      "When my belief was discovered, I was subjected to immense suffering for refusing to renounce my Lord.",
+      "My final prayer was not for escape from my torment, but for a home near Allah in Paradise, and to be saved from the wrongdoing people."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Salih",
-          "Prophet Shu'ayb",
-          "Prophet Hud",
-          "Prophet Nuh",
-          "Prophet Lut"
+          "The Wife of Fir'awn",
+          "The Queen of Sheba",
+          "The wife of Al-'Aziz",
+          "The wife of Prophet Lut",
+          "Maryam, mother of 'Isa"
         ],
-        "answer": "Prophet Hud"
+        "answer": "The Wife of Fir'awn"
       },
       "trial": {
-        "label": "What was my primary trial?",
+        "label": "What Was My Defining Moment?",
         "options": [
-          "Debating a king about who gives life and death",
-          "Calling the arrogant people of 'Ad to Tawhid",
-          "Leading an exodus away from a tyrannical Pharaoh",
-          "Building a massive ark to survive a global flood",
-          "Being swallowed by a giant fish as a test"
+          "Choosing faith while living with a tyrant",
+          "Submitting an entire kingdom to Allah",
+          "Attempting to seduce a righteous prophet",
+          "Betraying a prophet to his enemies",
+          "Giving birth to a prophet without a father"
         ],
-        "answer": "Calling the arrogant people of 'Ad to Tawhid"
+        "answer": "Choosing faith while living with a tyrant"
       },
       "location": {
-        "label": "What is a key element in my people's story?",
+        "label": "What Object is Key to My Story?",
         "options": [
-          "A staff that turned into a serpent",
-          "A she-camel that emerged from a rock",
-          "A fire that was made cool and peaceful",
-          "A furious and destructive wind",
-          "A flock of birds carrying baked clay stones"
+          "A magnificent throne",
+          "A torn shirt",
+          "A basket in the river",
+          "A dried date palm",
+          "A city of stone pillars"
         ],
-        "answer": "A furious and destructive wind"
+        "answer": "A basket in the river"
       },
       "outcome": {
-        "label": "What was the outcome for my people?",
+        "label": "What Was the Result of My Faith?",
         "options": [
-          "Annihilation by a wind for seven nights and eight days",
-          "Being turned into apes for violating the Sabbath",
-          "Drowning in the sea after a miraculous parting",
-          "Destruction by a mighty blast and earthquake",
-          "Being pelted by a rain of hard stones"
+          "Became an example of faith for all believers",
+          "Was granted worldly power alongside a prophet",
+          "Was publicly disgraced for dishonesty",
+          "Was destroyed along with the disbelievers",
+          "Was falsely accused by my own people"
         ],
-        "answer": "Annihilation by a wind for seven nights and eight days"
+        "answer": "Became an example of faith for all believers"
       }
     },
-    "verseRef": "46:21",
-    "arabic": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
-    "verse": "And mention, [O Muḥammad], the brother of ʿAad, when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\" (46:21)"
+    "verseRef": "66:11",
+    "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
   },
   "generated": true,
   "model": "auto (chain)"

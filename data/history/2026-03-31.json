@@ -1,6 +1,5 @@
 {
-  "date": "2026-03-31",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَات تَحْتَوِي عَلَى حَرْفِ الظَّاء (ظ)",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "اجر",
+    "display": "أَجْر",
+    "hint": "A compensation for good deeds, which Allah never lets go to waste.",
+    "verseRef": "11:115",
+    "arabicVerse": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+    "verse": "11:115 — And be patient, for indeed, Allāh does not allow to be lost the reward of those who do good."
+  },
+  "deduction": {
+    "title": "The Prayer from the Palace",
+    "intro": "In the heart of an empire defined by arrogance and disbelief, one soul found the light of truth. Surrounded by unimaginable luxury and the gravest tyranny, this individual chose an eternal home over a temporary throne, offering a prayer that would echo through time as a symbol of unwavering faith against all odds. Can you identify this noble figure?",
+    "clues": [
+      "I lived within the walls of a grand palace, a witness to both immense power and profound disbelief.",
+      "My heart was moved by the sight of a vulnerable infant adrift, and I argued for the child's life.",
+      "The one I helped raise grew up in my own home, destined to challenge the authority of my powerful spouse.",
+      "I saw clear signs and miracles, which solidified my faith while my spouse only grew in arrogance.",
+      "When my belief was discovered, I was subjected to immense suffering for refusing to renounce my Lord.",
+      "My final prayer was not for escape from my torment, but for a home near Allah in Paradise, and to be saved from the wrongdoing people."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Wife of Fir'awn",
+          "The Queen of Sheba",
+          "The wife of Al-'Aziz",
+          "The wife of Prophet Lut",
+          "Maryam, mother of 'Isa"
+        ],
+        "answer": "The Wife of Fir'awn"
+      },
+      "trial": {
+        "label": "What Was My Defining Moment?",
+        "options": [
+          "Choosing faith while living with a tyrant",
+          "Submitting an entire kingdom to Allah",
+          "Attempting to seduce a righteous prophet",
+          "Betraying a prophet to his enemies",
+          "Giving birth to a prophet without a father"
+        ],
+        "answer": "Choosing faith while living with a tyrant"
+      },
+      "location": {
+        "label": "What Object is Key to My Story?",
+        "options": [
+          "A magnificent throne",
+          "A torn shirt",
+          "A basket in the river",
+          "A dried date palm",
+          "A city of stone pillars"
+        ],
+        "answer": "A basket in the river"
+      },
+      "outcome": {
+        "label": "What Was the Result of My Faith?",
+        "options": [
+          "Became an example of faith for all believers",
+          "Was granted worldly power alongside a prophet",
+          "Was publicly disgraced for dishonesty",
+          "Was destroyed along with the disbelievers",
+          "Was falsely accused by my own people"
+        ],
+        "answer": "Became an example of faith for all believers"
+      }
+    },
+    "verseRef": "66:11",
+    "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+  },
+  "scramble": {
+    "verseRef": "39:62",
+    "reference": "Az-Zumar (39:62)",
+    "segments": [
+      "اللَّهُ خَالِقُ",
+      "كُلِّ شَيْءٍ",
+      "وَهُوَ عَلَىٰ كُلِّ شَيْءٍ",
+      "وَكِيلٌ"
+    ],
+    "translations": [
+      "Allah (is the) Creator (of) all",
+      "things and He",
+      "(is) over all",
+      "things a Guardian"
+    ],
+    "hint": "This verse affirms God's absolute sovereignty as both the sole Creator and the ultimate Guardian over all of creation.",
+    "arabic": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍۢ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
+    "words": [
+      "ٱللَّهُ خَـٰلِقُ كُلِّ",
+      "شَىْءٍۢ ۖ وَهُوَ",
+      "عَلَىٰ كُلِّ",
+      "شَىْءٍۢ وَكِيلٌۭ"
+    ],
+    "verseEn": "Allāh is the Creator of all things, and He is, over all things, Disposer of affairs."
+  }
 }

@@ -1,32 +1,29 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "puzzle": {
-    "verseRef": "67:15",
-    "reference": "Al-Mulk (67:15)",
+    "verseRef": "39:62",
+    "reference": "Az-Zumar (39:62)",
     "segments": [
-      "هُوَ ٱلَّذِى جَعَلَ",
-      "لَكُمُ ٱلْأَرْضَ ذَلُولًۭا",
-      "فَٱمْشُوا۟ فِى مَنَاكِبِهَا",
-      "وَكُلُوا۟ مِن رِّزْقِهِۦ",
-      "وَإِلَيْهِ ٱلنُّشُورُ"
+      "اللَّهُ خَالِقُ",
+      "كُلِّ شَيْءٍ",
+      "وَهُوَ عَلَىٰ كُلِّ شَيْءٍ",
+      "وَكِيلٌ"
     ],
     "translations": [
-      "He (is) the One Who made",
-      "for you the earth subservient",
-      "so walk in (the) paths thereof",
-      "and eat of His provision",
-      "and to Him (is) the Resurrection"
+      "Allah (is the) Creator (of) all",
+      "things and He",
+      "(is) over all",
+      "things a Guardian"
     ],
-    "hint": "A reminder of Allah's provision in this world and our ultimate return to Him.",
-    "arabic": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًۭا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+    "hint": "This verse affirms God's absolute sovereignty as both the sole Creator and the ultimate Guardian over all of creation.",
+    "arabic": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍۢ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
     "words": [
-      "هُوَ ٱلَّذِى جَعَلَ",
-      "لَكُمُ ٱلْأَرْضَ ذَلُولًۭا",
-      "فَٱمْشُوا۟ فِى مَنَاكِبِهَا",
-      "وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ",
-      "وَإِلَيْهِ ٱلنُّشُورُ"
+      "ٱللَّهُ خَـٰلِقُ كُلِّ",
+      "شَىْءٍۢ ۖ وَهُوَ",
+      "عَلَىٰ كُلِّ",
+      "شَىْءٍۢ وَكِيلٌۭ"
     ],
-    "verseEn": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection."
+    "verseEn": "Allāh is the Creator of all things, and He is, over all things, Disposer of affairs."
   },
   "generated": true,
   "model": "auto (chain)"

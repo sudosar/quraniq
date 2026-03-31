@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "puzzle": {
-    "word": "ظلم",
-    "display": "ظُلْم",
-    "hint": "Described as the greatest of wrongs when associated with the Divine.",
-    "verseRef": "31:13",
-    "arabicVerse": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
-    "verse": "31:13 — And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\""
+    "word": "اجر",
+    "display": "أَجْر",
+    "hint": "A compensation for good deeds, which Allah never lets go to waste.",
+    "verseRef": "11:115",
+    "arabicVerse": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+    "verse": "11:115 — And be patient, for indeed, Allāh does not allow to be lost the reward of those who do good."
   },
   "generated": true,
   "model": "auto (chain)"
