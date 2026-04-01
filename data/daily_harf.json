@@ -1,12 +1,12 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "puzzle": {
-    "word": "اجر",
-    "display": "أَجْر",
-    "hint": "A compensation for good deeds, which Allah never lets go to waste.",
-    "verseRef": "11:115",
-    "arabicVerse": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
-    "verse": "11:115 — And be patient, for indeed, Allāh does not allow to be lost the reward of those who do good."
+    "word": "عرش",
+    "display": "عَرْش",
+    "hint": "A seat of ultimate power and authority.",
+    "verseRef": "23:116",
+    "arabicVerse": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
+    "verse": "23:116 — So exalted is Allāh, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne."
   },
   "generated": true,
   "model": "auto (chain)"

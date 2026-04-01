@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-01",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "مَصَادِرُ وَأَشْكَالُ الْمَاءِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "عرش",
+    "display": "عَرْش",
+    "hint": "A seat of ultimate power and authority.",
+    "verseRef": "23:116",
+    "arabicVerse": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
+    "verse": "23:116 — So exalted is Allāh, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne."
+  },
+  "deduction": {
+    "title": "The Unexpected Glad Tidings",
+    "intro": "A pivotal moment in a prophet's household hinged on a divine message delivered by unexpected guests. An individual, whose very existence was deemed impossible by human standards, became a sign of Allah's boundless power. Who is this figure, born from a promise that defied age and nature?",
+    "clues": [
+      "My coming was announced by honored guests who visited my father.",
+      "My mother reacted with astonishment, striking her face and calling herself a barren old woman.",
+      "The messengers who announced my birth also had another mission: to deal with a sinful people nearby.",
+      "I am the son of one of Allah's greatest messengers, and my own son would also become a prophet.",
+      "My name is mentioned alongside my father's and my son's in the Quran as part of a lineage of guidance.",
+      "The glad tidings given to my parents were specifically of a 'knowledgeable son' (ghulamin 'aleem)."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Isma'il",
+          "Prophet Yahya",
+          "Prophet Ishaq",
+          "Prophet 'Isa",
+          "Prophet Ya'qub"
+        ],
+        "answer": "Prophet Ishaq"
+      },
+      "trial": {
+        "label": "The Core Event",
+        "options": [
+          "Being Saved from a Sacrificial Command",
+          "Receiving Glad Tidings of a Miraculous Birth",
+          "Praying for an Heir in a Sanctuary",
+          "Building the Kaaba with a Parent",
+          "Interpreting the Dreams of a Ruler"
+        ],
+        "answer": "Receiving Glad Tidings of a Miraculous Birth"
+      },
+      "location": {
+        "label": "The Messengers",
+        "options": [
+          "A Talking Bird",
+          "A Voice from a Burning Bush",
+          "A Floating Ark",
+          "Angels in Human Form",
+          "A Giant She-Camel"
+        ],
+        "answer": "Angels in Human Form"
+      },
+      "outcome": {
+        "label": "The Result",
+        "options": [
+          "A Nation was Saved from Drowning",
+          "A Kingdom was Inherited",
+          "A False Deity was Shattered",
+          "A People were Punished with a Flood",
+          "A Prophetic Lineage was Established"
+        ],
+        "answer": "A Prophetic Lineage was Established"
+      }
+    },
+    "verseRef": "51:28",
+    "arabic": "فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍۢ",
+    "verse": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy. (51:28)"
+  },
+  "scramble": {
+    "verseRef": "2:286",
+    "reference": "Al-Baqarah (2:286)",
+    "segments": [
+      "لَا يُكَلِّفُ",
+      "اللَّهُ",
+      "نَفْسًا",
+      "إِلَّا",
+      "وُسْعَهَا"
+    ],
+    "translations": [
+      "(Does) not burden Allah any soul except its capacity for it what it earned and against it",
+      "what it earned Our Lord (Do) not take us to task if we forget or we err Our Lord",
+      "And (do) not lay upon us a burden like that (which) You laid [it] on those who (were) from before us",
+      "Our Lord [And] (do) not lay on us what not (the) strength we have [of it] (to bear) And pardon [from] us",
+      "and forgive [for] us and have mercy on us You (are) our Protector so help us against the people  [the] disbelievers"
+    ],
+    "hint": "A comforting principle about divine justice and personal capacity.",
+    "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "words": [
+      "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا",
+      "مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا",
+      "وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ",
+      "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا",
+      "وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+    ],
+    "verseEn": "Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
+  }
 }
