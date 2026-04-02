@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-02",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَسْمَاءُ أَمَاكِنَ فِي الْقُرْآنِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "نار",
+    "display": "نَار",
+    "hint": "A source of guidance for one prophet, and a destination for the disobedient.",
+    "verseRef": "2:17",
+    "arabicVerse": "مَثَلُهُمْ كَمَثَلِ ٱلَّذِى ٱسْتَوْقَدَ نَارًۭا فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِى ظُلُمَـٰتٍۢ لَّا يُبْصِرُونَ",
+    "verse": "2:17 — Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see."
+  },
+  "deduction": {
+    "title": "The Defiance Born of Fire",
+    "intro": "A being of profound devotion was given a single, clear command. In a moment that would echo through eternity, this individual chose a path of rebellion, fueled by a sense of superiority. What followed was a fall from grace and a vow of enmity against a newly favored creation. Can you uncover the identity of this original dissenter?",
+    "clues": [
+      "I was once among those in the highest assembly, witnessing the divine plan unfold.",
+      "My very essence is different from the one I was commanded to honor; I am born of a smokeless flame.",
+      "I was present for the fashioning of a new creation and saw the soul breathed into it.",
+      "A single command to prostrate was given to all those present, but my pride would not allow me to obey.",
+      "I asked for respite until the Day of Resurrection, a request that was granted to me by the Almighty.",
+      "I swore an oath to mislead the descendants of this new creation, vowing to make evil seem appealing to them from every direction."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Samiri",
+          "Harut",
+          "Iblis",
+          "Namrud (Nimrod)",
+          "Jalut (Goliath)"
+        ],
+        "answer": "Iblis"
+      },
+      "trial": {
+        "label": "What Was My Pivotal Act?",
+        "options": [
+          "Building a golden calf for the Israelites",
+          "Attempting to burn Prophet Ibrahim in a fire",
+          "Refusing to prostrate to Adam",
+          "Mocking the construction of Prophet Nuh's ark",
+          "Plotting to crucify Prophet 'Isa"
+        ],
+        "answer": "Refusing to prostrate to Adam"
+      },
+      "location": {
+        "label": "What Was My Stated Reason for Defiance?",
+        "options": [
+          "Being created from fire, while Adam was from clay",
+          "A disagreement over the Tree of Eternity",
+          "A command to build a lofty tower to the heavens",
+          "A prophecy that Adam's descendants would cause corruption",
+          "A desire to have a kingdom like Sulayman's"
+        ],
+        "answer": "Being created from fire, while Adam was from clay"
+      },
+      "outcome": {
+        "label": "What Was the Immediate Consequence?",
+        "options": [
+          "Being transformed into an ape",
+          "Being drowned in a great flood",
+          "Being granted kingship over mankind and jinn",
+          "Being cursed and expelled from Paradise",
+          "Being swallowed by a giant fish"
+        ],
+        "answer": "Being cursed and expelled from Paradise"
+      }
+    },
+    "verseRef": "38:76",
+    "arabic": "قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
+    "verse": "He said, \"I am better than him. You created me from fire and created him from clay.\" (38:76)"
+  },
+  "scramble": {
+    "verseRef": "17:80",
+    "reference": "Al-Isra (17:80)",
+    "segments": [
+      "وَقُل رَّبِّ أَدْخِلْنِي",
+      "مُدْخَلَ صِدْقٍ",
+      "وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+      "وَاجْعَل لِّي مِن لَّدُنكَ",
+      "سُلْطَانًا نَّصِيرًا"
+    ],
+    "translations": [
+      "And say My Lord Cause me to enter",
+      "an entrance sound and cause me to exit",
+      "an exit sound and make",
+      "for me from near You",
+      "an authority helping"
+    ],
+    "hint": "A supplication for righteous beginnings and endings, and for divine help and authority in one's affairs.",
+    "arabic": "وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًۭا نَّصِيرًۭا",
+    "words": [
+      "وَقُل رَّبِّ أَدْخِلْنِى",
+      "مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى",
+      "مُخْرَجَ صِدْقٍۢ وَٱجْعَل",
+      "لِّى مِن لَّدُنكَ",
+      "سُلْطَـٰنًۭا نَّصِيرًۭا"
+    ],
+    "verseEn": "And say, \"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\""
+  }
 }

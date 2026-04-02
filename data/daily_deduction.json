@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "puzzle": {
-    "title": "The Unexpected Glad Tidings",
-    "intro": "A pivotal moment in a prophet's household hinged on a divine message delivered by unexpected guests. An individual, whose very existence was deemed impossible by human standards, became a sign of Allah's boundless power. Who is this figure, born from a promise that defied age and nature?",
+    "title": "The Defiance Born of Fire",
+    "intro": "A being of profound devotion was given a single, clear command. In a moment that would echo through eternity, this individual chose a path of rebellion, fueled by a sense of superiority. What followed was a fall from grace and a vow of enmity against a newly favored creation. Can you uncover the identity of this original dissenter?",
     "clues": [
-      "My coming was announced by honored guests who visited my father.",
-      "My mother reacted with astonishment, striking her face and calling herself a barren old woman.",
-      "The messengers who announced my birth also had another mission: to deal with a sinful people nearby.",
-      "I am the son of one of Allah's greatest messengers, and my own son would also become a prophet.",
-      "My name is mentioned alongside my father's and my son's in the Quran as part of a lineage of guidance.",
-      "The glad tidings given to my parents were specifically of a 'knowledgeable son' (ghulamin 'aleem)."
+      "I was once among those in the highest assembly, witnessing the divine plan unfold.",
+      "My very essence is different from the one I was commanded to honor; I am born of a smokeless flame.",
+      "I was present for the fashioning of a new creation and saw the soul breathed into it.",
+      "A single command to prostrate was given to all those present, but my pride would not allow me to obey.",
+      "I asked for respite until the Day of Resurrection, a request that was granted to me by the Almighty.",
+      "I swore an oath to mislead the descendants of this new creation, vowing to make evil seem appealing to them from every direction."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Isma'il",
-          "Prophet Yahya",
-          "Prophet Ishaq",
-          "Prophet 'Isa",
-          "Prophet Ya'qub"
+          "The Samiri",
+          "Harut",
+          "Iblis",
+          "Namrud (Nimrod)",
+          "Jalut (Goliath)"
         ],
-        "answer": "Prophet Ishaq"
+        "answer": "Iblis"
       },
       "trial": {
-        "label": "The Core Event",
+        "label": "What Was My Pivotal Act?",
         "options": [
-          "Being Saved from a Sacrificial Command",
-          "Receiving Glad Tidings of a Miraculous Birth",
-          "Praying for an Heir in a Sanctuary",
-          "Building the Kaaba with a Parent",
-          "Interpreting the Dreams of a Ruler"
+          "Building a golden calf for the Israelites",
+          "Attempting to burn Prophet Ibrahim in a fire",
+          "Refusing to prostrate to Adam",
+          "Mocking the construction of Prophet Nuh's ark",
+          "Plotting to crucify Prophet 'Isa"
         ],
-        "answer": "Receiving Glad Tidings of a Miraculous Birth"
+        "answer": "Refusing to prostrate to Adam"
       },
       "location": {
-        "label": "The Messengers",
+        "label": "What Was My Stated Reason for Defiance?",
         "options": [
-          "A Talking Bird",
-          "A Voice from a Burning Bush",
-          "A Floating Ark",
-          "Angels in Human Form",
-          "A Giant She-Camel"
+          "Being created from fire, while Adam was from clay",
+          "A disagreement over the Tree of Eternity",
+          "A command to build a lofty tower to the heavens",
+          "A prophecy that Adam's descendants would cause corruption",
+          "A desire to have a kingdom like Sulayman's"
         ],
-        "answer": "Angels in Human Form"
+        "answer": "Being created from fire, while Adam was from clay"
       },
       "outcome": {
-        "label": "The Result",
+        "label": "What Was the Immediate Consequence?",
         "options": [
-          "A Nation was Saved from Drowning",
-          "A Kingdom was Inherited",
-          "A False Deity was Shattered",
-          "A People were Punished with a Flood",
-          "A Prophetic Lineage was Established"
+          "Being transformed into an ape",
+          "Being drowned in a great flood",
+          "Being granted kingship over mankind and jinn",
+          "Being cursed and expelled from Paradise",
+          "Being swallowed by a giant fish"
         ],
-        "answer": "A Prophetic Lineage was Established"
+        "answer": "Being cursed and expelled from Paradise"
       }
     },
-    "verseRef": "51:28",
-    "arabic": "فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍۢ",
-    "verse": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy. (51:28)"
+    "verseRef": "38:76",
+    "arabic": "قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
+    "verse": "He said, \"I am better than him. You created me from fire and created him from clay.\" (38:76)"
   },
   "generated": true,
   "model": "auto (chain)"
