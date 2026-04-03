@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "puzzle": {
-    "title": "The Defiance Born of Fire",
-    "intro": "A being of profound devotion was given a single, clear command. In a moment that would echo through eternity, this individual chose a path of rebellion, fueled by a sense of superiority. What followed was a fall from grace and a vow of enmity against a newly favored creation. Can you uncover the identity of this original dissenter?",
+    "title": "The Cradle's Testimony",
+    "intro": "A miraculous birth heralded the arrival of a special messenger. This soul's life began with a profound sign and was filled with wonders, challenging the norms and calling people back to the truth. Yet, despite the clear proofs, many disputed the message and plotted against this servant of Allah. Can you uncover the identity of this remarkable figure?",
     "clues": [
-      "I was once among those in the highest assembly, witnessing the divine plan unfold.",
-      "My very essence is different from the one I was commanded to honor; I am born of a smokeless flame.",
-      "I was present for the fashioning of a new creation and saw the soul breathed into it.",
-      "A single command to prostrate was given to all those present, but my pride would not allow me to obey.",
-      "I asked for respite until the Day of Resurrection, a request that was granted to me by the Almighty.",
-      "I swore an oath to mislead the descendants of this new creation, vowing to make evil seem appealing to them from every direction."
+      "My birth itself was a sign from Allah, a matter decreed without a human father.",
+      "Even as an infant in the cradle, Allah gave me the ability to speak and defend my mother's honor.",
+      "I was given the Injil (Gospel) and the wisdom to teach the Tawrat (Torah) that came before me.",
+      "By Allah's permission, I fashioned the form of a bird from clay, breathed into it, and it became a living bird.",
+      "I healed the blind and the leper, and I brought the dead back to life, all by the will of my Lord.",
+      "My followers asked me for a table spread with food from heaven, and I prayed to Allah for it as a sign for them."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The Samiri",
-          "Harut",
-          "Iblis",
-          "Namrud (Nimrod)",
-          "Jalut (Goliath)"
+          "Prophet Yahya",
+          "Prophet Isma'il",
+          "Prophet 'Isa",
+          "Prophet Yusuf",
+          "'Uzair"
         ],
-        "answer": "Iblis"
+        "answer": "Prophet 'Isa"
       },
       "trial": {
-        "label": "What Was My Pivotal Act?",
+        "label": "What was a specific miracle requested of me?",
         "options": [
-          "Building a golden calf for the Israelites",
-          "Attempting to burn Prophet Ibrahim in a fire",
-          "Refusing to prostrate to Adam",
-          "Mocking the construction of Prophet Nuh's ark",
-          "Plotting to crucify Prophet 'Isa"
+          "Splitting the sea",
+          "Producing a she-camel from rock",
+          "A table spread with food from heaven",
+          "Building an ark to survive a flood",
+          "Making fire cool and peaceful"
         ],
-        "answer": "Refusing to prostrate to Adam"
+        "answer": "A table spread with food from heaven"
       },
       "location": {
-        "label": "What Was My Stated Reason for Defiance?",
+        "label": "What object did I bring to life by Allah's will?",
         "options": [
-          "Being created from fire, while Adam was from clay",
-          "A disagreement over the Tree of Eternity",
-          "A command to build a lofty tower to the heavens",
-          "A prophecy that Adam's descendants would cause corruption",
-          "A desire to have a kingdom like Sulayman's"
+          "A staff that became a serpent",
+          "A golden calf that made a sound",
+          "A clay bird",
+          "A wooden ship",
+          "A talking ant"
         ],
-        "answer": "Being created from fire, while Adam was from clay"
+        "answer": "A clay bird"
       },
       "outcome": {
-        "label": "What Was the Immediate Consequence?",
+        "label": "What was the divine plan for my time on Earth?",
         "options": [
-          "Being transformed into an ape",
-          "Being drowned in a great flood",
-          "Being granted kingship over mankind and jinn",
-          "Being cursed and expelled from Paradise",
-          "Being swallowed by a giant fish"
+          "To be swallowed by a large fish and repent",
+          "To become a powerful king with a vast army",
+          "To be raised to Allah and saved from crucifixion",
+          "To be sold into slavery and rise to high office",
+          "To die in a great flood with the disbelievers"
         ],
-        "answer": "Being cursed and expelled from Paradise"
+        "answer": "To be raised to Allah and saved from crucifixion"
       }
     },
-    "verseRef": "38:76",
-    "arabic": "قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
-    "verse": "He said, \"I am better than him. You created me from fire and created him from clay.\" (38:76)"
+    "verseRef": "5:112",
+    "arabic": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+    "verse": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\" (5:112)"
   },
   "generated": true,
   "model": "auto (chain)"

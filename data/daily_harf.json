@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "puzzle": {
-    "word": "نار",
-    "display": "نَار",
-    "hint": "A source of guidance for one prophet, and a destination for the disobedient.",
-    "verseRef": "2:17",
-    "arabicVerse": "مَثَلُهُمْ كَمَثَلِ ٱلَّذِى ٱسْتَوْقَدَ نَارًۭا فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِى ظُلُمَـٰتٍۢ لَّا يُبْصِرُونَ",
-    "verse": "2:17 — Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see."
+    "word": "لحم",
+    "display": "لَحْم",
+    "hint": "A food mentioned alongside fruit as a provision in Paradise.",
+    "verseRef": "52:22",
+    "arabicVerse": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ",
+    "verse": "52:22 — And We will provide them with fruit and meat from whatever they desire."
   },
   "generated": true,
   "model": "auto (chain)"

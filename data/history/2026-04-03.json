@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-03",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مِنْ قِصَّةِ نَبِيِّ اللَّهِ يُوسُفَ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "لحم",
+    "display": "لَحْم",
+    "hint": "A food mentioned alongside fruit as a provision in Paradise.",
+    "verseRef": "52:22",
+    "arabicVerse": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ",
+    "verse": "52:22 — And We will provide them with fruit and meat from whatever they desire."
+  },
+  "deduction": {
+    "title": "The Cradle's Testimony",
+    "intro": "A miraculous birth heralded the arrival of a special messenger. This soul's life began with a profound sign and was filled with wonders, challenging the norms and calling people back to the truth. Yet, despite the clear proofs, many disputed the message and plotted against this servant of Allah. Can you uncover the identity of this remarkable figure?",
+    "clues": [
+      "My birth itself was a sign from Allah, a matter decreed without a human father.",
+      "Even as an infant in the cradle, Allah gave me the ability to speak and defend my mother's honor.",
+      "I was given the Injil (Gospel) and the wisdom to teach the Tawrat (Torah) that came before me.",
+      "By Allah's permission, I fashioned the form of a bird from clay, breathed into it, and it became a living bird.",
+      "I healed the blind and the leper, and I brought the dead back to life, all by the will of my Lord.",
+      "My followers asked me for a table spread with food from heaven, and I prayed to Allah for it as a sign for them."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yahya",
+          "Prophet Isma'il",
+          "Prophet 'Isa",
+          "Prophet Yusuf",
+          "'Uzair"
+        ],
+        "answer": "Prophet 'Isa"
+      },
+      "trial": {
+        "label": "What was a specific miracle requested of me?",
+        "options": [
+          "Splitting the sea",
+          "Producing a she-camel from rock",
+          "A table spread with food from heaven",
+          "Building an ark to survive a flood",
+          "Making fire cool and peaceful"
+        ],
+        "answer": "A table spread with food from heaven"
+      },
+      "location": {
+        "label": "What object did I bring to life by Allah's will?",
+        "options": [
+          "A staff that became a serpent",
+          "A golden calf that made a sound",
+          "A clay bird",
+          "A wooden ship",
+          "A talking ant"
+        ],
+        "answer": "A clay bird"
+      },
+      "outcome": {
+        "label": "What was the divine plan for my time on Earth?",
+        "options": [
+          "To be swallowed by a large fish and repent",
+          "To become a powerful king with a vast army",
+          "To be raised to Allah and saved from crucifixion",
+          "To be sold into slavery and rise to high office",
+          "To die in a great flood with the disbelievers"
+        ],
+        "answer": "To be raised to Allah and saved from crucifixion"
+      }
+    },
+    "verseRef": "5:112",
+    "arabic": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+    "verse": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\" (5:112)"
+  },
+  "scramble": {
+    "verseRef": "26:83",
+    "reference": "Ash-Shu'ara (26:83)",
+    "segments": [
+      "رَبِّ هَبْ لِي",
+      "حُكْمًا",
+      "وَأَلْحِقْنِي",
+      "بِالصَّالِحِينَ"
+    ],
+    "translations": [
+      "My Lord Grant",
+      "[for] me wisdom",
+      "and join me",
+      "with the righteous"
+    ],
+    "hint": "A powerful supplication made by Prophet Ibrahim (Abraham) for divine wisdom and righteous companionship.",
+    "arabic": "رَبِّ هَبْ لِى حُكْمًۭا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+    "words": [
+      "رَبِّ هَبْ",
+      "لِى حُكْمًۭا",
+      "وَأَلْحِقْنِى",
+      "بِٱلصَّـٰلِحِينَ"
+    ],
+    "verseEn": "[And he said], \"My Lord, grant me authority and join me with the righteous."
+  }
 }

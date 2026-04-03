@@ -1,32 +1,29 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "puzzle": {
-    "verseRef": "17:80",
-    "reference": "Al-Isra (17:80)",
+    "verseRef": "26:83",
+    "reference": "Ash-Shu'ara (26:83)",
     "segments": [
-      "وَقُل رَّبِّ أَدْخِلْنِي",
-      "مُدْخَلَ صِدْقٍ",
-      "وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
-      "وَاجْعَل لِّي مِن لَّدُنكَ",
-      "سُلْطَانًا نَّصِيرًا"
+      "رَبِّ هَبْ لِي",
+      "حُكْمًا",
+      "وَأَلْحِقْنِي",
+      "بِالصَّالِحِينَ"
     ],
     "translations": [
-      "And say My Lord Cause me to enter",
-      "an entrance sound and cause me to exit",
-      "an exit sound and make",
-      "for me from near You",
-      "an authority helping"
+      "My Lord Grant",
+      "[for] me wisdom",
+      "and join me",
+      "with the righteous"
     ],
-    "hint": "A supplication for righteous beginnings and endings, and for divine help and authority in one's affairs.",
-    "arabic": "وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًۭا نَّصِيرًۭا",
+    "hint": "A powerful supplication made by Prophet Ibrahim (Abraham) for divine wisdom and righteous companionship.",
+    "arabic": "رَبِّ هَبْ لِى حُكْمًۭا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
     "words": [
-      "وَقُل رَّبِّ أَدْخِلْنِى",
-      "مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى",
-      "مُخْرَجَ صِدْقٍۢ وَٱجْعَل",
-      "لِّى مِن لَّدُنكَ",
-      "سُلْطَـٰنًۭا نَّصِيرًۭا"
+      "رَبِّ هَبْ",
+      "لِى حُكْمًۭا",
+      "وَأَلْحِقْنِى",
+      "بِٱلصَّـٰلِحِينَ"
     ],
-    "verseEn": "And say, \"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\""
+    "verseEn": "[And he said], \"My Lord, grant me authority and join me with the righteous."
   },
   "generated": true,
   "model": "auto (chain)"
