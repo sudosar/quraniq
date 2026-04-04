@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-04",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَلْفَاظٌ لِلذُّنُوبِ وَٱلْآثَامِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "وريد",
+    "display": "وَرِيد",
+    "hint": "The lifeline of divine proximity.",
+    "verseRef": "50:16",
+    "arabicVerse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+    "verse": "50:16 — And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
+  },
+  "deduction": {
+    "title": "The Perishable Paradise",
+    "intro": "Before you stands a soul who was granted immense blessings from Allah—lush gardens, flowing rivers, and abundant fruit. Yet, in the face of this prosperity, a test of faith and gratitude arose. This individual's response to their wealth led to a powerful lesson about the true nature of worldly possessions and the eternal power of Allah. Can you uncover the identity of this figure whose story is a timeless warning?",
+    "clues": [
+      "I was blessed with more wealth and more followers than my companion.",
+      "I walked into my garden, wronging my own soul with my boastful attitude.",
+      "I declared that I believed my prosperity would never end, and I even expressed doubt about the Final Hour.",
+      "My righteous companion advised me to remember Allah upon entering my garden, saying 'Ma sha' Allah, la quwwata illa billah' (What Allah willed has occurred; there is no power except in Allah).",
+      "A calamity from the sky struck my property overnight, and all my bounty was ruined.",
+      "I was left wringing my hands in regret over all I had spent, as my garden now lay collapsed on its trellises, wishing I had never associated anyone with my Lord."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qarun",
+          "The Samiri",
+          "The Owner of the Two Gardens",
+          "The Believer of Ya-Sin",
+          "Haman"
+        ],
+        "answer": "The Owner of the Two Gardens"
+      },
+      "trial": {
+        "label": "What Was My Primary Test?",
+        "options": [
+          "Facing a tyrant's fiery pit",
+          "Arrogance in the face of wealth",
+          "Being swallowed by the earth with my treasures",
+          "Building a golden calf for worship",
+          "Surviving a great flood on an ark"
+        ],
+        "answer": "Arrogance in the face of wealth"
+      },
+      "location": {
+        "label": "What Was the Key Element in My Story?",
+        "options": [
+          "A blessed she-camel",
+          "A magnificent throne",
+          "Two lush gardens",
+          "A towering palace",
+          "A golden calf"
+        ],
+        "answer": "Two lush gardens"
+      },
+      "outcome": {
+        "label": "What Was the Result of My Actions?",
+        "options": [
+          "I was granted control over the wind",
+          "I became a celebrated ruler",
+          "My gardens were utterly destroyed",
+          "My wealth was given to the poor by my command",
+          "I was exiled to a remote island"
+        ],
+        "answer": "My gardens were utterly destroyed"
+      }
+    },
+    "verseRef": "18:42",
+    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
+  },
+  "scramble": {
+    "verseRef": "29:45",
+    "reference": "Surah Al-Ankabut (29:45)",
+    "segments": [
+      "إِنَّ الصَّلَاةَ",
+      "تَنْهَىٰ",
+      "عَنِ الْفَحْشَاءِ",
+      "وَالْمُنكَرِ"
+    ],
+    "translations": [
+      "Recite what has been revealed to you of the Book",
+      "and establish the prayer Indeed the prayer prevents",
+      "from the immorality and evil deeds and surely (the) remembrance (of) Allah",
+      "(is) greatest And Allah knows what you do"
+    ],
+    "hint": "This verse describes a key preventative function of one of the pillars of Islam.",
+    "arabic": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+    "words": [
+      "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ",
+      "وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ",
+      "عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ",
+      "أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ"
+    ],
+    "verseEn": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do."
+  }
 }

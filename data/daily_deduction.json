@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "puzzle": {
-    "title": "The Cradle's Testimony",
-    "intro": "A miraculous birth heralded the arrival of a special messenger. This soul's life began with a profound sign and was filled with wonders, challenging the norms and calling people back to the truth. Yet, despite the clear proofs, many disputed the message and plotted against this servant of Allah. Can you uncover the identity of this remarkable figure?",
+    "title": "The Perishable Paradise",
+    "intro": "Before you stands a soul who was granted immense blessings from Allah—lush gardens, flowing rivers, and abundant fruit. Yet, in the face of this prosperity, a test of faith and gratitude arose. This individual's response to their wealth led to a powerful lesson about the true nature of worldly possessions and the eternal power of Allah. Can you uncover the identity of this figure whose story is a timeless warning?",
     "clues": [
-      "My birth itself was a sign from Allah, a matter decreed without a human father.",
-      "Even as an infant in the cradle, Allah gave me the ability to speak and defend my mother's honor.",
-      "I was given the Injil (Gospel) and the wisdom to teach the Tawrat (Torah) that came before me.",
-      "By Allah's permission, I fashioned the form of a bird from clay, breathed into it, and it became a living bird.",
-      "I healed the blind and the leper, and I brought the dead back to life, all by the will of my Lord.",
-      "My followers asked me for a table spread with food from heaven, and I prayed to Allah for it as a sign for them."
+      "I was blessed with more wealth and more followers than my companion.",
+      "I walked into my garden, wronging my own soul with my boastful attitude.",
+      "I declared that I believed my prosperity would never end, and I even expressed doubt about the Final Hour.",
+      "My righteous companion advised me to remember Allah upon entering my garden, saying 'Ma sha' Allah, la quwwata illa billah' (What Allah willed has occurred; there is no power except in Allah).",
+      "A calamity from the sky struck my property overnight, and all my bounty was ruined.",
+      "I was left wringing my hands in regret over all I had spent, as my garden now lay collapsed on its trellises, wishing I had never associated anyone with my Lord."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Yahya",
-          "Prophet Isma'il",
-          "Prophet 'Isa",
-          "Prophet Yusuf",
-          "'Uzair"
+          "Qarun",
+          "The Samiri",
+          "The Owner of the Two Gardens",
+          "The Believer of Ya-Sin",
+          "Haman"
         ],
-        "answer": "Prophet 'Isa"
+        "answer": "The Owner of the Two Gardens"
       },
       "trial": {
-        "label": "What was a specific miracle requested of me?",
+        "label": "What Was My Primary Test?",
         "options": [
-          "Splitting the sea",
-          "Producing a she-camel from rock",
-          "A table spread with food from heaven",
-          "Building an ark to survive a flood",
-          "Making fire cool and peaceful"
+          "Facing a tyrant's fiery pit",
+          "Arrogance in the face of wealth",
+          "Being swallowed by the earth with my treasures",
+          "Building a golden calf for worship",
+          "Surviving a great flood on an ark"
         ],
-        "answer": "A table spread with food from heaven"
+        "answer": "Arrogance in the face of wealth"
       },
       "location": {
-        "label": "What object did I bring to life by Allah's will?",
+        "label": "What Was the Key Element in My Story?",
         "options": [
-          "A staff that became a serpent",
-          "A golden calf that made a sound",
-          "A clay bird",
-          "A wooden ship",
-          "A talking ant"
+          "A blessed she-camel",
+          "A magnificent throne",
+          "Two lush gardens",
+          "A towering palace",
+          "A golden calf"
         ],
-        "answer": "A clay bird"
+        "answer": "Two lush gardens"
       },
       "outcome": {
-        "label": "What was the divine plan for my time on Earth?",
+        "label": "What Was the Result of My Actions?",
         "options": [
-          "To be swallowed by a large fish and repent",
-          "To become a powerful king with a vast army",
-          "To be raised to Allah and saved from crucifixion",
-          "To be sold into slavery and rise to high office",
-          "To die in a great flood with the disbelievers"
+          "I was granted control over the wind",
+          "I became a celebrated ruler",
+          "My gardens were utterly destroyed",
+          "My wealth was given to the poor by my command",
+          "I was exiled to a remote island"
         ],
-        "answer": "To be raised to Allah and saved from crucifixion"
+        "answer": "My gardens were utterly destroyed"
       }
     },
-    "verseRef": "5:112",
-    "arabic": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
-    "verse": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\" (5:112)"
+    "verseRef": "18:42",
+    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
   },
   "generated": true,
   "model": "auto (chain)"

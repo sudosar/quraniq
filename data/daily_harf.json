@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "puzzle": {
-    "word": "لحم",
-    "display": "لَحْم",
-    "hint": "A food mentioned alongside fruit as a provision in Paradise.",
-    "verseRef": "52:22",
-    "arabicVerse": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ",
-    "verse": "52:22 — And We will provide them with fruit and meat from whatever they desire."
+    "word": "وريد",
+    "display": "وَرِيد",
+    "hint": "The lifeline of divine proximity.",
+    "verseRef": "50:16",
+    "arabicVerse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+    "verse": "50:16 — And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
   },
   "generated": true,
   "model": "auto (chain)"
