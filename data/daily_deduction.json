@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "puzzle": {
-    "title": "The Perishable Paradise",
-    "intro": "Before you stands a soul who was granted immense blessings from Allah—lush gardens, flowing rivers, and abundant fruit. Yet, in the face of this prosperity, a test of faith and gratitude arose. This individual's response to their wealth led to a powerful lesson about the true nature of worldly possessions and the eternal power of Allah. Can you uncover the identity of this figure whose story is a timeless warning?",
+    "title": "The Promised Heir",
+    "intro": "In the quiet solitude of a sanctuary, a devout servant of Allah raised a prayer for an heir. An answer came, not as expected, but as a divine promise delivered by angels—a sign that would precede a life of wisdom and piety. This promised individual would confirm a Word from Allah, destined for honor and righteousness from the very beginning.",
     "clues": [
-      "I was blessed with more wealth and more followers than my companion.",
-      "I walked into my garden, wronging my own soul with my boastful attitude.",
-      "I declared that I believed my prosperity would never end, and I even expressed doubt about the Final Hour.",
-      "My righteous companion advised me to remember Allah upon entering my garden, saying 'Ma sha' Allah, la quwwata illa billah' (What Allah willed has occurred; there is no power except in Allah).",
-      "A calamity from the sky struck my property overnight, and all my bounty was ruined.",
-      "I was left wringing my hands in regret over all I had spent, as my garden now lay collapsed on its trellises, wishing I had never associated anyone with my Lord."
+      "I was a gift from Allah, an answer to a heartfelt prayer made in old age.",
+      "Wisdom was granted to me while I was still a child.",
+      "I was known for my kindness to my parents and was never arrogant or rebellious.",
+      "My purpose was to confirm a Word from Allah, a messenger who would come after me.",
+      "As a sign of my impending arrival, my father was rendered unable to speak to people for three days.",
+      "My name was unique, given by Allah Himself, a name no one had been called before me."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Qarun",
-          "The Samiri",
-          "The Owner of the Two Gardens",
-          "The Believer of Ya-Sin",
-          "Haman"
+          "Prophet Ishaq",
+          "Prophet Yahya",
+          "Prophet 'Isa",
+          "Prophet Isma'il",
+          "Prophet Zakariyya"
         ],
-        "answer": "The Owner of the Two Gardens"
+        "answer": "Prophet Yahya"
       },
       "trial": {
-        "label": "What Was My Primary Test?",
+        "label": "What was my primary role?",
         "options": [
-          "Facing a tyrant's fiery pit",
-          "Arrogance in the face of wealth",
-          "Being swallowed by the earth with my treasures",
-          "Building a golden calf for worship",
-          "Surviving a great flood on an ark"
+          "Building the Kaaba",
+          "Leading an exodus from Egypt",
+          "Confirming the coming of Prophet 'Isa",
+          "Surviving inside a great fish",
+          "Interpreting the dreams of a king"
         ],
-        "answer": "Arrogance in the face of wealth"
+        "answer": "Confirming the coming of Prophet 'Isa"
       },
       "location": {
-        "label": "What Was the Key Element in My Story?",
+        "label": "What was the sign of my arrival?",
         "options": [
-          "A blessed she-camel",
-          "A magnificent throne",
-          "Two lush gardens",
-          "A towering palace",
-          "A golden calf"
+          "A staff that turned into a serpent",
+          "A flood that covered the earth",
+          "A camel emerging from a rock",
+          "My father's temporary inability to speak",
+          "A flock of birds pelting an army with stones"
         ],
-        "answer": "Two lush gardens"
+        "answer": "My father's temporary inability to speak"
       },
       "outcome": {
-        "label": "What Was the Result of My Actions?",
+        "label": "How was I described?",
         "options": [
-          "I was granted control over the wind",
-          "I became a celebrated ruler",
-          "My gardens were utterly destroyed",
-          "My wealth was given to the poor by my command",
-          "I was exiled to a remote island"
+          "Given dominion over the winds and jinn",
+          "Noble, chaste, and a righteous prophet",
+          "Able to mold iron and given a beautiful voice",
+          "Thrown into a well by my own brothers",
+          "The first to build an ark"
         ],
-        "answer": "My gardens were utterly destroyed"
+        "answer": "Noble, chaste, and a righteous prophet"
       }
     },
-    "verseRef": "18:42",
-    "arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
-    "verse": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\" (18:42)"
+    "verseRef": "3:39",
+    "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّـٰلِحِينَ",
+    "verse": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\" (3:39)"
   },
   "generated": true,
   "model": "auto (chain)"

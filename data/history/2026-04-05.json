@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-05",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مِنْ سُورَةِ ٱلْفَلَقِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "سلطان",
+    "display": "سُلْطَان",
+    "hint": "Not a king, but the authority, proof, or power granted by God.",
+    "verseRef": "55:33",
+    "arabicVerse": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍۢ",
+    "verse": "55:33 — O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh]."
+  },
+  "deduction": {
+    "title": "The Promised Heir",
+    "intro": "In the quiet solitude of a sanctuary, a devout servant of Allah raised a prayer for an heir. An answer came, not as expected, but as a divine promise delivered by angels—a sign that would precede a life of wisdom and piety. This promised individual would confirm a Word from Allah, destined for honor and righteousness from the very beginning.",
+    "clues": [
+      "I was a gift from Allah, an answer to a heartfelt prayer made in old age.",
+      "Wisdom was granted to me while I was still a child.",
+      "I was known for my kindness to my parents and was never arrogant or rebellious.",
+      "My purpose was to confirm a Word from Allah, a messenger who would come after me.",
+      "As a sign of my impending arrival, my father was rendered unable to speak to people for three days.",
+      "My name was unique, given by Allah Himself, a name no one had been called before me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ishaq",
+          "Prophet Yahya",
+          "Prophet 'Isa",
+          "Prophet Isma'il",
+          "Prophet Zakariyya"
+        ],
+        "answer": "Prophet Yahya"
+      },
+      "trial": {
+        "label": "What was my primary role?",
+        "options": [
+          "Building the Kaaba",
+          "Leading an exodus from Egypt",
+          "Confirming the coming of Prophet 'Isa",
+          "Surviving inside a great fish",
+          "Interpreting the dreams of a king"
+        ],
+        "answer": "Confirming the coming of Prophet 'Isa"
+      },
+      "location": {
+        "label": "What was the sign of my arrival?",
+        "options": [
+          "A staff that turned into a serpent",
+          "A flood that covered the earth",
+          "A camel emerging from a rock",
+          "My father's temporary inability to speak",
+          "A flock of birds pelting an army with stones"
+        ],
+        "answer": "My father's temporary inability to speak"
+      },
+      "outcome": {
+        "label": "How was I described?",
+        "options": [
+          "Given dominion over the winds and jinn",
+          "Noble, chaste, and a righteous prophet",
+          "Able to mold iron and given a beautiful voice",
+          "Thrown into a well by my own brothers",
+          "The first to build an ark"
+        ],
+        "answer": "Noble, chaste, and a righteous prophet"
+      }
+    },
+    "verseRef": "3:39",
+    "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّـٰلِحِينَ",
+    "verse": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\" (3:39)"
+  },
+  "scramble": {
+    "verseRef": "16:12",
+    "reference": "An-Nahl (16:12)",
+    "segments": [
+      "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "وَٱلشَّمْسَ وَٱلْقَمَرَ",
+      "وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ",
+      "إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍۢ",
+      "لِّقَوْمٍۢ يَعْقِلُونَ"
+    ],
+    "translations": [
+      "And He has subjected for you the night",
+      "and the day and the sun and the moon",
+      "and the stars (are) subjected by His command",
+      "Indeed in that",
+      "surely (are) signs for a people who use reason"
+    ],
+    "hint": "This verse describes how celestial bodies are made subservient by Allah's command as signs for thinking people.",
+    "arabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "words": [
+      "وَسَخَّرَ لَكُمُ ٱلَّيْلَ",
+      "وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ",
+      "وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ",
+      "إِنَّ فِى ذَٰلِكَ",
+      "لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ"
+    ],
+    "verseEn": "And He has subjected for you the night and day and the sun and moon, and the stars are subjected by His command. Indeed in that are signs for a people who reason."
+  }
 }

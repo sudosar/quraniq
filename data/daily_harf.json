@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "puzzle": {
-    "word": "وريد",
-    "display": "وَرِيد",
-    "hint": "The lifeline of divine proximity.",
-    "verseRef": "50:16",
-    "arabicVerse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
-    "verse": "50:16 — And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
+    "word": "سلطان",
+    "display": "سُلْطَان",
+    "hint": "Not a king, but the authority, proof, or power granted by God.",
+    "verseRef": "55:33",
+    "arabicVerse": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍۢ",
+    "verse": "55:33 — O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh]."
   },
   "generated": true,
   "model": "auto (chain)"

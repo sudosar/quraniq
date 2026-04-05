@@ -1,29 +1,32 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "puzzle": {
-    "verseRef": "29:45",
-    "reference": "Surah Al-Ankabut (29:45)",
+    "verseRef": "16:12",
+    "reference": "An-Nahl (16:12)",
     "segments": [
-      "إِنَّ الصَّلَاةَ",
-      "تَنْهَىٰ",
-      "عَنِ الْفَحْشَاءِ",
-      "وَالْمُنكَرِ"
+      "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "وَٱلشَّمْسَ وَٱلْقَمَرَ",
+      "وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ",
+      "إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍۢ",
+      "لِّقَوْمٍۢ يَعْقِلُونَ"
     ],
     "translations": [
-      "Recite what has been revealed to you of the Book",
-      "and establish the prayer Indeed the prayer prevents",
-      "from the immorality and evil deeds and surely (the) remembrance (of) Allah",
-      "(is) greatest And Allah knows what you do"
+      "And He has subjected for you the night",
+      "and the day and the sun and the moon",
+      "and the stars (are) subjected by His command",
+      "Indeed in that",
+      "surely (are) signs for a people who use reason"
     ],
-    "hint": "This verse describes a key preventative function of one of the pillars of Islam.",
-    "arabic": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+    "hint": "This verse describes how celestial bodies are made subservient by Allah's command as signs for thinking people.",
+    "arabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
     "words": [
-      "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ",
-      "وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ",
-      "عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ",
-      "أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ"
+      "وَسَخَّرَ لَكُمُ ٱلَّيْلَ",
+      "وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ",
+      "وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ",
+      "إِنَّ فِى ذَٰلِكَ",
+      "لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ"
     ],
-    "verseEn": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do."
+    "verseEn": "And He has subjected for you the night and day and the sun and moon, and the stars are subjected by His command. Indeed in that are signs for a people who reason."
   },
   "generated": true,
   "model": "auto (chain)"
