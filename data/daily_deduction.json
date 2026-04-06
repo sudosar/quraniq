@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "puzzle": {
-    "title": "The Promised Heir",
-    "intro": "In the quiet solitude of a sanctuary, a devout servant of Allah raised a prayer for an heir. An answer came, not as expected, but as a divine promise delivered by angels—a sign that would precede a life of wisdom and piety. This promised individual would confirm a Word from Allah, destined for honor and righteousness from the very beginning.",
+    "title": "The Test of Unwavering Submission",
+    "intro": "A young soul is placed at the heart of an immense trial, a test of faith not just for this individual, but for their devoted parent as well. This moment of profound submission would echo through history, its legacy commemorated by millions. Who is this figure of patience and obedience?",
     "clues": [
-      "I was a gift from Allah, an answer to a heartfelt prayer made in old age.",
-      "Wisdom was granted to me while I was still a child.",
-      "I was known for my kindness to my parents and was never arrogant or rebellious.",
-      "My purpose was to confirm a Word from Allah, a messenger who would come after me.",
-      "As a sign of my impending arrival, my father was rendered unable to speak to people for three days.",
-      "My name was unique, given by Allah Himself, a name no one had been called before me."
+      "I was left with my mother in a barren valley, a place with no vegetation or water.",
+      "In our desperation, a miraculous spring of water gushed forth from the earth to sustain us.",
+      "With my father, I raised the foundations of a sacred House, a focal point of worship for all humanity.",
+      "My father saw in a dream that he was to sacrifice me, a divine command that tested us both.",
+      "When my father told me of his vision, I replied, 'O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.'",
+      "Allah ransomed me with a great sacrifice, and this act of submission is commemorated annually by believers."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Ishaq",
-          "Prophet Yahya",
-          "Prophet 'Isa",
           "Prophet Isma'il",
-          "Prophet Zakariyya"
+          "Prophet Yahya",
+          "Prophet Yusuf",
+          "Prophet Ishaq",
+          "Qabil"
         ],
-        "answer": "Prophet Yahya"
+        "answer": "Prophet Isma'il"
       },
       "trial": {
-        "label": "What was my primary role?",
+        "label": "The Divine Test",
         "options": [
-          "Building the Kaaba",
-          "Leading an exodus from Egypt",
-          "Confirming the coming of Prophet 'Isa",
-          "Surviving inside a great fish",
-          "Interpreting the dreams of a king"
+          "A father's vision to sacrifice his son",
+          "Building an ark to survive a flood",
+          "Being thrown into a fire by a tyrant",
+          "Being swallowed by a giant fish",
+          "Accusation of theft by one's own siblings"
         ],
-        "answer": "Confirming the coming of Prophet 'Isa"
+        "answer": "A father's vision to sacrifice his son"
       },
       "location": {
-        "label": "What was the sign of my arrival?",
+        "label": "Key Element",
         "options": [
+          "A spring of water",
           "A staff that turned into a serpent",
-          "A flood that covered the earth",
+          "A feast sent down from the heavens",
           "A camel emerging from a rock",
-          "My father's temporary inability to speak",
-          "A flock of birds pelting an army with stones"
+          "A shirt that healed blindness"
         ],
-        "answer": "My father's temporary inability to speak"
+        "answer": "A spring of water"
       },
       "outcome": {
-        "label": "How was I described?",
+        "label": "Outcome",
         "options": [
-          "Given dominion over the winds and jinn",
-          "Noble, chaste, and a righteous prophet",
-          "Able to mold iron and given a beautiful voice",
-          "Thrown into a well by my own brothers",
-          "The first to build an ark"
+          "Ransomed with a great sacrifice",
+          "The fire became cool and peaceful",
+          "The sea parted to create a dry path",
+          "Given kingship over a vast domain",
+          "Elected as a leader by the people"
         ],
-        "answer": "Noble, chaste, and a righteous prophet"
+        "answer": "Ransomed with a great sacrifice"
       }
     },
-    "verseRef": "3:39",
-    "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّـٰلِحِينَ",
-    "verse": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\" (3:39)"
+    "verseRef": "14:39",
+    "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+    "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
   },
   "generated": true,
   "model": "auto (chain)"
