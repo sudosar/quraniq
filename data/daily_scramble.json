@@ -1,29 +1,32 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "puzzle": {
-    "verseRef": "10:62",
-    "reference": "Surah Yunus (10:62)",
+    "verseRef": "23:115",
+    "reference": "Al-Mu'minun (23:115)",
     "segments": [
-      "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ",
-      "لَا خَوْفٌ عَلَيْهِمْ",
-      "وَلَا هُمْ",
-      "يَحْزَنُونَ"
+      "أَفَحَسِبْتُمْ",
+      "أَنَّمَا خَلَقْنَاكُمْ",
+      "عَبَثًا",
+      "وَأَنَّكُمْ إِلَيْنَا",
+      "لَا تُرْجَعُونَ"
     ],
     "translations": [
-      "No doubt Indeed (the) friends",
-      "(of) Allah (there will be) no fear",
-      "upon then and not",
-      "they will grieve"
+      "Then did you think that",
+      "We created you uselessly",
+      "and that you to Us",
+      "not",
+      "will be returned"
     ],
-    "hint": "A divine promise of peace and security for those who are close to Him, protecting them from fear of the future and grief for the past.",
-    "arabic": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "hint": "A powerful question about the purpose of creation and our ultimate return.",
+    "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
     "words": [
-      "أَلَآ إِنَّ أَوْلِيَآءَ",
-      "ٱللَّهِ لَا خَوْفٌ",
-      "عَلَيْهِمْ وَلَا",
-      "هُمْ يَحْزَنُونَ"
+      "أَفَحَسِبْتُمْ أَنَّمَا",
+      "خَلَقْنَـٰكُمْ عَبَثًۭا",
+      "وَأَنَّكُمْ إِلَيْنَا",
+      "لَا",
+      "تُرْجَعُونَ"
     ],
-    "verseEn": "Unquestionably, [for] the allies of Allāh there will be no fear concerning them, nor will they grieve -"
+    "verseEn": "Then did you think that We created you uselessly and that to Us you would not be returned?\""
   },
   "generated": true,
   "model": "auto (chain)"

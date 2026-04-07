@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "puzzle": {
-    "title": "The Test of Unwavering Submission",
-    "intro": "A young soul is placed at the heart of an immense trial, a test of faith not just for this individual, but for their devoted parent as well. This moment of profound submission would echo through history, its legacy commemorated by millions. Who is this figure of patience and obedience?",
+    "title": "The Grief of a Patient Soul",
+    "intro": "A profound sorrow tested this soul, a sorrow so deep it threatened to steal their sight. Yet, through unwavering patience and trust in Allah's plan, a scent carried on the wind brought news of a reunion long prayed for. Can you identify this figure whose faith never faltered, even in the face of immense grief?",
     "clues": [
-      "I was left with my mother in a barren valley, a place with no vegetation or water.",
-      "In our desperation, a miraculous spring of water gushed forth from the earth to sustain us.",
-      "With my father, I raised the foundations of a sacred House, a focal point of worship for all humanity.",
-      "My father saw in a dream that he was to sacrifice me, a divine command that tested us both.",
-      "When my father told me of his vision, I replied, 'O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.'",
-      "Allah ransomed me with a great sacrifice, and this act of submission is commemorated annually by believers."
+      "I was blessed with prophethood, following in the footsteps of my esteemed forebears.",
+      "My other name, by which a nation would later be called, is Isra'il.",
+      "A dream of celestial bodies bowing down was shared with me, and I advised that it be kept a secret from my other children.",
+      "I was consumed by such sorrow over the loss of a beloved child that my eyes turned white from grief.",
+      "Years later, I hesitated to send my youngest child on a journey with his siblings, taking a solemn promise from them for his safe return.",
+      "My sight was miraculously restored when the garment of my long-lost son was cast over my face, carrying his scent from the land of Egypt."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Isma'il",
-          "Prophet Yahya",
-          "Prophet Yusuf",
-          "Prophet Ishaq",
-          "Qabil"
+          "Prophet Yusuf (Joseph)",
+          "Prophet Ishaq (Isaac)",
+          "Prophet Ya'qub (Jacob)",
+          "Prophet Shu'ayb",
+          "Prophet Zakariyya"
         ],
-        "answer": "Prophet Isma'il"
+        "answer": "Prophet Ya'qub (Jacob)"
       },
       "trial": {
-        "label": "The Divine Test",
+        "label": "What Was My Primary Trial?",
         "options": [
-          "A father's vision to sacrifice his son",
-          "Building an ark to survive a flood",
-          "Being thrown into a fire by a tyrant",
-          "Being swallowed by a giant fish",
-          "Accusation of theft by one's own siblings"
+          "Being swallowed by a great fish",
+          "Building an ark to survive a great flood",
+          "The prolonged separation from a beloved son",
+          "Confronting a tyrannical king who claimed divinity",
+          "Suffering from a severe, prolonged illness"
         ],
-        "answer": "A father's vision to sacrifice his son"
+        "answer": "The prolonged separation from a beloved son"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Key Object Brought Me Relief?",
         "options": [
-          "A spring of water",
           "A staff that turned into a serpent",
-          "A feast sent down from the heavens",
-          "A camel emerging from a rock",
-          "A shirt that healed blindness"
+          "A clay bird brought to life",
+          "A she-camel that emerged from a rock",
+          "A son's garment (shirt)",
+          "A ring that controlled jinn and animals"
         ],
-        "answer": "A spring of water"
+        "answer": "A son's garment (shirt)"
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "What Was The Ultimate Outcome?",
         "options": [
-          "Ransomed with a great sacrifice",
-          "The fire became cool and peaceful",
-          "The sea parted to create a dry path",
-          "Given kingship over a vast domain",
-          "Elected as a leader by the people"
+          "My people were destroyed by a mighty wind",
+          "I led my people across a parted sea to escape a tyrant",
+          "Reunion with my family and prostration in fulfillment of a dream",
+          "My wife was turned into a pillar of salt for looking back",
+          "The fire I was thrown into became cool and peaceful"
         ],
-        "answer": "Ransomed with a great sacrifice"
+        "answer": "Reunion with my family and prostration in fulfillment of a dream"
       }
     },
-    "verseRef": "14:39",
-    "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
-    "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+    "verseRef": "21:72",
+    "arabic": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ نَافِلَةًۭ ۖ وَكُلًّۭا جَعَلْنَا صَـٰلِحِينَ",
+    "verse": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous. (21:72)"
   },
   "generated": true,
   "model": "auto (chain)"
