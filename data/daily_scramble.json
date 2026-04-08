@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "puzzle": {
-    "verseRef": "23:115",
-    "reference": "Al-Mu'minun (23:115)",
+    "verseRef": "64:11",
+    "reference": "Surah At-Taghabun (64:11)",
     "segments": [
-      "أَفَحَسِبْتُمْ",
-      "أَنَّمَا خَلَقْنَاكُمْ",
-      "عَبَثًا",
-      "وَأَنَّكُمْ إِلَيْنَا",
-      "لَا تُرْجَعُونَ"
+      "مَآ أَصَابَ مِن مُّصِيبَةٍ",
+      "إِلَّا بِإِذْنِ ٱللَّهِ ۗ",
+      "وَمَن يُؤْمِنۢ بِٱللَّهِ",
+      "يَهْدِ قَلْبَهُۥ ۚ",
+      "وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ"
     ],
     "translations": [
-      "Then did you think that",
-      "We created you uselessly",
-      "and that you to Us",
-      "not",
-      "will be returned"
+      "Not strikes any disaster",
+      "except by (the) permission (of) Allah",
+      "And whoever believes in Allah",
+      "He guides his heart And Allah",
+      "of every thing (is) All-Knowing"
     ],
-    "hint": "A powerful question about the purpose of creation and our ultimate return.",
-    "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+    "hint": "This verse connects facing calamities with divine permission and the guidance that comes through faith.",
+    "arabic": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "words": [
-      "أَفَحَسِبْتُمْ أَنَّمَا",
-      "خَلَقْنَـٰكُمْ عَبَثًۭا",
-      "وَأَنَّكُمْ إِلَيْنَا",
-      "لَا",
-      "تُرْجَعُونَ"
+      "مَآ أَصَابَ مِن مُّصِيبَةٍ",
+      "إِلَّا بِإِذْنِ ٱللَّهِ ۗ",
+      "وَمَن يُؤْمِنۢ بِٱللَّهِ",
+      "يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ",
+      "بِكُلِّ شَىْءٍ عَلِيمٌۭ"
     ],
-    "verseEn": "Then did you think that We created you uselessly and that to Us you would not be returned?\""
+    "verseEn": "No disaster strikes except by permission of Allāh. And whoever believes in Allāh - He will guide his heart. And Allāh is Knowing of all things."
   },
   "generated": true,
   "model": "auto (chain)"
