@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "puzzle": {
-    "title": "The Siege of Conviction",
-    "intro": "A vast coalition, fueled by a common animosity, gathered its strength from all corners. They marched with overwhelming numbers, certain of their victory, to lay siege to a city of faith. They expected a swift end, but found their plans thwarted by an unseen power and a resilience they could not comprehend. Who are we?",
+    "title": "The Whispers from the Well",
+    "intro": "A community settled by a source of life, but their hearts turned towards falsehood. A messenger came with clear guidance, yet their response was one of rejection and ultimate defiance. Listen to their story, a cautionary tale etched in the annals of time, and uncover the identity of a people who sealed their own fate.",
     "clues": [
-      "We were a mighty gathering, a confederation of different tribes united by a single purpose: to extinguish a light that had begun to shine.",
-      "We advanced on a city, confident in our superior numbers and strength, expecting to crush its inhabitants easily.",
-      "To our surprise, we were met not by an army in the open field, but by a deep trench that halted our entire force.",
-      "Our siege was long and frustrating, and our resolve began to weaken as hypocrisy and doubt spread within our ranks.",
-      "We were battered by a freezing, violent wind sent by Allah, which overturned our tents, extinguished our fires, and filled our hearts with terror.",
-      "Our formidable alliance, which included the Quraysh and the Ghatafan tribes, was ultimately forced to retreat in disarray without achieving our goal, a testament to a divine protection we could not overcome."
+      "We were a community, like many before us, blessed with provisions from our Lord.",
+      "A warner was sent to us, calling us to abandon our misguided ways and worship the One True God.",
+      "Our name is forever linked to a source of water, a deep and ancient structure that was central to our settlement.",
+      "We rejected the message brought to us, and our defiance grew into a terrible crime against the one sent to guide us.",
+      "Like the people of 'Ad and Thamud, we are mentioned as a people who were destroyed for our disbelief.",
+      "We, the Companions of the Well, denied our messenger and were ultimately annihilated for our transgression."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who are we?",
         "options": [
-          "The Army of Abraha",
-          "The People of 'Ad",
-          "The Confederate Tribes (Al-Ahzab)",
-          "The Quraysh at Badr",
-          "The Companions of the Sabbath"
+          "The People of Tubba'",
+          "The People of Madyan",
+          "The People of Rass",
+          "The People of the Woods (Aykah)",
+          "The People of Hijr"
         ],
-        "answer": "The Confederate Tribes (Al-Ahzab)"
+        "answer": "The People of Rass"
       },
       "trial": {
-        "label": "Our Defining Event",
+        "label": "What was our primary sin?",
         "options": [
-          "The Conquest of Makkah",
-          "The Battle of Uhud",
-          "The Siege of Madinah (Battle of the Trench)",
-          "The Expedition to Tabuk",
-          "The Building of the Dam of Ma'rib"
+          "Giving short measure in trade",
+          "Building lofty buildings out of arrogance",
+          "Worshipping a golden calf",
+          "Rejecting and denying our prophet",
+          "Hunting on the Sabbath"
         ],
-        "answer": "The Siege of Madinah (Battle of the Trench)"
+        "answer": "Rejecting and denying our prophet"
       },
       "location": {
-        "label": "A Key Element",
+        "label": "What does 'Rass' refer to?",
         "options": [
-          "A Flock of Birds with Clay Stones",
-          "A Parting of the Sea",
-          "A Flood of Water",
-          "A Golden Calf",
-          "A Miraculous Wind"
+          "A barren valley",
+          "An old well",
+          "A high mountain",
+          "A cursed tree",
+          "A fortified city"
         ],
-        "answer": "A Miraculous Wind"
+        "answer": "An old well"
       },
       "outcome": {
-        "label": "Our Outcome",
+        "label": "What was our fate?",
         "options": [
-          "Achieved a decisive victory",
-          "Transformed into apes",
-          "Forced to retreat in failure and disarray",
-          "Destroyed by an earthquake",
-          "Granted forgiveness after repenting"
+          "We were turned into apes",
+          "We were drowned in a flood",
+          "We were saved after repenting",
+          "We were scattered as a lesson",
+          "We were completely destroyed"
         ],
-        "answer": "Forced to retreat in failure and disarray"
+        "answer": "We were completely destroyed"
       }
     },
-    "verseRef": "33:9",
-    "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا وَجُنُودًۭا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
-    "verse": "O you who have believed, remember the favor of Allāh upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allāh, of what you do, Seeing. (33:9)"
+    "verseRef": "50:12",
+    "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
+    "verse": "The people of Noah denied before them, and the companions of the well and Thamūd (50:12)"
   },
   "generated": true,
   "model": "auto (chain)"
