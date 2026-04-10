@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-10",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مِنْ قِصَّةِ أَصْحَابِ ٱلْكَهْفِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "عدن",
+    "display": "عَدْن",
+    "hint": "A name for the eternal gardens of paradise.",
+    "verseRef": "38:50",
+    "arabicVerse": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ ٱلْأَبْوَٰبُ",
+    "verse": "38:50 — Gardens of perpetual residence, whose doors will be opened to them."
+  },
+  "deduction": {
+    "title": "The Verdict of the Fields",
+    "intro": "You are presented with a case about a powerful leader whose wisdom was divinely inspired. This individual was granted dominion over forces unseen by most, commanding armies of different species and understanding languages beyond human comprehension. Their reign was marked by justice, immense power, and a profound submission to the One who granted it all. Can you identify this remarkable servant of Allah?",
+    "clues": [
+      "I was blessed with immense wisdom, even as a youth, allowing me to deliver a judgment that surpassed that of my own father.",
+      "I inherited not just a kingdom, but prophethood as well.",
+      "I could command the wind, directing it as I willed by the permission of my Lord.",
+      "My armies consisted not only of humans, but also of jinn and birds, all marshaled in their ranks.",
+      "I understood the speech of an ant, and its warning to its colony caused me to smile in amusement.",
+      "A hoopoe bird brought me news of a distant, sun-worshipping people, prompting me to send them a message of guidance."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Sulayman",
+          "Prophet Dhul-Kifl",
+          "Prophet Yusuf",
+          "Dhul-Qarnayn",
+          "Prophet Dawud"
+        ],
+        "answer": "Prophet Sulayman"
+      },
+      "trial": {
+        "label": "Defining Event",
+        "options": [
+          "Receiving news from a hoopoe about a sun-worshipping kingdom",
+          "Being swallowed by a giant fish as a test",
+          "Building an ark to save the believers from a great flood",
+          "Splitting the sea with a staff to escape a tyrant",
+          "Being thrown into a fire for rejecting idols"
+        ],
+        "answer": "Receiving news from a hoopoe about a sun-worshipping kingdom"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Valley of the Ants",
+          "A preserved body on the seashore",
+          "A golden calf built for worship",
+          "A shirt stained with false blood",
+          "A she-camel emerging from a rock"
+        ],
+        "answer": "The Valley of the Ants"
+      },
+      "outcome": {
+        "label": "Significant Outcome",
+        "options": [
+          "The Queen of Sheba submitted to Allah along with me",
+          "My people were destroyed by a mighty wind for their disbelief",
+          "I was raised to a high place after my people plotted against me",
+          "Allah caused me to die for a hundred years and then resurrected me",
+          "I was given a book of wisdom to teach my son about shirk"
+        ],
+        "answer": "The Queen of Sheba submitted to Allah along with me"
+      }
+    },
+    "verseRef": "27:17",
+    "arabic": "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ",
+    "verse": "And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows (27:17)"
+  },
+  "scramble": {
+    "verseRef": "59:7",
+    "reference": "Surah Al-Hashr (59:7)",
+    "segments": [
+      "وَمَا آتَاكُمُ الرَّسُولُ",
+      "فَخُذُوهُ",
+      "وَمَا نَهَاكُمْ عَنْهُ",
+      "فَانتَهُوا"
+    ],
+    "translations": [
+      "What (was) restored (by) Allah to His Messenger from (the) people (of) the towns (it is) for Allah and His Messenger",
+      "and for those (of) the kindred and the orphans and the needy and the wayfarer that not it becomes",
+      "a (perpetual) circulation between the rich among you And whatever gives you the Messenger take it and whatever",
+      "he forbids you from it refrain And fear Allah Indeed Allah (is) severe (in) penalty"
+    ],
+    "hint": "This verse establishes a fundamental principle for Muslims: obedience to the Prophet's commands and prohibitions.",
+    "arabic": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+    "words": [
+      "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ",
+      "وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ",
+      "دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا",
+      "نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ"
+    ],
+    "verseEn": "And what Allāh restored to His Messenger from the people of the towns - it is for Allāh and for the Messenger and for [his] near relatives and orphans and the needy and the [stranded] traveler - so that it will not be a perpetual distribution among the rich from among you. And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allāh; indeed, Allāh is severe in penalty."
+  }
 }

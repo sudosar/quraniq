@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "puzzle": {
-    "word": "عبد",
-    "display": "عَبْد",
-    "hint": "One who submits and worships.",
-    "verseRef": "19:30",
-    "arabicVerse": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّۭا",
-    "verse": "19:30 — [Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet."
+    "word": "عدن",
+    "display": "عَدْن",
+    "hint": "A name for the eternal gardens of paradise.",
+    "verseRef": "38:50",
+    "arabicVerse": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ ٱلْأَبْوَٰبُ",
+    "verse": "38:50 — Gardens of perpetual residence, whose doors will be opened to them."
   },
   "generated": true,
   "model": "auto (chain)"

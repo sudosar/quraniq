@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "puzzle": {
-    "title": "The Whispers from the Well",
-    "intro": "A community settled by a source of life, but their hearts turned towards falsehood. A messenger came with clear guidance, yet their response was one of rejection and ultimate defiance. Listen to their story, a cautionary tale etched in the annals of time, and uncover the identity of a people who sealed their own fate.",
+    "title": "The Verdict of the Fields",
+    "intro": "You are presented with a case about a powerful leader whose wisdom was divinely inspired. This individual was granted dominion over forces unseen by most, commanding armies of different species and understanding languages beyond human comprehension. Their reign was marked by justice, immense power, and a profound submission to the One who granted it all. Can you identify this remarkable servant of Allah?",
     "clues": [
-      "We were a community, like many before us, blessed with provisions from our Lord.",
-      "A warner was sent to us, calling us to abandon our misguided ways and worship the One True God.",
-      "Our name is forever linked to a source of water, a deep and ancient structure that was central to our settlement.",
-      "We rejected the message brought to us, and our defiance grew into a terrible crime against the one sent to guide us.",
-      "Like the people of 'Ad and Thamud, we are mentioned as a people who were destroyed for our disbelief.",
-      "We, the Companions of the Well, denied our messenger and were ultimately annihilated for our transgression."
+      "I was blessed with immense wisdom, even as a youth, allowing me to deliver a judgment that surpassed that of my own father.",
+      "I inherited not just a kingdom, but prophethood as well.",
+      "I could command the wind, directing it as I willed by the permission of my Lord.",
+      "My armies consisted not only of humans, but also of jinn and birds, all marshaled in their ranks.",
+      "I understood the speech of an ant, and its warning to its colony caused me to smile in amusement.",
+      "A hoopoe bird brought me news of a distant, sun-worshipping people, prompting me to send them a message of guidance."
     ],
     "categories": {
       "identity": {
-        "label": "Who are we?",
+        "label": "Who Am I?",
         "options": [
-          "The People of Tubba'",
-          "The People of Madyan",
-          "The People of Rass",
-          "The People of the Woods (Aykah)",
-          "The People of Hijr"
+          "Prophet Sulayman",
+          "Prophet Dhul-Kifl",
+          "Prophet Yusuf",
+          "Dhul-Qarnayn",
+          "Prophet Dawud"
         ],
-        "answer": "The People of Rass"
+        "answer": "Prophet Sulayman"
       },
       "trial": {
-        "label": "What was our primary sin?",
+        "label": "Defining Event",
         "options": [
-          "Giving short measure in trade",
-          "Building lofty buildings out of arrogance",
-          "Worshipping a golden calf",
-          "Rejecting and denying our prophet",
-          "Hunting on the Sabbath"
+          "Receiving news from a hoopoe about a sun-worshipping kingdom",
+          "Being swallowed by a giant fish as a test",
+          "Building an ark to save the believers from a great flood",
+          "Splitting the sea with a staff to escape a tyrant",
+          "Being thrown into a fire for rejecting idols"
         ],
-        "answer": "Rejecting and denying our prophet"
+        "answer": "Receiving news from a hoopoe about a sun-worshipping kingdom"
       },
       "location": {
-        "label": "What does 'Rass' refer to?",
+        "label": "Key Element",
         "options": [
-          "A barren valley",
-          "An old well",
-          "A high mountain",
-          "A cursed tree",
-          "A fortified city"
+          "The Valley of the Ants",
+          "A preserved body on the seashore",
+          "A golden calf built for worship",
+          "A shirt stained with false blood",
+          "A she-camel emerging from a rock"
         ],
-        "answer": "An old well"
+        "answer": "The Valley of the Ants"
       },
       "outcome": {
-        "label": "What was our fate?",
+        "label": "Significant Outcome",
         "options": [
-          "We were turned into apes",
-          "We were drowned in a flood",
-          "We were saved after repenting",
-          "We were scattered as a lesson",
-          "We were completely destroyed"
+          "The Queen of Sheba submitted to Allah along with me",
+          "My people were destroyed by a mighty wind for their disbelief",
+          "I was raised to a high place after my people plotted against me",
+          "Allah caused me to die for a hundred years and then resurrected me",
+          "I was given a book of wisdom to teach my son about shirk"
         ],
-        "answer": "We were completely destroyed"
+        "answer": "The Queen of Sheba submitted to Allah along with me"
       }
     },
-    "verseRef": "50:12",
-    "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
-    "verse": "The people of Noah denied before them, and the companions of the well and Thamūd (50:12)"
+    "verseRef": "27:17",
+    "arabic": "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ",
+    "verse": "And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows (27:17)"
   },
   "generated": true,
   "model": "auto (chain)"
