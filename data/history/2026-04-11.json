@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-11",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَشْيَاءٌ جَعَلَهَا اللهُ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "زرع",
+    "display": "زَرْع",
+    "hint": "Like a seed that sends forth its sprout.",
+    "verseRef": "48:29",
+    "arabicVerse": "مُّحَمَّدٌۭ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنْهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۢا",
+    "verse": "48:29 — Muḥammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward."
+  },
+  "deduction": {
+    "title": "The Plea from the Depths",
+    "intro": "A divine messenger is sent to guide a bustling city, but this soul departs in anger when the message is initially ignored. This hasty departure leads to a perilous journey at sea, culminating in an unimaginable confinement. From the deepest darkness, a powerful prayer of repentance is uttered, one that pierces the gloom and changes a nation's destiny. Can you identify this figure whose story is a profound lesson in patience and Allah's boundless mercy?",
+    "clues": [
+      "I was sent as a warner to the people of a great city, but they turned away from my call.",
+      "Overcome with frustration, I abandoned my mission, thinking I could flee from my Lord's decree.",
+      "I boarded a laden ship, but a mighty storm arose, and the sailors cast lots to identify the one responsible.",
+      "The lot fell upon me repeatedly, and as a result, I was thrown into the tumultuous sea.",
+      "By Allah's command, a great fish swallowed me, and I was enveloped in layers of darkness within its belly.",
+      "It was from this darkness that I called out my prayer of repentance: 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.'"
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yunus",
+          "Prophet Khidr",
+          "Prophet Dhul-Kifl",
+          "Prophet Ilyas",
+          "Prophet Al-Yasa"
+        ],
+        "answer": "Prophet Yunus"
+      },
+      "trial": {
+        "label": "What Was My Trial?",
+        "options": [
+          "Being thrown into a fire",
+          "Building a great ark to survive a flood",
+          "Being swallowed by a great fish",
+          "Losing all wealth and family to affliction",
+          "Being imprisoned on a false accusation"
+        ],
+        "answer": "Being swallowed by a great fish"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Valley of Tuwa",
+          "The City of Iram",
+          "The belly of the fish",
+          "A cave of refuge",
+          "The shade of a gourd plant"
+        ],
+        "answer": "The belly of the fish"
+      },
+      "outcome": {
+        "label": "What Was The Outcome?",
+        "options": [
+          "My people were destroyed by a mighty blast",
+          "I was raised to the heavens alive",
+          "My people believed and their punishment was lifted",
+          "I was given a kingdom that no one after me would have",
+          "My wife was destroyed along with the disbelievers"
+        ],
+        "answer": "My people believed and their punishment was lifted"
+      }
+    },
+    "verseRef": "10:98",
+    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+  },
+  "scramble": {
+    "verseRef": "97:3",
+    "reference": "Surah Al-Qadr (97:3)",
+    "segments": [
+      "لَيْلَةُ الْقَدْرِ",
+      "خَيْرٌ",
+      "مِّنْ أَلْفِ",
+      "شَهْرٍ"
+    ],
+    "translations": [
+      "(The) Night (of) Power",
+      "(is) better than",
+      "a thousand",
+      "month(s)"
+    ],
+    "hint": "This verse describes the immense value and blessing of the Night of Decree during Ramadan.",
+    "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+    "words": [
+      "لَيْلَةُ ٱلْقَدْرِ",
+      "خَيْرٌۭ مِّنْ",
+      "أَلْفِ",
+      "شَهْرٍۢ"
+    ],
+    "verseEn": "The Night of Decree is better than a thousand months."
+  }
 }
