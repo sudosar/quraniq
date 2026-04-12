@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "puzzle": {
-    "word": "زرع",
-    "display": "زَرْع",
-    "hint": "Like a seed that sends forth its sprout.",
-    "verseRef": "48:29",
-    "arabicVerse": "مُّحَمَّدٌۭ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنْهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۢا",
-    "verse": "48:29 — Muḥammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward."
+    "word": "بعل",
+    "display": "بَعْل",
+    "hint": "An idol worshipped by the people of Prophet Ilyas; also a term for a husband.",
+    "verseRef": "37:125",
+    "arabicVerse": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+    "verse": "37:125 — Do you call upon Baʿl and leave the best of creators -"
   },
   "generated": true,
   "model": "auto (chain)"

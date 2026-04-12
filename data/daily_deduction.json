@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "puzzle": {
-    "title": "The Plea from the Depths",
-    "intro": "A divine messenger is sent to guide a bustling city, but this soul departs in anger when the message is initially ignored. This hasty departure leads to a perilous journey at sea, culminating in an unimaginable confinement. From the deepest darkness, a powerful prayer of repentance is uttered, one that pierces the gloom and changes a nation's destiny. Can you identify this figure whose story is a profound lesson in patience and Allah's boundless mercy?",
+    "title": "The Voice of a Plaintive Plea",
+    "intro": "In a time of established customs, one soul found themselves in a distressing situation, their family life suddenly upended by a single statement. Unwilling to accept this fate in silence, this individual took their case to the highest authority, speaking directly to the Prophet (ﷺ). Their heartfelt plea was not unheard, leading to a divine revelation that would clarify a law and provide a path to resolution for all time. Can you identify this figure whose voice reached the heavens?",
     "clues": [
-      "I was sent as a warner to the people of a great city, but they turned away from my call.",
-      "Overcome with frustration, I abandoned my mission, thinking I could flee from my Lord's decree.",
-      "I boarded a laden ship, but a mighty storm arose, and the sailors cast lots to identify the one responsible.",
-      "The lot fell upon me repeatedly, and as a result, I was thrown into the tumultuous sea.",
-      "By Allah's command, a great fish swallowed me, and I was enveloped in layers of darkness within its belly.",
-      "It was from this darkness that I called out my prayer of repentance: 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.'"
+      "I was bound by a cultural practice of my time, one that left me in a state of uncertainty and distress.",
+      "A statement uttered by my husband in anger rendered me like a mother to him, yet I was not divorced.",
+      "With my children's future at stake, I sought counsel and justice from the Messenger of Allah (ﷺ).",
+      "I debated my case earnestly, pleading with the Prophet (ﷺ), but the existing customs offered no clear solution.",
+      "I raised my complaint to Allah directly, and my plea was heard from above the seven heavens.",
+      "A new ruling was revealed because of my situation, detailed in the opening verses of the surah named for one who pleads or disputes."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Yunus",
-          "Prophet Khidr",
-          "Prophet Dhul-Kifl",
-          "Prophet Ilyas",
-          "Prophet Al-Yasa"
+          "The wife of Abu Lahab",
+          "A woman who made a false accusation against her husband",
+          "The woman who disputed regarding her husband",
+          "The mother of the believers, 'Aisha",
+          "A woman who tested Prophet Sulayman"
         ],
-        "answer": "Prophet Yunus"
+        "answer": "The woman who disputed regarding her husband"
       },
       "trial": {
-        "label": "What Was My Trial?",
+        "label": "What was my specific issue?",
         "options": [
-          "Being thrown into a fire",
-          "Building a great ark to survive a flood",
-          "Being swallowed by a great fish",
-          "Losing all wealth and family to affliction",
-          "Being imprisoned on a false accusation"
+          "A dispute over inheritance",
+          "Seeking a divorce through 'Khul'",
+          "The breaking of an oath ('Kaffarah')",
+          "The practice of 'Dhihar'",
+          "A false accusation of theft"
         ],
-        "answer": "Being swallowed by a great fish"
+        "answer": "The practice of 'Dhihar'"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What was the core of my plea?",
         "options": [
-          "The Valley of Tuwa",
-          "The City of Iram",
-          "The belly of the fish",
-          "A cave of refuge",
-          "The shade of a gourd plant"
+          "A demand for the return of a dowry",
+          "A request for a miraculous sign",
+          "A complaint about a stolen camel",
+          "The welfare of my young children",
+          "A prophecy about an upcoming battle"
         ],
-        "answer": "The belly of the fish"
+        "answer": "The welfare of my young children"
       },
       "outcome": {
-        "label": "What Was The Outcome?",
+        "label": "What was the result of my plea?",
         "options": [
-          "My people were destroyed by a mighty blast",
-          "I was raised to the heavens alive",
-          "My people believed and their punishment was lifted",
-          "I was given a kingdom that no one after me would have",
-          "My wife was destroyed along with the disbelievers"
+          "A divine law was revealed, condemning the practice and prescribing an expiation",
+          "I was told to be patient and accept my fate",
+          "My husband was exiled from the city",
+          "A verse was revealed permitting all pre-Islamic divorce practices",
+          "The Prophet (ﷺ) judged using his personal wisdom alone"
         ],
-        "answer": "My people believed and their punishment was lifted"
+        "answer": "A divine law was revealed, condemning the practice and prescribing an expiation"
       }
     },
-    "verseRef": "10:98",
-    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
-    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+    "verseRef": "58:2",
+    "arabic": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ ٱلْقَوْلِ وَزُورًۭا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌۭ",
+    "verse": "Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving. (58:2)"
   },
   "generated": true,
   "model": "auto (chain)"

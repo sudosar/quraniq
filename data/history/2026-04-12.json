@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-12",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ تَدُلُّ عَلَى الْعُلُوِّ أَوِ الْاِرْتِفَاعِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "بعل",
+    "display": "بَعْل",
+    "hint": "An idol worshipped by the people of Prophet Ilyas; also a term for a husband.",
+    "verseRef": "37:125",
+    "arabicVerse": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+    "verse": "37:125 — Do you call upon Baʿl and leave the best of creators -"
+  },
+  "deduction": {
+    "title": "The Voice of a Plaintive Plea",
+    "intro": "In a time of established customs, one soul found themselves in a distressing situation, their family life suddenly upended by a single statement. Unwilling to accept this fate in silence, this individual took their case to the highest authority, speaking directly to the Prophet (ﷺ). Their heartfelt plea was not unheard, leading to a divine revelation that would clarify a law and provide a path to resolution for all time. Can you identify this figure whose voice reached the heavens?",
+    "clues": [
+      "I was bound by a cultural practice of my time, one that left me in a state of uncertainty and distress.",
+      "A statement uttered by my husband in anger rendered me like a mother to him, yet I was not divorced.",
+      "With my children's future at stake, I sought counsel and justice from the Messenger of Allah (ﷺ).",
+      "I debated my case earnestly, pleading with the Prophet (ﷺ), but the existing customs offered no clear solution.",
+      "I raised my complaint to Allah directly, and my plea was heard from above the seven heavens.",
+      "A new ruling was revealed because of my situation, detailed in the opening verses of the surah named for one who pleads or disputes."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The wife of Abu Lahab",
+          "A woman who made a false accusation against her husband",
+          "The woman who disputed regarding her husband",
+          "The mother of the believers, 'Aisha",
+          "A woman who tested Prophet Sulayman"
+        ],
+        "answer": "The woman who disputed regarding her husband"
+      },
+      "trial": {
+        "label": "What was my specific issue?",
+        "options": [
+          "A dispute over inheritance",
+          "Seeking a divorce through 'Khul'",
+          "The breaking of an oath ('Kaffarah')",
+          "The practice of 'Dhihar'",
+          "A false accusation of theft"
+        ],
+        "answer": "The practice of 'Dhihar'"
+      },
+      "location": {
+        "label": "What was the core of my plea?",
+        "options": [
+          "A demand for the return of a dowry",
+          "A request for a miraculous sign",
+          "A complaint about a stolen camel",
+          "The welfare of my young children",
+          "A prophecy about an upcoming battle"
+        ],
+        "answer": "The welfare of my young children"
+      },
+      "outcome": {
+        "label": "What was the result of my plea?",
+        "options": [
+          "A divine law was revealed, condemning the practice and prescribing an expiation",
+          "I was told to be patient and accept my fate",
+          "My husband was exiled from the city",
+          "A verse was revealed permitting all pre-Islamic divorce practices",
+          "The Prophet (ﷺ) judged using his personal wisdom alone"
+        ],
+        "answer": "A divine law was revealed, condemning the practice and prescribing an expiation"
+      }
+    },
+    "verseRef": "58:2",
+    "arabic": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ ٱلْقَوْلِ وَزُورًۭا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌۭ",
+    "verse": "Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving. (58:2)"
+  },
+  "scramble": {
+    "verseRef": "57:4",
+    "reference": "Surah Al-Hadid (57:4)",
+    "segments": [
+      "وَهُوَ مَعَكُمْ",
+      "أَيْنَ مَا",
+      "كُنتُمْ ۚ",
+      "وَاللَّهُ بِمَا",
+      "تَعْمَلُونَ بَصِيرٌ"
+    ],
+    "translations": [
+      "He (is) the One Who created the heavens and the earth in six periods",
+      "then He rose over the Throne He knows what penetrates",
+      "in(to) the earth and what comes forth from it and what descends",
+      "from the heaven and what ascends therein and He (is) with you",
+      "wherever wherever you are And Allah of what you do (is) All-seer"
+    ],
+    "hint": "A powerful statement on divine omnipresence and complete awareness of all actions.",
+    "arabic": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "words": [
+      "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ",
+      "ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ",
+      "فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ",
+      "مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ",
+      "أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ"
+    ],
+    "verseEn": "It is He who created the heavens and earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are. And Allāh, of what you do, is Seeing."
+  }
 }
