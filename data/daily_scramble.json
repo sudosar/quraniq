@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "puzzle": {
-    "verseRef": "57:4",
-    "reference": "Surah Al-Hadid (57:4)",
+    "verseRef": "11:6",
+    "reference": "Surah Hud (11:6)",
     "segments": [
-      "وَهُوَ مَعَكُمْ",
-      "أَيْنَ مَا",
-      "كُنتُمْ ۚ",
-      "وَاللَّهُ بِمَا",
-      "تَعْمَلُونَ بَصِيرٌ"
+      "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ",
+      "إِلَّا عَلَى ٱللَّهِ رِزْقُهَا",
+      "وَيَعْلَمُ مُسْتَقَرَّهَا",
+      "وَمُسْتَوْدَعَهَا ۚ",
+      "كُلٌّ فِى كِتَٰبٍ مُّبِينٍ"
     ],
     "translations": [
-      "He (is) the One Who created the heavens and the earth in six periods",
-      "then He rose over the Throne He knows what penetrates",
-      "in(to) the earth and what comes forth from it and what descends",
-      "from the heaven and what ascends therein and He (is) with you",
-      "wherever wherever you are And Allah of what you do (is) All-seer"
+      "And not any moving creature in",
+      "the earth but on",
+      "Allah (is) its provision And He knows",
+      "its dwelling place and its place of storage All",
+      "(is) in a Record clear"
     ],
-    "hint": "A powerful statement on divine omnipresence and complete awareness of all actions.",
-    "arabic": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "hint": "This verse affirms that the sustenance of every creature is guaranteed by the Creator.",
+    "arabic": "۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَـٰبٍۢ مُّبِينٍۢ",
     "words": [
-      "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ",
-      "ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ",
-      "فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ",
-      "مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ",
-      "أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ"
+      "۞ وَمَا مِن دَآبَّةٍۢ فِى",
+      "ٱلْأَرْضِ إِلَّا عَلَى",
+      "ٱللَّهِ رِزْقُهَا وَيَعْلَمُ",
+      "مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ",
+      "فِى كِتَـٰبٍۢ مُّبِينٍۢ"
     ],
-    "verseEn": "It is He who created the heavens and earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are. And Allāh, of what you do, is Seeing."
+    "verseEn": "And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register."
   },
   "generated": true,
   "model": "auto (chain)"

@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "puzzle": {
-    "word": "بعل",
-    "display": "بَعْل",
-    "hint": "An idol worshipped by the people of Prophet Ilyas; also a term for a husband.",
-    "verseRef": "37:125",
-    "arabicVerse": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
-    "verse": "37:125 — Do you call upon Baʿl and leave the best of creators -"
+    "word": "شهيد",
+    "display": "شَهِيد",
+    "hint": "One who bears testimony, present at the ultimate event.",
+    "verseRef": "4:79",
+    "arabicVerse": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
+    "verse": "4:79 — What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself. And We have sent you, [O Muḥammad], to the people as a messenger, and sufficient is Allāh as Witness."
   },
   "generated": true,
   "model": "auto (chain)"

@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "puzzle": {
-    "title": "The Voice of a Plaintive Plea",
-    "intro": "In a time of established customs, one soul found themselves in a distressing situation, their family life suddenly upended by a single statement. Unwilling to accept this fate in silence, this individual took their case to the highest authority, speaking directly to the Prophet (ﷺ). Their heartfelt plea was not unheard, leading to a divine revelation that would clarify a law and provide a path to resolution for all time. Can you identify this figure whose voice reached the heavens?",
+    "title": "The Scorn of a Close Relation",
+    "intro": "A figure of high standing, bound by blood to a messenger, chose arrogance over faith. Their proximity to the truth only fueled their opposition, leading to a divine decree that sealed their fate and served as a timeless warning against pride and rejection. Who is this figure?",
     "clues": [
-      "I was bound by a cultural practice of my time, one that left me in a state of uncertainty and distress.",
-      "A statement uttered by my husband in anger rendered me like a mother to him, yet I was not divorced.",
-      "With my children's future at stake, I sought counsel and justice from the Messenger of Allah (ﷺ).",
-      "I debated my case earnestly, pleading with the Prophet (ﷺ), but the existing customs offered no clear solution.",
-      "I raised my complaint to Allah directly, and my plea was heard from above the seven heavens.",
-      "A new ruling was revealed because of my situation, detailed in the opening verses of the surah named for one who pleads or disputes."
+      "I was a person of great wealth and standing among my people.",
+      "A close relative of mine began to preach a message that I vehemently opposed.",
+      "When this relative gathered our clan to deliver a warning, I was the one who publicly cursed them.",
+      "My hands were specifically cursed in the divine revelation, a direct response to my hostile actions.",
+      "My spouse was also condemned alongside me, described as one who carries thorny wood.",
+      "A whole chapter in the Quran is dedicated to my condemnation, bearing a name that refers to the blazing fire of my punishment."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The wife of Abu Lahab",
-          "A woman who made a false accusation against her husband",
-          "The woman who disputed regarding her husband",
-          "The mother of the believers, 'Aisha",
-          "A woman who tested Prophet Sulayman"
+          "Abu Jahl",
+          "Al-Walid ibn al-Mughirah",
+          "Abu Lahab",
+          "Umayyah ibn Khalaf",
+          "Abdullah ibn Ubayy"
         ],
-        "answer": "The woman who disputed regarding her husband"
+        "answer": "Abu Lahab"
       },
       "trial": {
-        "label": "What was my specific issue?",
+        "label": "What was my primary sin?",
         "options": [
-          "A dispute over inheritance",
-          "Seeking a divorce through 'Khul'",
-          "The breaking of an oath ('Kaffarah')",
-          "The practice of 'Dhihar'",
-          "A false accusation of theft"
+          "Leading the army at the Battle of Badr",
+          "Building the 'Masjid al-Dirar' (Mosque of Harm)",
+          "Spreading the great slander against Aisha (ra)",
+          "Fiercely opposing and cursing the Prophet (ﷺ)",
+          "Refusing to free a believing slave"
         ],
-        "answer": "The practice of 'Dhihar'"
+        "answer": "Fiercely opposing and cursing the Prophet (ﷺ)"
       },
       "location": {
-        "label": "What was the core of my plea?",
+        "label": "Key Element",
         "options": [
-          "A demand for the return of a dowry",
-          "A request for a miraculous sign",
-          "A complaint about a stolen camel",
-          "The welfare of my young children",
-          "A prophecy about an upcoming battle"
+          "A beautiful garden that was destroyed",
+          "A golden calf built for worship",
+          "Thorny wood carried by my spouse",
+          "A magnificent throne of a distant kingdom",
+          "A tall tower built to reach the heavens"
         ],
-        "answer": "The welfare of my young children"
+        "answer": "Thorny wood carried by my spouse"
       },
       "outcome": {
-        "label": "What was the result of my plea?",
+        "label": "Outcome",
         "options": [
-          "A divine law was revealed, condemning the practice and prescribing an expiation",
-          "I was told to be patient and accept my fate",
-          "My husband was exiled from the city",
-          "A verse was revealed permitting all pre-Islamic divorce practices",
-          "The Prophet (ﷺ) judged using his personal wisdom alone"
+          "To be swallowed by the earth with my wealth",
+          "To be drowned in the sea with my army",
+          "To perish in a Fire of Blazing Flame",
+          "To be destroyed by a mighty, piercing cry",
+          "To have my plans exposed and die as a hypocrite"
         ],
-        "answer": "A divine law was revealed, condemning the practice and prescribing an expiation"
+        "answer": "To perish in a Fire of Blazing Flame"
       }
     },
-    "verseRef": "58:2",
-    "arabic": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ ٱلْقَوْلِ وَزُورًۭا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌۭ",
-    "verse": "Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving. (58:2)"
+    "verseRef": "111:1",
+    "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+    "verse": "May the hands of Abū Lahab be ruined, and ruined is he. (111:1)"
   },
   "generated": true,
   "model": "auto (chain)"

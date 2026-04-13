@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-13",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "جُمُوعُ تَكْسِيرٍ عَلَى وَزْنِ أَفْعَال",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "شهيد",
+    "display": "شَهِيد",
+    "hint": "One who bears testimony, present at the ultimate event.",
+    "verseRef": "4:79",
+    "arabicVerse": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
+    "verse": "4:79 — What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself. And We have sent you, [O Muḥammad], to the people as a messenger, and sufficient is Allāh as Witness."
+  },
+  "deduction": {
+    "title": "The Scorn of a Close Relation",
+    "intro": "A figure of high standing, bound by blood to a messenger, chose arrogance over faith. Their proximity to the truth only fueled their opposition, leading to a divine decree that sealed their fate and served as a timeless warning against pride and rejection. Who is this figure?",
+    "clues": [
+      "I was a person of great wealth and standing among my people.",
+      "A close relative of mine began to preach a message that I vehemently opposed.",
+      "When this relative gathered our clan to deliver a warning, I was the one who publicly cursed them.",
+      "My hands were specifically cursed in the divine revelation, a direct response to my hostile actions.",
+      "My spouse was also condemned alongside me, described as one who carries thorny wood.",
+      "A whole chapter in the Quran is dedicated to my condemnation, bearing a name that refers to the blazing fire of my punishment."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Abu Jahl",
+          "Al-Walid ibn al-Mughirah",
+          "Abu Lahab",
+          "Umayyah ibn Khalaf",
+          "Abdullah ibn Ubayy"
+        ],
+        "answer": "Abu Lahab"
+      },
+      "trial": {
+        "label": "What was my primary sin?",
+        "options": [
+          "Leading the army at the Battle of Badr",
+          "Building the 'Masjid al-Dirar' (Mosque of Harm)",
+          "Spreading the great slander against Aisha (ra)",
+          "Fiercely opposing and cursing the Prophet (ﷺ)",
+          "Refusing to free a believing slave"
+        ],
+        "answer": "Fiercely opposing and cursing the Prophet (ﷺ)"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A beautiful garden that was destroyed",
+          "A golden calf built for worship",
+          "Thorny wood carried by my spouse",
+          "A magnificent throne of a distant kingdom",
+          "A tall tower built to reach the heavens"
+        ],
+        "answer": "Thorny wood carried by my spouse"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "To be swallowed by the earth with my wealth",
+          "To be drowned in the sea with my army",
+          "To perish in a Fire of Blazing Flame",
+          "To be destroyed by a mighty, piercing cry",
+          "To have my plans exposed and die as a hypocrite"
+        ],
+        "answer": "To perish in a Fire of Blazing Flame"
+      }
+    },
+    "verseRef": "111:1",
+    "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+    "verse": "May the hands of Abū Lahab be ruined, and ruined is he. (111:1)"
+  },
+  "scramble": {
+    "verseRef": "11:6",
+    "reference": "Surah Hud (11:6)",
+    "segments": [
+      "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ",
+      "إِلَّا عَلَى ٱللَّهِ رِزْقُهَا",
+      "وَيَعْلَمُ مُسْتَقَرَّهَا",
+      "وَمُسْتَوْدَعَهَا ۚ",
+      "كُلٌّ فِى كِتَٰبٍ مُّبِينٍ"
+    ],
+    "translations": [
+      "And not any moving creature in",
+      "the earth but on",
+      "Allah (is) its provision And He knows",
+      "its dwelling place and its place of storage All",
+      "(is) in a Record clear"
+    ],
+    "hint": "This verse affirms that the sustenance of every creature is guaranteed by the Creator.",
+    "arabic": "۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+    "words": [
+      "۞ وَمَا مِن دَآبَّةٍۢ فِى",
+      "ٱلْأَرْضِ إِلَّا عَلَى",
+      "ٱللَّهِ رِزْقُهَا وَيَعْلَمُ",
+      "مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ",
+      "فِى كِتَـٰبٍۢ مُّبِينٍۢ"
+    ],
+    "verseEn": "And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register."
+  }
 }
