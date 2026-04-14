@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "puzzle": {
-    "verseRef": "11:6",
-    "reference": "Surah Hud (11:6)",
+    "verseRef": "28:16",
+    "reference": "Al-Qasas (28:16)",
     "segments": [
-      "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ",
-      "إِلَّا عَلَى ٱللَّهِ رِزْقُهَا",
-      "وَيَعْلَمُ مُسْتَقَرَّهَا",
-      "وَمُسْتَوْدَعَهَا ۚ",
-      "كُلٌّ فِى كِتَٰبٍ مُّبِينٍ"
+      "قَالَ رَبِّ إِنِّي",
+      "ظَلَمْتُ نَفْسِي",
+      "فَاغْفِرْ لِي",
+      "فَغَفَرَ لَهُۥٓ",
+      "إِنَّهُۥ هُوَ الْغَفُورُ الرَّحِيمُ"
     ],
     "translations": [
-      "And not any moving creature in",
-      "the earth but on",
-      "Allah (is) its provision And He knows",
-      "its dwelling place and its place of storage All",
-      "(is) in a Record clear"
+      "He said My Lord Indeed, I",
+      "[I] have wronged my soul so forgive",
+      "[for] me Then He forgave [for] him",
+      "Indeed He He (is)",
+      "the Oft-Forgiving the Most Merciful"
     ],
-    "hint": "This verse affirms that the sustenance of every creature is guaranteed by the Creator.",
-    "arabic": "۞ وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+    "hint": "A supplication for forgiveness made by Prophet Musa (Moses) after an unintentional act.",
+    "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
     "words": [
-      "۞ وَمَا مِن دَآبَّةٍۢ فِى",
-      "ٱلْأَرْضِ إِلَّا عَلَى",
-      "ٱللَّهِ رِزْقُهَا وَيَعْلَمُ",
-      "مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ",
-      "فِى كِتَـٰبٍۢ مُّبِينٍۢ"
+      "قَالَ رَبِّ إِنِّى",
+      "ظَلَمْتُ نَفْسِى فَٱغْفِرْ",
+      "لِى فَغَفَرَ لَهُۥٓ ۚ",
+      "إِنَّهُۥ هُوَ",
+      "ٱلْغَفُورُ ٱلرَّحِيمُ"
     ],
-    "verseEn": "And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register."
+    "verseEn": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful."
   },
   "generated": true,
   "model": "auto (chain)"

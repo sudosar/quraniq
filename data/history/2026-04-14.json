@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-14",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "ظُرُوفُ الْمَكَانِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "سقر",
+    "display": "سَقَرَ",
+    "hint": "A name for the scorching fire, where its touch is tasted.",
+    "verseRef": "54:48",
+    "arabicVerse": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+    "verse": "54:48 — The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\""
+  },
+  "deduction": {
+    "title": "The Warning in the Wicked Cities",
+    "intro": "Imagine being sent with a divine message to a society lost in unprecedented wrongdoing. The people you call to righteousness are your own, yet they mock your guidance and persist in their transgressions. You stand as a lone voice of purity, warning them of a devastating end, even as heavenly visitors arrive at your door, bringing both a test and a final verdict. Can you identify this steadfast messenger?",
+    "clues": [
+      "I was a contemporary and follower of a great patriarch of faith, and I migrated with him for the sake of Allah.",
+      "I was sent as a messenger to a people who committed a transgression no creation had ever committed before them.",
+      "When divine guests, in the form of handsome young men, visited my home, I was distressed, fearing for their safety from my own people.",
+      "In my desperation to protect my guests, I offered my own daughters to the mob that surrounded my house, hoping to turn them from their wicked intentions.",
+      "A member of my own household, who stayed behind, was destined to be among those who perished in the punishment.",
+      "My people were destroyed by a shower of stones of baked clay, and their towns were turned upside down as a sign for all who came after."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Nuh",
+          "Prophet Lut",
+          "Prophet Shu'ayb"
+        ],
+        "answer": "Prophet Lut"
+      },
+      "trial": {
+        "label": "What Was My Primary Mission?",
+        "options": [
+          "Building a massive ark to survive a global flood",
+          "Challenging a tyrant who claimed divinity",
+          "Calling people to stop fraudulent business practices",
+          "Warning a people against unprecedented immorality",
+          "Demanding the release of an enslaved people"
+        ],
+        "answer": "Warning a people against unprecedented immorality"
+      },
+      "location": {
+        "label": "What Was the Nature of the Punishment?",
+        "options": [
+          "A catastrophic flood",
+          "A violent, roaring wind",
+          "A shower of stones of baked clay",
+          "A mighty blast and earthquake",
+          "Being transformed into apes"
+        ],
+        "answer": "A shower of stones of baked clay"
+      },
+      "outcome": {
+        "label": "Who Was Left Behind to Perish?",
+        "options": [
+          "My rebellious son",
+          "My arrogant father",
+          "My entire family",
+          "My wife",
+          "My closest companion"
+        ],
+        "answer": "My wife"
+      }
+    },
+    "verseRef": "29:32",
+    "arabic": "قَالَ إِنَّ فِيهَا لُوطًۭا ۚ قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ",
+    "verse": "[Abraham] said, \"Indeed, within it is Lot.\" They said, \"We are more knowing of who is within it. We will surely save him and his family, except his wife. She is to be of those who remain behind.\" (29:32)"
+  },
+  "scramble": {
+    "verseRef": "28:16",
+    "reference": "Al-Qasas (28:16)",
+    "segments": [
+      "قَالَ رَبِّ إِنِّي",
+      "ظَلَمْتُ نَفْسِي",
+      "فَاغْفِرْ لِي",
+      "فَغَفَرَ لَهُۥٓ",
+      "إِنَّهُۥ هُوَ الْغَفُورُ الرَّحِيمُ"
+    ],
+    "translations": [
+      "He said My Lord Indeed, I",
+      "[I] have wronged my soul so forgive",
+      "[for] me Then He forgave [for] him",
+      "Indeed He He (is)",
+      "the Oft-Forgiving the Most Merciful"
+    ],
+    "hint": "A supplication for forgiveness made by Prophet Musa (Moses) after an unintentional act.",
+    "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "words": [
+      "قَالَ رَبِّ إِنِّى",
+      "ظَلَمْتُ نَفْسِى فَٱغْفِرْ",
+      "لِى فَغَفَرَ لَهُۥٓ ۚ",
+      "إِنَّهُۥ هُوَ",
+      "ٱلْغَفُورُ ٱلرَّحِيمُ"
+    ],
+    "verseEn": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful."
+  }
 }

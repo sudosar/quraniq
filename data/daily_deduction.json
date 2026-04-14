@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "puzzle": {
-    "title": "The Scorn of a Close Relation",
-    "intro": "A figure of high standing, bound by blood to a messenger, chose arrogance over faith. Their proximity to the truth only fueled their opposition, leading to a divine decree that sealed their fate and served as a timeless warning against pride and rejection. Who is this figure?",
+    "title": "The Warning in the Wicked Cities",
+    "intro": "Imagine being sent with a divine message to a society lost in unprecedented wrongdoing. The people you call to righteousness are your own, yet they mock your guidance and persist in their transgressions. You stand as a lone voice of purity, warning them of a devastating end, even as heavenly visitors arrive at your door, bringing both a test and a final verdict. Can you identify this steadfast messenger?",
     "clues": [
-      "I was a person of great wealth and standing among my people.",
-      "A close relative of mine began to preach a message that I vehemently opposed.",
-      "When this relative gathered our clan to deliver a warning, I was the one who publicly cursed them.",
-      "My hands were specifically cursed in the divine revelation, a direct response to my hostile actions.",
-      "My spouse was also condemned alongside me, described as one who carries thorny wood.",
-      "A whole chapter in the Quran is dedicated to my condemnation, bearing a name that refers to the blazing fire of my punishment."
+      "I was a contemporary and follower of a great patriarch of faith, and I migrated with him for the sake of Allah.",
+      "I was sent as a messenger to a people who committed a transgression no creation had ever committed before them.",
+      "When divine guests, in the form of handsome young men, visited my home, I was distressed, fearing for their safety from my own people.",
+      "In my desperation to protect my guests, I offered my own daughters to the mob that surrounded my house, hoping to turn them from their wicked intentions.",
+      "A member of my own household, who stayed behind, was destined to be among those who perished in the punishment.",
+      "My people were destroyed by a shower of stones of baked clay, and their towns were turned upside down as a sign for all who came after."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Abu Jahl",
-          "Al-Walid ibn al-Mughirah",
-          "Abu Lahab",
-          "Umayyah ibn Khalaf",
-          "Abdullah ibn Ubayy"
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Nuh",
+          "Prophet Lut",
+          "Prophet Shu'ayb"
         ],
-        "answer": "Abu Lahab"
+        "answer": "Prophet Lut"
       },
       "trial": {
-        "label": "What was my primary sin?",
+        "label": "What Was My Primary Mission?",
         "options": [
-          "Leading the army at the Battle of Badr",
-          "Building the 'Masjid al-Dirar' (Mosque of Harm)",
-          "Spreading the great slander against Aisha (ra)",
-          "Fiercely opposing and cursing the Prophet (ﷺ)",
-          "Refusing to free a believing slave"
+          "Building a massive ark to survive a global flood",
+          "Challenging a tyrant who claimed divinity",
+          "Calling people to stop fraudulent business practices",
+          "Warning a people against unprecedented immorality",
+          "Demanding the release of an enslaved people"
         ],
-        "answer": "Fiercely opposing and cursing the Prophet (ﷺ)"
+        "answer": "Warning a people against unprecedented immorality"
       },
       "location": {
-        "label": "Key Element",
+        "label": "What Was the Nature of the Punishment?",
         "options": [
-          "A beautiful garden that was destroyed",
-          "A golden calf built for worship",
-          "Thorny wood carried by my spouse",
-          "A magnificent throne of a distant kingdom",
-          "A tall tower built to reach the heavens"
+          "A catastrophic flood",
+          "A violent, roaring wind",
+          "A shower of stones of baked clay",
+          "A mighty blast and earthquake",
+          "Being transformed into apes"
         ],
-        "answer": "Thorny wood carried by my spouse"
+        "answer": "A shower of stones of baked clay"
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "Who Was Left Behind to Perish?",
         "options": [
-          "To be swallowed by the earth with my wealth",
-          "To be drowned in the sea with my army",
-          "To perish in a Fire of Blazing Flame",
-          "To be destroyed by a mighty, piercing cry",
-          "To have my plans exposed and die as a hypocrite"
+          "My rebellious son",
+          "My arrogant father",
+          "My entire family",
+          "My wife",
+          "My closest companion"
         ],
-        "answer": "To perish in a Fire of Blazing Flame"
+        "answer": "My wife"
       }
     },
-    "verseRef": "111:1",
-    "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
-    "verse": "May the hands of Abū Lahab be ruined, and ruined is he. (111:1)"
+    "verseRef": "29:32",
+    "arabic": "قَالَ إِنَّ فِيهَا لُوطًۭا ۚ قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ",
+    "verse": "[Abraham] said, \"Indeed, within it is Lot.\" They said, \"We are more knowing of who is within it. We will surely save him and his family, except his wife. She is to be of those who remain behind.\" (29:32)"
   },
   "generated": true,
   "model": "auto (chain)"

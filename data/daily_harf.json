@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "puzzle": {
-    "word": "شهيد",
-    "display": "شَهِيد",
-    "hint": "One who bears testimony, present at the ultimate event.",
-    "verseRef": "4:79",
-    "arabicVerse": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
-    "verse": "4:79 — What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself. And We have sent you, [O Muḥammad], to the people as a messenger, and sufficient is Allāh as Witness."
+    "word": "سقر",
+    "display": "سَقَرَ",
+    "hint": "A name for the scorching fire, where its touch is tasted.",
+    "verseRef": "54:48",
+    "arabicVerse": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+    "verse": "54:48 — The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\""
   },
   "generated": true,
   "model": "auto (chain)"
