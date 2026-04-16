@@ -1,32 +1,29 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-16",
   "puzzle": {
-    "verseRef": "28:16",
-    "reference": "Al-Qasas (28:16)",
+    "verseRef": "20:46",
+    "reference": "Surah Taha (20:46)",
     "segments": [
-      "قَالَ رَبِّ إِنِّي",
-      "ظَلَمْتُ نَفْسِي",
-      "فَاغْفِرْ لِي",
-      "فَغَفَرَ لَهُۥٓ",
-      "إِنَّهُۥ هُوَ الْغَفُورُ الرَّحِيمُ"
+      "قَالَ لَا تَخَافَآ ۖ",
+      "إِنَّنِى مَعَكُمَآ",
+      "أَسْمَعُ",
+      "وَأَرَىٰ"
     ],
     "translations": [
-      "He said My Lord Indeed, I",
-      "[I] have wronged my soul so forgive",
-      "[for] me Then He forgave [for] him",
-      "Indeed He He (is)",
-      "the Oft-Forgiving the Most Merciful"
+      "He said (Do) not",
+      "fear Indeed, I Am",
+      "with you both I hear",
+      "and I see"
     ],
-    "hint": "A supplication for forgiveness made by Prophet Musa (Moses) after an unintentional act.",
-    "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "hint": "A divine reassurance given to two prophets, Moses and Aaron, before they confronted a powerful tyrant.",
+    "arabic": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
     "words": [
-      "قَالَ رَبِّ إِنِّى",
-      "ظَلَمْتُ نَفْسِى فَٱغْفِرْ",
-      "لِى فَغَفَرَ لَهُۥٓ ۚ",
-      "إِنَّهُۥ هُوَ",
-      "ٱلْغَفُورُ ٱلرَّحِيمُ"
+      "قَالَ لَا",
+      "تَخَافَآ ۖ إِنَّنِى",
+      "مَعَكُمَآ أَسْمَعُ",
+      "وَأَرَىٰ"
     ],
-    "verseEn": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful."
+    "verseEn": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see."
   },
   "generated": true,
   "model": "auto (chain)"

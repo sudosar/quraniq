@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-16",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالٌ تَدُلُّ عَلَى الرَّفْضِ وَالْإِعْرَاضِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "طين",
+    "display": "طِين",
+    "hint": "The potter's material for the first man.",
+    "verseRef": "32:7",
+    "arabicVerse": "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍۢ",
+    "verse": "32:7 — Who perfected everything which He created and began the creation of man from clay."
+  },
+  "deduction": {
+    "title": "The Gift of Divine Insight",
+    "intro": "A servant of Allah was granted a profound gift, not of prophecy, but of deep understanding. Through this divine endowment, this individual offered timeless counsel, a legacy of guidance recorded for all generations. Your task is to uncover the identity of this wise figure and the nature of the wisdom they imparted.",
+    "clues": [
+      "I was granted a special gift from Allah, for which I was commanded to be grateful.",
+      "My name is mentioned in the Quran, and an entire chapter is named after me.",
+      "I was not a prophet, but I was blessed with hikmah, or wisdom.",
+      "I offered advice to my son, urging him not to associate any partners with Allah, calling it a great injustice.",
+      "My counsel to my son included lessons on humility, advising him not to turn his cheek in pride from people nor to walk upon the earth with insolence.",
+      "I taught my son that even if a matter were the weight of a mustard seed, hidden in a rock or in the heavens or the earth, Allah would bring it forth."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Dhul-Qarnayn",
+          "Luqman the Wise",
+          "Qarun",
+          "Al-Khidr",
+          "The Samiri"
+        ],
+        "answer": "Luqman the Wise"
+      },
+      "trial": {
+        "label": "What is the core of my story?",
+        "options": [
+          "Building a great barrier against Gog and Magog",
+          "Challenging Prophet Musa with magic",
+          "Imparting wisdom and guidance to my son",
+          "Boasting about my vast treasures and keys",
+          "Being swallowed by a giant fish"
+        ],
+        "answer": "Imparting wisdom and guidance to my son"
+      },
+      "location": {
+        "label": "What is the central gift I was given?",
+        "options": [
+          "Hikmah (Wisdom)",
+          "Mulk (Sovereignty)",
+          "The ability to interpret dreams",
+          "Control over the winds and jinn",
+          "A book of divine law"
+        ],
+        "answer": "Hikmah (Wisdom)"
+      },
+      "outcome": {
+        "label": "What was the primary sin I warned against?",
+        "options": [
+          "Dealing in Riba (Interest)",
+          "Giving short measure and weight",
+          "Killing a prophet unjustly",
+          "Shirk (Associating partners with Allah)",
+          "Arrogantly building a high tower"
+        ],
+        "answer": "Shirk (Associating partners with Allah)"
+      }
+    },
+    "verseRef": "31:12",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+    "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+  },
+  "scramble": {
+    "verseRef": "20:46",
+    "reference": "Surah Taha (20:46)",
+    "segments": [
+      "قَالَ لَا تَخَافَآ ۖ",
+      "إِنَّنِى مَعَكُمَآ",
+      "أَسْمَعُ",
+      "وَأَرَىٰ"
+    ],
+    "translations": [
+      "He said (Do) not",
+      "fear Indeed, I Am",
+      "with you both I hear",
+      "and I see"
+    ],
+    "hint": "A divine reassurance given to two prophets, Moses and Aaron, before they confronted a powerful tyrant.",
+    "arabic": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+    "words": [
+      "قَالَ لَا",
+      "تَخَافَآ ۖ إِنَّنِى",
+      "مَعَكُمَآ أَسْمَعُ",
+      "وَأَرَىٰ"
+    ],
+    "verseEn": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see."
+  }
 }
