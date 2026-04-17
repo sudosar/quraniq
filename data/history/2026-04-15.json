@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْحَرَكَةِ",
+        "nameEn": "Verbs Describing Movement",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَمْشُونَ",
+            "en": "they walk",
+            "ref": "25:20",
+            "verse": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍۢ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًۭا",
+            "verseEn": "And We did not send before you, [O Muḥammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others - will you have patience? And ever is your Lord, Seeing."
+          },
+          {
+            "ar": "تَسْعَىٰ",
+            "en": "it hastens",
+            "ref": "20:20",
+            "verse": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌۭ تَسْعَىٰ",
+            "verseEn": "So he threw it down, and thereupon it was a snake, moving swiftly."
+          },
+          {
+            "ar": "يُهْرَعُونَ",
+            "en": "they are rushed",
+            "ref": "11:78",
+            "verse": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ",
+            "verseEn": "And his people came hastening to him, and before [this] they had been doing evil deeds. He said, \"O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?\""
+          },
+          {
+            "ar": "يَرْكُضُونَ",
+            "en": "they flee",
+            "ref": "21:12",
+            "verse": "فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ إِذَا هُم مِّنْهَا يَرْكُضُونَ",
+            "verseEn": "And when they [i.e., its inhabitants] perceived Our punishment, at once they fled from it."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ مُتَعَلِّقَةٌ بِالْعِقَابِ وَالنَّجَاةِ",
+        "nameEn": "Words related to divine retribution and escape",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلْبَطْشَةَ",
+            "en": "The assault",
+            "ref": "44:16",
+            "verse": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+            "verseEn": "The Day We will strike with the greatest assault, indeed, We will take retribution."
+          },
+          {
+            "ar": "وَبَالَ",
+            "en": "Evil consequence",
+            "ref": "65:9",
+            "verse": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَـٰقِبَةُ أَمْرِهَا خُسْرًا",
+            "verseEn": "And it tasted the bad consequence of its affair [i.e., rebellion], and the outcome of its affair was loss."
+          },
+          {
+            "ar": "عَاصِمَ",
+            "en": "Protector",
+            "ref": "11:43",
+            "verse": "قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ",
+            "verseEn": "[But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allāh, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned."
+          },
+          {
+            "ar": "مَّحِيصٍ",
+            "en": "An escape",
+            "ref": "14:21",
+            "verse": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًۭا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍۢ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍۢ",
+            "verseEn": "And they will come out [for judgement] before Allāh all together, and the weak will say to those who were arrogant, \"Indeed, we were your followers, so can you avail us anything against the punishment of Allāh?\" They will say, \"If Allāh had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape.\""
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ أَفْعَالٍ بِمَعْنَى الْأَمْرِ",
+        "nameEn": "Verbal nouns that function as imperative verbs (Ism al-Fi'l Amr)",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "هَلُمَّ",
+            "en": "Come forward!",
+            "ref": "33:18",
+            "verse": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+            "verseEn": "Already Allāh knows the hinderers among you and those [hypocrites] who say to their brothers, \"Come to us,\" and do not go to battle, except for a few,"
+          },
+          {
+            "ar": "عَلَيْكُمْ",
+            "en": "Take care of",
+            "ref": "5:105",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do."
+          },
+          {
+            "ar": "مَكَانَكُمْ",
+            "en": "Stay in your place!",
+            "ref": "10:28",
+            "verse": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ",
+            "verseEn": "And [mention, O Muḥammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\" Then We will separate them, and their \"partners\" will say, \"You did not used to worship us,"
+          },
+          {
+            "ar": "هَآؤُمُ",
+            "en": "Take!",
+            "ref": "69:19",
+            "verse": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَـٰبِيَهْ",
+            "verseEn": "So as for he who is given his record in his right hand, he will say, \"Here, read my record!"
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ وَقَعَتْ مُضَافًا إِلَيْهِ لِكَلِمَةِ 'كُلّ'",
+        "nameEn": "Words that are the second element (muḍāf ilayh) of a possessive construction with 'kull' (all/every)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "نَفْسٍ",
+            "en": "soul",
+            "ref": "3:185",
+            "verse": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ",
+            "verseEn": "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion."
+          },
+          {
+            "ar": "شَىْءٍ",
+            "en": "thing",
+            "ref": "12:111",
+            "verse": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌۭ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًۭا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe."
+          },
+          {
+            "ar": "حَدَبٍ",
+            "en": "elevation",
+            "ref": "21:96",
+            "verse": "حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ",
+            "verseEn": "Until when [the dam of] Gog and Magog has been opened and they, from every elevation, descend"
+          },
+          {
+            "ar": "أَفَّاكٍ",
+            "en": "liar",
+            "ref": "45:7",
+            "verse": "وَيْلٌۭ لِّكُلِّ أَفَّاكٍ أَثِيمٍۢ",
+            "verseEn": "Woe to every sinful liar"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "قلم",
+    "display": "قَلَم",
+    "hint": "The instrument of knowledge by which Allah taught.",
+    "verseRef": "96:4",
+    "arabicVerse": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+    "verse": "96:4 — Who taught by the pen"
+  },
+  "deduction": {
+    "title": "The Plea for Just Measure",
+    "intro": "A soul was sent to a community steeped in dishonest practices. Their mission was to call them back to integrity and the worship of the One True God, but their call was met with arrogance and threats. Can you identify this steadfast messenger and the people they were sent to guide?",
+    "clues": [
+      "I was sent to a people who were known for their corruption in trade.",
+      "My community lived near a dense, wooded area, and they were also known as the 'Companions of the Wood' (Ashab al-Aykah).",
+      "I warned them specifically against giving short measure and weight, urging them to be fair in all their dealings.",
+      "They mocked me, sarcastically asking if my prayers commanded them to abandon their ways of commerce.",
+      "The chiefs of my people threatened to expel me and the believers from our city unless we returned to their faith.",
+      "When they refused to repent, a mighty cry or earthquake seized them, and they were left lifeless in their homes by morning."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Shu'ayb",
+          "Prophet Lut",
+          "Prophet Ishaq"
+        ],
+        "answer": "Prophet Shu'ayb"
+      },
+      "trial": {
+        "label": "What was my primary mission?",
+        "options": [
+          "Building a great ark to survive a flood",
+          "Warning against carving homes from mountains",
+          "Challenging a ruler who claimed divinity",
+          "Correcting dishonest trade practices",
+          "Demonstrating the resurrection of the dead"
+        ],
+        "answer": "Correcting dishonest trade practices"
+      },
+      "location": {
+        "label": "What people was I sent to?",
+        "options": [
+          "The people of Madyan",
+          "The people of Saba",
+          "The people of 'Ad",
+          "The people of Thamud",
+          "The people of Rass"
+        ],
+        "answer": "The people of Madyan"
+      },
+      "outcome": {
+        "label": "What was the fate of the disbelievers?",
+        "options": [
+          "Drowned by a great flood",
+          "Destroyed by a furious, cold wind",
+          "Pelted by stones of baked clay",
+          "Transformed into apes",
+          "Seized by a mighty earthquake/cry"
+        ],
+        "answer": "Seized by a mighty earthquake/cry"
+      }
+    },
+    "verseRef": "11:88",
+    "arabic": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "verse": "He said, \"O my people, have you considered: if I am upon clear evidence from my Lord and He has provided me with a good provision from Him...? And I do not intend to differ from you in that which I have forbidden you; I only intend reform as much as I am able. And my success is not but through Allāh. Upon Him I have relied, and to Him I return. (11:88)"
+  },
+  "scramble": {
+    "verseRef": "75:4",
+    "reference": "Surah Al-Qiyamah (75:4)",
+    "segments": [
+      "بَلَىٰ قَادِرِينَ",
+      "عَلَىٰ أَن",
+      "نُّسَوِّيَ",
+      "بَنَانَهُ"
+    ],
+    "translations": [
+      "Nay (We are) Able",
+      "on that",
+      "We can restore",
+      "his fingertips"
+    ],
+    "hint": "This verse is a powerful rebuttal to those who doubt the resurrection, highlighting Allah's ability to recreate even the most intricate and unique parts of a person.",
+    "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+    "words": [
+      "بَلَىٰ قَـٰدِرِينَ",
+      "عَلَىٰٓ أَن",
+      "نُّسَوِّىَ",
+      "بَنَانَهُۥ"
+    ],
+    "verseEn": "Yes. [We are] Able [even] to proportion his fingertips."
+  }
+}
