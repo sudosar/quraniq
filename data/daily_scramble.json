@@ -1,29 +1,29 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "puzzle": {
-    "verseRef": "20:46",
-    "reference": "Surah Taha (20:46)",
+    "verseRef": "76:8",
+    "reference": "Al-Insan (76:8)",
     "segments": [
-      "قَالَ لَا تَخَافَآ ۖ",
-      "إِنَّنِى مَعَكُمَآ",
-      "أَسْمَعُ",
-      "وَأَرَىٰ"
+      "وَيُطْعِمُونَ الطَّعَامَ",
+      "عَلَىٰ حُبِّهِ",
+      "مِسْكِينًا وَيَتِيمًا",
+      "وَأَسِيرًا"
     ],
     "translations": [
-      "He said (Do) not",
-      "fear Indeed, I Am",
-      "with you both I hear",
-      "and I see"
+      "And they feed the food",
+      "in spite of love (for) it",
+      "(to the) needy and (the) orphan",
+      "and (the) captive"
     ],
-    "hint": "A divine reassurance given to two prophets, Moses and Aaron, before they confronted a powerful tyrant.",
-    "arabic": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+    "hint": "This verse describes a selfless act of charity, highlighting a key quality of the righteous.",
+    "arabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا",
     "words": [
-      "قَالَ لَا",
-      "تَخَافَآ ۖ إِنَّنِى",
-      "مَعَكُمَآ أَسْمَعُ",
-      "وَأَرَىٰ"
+      "وَيُطْعِمُونَ ٱلطَّعَامَ",
+      "عَلَىٰ حُبِّهِۦ",
+      "مِسْكِينًۭا وَيَتِيمًۭا",
+      "وَأَسِيرًا"
     ],
-    "verseEn": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see."
+    "verseEn": "And they give food in spite of love for it to the needy, the orphan, and the captive,"
   },
   "generated": true,
   "model": "auto (chain)"

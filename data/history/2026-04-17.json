@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-17",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ تَتَعَلَّقُ بِالْكَمِّيَّةِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "ايات",
+    "display": "آيَات",
+    "hint": "They can be found in the heavens, the earth, and within yourself.",
+    "verseRef": "30:20",
+    "arabicVerse": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ",
+    "verse": "30:20 — And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]."
+  },
+  "deduction": {
+    "title": "The Shadow in the City of Light",
+    "intro": "In the heart of a community built on faith and brotherhood, a faction lurked in the shadows. Their words were smooth like honey, but their hearts held a bitter poison. They prayed alongside the righteous, yet conspired against them in secret, their presence a constant test for the sincere. Who are these people?",
+    "clues": [
+      "We lived in the same city as the final Prophet, yet our allegiance was a lie.",
+      "We would attend gatherings of faith, only to turn away and mock what was said.",
+      "When the call for sacrifice came, we would invent excuses to avoid hardship.",
+      "We used our eloquent speech and sworn oaths to deceive the believers.",
+      "Our leader was a prominent figure, but his inner self was exposed by divine revelation.",
+      "An entire chapter of the Quran is named for us, detailing our deceit and warning the believers about us."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The Companions of the Cave",
+          "The Ansar of Madinah",
+          "The Hypocrites (Al-Munafiqun)",
+          "The People of the Book who believed",
+          "The Muhajirun from Makkah"
+        ],
+        "answer": "The Hypocrites (Al-Munafiqun)"
+      },
+      "trial": {
+        "label": "What Was Our Primary Trait?",
+        "options": [
+          "Fleeing persecution to a cave",
+          "Professing faith while hiding disbelief",
+          "Breaking the Sabbath by fishing",
+          "Building a golden calf for worship",
+          "Plotting to kill a prophet in a well"
+        ],
+        "answer": "Professing faith while hiding disbelief"
+      },
+      "location": {
+        "label": "What Was Our Key Method?",
+        "options": [
+          "A miraculous she-camel",
+          "A staff that turned into a serpent",
+          "A fortified wall of iron and copper",
+          "Deceptive Oaths and Rumors",
+          "A flock of birds carrying baked clay"
+        ],
+        "answer": "Deceptive Oaths and Rumors"
+      },
+      "outcome": {
+        "label": "What Was Our Promised Fate?",
+        "options": [
+          "Being turned into apes",
+          "Being drowned in a great flood",
+          "Promised the lowest depths of the Fire",
+          "Preserved as a sign for humanity",
+          "Honored in Paradise for their patience"
+        ],
+        "answer": "Promised the lowest depths of the Fire"
+      }
+    },
+    "verseRef": "63:1",
+    "arabic": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+    "verse": "When the hypocrites come to you, [O Muḥammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars. (63:1)"
+  },
+  "scramble": {
+    "verseRef": "76:8",
+    "reference": "Al-Insan (76:8)",
+    "segments": [
+      "وَيُطْعِمُونَ الطَّعَامَ",
+      "عَلَىٰ حُبِّهِ",
+      "مِسْكِينًا وَيَتِيمًا",
+      "وَأَسِيرًا"
+    ],
+    "translations": [
+      "And they feed the food",
+      "in spite of love (for) it",
+      "(to the) needy and (the) orphan",
+      "and (the) captive"
+    ],
+    "hint": "This verse describes a selfless act of charity, highlighting a key quality of the righteous.",
+    "arabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا",
+    "words": [
+      "وَيُطْعِمُونَ ٱلطَّعَامَ",
+      "عَلَىٰ حُبِّهِۦ",
+      "مِسْكِينًۭا وَيَتِيمًۭا",
+      "وَأَسِيرًا"
+    ],
+    "verseEn": "And they give food in spite of love for it to the needy, the orphan, and the captive,"
+  }
 }

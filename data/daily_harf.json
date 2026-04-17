@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "puzzle": {
-    "word": "طين",
-    "display": "طِين",
-    "hint": "The potter's material for the first man.",
-    "verseRef": "32:7",
-    "arabicVerse": "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍۢ",
-    "verse": "32:7 — Who perfected everything which He created and began the creation of man from clay."
+    "word": "ايات",
+    "display": "آيَات",
+    "hint": "They can be found in the heavens, the earth, and within yourself.",
+    "verseRef": "30:20",
+    "arabicVerse": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ",
+    "verse": "30:20 — And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]."
   },
   "generated": true,
   "model": "auto (chain)"
