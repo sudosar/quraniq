@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-18",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالٌ بِمَعْنَىٰ الْعَطَاءِ أَوِ الْمَنْحِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "نجم",
+    "display": "نَجْم",
+    "hint": "A celestial body sworn by in its own chapter.",
+    "verseRef": "53:1",
+    "arabicVerse": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+    "verse": "53:1 — By the star when it descends,"
+  },
+  "deduction": {
+    "title": "The Ascent to the Heavens",
+    "intro": "A devoted servant of Allah was taken on a miraculous night-time passage, a journey that transcended the known limits of space and time. This soul was shown great signs and given a unique honor, solidifying a divine mission. Who is this traveler?",
+    "clues": [
+      "My journey began from a sacred house of worship in the heart of my city.",
+      "I was transported in an instant to another holy sanctuary, a place of significance for many prophets before me.",
+      "I rode a creature swifter than lightning, a mount from the heavens whose every stride reached the furthest point of its sight.",
+      "From a hallowed rock, I ascended through the seven heavens, meeting my prophetic brethren along the way.",
+      "I was brought so near to the Divine Presence that the distance was but two bow-lengths or even nearer.",
+      "During this momentous ascent, the command for the five daily prayers was established as a cornerstone for my community."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Sulayman (as)",
+          "Prophet 'Isa (as)",
+          "Angel Jibril (as)",
+          "Prophet Muhammad (ﷺ)",
+          "Prophet Idris (as)"
+        ],
+        "answer": "Prophet Muhammad (ﷺ)"
+      },
+      "trial": {
+        "label": "What is this journey called?",
+        "options": [
+          "The Hijra (Migration)",
+          "The Farewell Pilgrimage",
+          "The Splitting of the Moon",
+          "The Revelation at Mount Hira",
+          "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
+        ],
+        "answer": "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
+      },
+      "location": {
+        "label": "What heavenly mount did I ride?",
+        "options": [
+          "A chariot of light",
+          "A ship built by Divine command",
+          "Al-Buraq",
+          "The wings of an archangel",
+          "The Hoopoe bird"
+        ],
+        "answer": "Al-Buraq"
+      },
+      "outcome": {
+        "label": "What was ordained during my ascent?",
+        "options": [
+          "The obligation of fasting in Ramadan",
+          "The prohibition of idolatry",
+          "The five daily prayers (Salah)",
+          "The details of the Day of Judgment",
+          "The command to build the Kaaba"
+        ],
+        "answer": "The five daily prayers (Salah)"
+      }
+    },
+    "verseRef": "17:1",
+    "arabic": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "verse": "Exalted is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing. (17:1)"
+  },
+  "scramble": {
+    "verseRef": "19:96",
+    "reference": "Surah Maryam (19:96)",
+    "segments": [
+      "إِنَّ ٱلَّذِينَ ءَامَنُوا۟",
+      "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+      "سَيَجْعَلُ لَهُمُ",
+      "ٱلرَّحْمَٰنُ",
+      "وُدًّا"
+    ],
+    "translations": [
+      "Indeed those who",
+      "believed and did",
+      "good deeds will bestow",
+      "for them the Most Gracious",
+      "affection"
+    ],
+    "hint": "A promise from the Most Merciful for those who combine faith with good actions.",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّۭا",
+    "words": [
+      "إِنَّ ٱلَّذِينَ",
+      "ءَامَنُوا۟ وَعَمِلُوا۟",
+      "ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ",
+      "لَهُمُ ٱلرَّحْمَـٰنُ",
+      "وُدًّۭا"
+    ],
+    "verseEn": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection."
+  }
 }

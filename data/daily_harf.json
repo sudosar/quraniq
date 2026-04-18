@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "puzzle": {
-    "word": "ايات",
-    "display": "آيَات",
-    "hint": "They can be found in the heavens, the earth, and within yourself.",
-    "verseRef": "30:20",
-    "arabicVerse": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ",
-    "verse": "30:20 — And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]."
+    "word": "نجم",
+    "display": "نَجْم",
+    "hint": "A celestial body sworn by in its own chapter.",
+    "verseRef": "53:1",
+    "arabicVerse": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+    "verse": "53:1 — By the star when it descends,"
   },
   "generated": true,
   "model": "auto (chain)"

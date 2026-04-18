@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "puzzle": {
-    "title": "The Shadow in the City of Light",
-    "intro": "In the heart of a community built on faith and brotherhood, a faction lurked in the shadows. Their words were smooth like honey, but their hearts held a bitter poison. They prayed alongside the righteous, yet conspired against them in secret, their presence a constant test for the sincere. Who are these people?",
+    "title": "The Ascent to the Heavens",
+    "intro": "A devoted servant of Allah was taken on a miraculous night-time passage, a journey that transcended the known limits of space and time. This soul was shown great signs and given a unique honor, solidifying a divine mission. Who is this traveler?",
     "clues": [
-      "We lived in the same city as the final Prophet, yet our allegiance was a lie.",
-      "We would attend gatherings of faith, only to turn away and mock what was said.",
-      "When the call for sacrifice came, we would invent excuses to avoid hardship.",
-      "We used our eloquent speech and sworn oaths to deceive the believers.",
-      "Our leader was a prominent figure, but his inner self was exposed by divine revelation.",
-      "An entire chapter of the Quran is named for us, detailing our deceit and warning the believers about us."
+      "My journey began from a sacred house of worship in the heart of my city.",
+      "I was transported in an instant to another holy sanctuary, a place of significance for many prophets before me.",
+      "I rode a creature swifter than lightning, a mount from the heavens whose every stride reached the furthest point of its sight.",
+      "From a hallowed rock, I ascended through the seven heavens, meeting my prophetic brethren along the way.",
+      "I was brought so near to the Divine Presence that the distance was but two bow-lengths or even nearer.",
+      "During this momentous ascent, the command for the five daily prayers was established as a cornerstone for my community."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who Am I?",
         "options": [
-          "The Companions of the Cave",
-          "The Ansar of Madinah",
-          "The Hypocrites (Al-Munafiqun)",
-          "The People of the Book who believed",
-          "The Muhajirun from Makkah"
+          "Prophet Sulayman (as)",
+          "Prophet 'Isa (as)",
+          "Angel Jibril (as)",
+          "Prophet Muhammad (ﷺ)",
+          "Prophet Idris (as)"
         ],
-        "answer": "The Hypocrites (Al-Munafiqun)"
+        "answer": "Prophet Muhammad (ﷺ)"
       },
       "trial": {
-        "label": "What Was Our Primary Trait?",
+        "label": "What is this journey called?",
         "options": [
-          "Fleeing persecution to a cave",
-          "Professing faith while hiding disbelief",
-          "Breaking the Sabbath by fishing",
-          "Building a golden calf for worship",
-          "Plotting to kill a prophet in a well"
+          "The Hijra (Migration)",
+          "The Farewell Pilgrimage",
+          "The Splitting of the Moon",
+          "The Revelation at Mount Hira",
+          "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
         ],
-        "answer": "Professing faith while hiding disbelief"
+        "answer": "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
       },
       "location": {
-        "label": "What Was Our Key Method?",
+        "label": "What heavenly mount did I ride?",
         "options": [
-          "A miraculous she-camel",
-          "A staff that turned into a serpent",
-          "A fortified wall of iron and copper",
-          "Deceptive Oaths and Rumors",
-          "A flock of birds carrying baked clay"
+          "A chariot of light",
+          "A ship built by Divine command",
+          "Al-Buraq",
+          "The wings of an archangel",
+          "The Hoopoe bird"
         ],
-        "answer": "Deceptive Oaths and Rumors"
+        "answer": "Al-Buraq"
       },
       "outcome": {
-        "label": "What Was Our Promised Fate?",
+        "label": "What was ordained during my ascent?",
         "options": [
-          "Being turned into apes",
-          "Being drowned in a great flood",
-          "Promised the lowest depths of the Fire",
-          "Preserved as a sign for humanity",
-          "Honored in Paradise for their patience"
+          "The obligation of fasting in Ramadan",
+          "The prohibition of idolatry",
+          "The five daily prayers (Salah)",
+          "The details of the Day of Judgment",
+          "The command to build the Kaaba"
         ],
-        "answer": "Promised the lowest depths of the Fire"
+        "answer": "The five daily prayers (Salah)"
       }
     },
-    "verseRef": "63:1",
-    "arabic": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
-    "verse": "When the hypocrites come to you, [O Muḥammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars. (63:1)"
+    "verseRef": "17:1",
+    "arabic": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "verse": "Exalted is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing. (17:1)"
   },
   "generated": true,
   "model": "auto (chain)"
