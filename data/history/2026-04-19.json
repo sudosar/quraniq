@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-19",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَلْفَاظٌ تَصِفُ مَرَاحِلَ الْعُمْرِ أَوِ الْوَقْتِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "وعد",
+    "display": "وَعْد",
+    "hint": "A divine assurance that is always kept.",
+    "verseRef": "35:5",
+    "arabicVerse": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۖ وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+    "verse": "35:5 — O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan]."
+  },
+  "deduction": {
+    "title": "The Testimony of the Flames",
+    "intro": "A community faced a stark choice from their tyrannical ruler: renounce their newfound faith or face a terrible fate. Their unwavering conviction led to an event so momentous that Allah mentions it in the Quran, a testament to their sacrifice and a warning to all oppressors. Who were these believers?",
+    "clues": [
+      "We were a community that came to believe in the One True God, turning away from the worship of our ruler.",
+      "Our newfound faith enraged the powerful leader who had once commanded our absolute devotion.",
+      "We were given an ultimatum: abandon our belief in Allah or face a horrific punishment of their design.",
+      "To carry out their threat, they dug a great trench and kindled a massive fire within it.",
+      "While our persecutors sat and watched, they cast us into the blazing pit for all to see.",
+      "Our only 'crime' in their eyes was that we believed in Allah, the Exalted in Might, the Praiseworthy."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The People of the Elephant",
+          "The People of 'Ad",
+          "The People of the Ditch",
+          "The Companions of the Sabbath",
+          "The People of Rass"
+        ],
+        "answer": "The People of the Ditch"
+      },
+      "trial": {
+        "label": "What Was Our Trial?",
+        "options": [
+          "Being drowned in a great flood",
+          "Being pelted with stones of baked clay",
+          "Being transformed into apes",
+          "Being burned alive for our faith",
+          "Being struck by a mighty earthquake"
+        ],
+        "answer": "Being burned alive for our faith"
+      },
+      "location": {
+        "label": "What Was the Key Element?",
+        "options": [
+          "A giant ark",
+          "A staff that turned into a serpent",
+          "A she-camel sent as a sign",
+          "A valley of ants",
+          "A trench filled with fire"
+        ],
+        "answer": "A trench filled with fire"
+      },
+      "outcome": {
+        "label": "What Was Our Ultimate Outcome?",
+        "options": [
+          "We were saved and made into a great nation",
+          "We repented and our punishment was lifted",
+          "We attained Paradise for our patience and faith",
+          "We were resurrected after one hundred years",
+          "We slept for over 300 years in a cave"
+        ],
+        "answer": "We attained Paradise for our patience and faith"
+      }
+    },
+    "verseRef": "85:11",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+    "verse": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment. (85:11)"
+  },
+  "scramble": {
+    "verseRef": "55:78",
+    "reference": "Ar-Rahman (55:78)",
+    "segments": [
+      "تَبَارَكَ اسْمُ",
+      "رَبِّكَ",
+      "ذِي الْجَلَالِ",
+      "وَالْإِكْرَامِ"
+    ],
+    "translations": [
+      "Blessed is (the) name",
+      "(of) your Lord Owner",
+      "(of) Majesty",
+      "and Honor"
+    ],
+    "hint": "This verse concludes a surah known for its beautiful refrain, praising the attributes of Allah.",
+    "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+    "words": [
+      "تَبَـٰرَكَ ٱسْمُ",
+      "رَبِّكَ ذِى",
+      "ٱلْجَلَـٰلِ",
+      "وَٱلْإِكْرَامِ"
+    ],
+    "verseEn": "Blessed is the name of your Lord, Owner of Majesty and Honor."
+  }
 }

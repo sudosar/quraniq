@@ -1,32 +1,29 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "puzzle": {
-    "verseRef": "19:96",
-    "reference": "Surah Maryam (19:96)",
+    "verseRef": "55:78",
+    "reference": "Ar-Rahman (55:78)",
     "segments": [
-      "إِنَّ ٱلَّذِينَ ءَامَنُوا۟",
-      "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
-      "سَيَجْعَلُ لَهُمُ",
-      "ٱلرَّحْمَٰنُ",
-      "وُدًّا"
+      "تَبَارَكَ اسْمُ",
+      "رَبِّكَ",
+      "ذِي الْجَلَالِ",
+      "وَالْإِكْرَامِ"
     ],
     "translations": [
-      "Indeed those who",
-      "believed and did",
-      "good deeds will bestow",
-      "for them the Most Gracious",
-      "affection"
+      "Blessed is (the) name",
+      "(of) your Lord Owner",
+      "(of) Majesty",
+      "and Honor"
     ],
-    "hint": "A promise from the Most Merciful for those who combine faith with good actions.",
-    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّۭا",
+    "hint": "This verse concludes a surah known for its beautiful refrain, praising the attributes of Allah.",
+    "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
     "words": [
-      "إِنَّ ٱلَّذِينَ",
-      "ءَامَنُوا۟ وَعَمِلُوا۟",
-      "ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ",
-      "لَهُمُ ٱلرَّحْمَـٰنُ",
-      "وُدًّۭا"
+      "تَبَـٰرَكَ ٱسْمُ",
+      "رَبِّكَ ذِى",
+      "ٱلْجَلَـٰلِ",
+      "وَٱلْإِكْرَامِ"
     ],
-    "verseEn": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection."
+    "verseEn": "Blessed is the name of your Lord, Owner of Majesty and Honor."
   },
   "generated": true,
   "model": "auto (chain)"

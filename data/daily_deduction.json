@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "puzzle": {
-    "title": "The Ascent to the Heavens",
-    "intro": "A devoted servant of Allah was taken on a miraculous night-time passage, a journey that transcended the known limits of space and time. This soul was shown great signs and given a unique honor, solidifying a divine mission. Who is this traveler?",
+    "title": "The Testimony of the Flames",
+    "intro": "A community faced a stark choice from their tyrannical ruler: renounce their newfound faith or face a terrible fate. Their unwavering conviction led to an event so momentous that Allah mentions it in the Quran, a testament to their sacrifice and a warning to all oppressors. Who were these believers?",
     "clues": [
-      "My journey began from a sacred house of worship in the heart of my city.",
-      "I was transported in an instant to another holy sanctuary, a place of significance for many prophets before me.",
-      "I rode a creature swifter than lightning, a mount from the heavens whose every stride reached the furthest point of its sight.",
-      "From a hallowed rock, I ascended through the seven heavens, meeting my prophetic brethren along the way.",
-      "I was brought so near to the Divine Presence that the distance was but two bow-lengths or even nearer.",
-      "During this momentous ascent, the command for the five daily prayers was established as a cornerstone for my community."
+      "We were a community that came to believe in the One True God, turning away from the worship of our ruler.",
+      "Our newfound faith enraged the powerful leader who had once commanded our absolute devotion.",
+      "We were given an ultimatum: abandon our belief in Allah or face a horrific punishment of their design.",
+      "To carry out their threat, they dug a great trench and kindled a massive fire within it.",
+      "While our persecutors sat and watched, they cast us into the blazing pit for all to see.",
+      "Our only 'crime' in their eyes was that we believed in Allah, the Exalted in Might, the Praiseworthy."
     ],
     "categories": {
       "identity": {
-        "label": "Who Am I?",
+        "label": "Who Are We?",
         "options": [
-          "Prophet Sulayman (as)",
-          "Prophet 'Isa (as)",
-          "Angel Jibril (as)",
-          "Prophet Muhammad (ﷺ)",
-          "Prophet Idris (as)"
+          "The People of the Elephant",
+          "The People of 'Ad",
+          "The People of the Ditch",
+          "The Companions of the Sabbath",
+          "The People of Rass"
         ],
-        "answer": "Prophet Muhammad (ﷺ)"
+        "answer": "The People of the Ditch"
       },
       "trial": {
-        "label": "What is this journey called?",
+        "label": "What Was Our Trial?",
         "options": [
-          "The Hijra (Migration)",
-          "The Farewell Pilgrimage",
-          "The Splitting of the Moon",
-          "The Revelation at Mount Hira",
-          "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
+          "Being drowned in a great flood",
+          "Being pelted with stones of baked clay",
+          "Being transformed into apes",
+          "Being burned alive for our faith",
+          "Being struck by a mighty earthquake"
         ],
-        "answer": "Al-Isra' wal-Mi'raj (The Night Journey & Ascension)"
+        "answer": "Being burned alive for our faith"
       },
       "location": {
-        "label": "What heavenly mount did I ride?",
+        "label": "What Was the Key Element?",
         "options": [
-          "A chariot of light",
-          "A ship built by Divine command",
-          "Al-Buraq",
-          "The wings of an archangel",
-          "The Hoopoe bird"
+          "A giant ark",
+          "A staff that turned into a serpent",
+          "A she-camel sent as a sign",
+          "A valley of ants",
+          "A trench filled with fire"
         ],
-        "answer": "Al-Buraq"
+        "answer": "A trench filled with fire"
       },
       "outcome": {
-        "label": "What was ordained during my ascent?",
+        "label": "What Was Our Ultimate Outcome?",
         "options": [
-          "The obligation of fasting in Ramadan",
-          "The prohibition of idolatry",
-          "The five daily prayers (Salah)",
-          "The details of the Day of Judgment",
-          "The command to build the Kaaba"
+          "We were saved and made into a great nation",
+          "We repented and our punishment was lifted",
+          "We attained Paradise for our patience and faith",
+          "We were resurrected after one hundred years",
+          "We slept for over 300 years in a cave"
         ],
-        "answer": "The five daily prayers (Salah)"
+        "answer": "We attained Paradise for our patience and faith"
       }
     },
-    "verseRef": "17:1",
-    "arabic": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
-    "verse": "Exalted is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing. (17:1)"
+    "verseRef": "85:11",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+    "verse": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment. (85:11)"
   },
   "generated": true,
   "model": "auto (chain)"
