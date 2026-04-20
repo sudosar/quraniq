@@ -1,29 +1,32 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "puzzle": {
-    "verseRef": "55:78",
-    "reference": "Ar-Rahman (55:78)",
+    "verseRef": "18:39",
+    "reference": "Surah Al-Kahf (18:39)",
     "segments": [
-      "تَبَارَكَ اسْمُ",
-      "رَبِّكَ",
-      "ذِي الْجَلَالِ",
-      "وَالْإِكْرَامِ"
+      "وَلَوْلَآ إِذْ دَخَلْتَ",
+      "جَنَّتَكَ قُلْتَ",
+      "مَا شَآءَ ٱللَّهُ",
+      "لَا قُوَّةَ",
+      "إِلَّا بِٱللَّهِ"
     ],
     "translations": [
-      "Blessed is (the) name",
-      "(of) your Lord Owner",
-      "(of) Majesty",
-      "and Honor"
+      "And why (did you) not when you entered your garden",
+      "say What wills Allah",
+      "(there is) no power except with Allah",
+      "If you see me (me) lesser",
+      "than you (in) wealth and children"
     ],
-    "hint": "This verse concludes a surah known for its beautiful refrain, praising the attributes of Allah.",
-    "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+    "hint": "A phrase to say upon admiring one's blessings, attributing all power to Allah.",
+    "arabic": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا",
     "words": [
-      "تَبَـٰرَكَ ٱسْمُ",
-      "رَبِّكَ ذِى",
-      "ٱلْجَلَـٰلِ",
-      "وَٱلْإِكْرَامِ"
+      "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ",
+      "قُلْتَ مَا شَآءَ ٱللَّهُ",
+      "لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ",
+      "إِن تَرَنِ أَنَا۠ أَقَلَّ",
+      "مِنكَ مَالًۭا وَوَلَدًۭا"
     ],
-    "verseEn": "Blessed is the name of your Lord, Owner of Majesty and Honor."
+    "verseEn": "And why did you, when you entered your garden, not say, 'What Allāh willed [has occurred]; there is no power except in Allāh'? Although you see me less than you in wealth and children,"
   },
   "generated": true,
   "model": "auto (chain)"

@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "puzzle": {
-    "title": "The Testimony of the Flames",
-    "intro": "A community faced a stark choice from their tyrannical ruler: renounce their newfound faith or face a terrible fate. Their unwavering conviction led to an event so momentous that Allah mentions it in the Quran, a testament to their sacrifice and a warning to all oppressors. Who were these believers?",
+    "title": "The March of Futility",
+    "intro": "A mighty army, confident in its power and led by a colossal beast, set out with a singular, destructive purpose. They believed their sheer force could desecrate a sacred sanctuary, but they were about to encounter a power far greater than their own. Can you uncover the identity of this arrogant legion and the divine intervention that thwarted their plan?",
     "clues": [
-      "We were a community that came to believe in the One True God, turning away from the worship of our ruler.",
-      "Our newfound faith enraged the powerful leader who had once commanded our absolute devotion.",
-      "We were given an ultimatum: abandon our belief in Allah or face a horrific punishment of their design.",
-      "To carry out their threat, they dug a great trench and kindled a massive fire within it.",
-      "While our persecutors sat and watched, they cast us into the blazing pit for all to see.",
-      "Our only 'crime' in their eyes was that we believed in Allah, the Exalted in Might, the Praiseworthy."
+      "We were a great multitude, traveling with a creature of immense size, certain of our victory.",
+      "Our leader, driven by envy, sought to divert the world's reverence from a sacred house to one he had built.",
+      "As we approached our target, our largest animal refused to advance, kneeling in submission to a will greater than our own.",
+      "We did not face a human army; instead, our doom came from the sky, carried by the smallest of messengers.",
+      "Swarms of birds appeared above us, each carrying stones that would seal our fate.",
+      "Our army was left like 'eaten straw,' a lesson for all who would challenge the sanctity of the Kaaba in the year of the Prophet's birth."
     ],
     "categories": {
       "identity": {
         "label": "Who Are We?",
         "options": [
-          "The People of the Elephant",
           "The People of 'Ad",
-          "The People of the Ditch",
-          "The Companions of the Sabbath",
-          "The People of Rass"
+          "The People of Thamud",
+          "The Army of Talut",
+          "The People of the Elephant",
+          "The Confederates (Al-Ahzab)"
         ],
-        "answer": "The People of the Ditch"
+        "answer": "The People of the Elephant"
       },
       "trial": {
-        "label": "What Was Our Trial?",
+        "label": "What Was Our Mission?",
         "options": [
-          "Being drowned in a great flood",
-          "Being pelted with stones of baked clay",
-          "Being transformed into apes",
-          "Being burned alive for our faith",
-          "Being struck by a mighty earthquake"
+          "To flood the city of Saba'",
+          "To capture Prophet Sulayman's throne",
+          "To destroy the Kaaba",
+          "To assassinate Prophet Muhammad (ﷺ)",
+          "To build a tower to the heavens"
         ],
-        "answer": "Being burned alive for our faith"
+        "answer": "To destroy the Kaaba"
       },
       "location": {
-        "label": "What Was the Key Element?",
+        "label": "What Was Sent Against Us?",
         "options": [
-          "A giant ark",
-          "A staff that turned into a serpent",
-          "A she-camel sent as a sign",
-          "A valley of ants",
-          "A trench filled with fire"
+          "A powerful flood",
+          "A mighty wind",
+          "Flocks of birds (Ababil)",
+          "A shower of fire and brimstone",
+          "A swarm of locusts and lice"
         ],
-        "answer": "A trench filled with fire"
+        "answer": "Flocks of birds (Ababil)"
       },
       "outcome": {
-        "label": "What Was Our Ultimate Outcome?",
+        "label": "What Was Our Fate?",
         "options": [
-          "We were saved and made into a great nation",
-          "We repented and our punishment was lifted",
-          "We attained Paradise for our patience and faith",
-          "We were resurrected after one hundred years",
-          "We slept for over 300 years in a cave"
+          "Turned into apes",
+          "Swallowed by the earth",
+          "Drowned in the sea",
+          "Annihilated by stones of baked clay",
+          "Forced to retreat in a storm"
         ],
-        "answer": "We attained Paradise for our patience and faith"
+        "answer": "Annihilated by stones of baked clay"
       }
     },
-    "verseRef": "85:11",
-    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
-    "verse": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment. (85:11)"
+    "verseRef": "105:5",
+    "arabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+    "verse": "And He made them like eaten straw. (105:5)"
   },
   "generated": true,
   "model": "auto (chain)"

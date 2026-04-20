@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "puzzle": {
-    "word": "وعد",
-    "display": "وَعْد",
-    "hint": "A divine assurance that is always kept.",
-    "verseRef": "35:5",
-    "arabicVerse": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۖ وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
-    "verse": "35:5 — O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan]."
+    "word": "سبا",
+    "display": "سَبَأ",
+    "hint": "An ancient kingdom ruled by a powerful queen.",
+    "verseRef": "34:15",
+    "arabicVerse": "لَقَدْ كَانَ لِسَبَإٍۢ فِى مَسْكَنِهِمْ ءَايَةٌۭ ۖ جَنَّتَانِ عَن يَمِينٍۢ وَشِمَالٍۢ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌۭ طَيِّبَةٌۭ وَرَبٌّ غَفُورٌۭ",
+    "verse": "34:15 — There was for [the tribe of] Saba’ in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], \"Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord.\""
   },
   "generated": true,
   "model": "auto (chain)"

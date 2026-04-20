@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-20",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مِنْ سُورَةِ الْعَادِيَاتِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "سبا",
+    "display": "سَبَأ",
+    "hint": "An ancient kingdom ruled by a powerful queen.",
+    "verseRef": "34:15",
+    "arabicVerse": "لَقَدْ كَانَ لِسَبَإٍۢ فِى مَسْكَنِهِمْ ءَايَةٌۭ ۖ جَنَّتَانِ عَن يَمِينٍۢ وَشِمَالٍۢ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌۭ طَيِّبَةٌۭ وَرَبٌّ غَفُورٌۭ",
+    "verse": "34:15 — There was for [the tribe of] Saba’ in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], \"Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord.\""
+  },
+  "deduction": {
+    "title": "The March of Futility",
+    "intro": "A mighty army, confident in its power and led by a colossal beast, set out with a singular, destructive purpose. They believed their sheer force could desecrate a sacred sanctuary, but they were about to encounter a power far greater than their own. Can you uncover the identity of this arrogant legion and the divine intervention that thwarted their plan?",
+    "clues": [
+      "We were a great multitude, traveling with a creature of immense size, certain of our victory.",
+      "Our leader, driven by envy, sought to divert the world's reverence from a sacred house to one he had built.",
+      "As we approached our target, our largest animal refused to advance, kneeling in submission to a will greater than our own.",
+      "We did not face a human army; instead, our doom came from the sky, carried by the smallest of messengers.",
+      "Swarms of birds appeared above us, each carrying stones that would seal our fate.",
+      "Our army was left like 'eaten straw,' a lesson for all who would challenge the sanctity of the Kaaba in the year of the Prophet's birth."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The People of 'Ad",
+          "The People of Thamud",
+          "The Army of Talut",
+          "The People of the Elephant",
+          "The Confederates (Al-Ahzab)"
+        ],
+        "answer": "The People of the Elephant"
+      },
+      "trial": {
+        "label": "What Was Our Mission?",
+        "options": [
+          "To flood the city of Saba'",
+          "To capture Prophet Sulayman's throne",
+          "To destroy the Kaaba",
+          "To assassinate Prophet Muhammad (ﷺ)",
+          "To build a tower to the heavens"
+        ],
+        "answer": "To destroy the Kaaba"
+      },
+      "location": {
+        "label": "What Was Sent Against Us?",
+        "options": [
+          "A powerful flood",
+          "A mighty wind",
+          "Flocks of birds (Ababil)",
+          "A shower of fire and brimstone",
+          "A swarm of locusts and lice"
+        ],
+        "answer": "Flocks of birds (Ababil)"
+      },
+      "outcome": {
+        "label": "What Was Our Fate?",
+        "options": [
+          "Turned into apes",
+          "Swallowed by the earth",
+          "Drowned in the sea",
+          "Annihilated by stones of baked clay",
+          "Forced to retreat in a storm"
+        ],
+        "answer": "Annihilated by stones of baked clay"
+      }
+    },
+    "verseRef": "105:5",
+    "arabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+    "verse": "And He made them like eaten straw. (105:5)"
+  },
+  "scramble": {
+    "verseRef": "18:39",
+    "reference": "Surah Al-Kahf (18:39)",
+    "segments": [
+      "وَلَوْلَآ إِذْ دَخَلْتَ",
+      "جَنَّتَكَ قُلْتَ",
+      "مَا شَآءَ ٱللَّهُ",
+      "لَا قُوَّةَ",
+      "إِلَّا بِٱللَّهِ"
+    ],
+    "translations": [
+      "And why (did you) not when you entered your garden",
+      "say What wills Allah",
+      "(there is) no power except with Allah",
+      "If you see me (me) lesser",
+      "than you (in) wealth and children"
+    ],
+    "hint": "A phrase to say upon admiring one's blessings, attributing all power to Allah.",
+    "arabic": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا",
+    "words": [
+      "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ",
+      "قُلْتَ مَا شَآءَ ٱللَّهُ",
+      "لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ",
+      "إِن تَرَنِ أَنَا۠ أَقَلَّ",
+      "مِنكَ مَالًۭا وَوَلَدًۭا"
+    ],
+    "verseEn": "And why did you, when you entered your garden, not say, 'What Allāh willed [has occurred]; there is no power except in Allāh'? Although you see me less than you in wealth and children,"
+  }
 }
