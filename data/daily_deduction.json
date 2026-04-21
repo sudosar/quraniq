@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "puzzle": {
-    "title": "The March of Futility",
-    "intro": "A mighty army, confident in its power and led by a colossal beast, set out with a singular, destructive purpose. They believed their sheer force could desecrate a sacred sanctuary, but they were about to encounter a power far greater than their own. Can you uncover the identity of this arrogant legion and the divine intervention that thwarted their plan?",
+    "title": "The Final Prostration",
+    "intro": "Summoned to a grand spectacle, a group of skilled individuals arrived with confidence, ready to display their mastery for a powerful ruler. They expected rewards and prestige, but the encounter that awaited them would lead not to worldly glory, but to an irreversible transformation of the soul.",
     "clues": [
-      "We were a great multitude, traveling with a creature of immense size, certain of our victory.",
-      "Our leader, driven by envy, sought to divert the world's reverence from a sacred house to one he had built.",
-      "As we approached our target, our largest animal refused to advance, kneeling in submission to a will greater than our own.",
-      "We did not face a human army; instead, our doom came from the sky, carried by the smallest of messengers.",
-      "Swarms of birds appeared above us, each carrying stones that would seal our fate.",
-      "Our army was left like 'eaten straw,' a lesson for all who would challenge the sanctity of the Kaaba in the year of the Prophet's birth."
+      "We were masters of our craft, summoned from all the great cities to demonstrate our power before a great assembly.",
+      "We made a bargain with a mighty ruler: if we were victorious, a great reward and a place of honor would surely be ours.",
+      "We cast our ropes and staffs, and by our magic, they appeared to the onlookers as slithering serpents.",
+      "But when a prophet of Allah threw his staff, it became a real serpent and devoured all that we had conjured.",
+      "In that moment, we saw the truth and fell down in prostration, declaring our belief in the Lord of Harun and Musa.",
+      "The furious ruler threatened to cut off our hands and feet on opposite sides and crucify us on the trunks of palm trees, but we remained firm in our newfound faith."
     ],
     "categories": {
       "identity": {
         "label": "Who Are We?",
         "options": [
-          "The People of 'Ad",
-          "The People of Thamud",
-          "The Army of Talut",
-          "The People of the Elephant",
-          "The Confederates (Al-Ahzab)"
+          "The Disciples of 'Isa",
+          "The People of the Cave",
+          "The Magicians of Pharaoh",
+          "The Army of Dhul-Qarnayn",
+          "The Jinn who worked for Sulayman"
         ],
-        "answer": "The People of the Elephant"
+        "answer": "The Magicians of Pharaoh"
       },
       "trial": {
-        "label": "What Was Our Mission?",
+        "label": "What was our pivotal event?",
         "options": [
-          "To flood the city of Saba'",
-          "To capture Prophet Sulayman's throne",
-          "To destroy the Kaaba",
-          "To assassinate Prophet Muhammad (ﷺ)",
-          "To build a tower to the heavens"
+          "Receiving a feast from the heavens",
+          "Building a wall to contain Gog and Magog",
+          "A public duel against Prophet Musa",
+          "Being turned into apes for breaking the Sabbath",
+          "Being tested with a river before battle"
         ],
-        "answer": "To destroy the Kaaba"
+        "answer": "A public duel against Prophet Musa"
       },
       "location": {
-        "label": "What Was Sent Against Us?",
+        "label": "What was a key element in our story?",
         "options": [
-          "A powerful flood",
-          "A mighty wind",
-          "Flocks of birds (Ababil)",
-          "A shower of fire and brimstone",
-          "A swarm of locusts and lice"
+          "A Golden Calf",
+          "Staffs and Ropes",
+          "A Clay Bird",
+          "A Sacred Ark",
+          "A talking Ant"
         ],
-        "answer": "Flocks of birds (Ababil)"
+        "answer": "Staffs and Ropes"
       },
       "outcome": {
-        "label": "What Was Our Fate?",
+        "label": "What was our ultimate fate?",
         "options": [
-          "Turned into apes",
-          "Swallowed by the earth",
-          "Drowned in the sea",
-          "Annihilated by stones of baked clay",
-          "Forced to retreat in a storm"
+          "Slept for over 300 years in a cave",
+          "Attained martyrdom with unwavering faith",
+          "Were drowned in the sea while pursuing a prophet",
+          "Became close companions and helpers of a prophet",
+          "Were granted a kingdom and wisdom"
         ],
-        "answer": "Annihilated by stones of baked clay"
+        "answer": "Attained martyrdom with unwavering faith"
       }
     },
-    "verseRef": "105:5",
-    "arabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
-    "verse": "And He made them like eaten straw. (105:5)"
+    "verseRef": "20:72",
+    "arabic": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَـٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+    "verse": "They said, \"Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life. (20:72)"
   },
   "generated": true,
   "model": "auto (chain)"

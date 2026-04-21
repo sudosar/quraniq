@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "puzzle": {
-    "verseRef": "18:39",
-    "reference": "Surah Al-Kahf (18:39)",
+    "verseRef": "40:44",
+    "reference": "Ghafir (40:44)",
     "segments": [
-      "وَلَوْلَآ إِذْ دَخَلْتَ",
-      "جَنَّتَكَ قُلْتَ",
-      "مَا شَآءَ ٱللَّهُ",
-      "لَا قُوَّةَ",
-      "إِلَّا بِٱللَّهِ"
+      "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ",
+      "وَأُفَوِّضُ أَمْرِىٓ",
+      "إِلَى ٱللَّهِ ۚ",
+      "إِنَّ ٱللَّهَ",
+      "بَصِيرٌۢ بِٱلْعِبَادِ"
     ],
     "translations": [
-      "And why (did you) not when you entered your garden",
-      "say What wills Allah",
-      "(there is) no power except with Allah",
-      "If you see me (me) lesser",
-      "than you (in) wealth and children"
+      "And you will remember what I say",
+      "to you and I entrust my affair",
+      "to Allah",
+      "Indeed Allah",
+      "(is) All-Seer of (His) slaves"
     ],
-    "hint": "A phrase to say upon admiring one's blessings, attributing all power to Allah.",
-    "arabic": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا",
+    "hint": "A powerful statement of entrusting one's affairs to Allah, spoken by a believer in Pharaoh's court.",
+    "arabic": "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ",
     "words": [
-      "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ",
-      "قُلْتَ مَا شَآءَ ٱللَّهُ",
-      "لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ",
-      "إِن تَرَنِ أَنَا۠ أَقَلَّ",
-      "مِنكَ مَالًۭا وَوَلَدًۭا"
+      "فَسَتَذْكُرُونَ مَآ أَقُولُ",
+      "لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ",
+      "إِلَى ٱللَّهِ ۚ",
+      "إِنَّ ٱللَّهَ",
+      "بَصِيرٌۢ بِٱلْعِبَادِ"
     ],
-    "verseEn": "And why did you, when you entered your garden, not say, 'What Allāh willed [has occurred]; there is no power except in Allāh'? Although you see me less than you in wealth and children,"
+    "verseEn": "And you will remember what I [now] say to you, and I entrust my affair to Allāh. Indeed, Allāh is Seeing of [His] servants.\""
   },
   "generated": true,
   "model": "auto (chain)"
