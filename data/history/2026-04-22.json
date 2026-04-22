@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-22",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "حَيَوَانَاتٌ ذُكِرَتْ فِي الْقُرْآنِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "برهان",
+    "display": "بُرْهَان",
+    "hint": "A conclusive proof or clear evidence; what Prophet Yusuf (AS) saw from his Lord.",
+    "verseRef": "12:24",
+    "arabicVerse": "وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
+    "verse": "12:24 — And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants."
+  },
+  "deduction": {
+    "title": "The Star-Gazer's Revelation",
+    "intro": "In a time when celestial bodies were worshipped and idols lined the halls of power, one soul embarked on a profound intellectual and spiritual journey. Questioning the very fabric of their people's beliefs, this individual sought the one true Creator, setting a course that would lead to confrontation, exile, and the establishment of a timeless legacy.",
+    "clues": [
+      "I looked to the stars, the moon, and the sun, seeking my Lord, but I knew that which sets could not be the one to worship.",
+      "My own kin was a crafter of the very idols my people revered, and I challenged this practice directly.",
+      "With an axe, I reduced a hall of false gods to rubble, leaving the largest among them untouched to expose their powerlessness.",
+      "For my defiance, I was cast into a blazing fire, a punishment meant to make an example of me.",
+      "By Allah's command, the inferno became cool and safe for me, a miracle for all to witness.",
+      "I am known as Khalilullah, the 'Friend of Allah,' and my descendants include two great lines of prophets."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Nuh",
+          "Prophet Yusuf",
+          "Prophet Ibrahim",
+          "Dhul-Qarnayn",
+          "Prophet Shu'ayb"
+        ],
+        "answer": "Prophet Ibrahim"
+      },
+      "trial": {
+        "label": "What was my primary confrontation?",
+        "options": [
+          "Facing a great flood in an ark",
+          "Being swallowed by a giant fish",
+          "Splitting the sea with a staff",
+          "Being thrown into a fire",
+          "Being raised to the heavens alive"
+        ],
+        "answer": "Being thrown into a fire"
+      },
+      "location": {
+        "label": "What did I challenge?",
+        "options": [
+          "The arrogance of a wealthy treasurer",
+          "The sorcery of a court of magicians",
+          "The worship of idols and celestial bodies",
+          "Dishonesty in weights and measures",
+          "The violation of the Sabbath"
+        ],
+        "answer": "The worship of idols and celestial bodies"
+      },
+      "outcome": {
+        "label": "What was the immediate miraculous result?",
+        "options": [
+          "My staff turned into a serpent",
+          "The fire became cool and peaceful",
+          "A spring of water gushed from the ground",
+          "A wall was built to contain a corrupting force",
+          "A nation was destroyed by a furious wind"
+        ],
+        "answer": "The fire became cool and peaceful"
+      }
+    },
+    "verseRef": "6:79",
+    "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+    "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+  },
+  "scramble": {
+    "verseRef": "36:58",
+    "reference": "Surah Ya-Sin (36:58)",
+    "segments": [
+      "سَلَامٌ",
+      "قَوْلًا",
+      "مِّن رَّبٍّ",
+      "رَّحِيمٍ"
+    ],
+    "translations": [
+      "Peace A word",
+      "from",
+      "a Lord",
+      "Most Merciful"
+    ],
+    "hint": "This is the greeting that the believers will receive directly from Allah in Paradise.",
+    "arabic": "سَلَـٰمٌۭ قَوْلًۭا مِّن رَّبٍّۢ رَّحِيمٍۢ",
+    "words": [
+      "سَلَـٰمٌۭ قَوْلًۭا",
+      "مِّن",
+      "رَّبٍّۢ",
+      "رَّحِيمٍۢ"
+    ],
+    "verseEn": "[And] \"Peace,\" a word from a Merciful Lord."
+  }
 }

@@ -1,32 +1,29 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "puzzle": {
-    "verseRef": "40:44",
-    "reference": "Ghafir (40:44)",
+    "verseRef": "36:58",
+    "reference": "Surah Ya-Sin (36:58)",
     "segments": [
-      "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ",
-      "وَأُفَوِّضُ أَمْرِىٓ",
-      "إِلَى ٱللَّهِ ۚ",
-      "إِنَّ ٱللَّهَ",
-      "بَصِيرٌۢ بِٱلْعِبَادِ"
+      "سَلَامٌ",
+      "قَوْلًا",
+      "مِّن رَّبٍّ",
+      "رَّحِيمٍ"
     ],
     "translations": [
-      "And you will remember what I say",
-      "to you and I entrust my affair",
-      "to Allah",
-      "Indeed Allah",
-      "(is) All-Seer of (His) slaves"
+      "Peace A word",
+      "from",
+      "a Lord",
+      "Most Merciful"
     ],
-    "hint": "A powerful statement of entrusting one's affairs to Allah, spoken by a believer in Pharaoh's court.",
-    "arabic": "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ",
+    "hint": "This is the greeting that the believers will receive directly from Allah in Paradise.",
+    "arabic": "سَلَـٰمٌۭ قَوْلًۭا مِّن رَّبٍّۢ رَّحِيمٍۢ",
     "words": [
-      "فَسَتَذْكُرُونَ مَآ أَقُولُ",
-      "لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ",
-      "إِلَى ٱللَّهِ ۚ",
-      "إِنَّ ٱللَّهَ",
-      "بَصِيرٌۢ بِٱلْعِبَادِ"
+      "سَلَـٰمٌۭ قَوْلًۭا",
+      "مِّن",
+      "رَّبٍّۢ",
+      "رَّحِيمٍۢ"
     ],
-    "verseEn": "And you will remember what I [now] say to you, and I entrust my affair to Allāh. Indeed, Allāh is Seeing of [His] servants.\""
+    "verseEn": "[And] \"Peace,\" a word from a Merciful Lord."
   },
   "generated": true,
   "model": "auto (chain)"

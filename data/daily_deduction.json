@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "puzzle": {
-    "title": "The Final Prostration",
-    "intro": "Summoned to a grand spectacle, a group of skilled individuals arrived with confidence, ready to display their mastery for a powerful ruler. They expected rewards and prestige, but the encounter that awaited them would lead not to worldly glory, but to an irreversible transformation of the soul.",
+    "title": "The Star-Gazer's Revelation",
+    "intro": "In a time when celestial bodies were worshipped and idols lined the halls of power, one soul embarked on a profound intellectual and spiritual journey. Questioning the very fabric of their people's beliefs, this individual sought the one true Creator, setting a course that would lead to confrontation, exile, and the establishment of a timeless legacy.",
     "clues": [
-      "We were masters of our craft, summoned from all the great cities to demonstrate our power before a great assembly.",
-      "We made a bargain with a mighty ruler: if we were victorious, a great reward and a place of honor would surely be ours.",
-      "We cast our ropes and staffs, and by our magic, they appeared to the onlookers as slithering serpents.",
-      "But when a prophet of Allah threw his staff, it became a real serpent and devoured all that we had conjured.",
-      "In that moment, we saw the truth and fell down in prostration, declaring our belief in the Lord of Harun and Musa.",
-      "The furious ruler threatened to cut off our hands and feet on opposite sides and crucify us on the trunks of palm trees, but we remained firm in our newfound faith."
+      "I looked to the stars, the moon, and the sun, seeking my Lord, but I knew that which sets could not be the one to worship.",
+      "My own kin was a crafter of the very idols my people revered, and I challenged this practice directly.",
+      "With an axe, I reduced a hall of false gods to rubble, leaving the largest among them untouched to expose their powerlessness.",
+      "For my defiance, I was cast into a blazing fire, a punishment meant to make an example of me.",
+      "By Allah's command, the inferno became cool and safe for me, a miracle for all to witness.",
+      "I am known as Khalilullah, the 'Friend of Allah,' and my descendants include two great lines of prophets."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who Am I?",
         "options": [
-          "The Disciples of 'Isa",
-          "The People of the Cave",
-          "The Magicians of Pharaoh",
-          "The Army of Dhul-Qarnayn",
-          "The Jinn who worked for Sulayman"
+          "Prophet Nuh",
+          "Prophet Yusuf",
+          "Prophet Ibrahim",
+          "Dhul-Qarnayn",
+          "Prophet Shu'ayb"
         ],
-        "answer": "The Magicians of Pharaoh"
+        "answer": "Prophet Ibrahim"
       },
       "trial": {
-        "label": "What was our pivotal event?",
+        "label": "What was my primary confrontation?",
         "options": [
-          "Receiving a feast from the heavens",
-          "Building a wall to contain Gog and Magog",
-          "A public duel against Prophet Musa",
-          "Being turned into apes for breaking the Sabbath",
-          "Being tested with a river before battle"
+          "Facing a great flood in an ark",
+          "Being swallowed by a giant fish",
+          "Splitting the sea with a staff",
+          "Being thrown into a fire",
+          "Being raised to the heavens alive"
         ],
-        "answer": "A public duel against Prophet Musa"
+        "answer": "Being thrown into a fire"
       },
       "location": {
-        "label": "What was a key element in our story?",
+        "label": "What did I challenge?",
         "options": [
-          "A Golden Calf",
-          "Staffs and Ropes",
-          "A Clay Bird",
-          "A Sacred Ark",
-          "A talking Ant"
+          "The arrogance of a wealthy treasurer",
+          "The sorcery of a court of magicians",
+          "The worship of idols and celestial bodies",
+          "Dishonesty in weights and measures",
+          "The violation of the Sabbath"
         ],
-        "answer": "Staffs and Ropes"
+        "answer": "The worship of idols and celestial bodies"
       },
       "outcome": {
-        "label": "What was our ultimate fate?",
+        "label": "What was the immediate miraculous result?",
         "options": [
-          "Slept for over 300 years in a cave",
-          "Attained martyrdom with unwavering faith",
-          "Were drowned in the sea while pursuing a prophet",
-          "Became close companions and helpers of a prophet",
-          "Were granted a kingdom and wisdom"
+          "My staff turned into a serpent",
+          "The fire became cool and peaceful",
+          "A spring of water gushed from the ground",
+          "A wall was built to contain a corrupting force",
+          "A nation was destroyed by a furious wind"
         ],
-        "answer": "Attained martyrdom with unwavering faith"
+        "answer": "The fire became cool and peaceful"
       }
     },
-    "verseRef": "20:72",
-    "arabic": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَـٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
-    "verse": "They said, \"Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life. (20:72)"
+    "verseRef": "6:79",
+    "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+    "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
   },
   "generated": true,
   "model": "auto (chain)"
