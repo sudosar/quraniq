@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-23",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "مُصْطَلَحَاتٌ لِلْأُسْرَةِ وَالنَّسْلِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "تقوى",
+    "display": "تَقْوَىٰ",
+    "hint": "A shield against evil and the best provision for the journey.",
+    "verseRef": "22:37",
+    "arabicVerse": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+    "verse": "22:37 — Their meat will not reach Allāh, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allāh for that [to] which He has guided you; and give good tidings to the doers of good."
+  },
+  "deduction": {
+    "title": "A Kingdom Undone by Ingratitude",
+    "intro": "A prosperous civilization, blessed with immense wealth and fertile lands, found its legacy washed away. Their story is a stark reminder that blessings, when met with arrogance and ingratitude, can vanish in an instant. What brought about the downfall of this once-mighty people?",
+    "clues": [
+      "We lived in a land of immense prosperity, a testament to the favors bestowed upon us.",
+      "Our civilization was renowned for two magnificent gardens, one on the right and one on the left.",
+      "A great structure of our own making, a massive dam, was central to our agricultural wealth and security.",
+      "Despite these clear signs, we turned away from gratitude and worship, ignoring the call of the messengers.",
+      "Our punishment came in the form of a torrent, a flood that destroyed the very source of our pride.",
+      "Allah replaced our lush, fruitful gardens with bitter produce, tamarisks, and a few sparse lote-trees, scattering us throughout the lands."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The People of 'Ad",
+          "The People of Thamud",
+          "The People of Madyan",
+          "The People of Saba'",
+          "The People of the Ditch"
+        ],
+        "answer": "The People of Saba'"
+      },
+      "trial": {
+        "label": "What Was Our Sin?",
+        "options": [
+          "Killing a sacred she-camel",
+          "Giving short measure in trade",
+          "Turning away in ingratitude",
+          "Building a tower to challenge Allah",
+          "Worshipping a golden calf"
+        ],
+        "answer": "Turning away in ingratitude"
+      },
+      "location": {
+        "label": "What Was the Key Element?",
+        "options": [
+          "The Ark of Prophet Nuh",
+          "The High Tower of Fir'awn",
+          "The Throne of Bilqis",
+          "The Dam of Ma'rib",
+          "The Perishable Garden"
+        ],
+        "answer": "The Dam of Ma'rib"
+      },
+      "outcome": {
+        "label": "What Was Our Punishment?",
+        "options": [
+          "Being turned into apes",
+          "A devastating flood and being scattered",
+          "A rain of fire and brimstone",
+          "Being swallowed by the earth",
+          "A furious, roaring wind"
+        ],
+        "answer": "A devastating flood and being scattered"
+      }
+    },
+    "verseRef": "34:17",
+    "arabic": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ",
+    "verse": "[By] that We repaid them because they disbelieved. And do We [thus] repay except the ungrateful? (34:17)"
+  },
+  "scramble": {
+    "verseRef": "9:129",
+    "reference": "At-Tawbah (9:129)",
+    "segments": [
+      "فَإِن تَوَلَّوْا فَقُلْ",
+      "حَسْبِيَ اللَّهُ",
+      "لَا إِلَٰهَ إِلَّا هُوَ",
+      "عَلَيْهِ تَوَكَّلْتُ",
+      "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ"
+    ],
+    "translations": [
+      "But if they turn away then say",
+      "Sufficient for me (is) Allah (There is) no",
+      "god except Him",
+      "On Him I put my trust And He",
+      "(is the) Lord (of) the Throne the Great"
+    ],
+    "hint": "A powerful declaration of complete trust (Tawakkul) in Allah, especially when facing opposition.",
+    "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+    "words": [
+      "فَإِن تَوَلَّوْا۟ فَقُلْ",
+      "حَسْبِىَ ٱللَّهُ لَآ",
+      "إِلَـٰهَ إِلَّا هُوَ ۖ",
+      "عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ",
+      "رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ"
+    ],
+    "verseEn": "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
+  }
 }

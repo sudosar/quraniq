@@ -1,29 +1,32 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "puzzle": {
-    "verseRef": "36:58",
-    "reference": "Surah Ya-Sin (36:58)",
+    "verseRef": "9:129",
+    "reference": "At-Tawbah (9:129)",
     "segments": [
-      "سَلَامٌ",
-      "قَوْلًا",
-      "مِّن رَّبٍّ",
-      "رَّحِيمٍ"
+      "فَإِن تَوَلَّوْا فَقُلْ",
+      "حَسْبِيَ اللَّهُ",
+      "لَا إِلَٰهَ إِلَّا هُوَ",
+      "عَلَيْهِ تَوَكَّلْتُ",
+      "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ"
     ],
     "translations": [
-      "Peace A word",
-      "from",
-      "a Lord",
-      "Most Merciful"
+      "But if they turn away then say",
+      "Sufficient for me (is) Allah (There is) no",
+      "god except Him",
+      "On Him I put my trust And He",
+      "(is the) Lord (of) the Throne the Great"
     ],
-    "hint": "This is the greeting that the believers will receive directly from Allah in Paradise.",
-    "arabic": "سَلَـٰمٌۭ قَوْلًۭا مِّن رَّبٍّۢ رَّحِيمٍۢ",
+    "hint": "A powerful declaration of complete trust (Tawakkul) in Allah, especially when facing opposition.",
+    "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
     "words": [
-      "سَلَـٰمٌۭ قَوْلًۭا",
-      "مِّن",
-      "رَّبٍّۢ",
-      "رَّحِيمٍۢ"
+      "فَإِن تَوَلَّوْا۟ فَقُلْ",
+      "حَسْبِىَ ٱللَّهُ لَآ",
+      "إِلَـٰهَ إِلَّا هُوَ ۖ",
+      "عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ",
+      "رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ"
     ],
-    "verseEn": "[And] \"Peace,\" a word from a Merciful Lord."
+    "verseEn": "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
   },
   "generated": true,
   "model": "auto (chain)"

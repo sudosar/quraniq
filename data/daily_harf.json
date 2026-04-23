@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "puzzle": {
-    "word": "برهان",
-    "display": "بُرْهَان",
-    "hint": "A conclusive proof or clear evidence; what Prophet Yusuf (AS) saw from his Lord.",
-    "verseRef": "12:24",
-    "arabicVerse": "وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
-    "verse": "12:24 — And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants."
+    "word": "تقوى",
+    "display": "تَقْوَىٰ",
+    "hint": "A shield against evil and the best provision for the journey.",
+    "verseRef": "22:37",
+    "arabicVerse": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+    "verse": "22:37 — Their meat will not reach Allāh, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allāh for that [to] which He has guided you; and give good tidings to the doers of good."
   },
   "generated": true,
   "model": "auto (chain)"
