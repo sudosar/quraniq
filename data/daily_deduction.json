@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "puzzle": {
-    "title": "A Kingdom Undone by Ingratitude",
-    "intro": "A prosperous civilization, blessed with immense wealth and fertile lands, found its legacy washed away. Their story is a stark reminder that blessings, when met with arrogance and ingratitude, can vanish in an instant. What brought about the downfall of this once-mighty people?",
+    "title": "The Message Amidst the Mockery",
+    "intro": "For centuries, a devoted servant of Allah delivered a message of warning to a stubborn and arrogant people. Despite tireless efforts and patient pleas, their hearts remained sealed in disbelief. This individual's unwavering faith would ultimately lead to a world-altering event, a testament to divine justice and mercy for the few who heeded the call. Can you uncover the identity of this steadfast messenger?",
     "clues": [
-      "We lived in a land of immense prosperity, a testament to the favors bestowed upon us.",
-      "Our civilization was renowned for two magnificent gardens, one on the right and one on the left.",
-      "A great structure of our own making, a massive dam, was central to our agricultural wealth and security.",
-      "Despite these clear signs, we turned away from gratitude and worship, ignoring the call of the messengers.",
-      "Our punishment came in the form of a torrent, a flood that destroyed the very source of our pride.",
-      "Allah replaced our lush, fruitful gardens with bitter produce, tamarisks, and a few sparse lote-trees, scattering us throughout the lands."
+      "I called to my people night and day, but my call only increased their flight from the truth.",
+      "They would put their fingers in their ears and cover themselves with their garments, persisting in their arrogance.",
+      "I lived among them for a lifetime, a total of 950 years, yet most did not believe.",
+      "I pleaded with my Lord for my own child, who refused to join me, but was told they were not of my family due to their unrighteous actions.",
+      "Under Allah's watchful eyes and inspiration, I constructed a great vessel, a means of salvation from a coming deluge.",
+      "The floodwaters engulfed the entire earth, and only those who boarded the Ark with me, along with a pair of every creature, were saved."
     ],
     "categories": {
       "identity": {
-        "label": "Who Are We?",
+        "label": "Who Am I?",
         "options": [
-          "The People of 'Ad",
-          "The People of Thamud",
-          "The People of Madyan",
-          "The People of Saba'",
-          "The People of the Ditch"
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Nuh",
+          "Prophet Shu'ayb",
+          "Prophet Lut"
         ],
-        "answer": "The People of Saba'"
+        "answer": "Prophet Nuh"
       },
       "trial": {
-        "label": "What Was Our Sin?",
+        "label": "What Was My Great Trial?",
         "options": [
-          "Killing a sacred she-camel",
-          "Giving short measure in trade",
-          "Turning away in ingratitude",
-          "Building a tower to challenge Allah",
-          "Worshipping a golden calf"
+          "Being cast into a fire by a tyrannical king",
+          "Calling my people to Tawhid for 950 years and the Great Flood",
+          "Facing the magicians of a powerful Pharaoh",
+          "A test involving the sacrifice of my son",
+          "Being swallowed by a giant fish"
         ],
-        "answer": "Turning away in ingratitude"
+        "answer": "Calling my people to Tawhid for 950 years and the Great Flood"
       },
       "location": {
-        "label": "What Was the Key Element?",
+        "label": "What Was the Key Element of Salvation?",
         "options": [
-          "The Ark of Prophet Nuh",
-          "The High Tower of Fir'awn",
-          "The Throne of Bilqis",
-          "The Dam of Ma'rib",
-          "The Perishable Garden"
+          "A staff that turned into a serpent",
+          "A she-camel that emerged from a rock",
+          "A coat that inspired a ruler's dream",
+          "The Ark (Al-Fulk)",
+          "A flock of birds carrying baked clay stones"
         ],
-        "answer": "The Dam of Ma'rib"
+        "answer": "The Ark (Al-Fulk)"
       },
       "outcome": {
-        "label": "What Was Our Punishment?",
+        "label": "What Was the Ultimate Outcome?",
         "options": [
-          "Being turned into apes",
-          "A devastating flood and being scattered",
-          "A rain of fire and brimstone",
-          "Being swallowed by the earth",
-          "A furious, roaring wind"
+          "My people were destroyed by a violent, roaring wind",
+          "My family was saved, but my wife turned back and was destroyed with the wicked cities",
+          "My entire nation accepted faith, and their punishment was averted",
+          "The disbelievers, including my son and wife, were drowned, and a new civilization began with the believers.",
+          "I was raised to the heavens, and my people were left in dispute"
         ],
-        "answer": "A devastating flood and being scattered"
+        "answer": "The disbelievers, including my son and wife, were drowned, and a new civilization began with the believers."
       }
     },
-    "verseRef": "34:17",
-    "arabic": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ",
-    "verse": "[By] that We repaid them because they disbelieved. And do We [thus] repay except the ungrateful? (34:17)"
+    "verseRef": "71:26",
+    "arabic": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+    "verse": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant. (71:26)"
   },
   "generated": true,
   "model": "auto (chain)"

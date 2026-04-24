@@ -1,32 +1,29 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "puzzle": {
-    "verseRef": "9:129",
-    "reference": "At-Tawbah (9:129)",
+    "verseRef": "51:56",
+    "reference": "Adh-Dhariyat (51:56)",
     "segments": [
-      "فَإِن تَوَلَّوْا فَقُلْ",
-      "حَسْبِيَ اللَّهُ",
-      "لَا إِلَٰهَ إِلَّا هُوَ",
-      "عَلَيْهِ تَوَكَّلْتُ",
-      "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ"
+      "وَمَا خَلَقْتُ",
+      "الْجِنَّ وَالْإِنسَ",
+      "إِلَّا",
+      "لِيَعْبُدُونِ"
     ],
     "translations": [
-      "But if they turn away then say",
-      "Sufficient for me (is) Allah (There is) no",
-      "god except Him",
-      "On Him I put my trust And He",
-      "(is the) Lord (of) the Throne the Great"
+      "And not I have created",
+      "the jinn and the mankind",
+      "except",
+      "that they worship Me"
     ],
-    "hint": "A powerful declaration of complete trust (Tawakkul) in Allah, especially when facing opposition.",
-    "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+    "hint": "This verse states the ultimate purpose behind the creation of both jinn and humankind.",
+    "arabic": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
     "words": [
-      "فَإِن تَوَلَّوْا۟ فَقُلْ",
-      "حَسْبِىَ ٱللَّهُ لَآ",
-      "إِلَـٰهَ إِلَّا هُوَ ۖ",
-      "عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ",
-      "رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ"
+      "وَمَا خَلَقْتُ",
+      "ٱلْجِنَّ وَٱلْإِنسَ",
+      "إِلَّا",
+      "لِيَعْبُدُونِ"
     ],
-    "verseEn": "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
+    "verseEn": "And I did not create the jinn and mankind except to worship Me."
   },
   "generated": true,
   "model": "auto (chain)"
