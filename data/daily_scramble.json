@@ -1,29 +1,29 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "puzzle": {
-    "verseRef": "51:56",
-    "reference": "Adh-Dhariyat (51:56)",
+    "verseRef": "21:83",
+    "reference": "Al-Anbiya (21:83)",
     "segments": [
-      "وَمَا خَلَقْتُ",
-      "الْجِنَّ وَالْإِنسَ",
-      "إِلَّا",
-      "لِيَعْبُدُونِ"
+      "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ",
+      "أَنِّي مَسَّنِيَ الضُّرُّ",
+      "وَأَنتَ أَرْحَمُ",
+      "الرَّاحِمِينَ"
     ],
     "translations": [
-      "And not I have created",
-      "the jinn and the mankind",
-      "except",
-      "that they worship Me"
+      "And Ayub when he called",
+      "(to) his Lord Indeed, [I] has touched me",
+      "the adversity and You",
+      "(are) Most Merciful (of) the Merciful"
     ],
-    "hint": "This verse states the ultimate purpose behind the creation of both jinn and humankind.",
-    "arabic": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+    "hint": "This is a powerful supplication made by a Prophet known for his immense patience during a period of great trial.",
+    "arabic": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
     "words": [
-      "وَمَا خَلَقْتُ",
-      "ٱلْجِنَّ وَٱلْإِنسَ",
-      "إِلَّا",
-      "لِيَعْبُدُونِ"
+      "۞ وَأَيُّوبَ إِذْ نَادَىٰ",
+      "رَبَّهُۥٓ أَنِّى مَسَّنِىَ",
+      "ٱلضُّرُّ وَأَنتَ",
+      "أَرْحَمُ ٱلرَّٰحِمِينَ"
     ],
-    "verseEn": "And I did not create the jinn and mankind except to worship Me."
+    "verseEn": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\""
   },
   "generated": true,
   "model": "auto (chain)"

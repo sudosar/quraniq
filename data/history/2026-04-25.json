@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-25",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَنْبِيَاءٌ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "دار",
+    "display": "دَارِ",
+    "hint": "A dwelling, an abode, a place of peace.",
+    "verseRef": "10:25",
+    "arabicVerse": "وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "verse": "10:25 — And Allāh invites to the Home of Peace [i.e., Paradise] and guides whom He wills to a straight path."
+  },
+  "deduction": {
+    "title": "The Journey From the Depths",
+    "intro": "A story of envy, patience, and divine planning unfolds around this notable figure. From the depths of despair to a position of great authority, this individual's life was a testament to trusting in Allah's wisdom, even when faced with betrayal from those closest. Can you identify this soul whose journey was guided by visions and vindicated by truth?",
+    "clues": [
+      "I shared a vision I had with my father, which sparked jealousy among my siblings.",
+      "My own flesh and blood conspired against me, casting me away into darkness.",
+      "I was sold for a paltry price, becoming a servant in a foreign land.",
+      "I resisted a powerful temptation and chose prison over sin, declaring that my Lord is my protector.",
+      "My ability to interpret dreams, a gift from Allah, was the key to my freedom and brought me before the ruler of the land.",
+      "I devised a plan using a royal measuring cup to reunite with my youngest brother."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yusuf",
+          "Prophet Musa",
+          "Dhul-Qarnayn",
+          "Prophet 'Isa",
+          "Prophet Dawud"
+        ],
+        "answer": "Prophet Yusuf"
+      },
+      "trial": {
+        "label": "What Was My Trial?",
+        "options": [
+          "Building a great ship to escape a flood",
+          "Being swallowed by a giant fish",
+          "Betrayal by siblings and false accusation",
+          "Confronting a king who claimed divinity",
+          "Leading an army against a giant's forces"
+        ],
+        "answer": "Betrayal by siblings and false accusation"
+      },
+      "location": {
+        "label": "What Was a Key Element?",
+        "options": [
+          "A staff that turned into a serpent",
+          "A coat of many colors",
+          "An ark of the covenant",
+          "A miraculous she-camel",
+          "A flock of birds that obeyed commands"
+        ],
+        "answer": "A coat of many colors"
+      },
+      "outcome": {
+        "label": "What Was the Outcome?",
+        "options": [
+          "The parting of the sea and destruction of an army",
+          "A city's destruction by a shower of stones",
+          "Being raised to the heavens alive",
+          "Forgiveness, family reunion, and leadership in Egypt",
+          "The construction of the Kaaba with a parent"
+        ],
+        "answer": "Forgiveness, family reunion, and leadership in Egypt"
+      }
+    },
+    "verseRef": "12:55",
+    "arabic": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ",
+    "verse": "[Joseph] said, \"Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian.\" (12:55)"
+  },
+  "scramble": {
+    "verseRef": "21:83",
+    "reference": "Al-Anbiya (21:83)",
+    "segments": [
+      "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ",
+      "أَنِّي مَسَّنِيَ الضُّرُّ",
+      "وَأَنتَ أَرْحَمُ",
+      "الرَّاحِمِينَ"
+    ],
+    "translations": [
+      "And Ayub when he called",
+      "(to) his Lord Indeed, [I] has touched me",
+      "the adversity and You",
+      "(are) Most Merciful (of) the Merciful"
+    ],
+    "hint": "This is a powerful supplication made by a Prophet known for his immense patience during a period of great trial.",
+    "arabic": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "words": [
+      "۞ وَأَيُّوبَ إِذْ نَادَىٰ",
+      "رَبَّهُۥٓ أَنِّى مَسَّنِىَ",
+      "ٱلضُّرُّ وَأَنتَ",
+      "أَرْحَمُ ٱلرَّٰحِمِينَ"
+    ],
+    "verseEn": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\""
+  }
 }
