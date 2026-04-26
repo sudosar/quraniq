@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-26",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَطْعِمَةٌ وَأَشْرِبَةٌ مِنْ الْجَنَّةِ",
@@ -144,6 +143,104 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "اله",
+    "display": "إِلَهِ",
+    "hint": "A term for a deity, central to monotheistic belief.",
+    "verseRef": "114:3",
+    "arabicVerse": "إِلَـٰهِ ٱلنَّاسِ",
+    "verse": "114:3 — The God of mankind,"
+  },
+  "deduction": {
+    "title": "The Hidden Conviction",
+    "intro": "In a time of tyranny and open defiance against divine guidance, a soul found themselves in a unique and perilous position. Living within the very stronghold of oppression, this individual held a truth that could cost everything, yet they chose to speak out, offering counsel and warnings to those who refused to see. Their words were a beacon of reason amidst a storm of arrogance, a quiet but powerful stand for justice and faith.",
+    "clues": [
+      "I lived among those who wielded immense power, yet I saw their path leading to destruction.",
+      "I witnessed a great prophet's signs, but many around me denied them, calling them mere magic.",
+      "My true beliefs were kept secret for a time, for revealing them openly would have meant certain doom.",
+      "I tried to reason with a mighty ruler and his council, reminding them of past nations destroyed for their transgressions.",
+      "I warned my people against harming a messenger sent by Allah, asking them to consider the consequences of their actions.",
+      "I specifically mentioned the fate of the people of Nuh, 'Ad, and Thamud as examples for my own people to heed."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qarun",
+          "Prophet Yunus",
+          "The Believer from the family of Pharaoh",
+          "The wife of Fir'awn",
+          "Luqman the Wise"
+        ],
+        "answer": "The Believer from the family of Pharaoh"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being swallowed by a whale",
+          "Engaging in a debate with a bird",
+          "Defending a prophet while concealing one's faith",
+          "Being thrown into a blazing fire",
+          "Leading a people out of bondage through a parted sea"
+        ],
+        "answer": "Defending a prophet while concealing one's faith"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark/Ship",
+          "The Staff that transformed into a serpent",
+          "The Mountain of Tur",
+          "The Kaaba",
+          "Pharaoh's court/council"
+        ],
+        "answer": "Pharaoh's court/council"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Being granted a vast kingdom and dominion over jinn",
+          "Divine protection and a warning to one's people",
+          "A flood that engulfed all disbelievers",
+          "Receiving a miraculous birth without a father",
+          "Being reunited with a lost family after years of separation"
+        ],
+        "answer": "Divine protection and a warning to one's people"
+      }
+    },
+    "verseRef": "40:28",
+    "arabic": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَـٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَـٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
+    "verse": "And a believing man from the family of Pharaoh who concealed his faith said, \"Do you kill a man [merely] because he says, 'My Lord is Allāh' while he has brought you clear proofs from your Lord? And if he should be lying, then upon him is [the consequence of] his lie; but if he should be truthful, there will strike you some of what he promises you. Indeed, Allāh does not guide one who is a transgressor and a liar. (40:28)"
+  },
+  "scramble": {
+    "verseRef": "32:9",
+    "reference": "As-Sajdah (32:9)",
+    "segments": [
+      "ثُمَّ سَوَّاهُ",
+      "وَنَفَخَ فِيهِ",
+      "مِن رُّوحِهِ",
+      "وَجَعَلَ لَكُمُ السَّمْعَ",
+      "وَالْأَبْصَارَ وَالْأَفْئِدَةَ",
+      "قَلِيلًا مَّا تَشْكُرُونَ"
+    ],
+    "translations": [
+      "Then He fashioned him and breathed",
+      "into him from His spirit",
+      "and made for you",
+      "the hearing and the sight",
+      "and feelings little",
+      "[what] thanks you give"
+    ],
+    "hint": "This verse describes Allah's creation of humankind and the gifts of perception, highlighting a common human failing regarding gratitude.",
+    "arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
+    "words": [
+      "ثُمَّ سَوَّىٰهُ وَنَفَخَ",
+      "فِيهِ مِن رُّوحِهِۦ ۖ",
+      "وَجَعَلَ لَكُمُ",
+      "ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ",
+      "وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا",
+      "مَّا تَشْكُرُونَ"
+    ],
+    "verseEn": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
+  }
 }

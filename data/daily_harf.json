@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "puzzle": {
-    "word": "دار",
-    "display": "دَارِ",
-    "hint": "A dwelling, an abode, a place of peace.",
-    "verseRef": "10:25",
-    "arabicVerse": "وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
-    "verse": "10:25 — And Allāh invites to the Home of Peace [i.e., Paradise] and guides whom He wills to a straight path."
+    "word": "اله",
+    "display": "إِلَهِ",
+    "hint": "A term for a deity, central to monotheistic belief.",
+    "verseRef": "114:3",
+    "arabicVerse": "إِلَـٰهِ ٱلنَّاسِ",
+    "verse": "114:3 — The God of mankind,"
   },
   "generated": true,
   "model": "auto (chain)"

@@ -1,29 +1,35 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "puzzle": {
-    "verseRef": "21:83",
-    "reference": "Al-Anbiya (21:83)",
+    "verseRef": "32:9",
+    "reference": "As-Sajdah (32:9)",
     "segments": [
-      "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ",
-      "أَنِّي مَسَّنِيَ الضُّرُّ",
-      "وَأَنتَ أَرْحَمُ",
-      "الرَّاحِمِينَ"
+      "ثُمَّ سَوَّاهُ",
+      "وَنَفَخَ فِيهِ",
+      "مِن رُّوحِهِ",
+      "وَجَعَلَ لَكُمُ السَّمْعَ",
+      "وَالْأَبْصَارَ وَالْأَفْئِدَةَ",
+      "قَلِيلًا مَّا تَشْكُرُونَ"
     ],
     "translations": [
-      "And Ayub when he called",
-      "(to) his Lord Indeed, [I] has touched me",
-      "the adversity and You",
-      "(are) Most Merciful (of) the Merciful"
+      "Then He fashioned him and breathed",
+      "into him from His spirit",
+      "and made for you",
+      "the hearing and the sight",
+      "and feelings little",
+      "[what] thanks you give"
     ],
-    "hint": "This is a powerful supplication made by a Prophet known for his immense patience during a period of great trial.",
-    "arabic": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "hint": "This verse describes Allah's creation of humankind and the gifts of perception, highlighting a common human failing regarding gratitude.",
+    "arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
     "words": [
-      "۞ وَأَيُّوبَ إِذْ نَادَىٰ",
-      "رَبَّهُۥٓ أَنِّى مَسَّنِىَ",
-      "ٱلضُّرُّ وَأَنتَ",
-      "أَرْحَمُ ٱلرَّٰحِمِينَ"
+      "ثُمَّ سَوَّىٰهُ وَنَفَخَ",
+      "فِيهِ مِن رُّوحِهِۦ ۖ",
+      "وَجَعَلَ لَكُمُ",
+      "ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ",
+      "وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا",
+      "مَّا تَشْكُرُونَ"
     ],
-    "verseEn": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\""
+    "verseEn": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
   },
   "generated": true,
   "model": "auto (chain)"
