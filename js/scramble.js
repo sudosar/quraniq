@@ -124,7 +124,7 @@ function renderScramble() {
     // Reference
     const ref = scr.puzzle.reference;
     const refLink = refToQuranLink(ref);
-    document.getElementById('scramble-reference').innerHTML = `${ref} <a href="${refLink}" target="_blank" class="context-btn" title="View Context on Quran.com">📖</a>`;
+    document.getElementById('scramble-reference').innerHTML = `${ref} <a href="${refLink}" target="_blank" class="context-btn" title="View Context on Sabaq.net">📖</a>`;
 
     // Free theme hint — always visible
     let themeEl = document.getElementById('scramble-theme-hint');
@@ -199,13 +199,13 @@ function renderScramble() {
         const arabicHtml = scr.puzzle.arabic ? `<span class="result-verse-arabic" style="font-size: 1.4rem;">${scr.puzzle.arabic}</span>` : '';
         const transHtml = translationText ? `<span class="translation" style="font-size: 0.95rem;">— ${translationText}</span>` : '';
 
-        // Optional clickable link to Quran.com
+        // Optional clickable link to Sabaq.net
         const parsedNode = parseQuranRef(scr.puzzle.verseRef || scr.puzzle.reference);
-        const quranUrl = parsedNode ? `https://quran.com/${parsedNode.surah}/${parsedNode.ayah}` : null;
+        const quranUrl = parsedNode ? `https://sabaq.net/?s=${parsedNode.surah}&v=${parsedNode.ayah}` : null;
 
         let contentHtml = `<div class="result-verse-title">${surahTitle}</div>${arabicHtml}${transHtml}`;
         if (quranUrl) {
-            contentHtml = `<a href="${quranUrl}" target="_blank" rel="noopener noreferrer" class="result-verse-link" title="Read on Quran.com"><span class="context-icon">📖</span> ${contentHtml}</a>`;
+            contentHtml = `<a href="${quranUrl}" target="_blank" rel="noopener noreferrer" class="result-verse-link" title="Read on Sabaq.net"><span class="context-icon">📖</span> ${contentHtml}</a>`;
         }
 
         completedVerseEl.innerHTML = contentHtml;
