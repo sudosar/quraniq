@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "puzzle": {
-    "word": "اله",
-    "display": "إِلَهِ",
-    "hint": "A term for a deity, central to monotheistic belief.",
-    "verseRef": "114:3",
-    "arabicVerse": "إِلَـٰهِ ٱلنَّاسِ",
-    "verse": "114:3 — The God of mankind,"
+    "word": "ابد",
+    "display": "أَبَد",
+    "hint": "Describes a state of everlastingness or eternity, often promised for the dwellers of paradise.",
+    "verseRef": "18:3",
+    "arabicVerse": "مَّـٰكِثِينَ فِيهِ أَبَدًۭا",
+    "verse": "18:3 — In which they will remain forever"
   },
   "generated": true,
   "model": "auto (chain)"

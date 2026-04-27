@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "puzzle": {
-    "title": "The Hidden Conviction",
-    "intro": "In a time of tyranny and open defiance against divine guidance, a soul found themselves in a unique and perilous position. Living within the very stronghold of oppression, this individual held a truth that could cost everything, yet they chose to speak out, offering counsel and warnings to those who refused to see. Their words were a beacon of reason amidst a storm of arrogance, a quiet but powerful stand for justice and faith.",
+    "title": "The Silent Protector's Burden",
+    "intro": "In a time of great oppression, a divine command brought both profound fear and unwavering hope to a particular soul. This individual faced an unimaginable trial, entrusted with a precious life amidst a ruler's cruel decree. Their story is a testament to trust in the unseen and the miraculous safeguarding of Allah.",
     "clues": [
-      "I lived among those who wielded immense power, yet I saw their path leading to destruction.",
-      "I witnessed a great prophet's signs, but many around me denied them, calling them mere magic.",
-      "My true beliefs were kept secret for a time, for revealing them openly would have meant certain doom.",
-      "I tried to reason with a mighty ruler and his council, reminding them of past nations destroyed for their transgressions.",
-      "I warned my people against harming a messenger sent by Allah, asking them to consider the consequences of their actions.",
-      "I specifically mentioned the fate of the people of Nuh, 'Ad, and Thamud as examples for my own people to heed."
+      "I lived in a land where a powerful ruler caused great corruption and tyranny.",
+      "I was overcome with fear for my newborn, as the ruler decreed the killing of all male infants.",
+      "I received a divine inspiration, a command that seemed both terrifying and miraculous.",
+      "I placed my infant in a chest, entrusting him to the currents of a mighty river.",
+      "I instructed another of my children to follow the chest's journey, to observe its fate from a distance.",
+      "My child was eventually returned to me, to be nursed and raised in the very household that sought his destruction."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Qarun",
-          "Prophet Yunus",
-          "The Believer from the family of Pharaoh",
           "The wife of Fir'awn",
-          "Luqman the Wise"
+          "The mother of Prophet Musa",
+          "The sister of Prophet Musa",
+          "The wife of Prophet Ibrahim",
+          "The mother of Prophet Isa"
         ],
-        "answer": "The Believer from the family of Pharaoh"
+        "answer": "The mother of Prophet Musa"
       },
       "trial": {
         "label": "Trial/Event",
         "options": [
+          "Being thrown into a fire",
           "Being swallowed by a whale",
-          "Engaging in a debate with a bird",
-          "Defending a prophet while concealing one's faith",
-          "Being thrown into a blazing fire",
-          "Leading a people out of bondage through a parted sea"
+          "Being accused of immorality",
+          "Placing an infant in a river",
+          "Leading a migration across a desert"
         ],
-        "answer": "Defending a prophet while concealing one's faith"
+        "answer": "Placing an infant in a river"
       },
       "location": {
         "label": "Key Element",
         "options": [
-          "The Ark/Ship",
-          "The Staff that transformed into a serpent",
-          "The Mountain of Tur",
-          "The Kaaba",
-          "Pharaoh's court/council"
+          "A staff turning into a serpent",
+          "A talking bird",
+          "A wooden chest",
+          "A golden calf",
+          "A ship built for a flood"
         ],
-        "answer": "Pharaoh's court/council"
+        "answer": "A wooden chest"
       },
       "outcome": {
         "label": "Outcome",
         "options": [
-          "Being granted a vast kingdom and dominion over jinn",
-          "Divine protection and a warning to one's people",
-          "A flood that engulfed all disbelievers",
-          "Receiving a miraculous birth without a father",
-          "Being reunited with a lost family after years of separation"
+          "Becoming a ruler",
+          "Being reunited with the child for nursing",
+          "Witnessing the splitting of the sea",
+          "Receiving a kingdom",
+          "Being granted immense wealth"
         ],
-        "answer": "Divine protection and a warning to one's people"
+        "answer": "Being reunited with the child for nursing"
       }
     },
-    "verseRef": "40:28",
-    "arabic": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَـٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَـٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
-    "verse": "And a believing man from the family of Pharaoh who concealed his faith said, \"Do you kill a man [merely] because he says, 'My Lord is Allāh' while he has brought you clear proofs from your Lord? And if he should be lying, then upon him is [the consequence of] his lie; but if he should be truthful, there will strike you some of what he promises you. Indeed, Allāh does not guide one who is a transgressor and a liar. (40:28)"
+    "verseRef": "28:7",
+    "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+    "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
   },
   "generated": true,
   "model": "auto (chain)"

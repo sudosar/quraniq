@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-27",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَسْمَاءُ الْكُتُبِ الْمُنَزَّلَةِ فِي الْقُرْآنِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "ابد",
+    "display": "أَبَد",
+    "hint": "Describes a state of everlastingness or eternity, often promised for the dwellers of paradise.",
+    "verseRef": "18:3",
+    "arabicVerse": "مَّـٰكِثِينَ فِيهِ أَبَدًۭا",
+    "verse": "18:3 — In which they will remain forever"
+  },
+  "deduction": {
+    "title": "The Silent Protector's Burden",
+    "intro": "In a time of great oppression, a divine command brought both profound fear and unwavering hope to a particular soul. This individual faced an unimaginable trial, entrusted with a precious life amidst a ruler's cruel decree. Their story is a testament to trust in the unseen and the miraculous safeguarding of Allah.",
+    "clues": [
+      "I lived in a land where a powerful ruler caused great corruption and tyranny.",
+      "I was overcome with fear for my newborn, as the ruler decreed the killing of all male infants.",
+      "I received a divine inspiration, a command that seemed both terrifying and miraculous.",
+      "I placed my infant in a chest, entrusting him to the currents of a mighty river.",
+      "I instructed another of my children to follow the chest's journey, to observe its fate from a distance.",
+      "My child was eventually returned to me, to be nursed and raised in the very household that sought his destruction."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The wife of Fir'awn",
+          "The mother of Prophet Musa",
+          "The sister of Prophet Musa",
+          "The wife of Prophet Ibrahim",
+          "The mother of Prophet Isa"
+        ],
+        "answer": "The mother of Prophet Musa"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being thrown into a fire",
+          "Being swallowed by a whale",
+          "Being accused of immorality",
+          "Placing an infant in a river",
+          "Leading a migration across a desert"
+        ],
+        "answer": "Placing an infant in a river"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A staff turning into a serpent",
+          "A talking bird",
+          "A wooden chest",
+          "A golden calf",
+          "A ship built for a flood"
+        ],
+        "answer": "A wooden chest"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Becoming a ruler",
+          "Being reunited with the child for nursing",
+          "Witnessing the splitting of the sea",
+          "Receiving a kingdom",
+          "Being granted immense wealth"
+        ],
+        "answer": "Being reunited with the child for nursing"
+      }
+    },
+    "verseRef": "28:7",
+    "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+    "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+  },
+  "scramble": {
+    "verseRef": "52:49",
+    "reference": "At-Tur (52:49)",
+    "segments": [
+      "وَمِنَ اللَّيْلِ",
+      "فَسَبِّحْهُ",
+      "وَإِدْبَارَ",
+      "النُّجُومِ"
+    ],
+    "translations": [
+      "And of the night",
+      "glorify Him",
+      "and after",
+      "the stars"
+    ],
+    "hint": "This verse encourages continuous remembrance of Allah during specific times of the day, emphasizing devotion at night and dawn.",
+    "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+    "words": [
+      "وَمِنَ ٱلَّيْلِ",
+      "فَسَبِّحْهُ",
+      "وَإِدْبَـٰرَ",
+      "ٱلنُّجُومِ"
+    ],
+    "verseEn": "And in a part of the night exalt Him and after [the setting of] the stars."
+  }
 }

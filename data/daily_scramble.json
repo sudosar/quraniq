@@ -1,35 +1,29 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "puzzle": {
-    "verseRef": "32:9",
-    "reference": "As-Sajdah (32:9)",
+    "verseRef": "52:49",
+    "reference": "At-Tur (52:49)",
     "segments": [
-      "ثُمَّ سَوَّاهُ",
-      "وَنَفَخَ فِيهِ",
-      "مِن رُّوحِهِ",
-      "وَجَعَلَ لَكُمُ السَّمْعَ",
-      "وَالْأَبْصَارَ وَالْأَفْئِدَةَ",
-      "قَلِيلًا مَّا تَشْكُرُونَ"
+      "وَمِنَ اللَّيْلِ",
+      "فَسَبِّحْهُ",
+      "وَإِدْبَارَ",
+      "النُّجُومِ"
     ],
     "translations": [
-      "Then He fashioned him and breathed",
-      "into him from His spirit",
-      "and made for you",
-      "the hearing and the sight",
-      "and feelings little",
-      "[what] thanks you give"
+      "And of the night",
+      "glorify Him",
+      "and after",
+      "the stars"
     ],
-    "hint": "This verse describes Allah's creation of humankind and the gifts of perception, highlighting a common human failing regarding gratitude.",
-    "arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
+    "hint": "This verse encourages continuous remembrance of Allah during specific times of the day, emphasizing devotion at night and dawn.",
+    "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
     "words": [
-      "ثُمَّ سَوَّىٰهُ وَنَفَخَ",
-      "فِيهِ مِن رُّوحِهِۦ ۖ",
-      "وَجَعَلَ لَكُمُ",
-      "ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ",
-      "وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا",
-      "مَّا تَشْكُرُونَ"
+      "وَمِنَ ٱلَّيْلِ",
+      "فَسَبِّحْهُ",
+      "وَإِدْبَـٰرَ",
+      "ٱلنُّجُومِ"
     ],
-    "verseEn": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
+    "verseEn": "And in a part of the night exalt Him and after [the setting of] the stars."
   },
   "generated": true,
   "model": "auto (chain)"
