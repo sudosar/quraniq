@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-28",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "أَفْعَالُ الدَّعْوَةِ وَالنِّدَاءِ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "فوز",
+    "display": "الْفَوْزُ",
+    "hint": "The ultimate triumph or great achievement often promised to the righteous.",
+    "verseRef": "5:119",
+    "arabicVerse": "قَالَ ٱللَّهُ هَـٰذَا يَوْمُ يَنفَعُ ٱلصَّـٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "verse": "5:119 — Allāh will say, \"This is the Day when the truthful will benefit from their truthfulness.\" For them are gardens [in Paradise] beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them, and they with Him. That is the great attainment."
+  },
+  "deduction": {
+    "title": "The Unconventional Leader",
+    "intro": "In a time of great challenge, a people sought a leader to guide them in battle. A divine choice was made, not based on worldly expectations, but on wisdom and strength. This individual faced initial skepticism but was destined to lead with courage.",
+    "clues": [
+      "I was chosen by divine command to lead a people who had asked for a ruler.",
+      "My appointment was met with doubt because I was not from a lineage typically associated with rulership, nor did I possess vast wealth.",
+      "My people were given a sign of my authority: a chest containing relics and tranquility, carried by angels.",
+      "I led my forces to a river, where I tested their obedience by forbidding them to drink, save for a single scoop.",
+      "With a small, steadfast army, I faced a giant warrior who boasted of his might.",
+      "Though I was the leader, it was a young individual from my army who ultimately struck down our formidable enemy."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yusuf",
+          "Prophet Musa",
+          "Qarun",
+          "Dhul-Qarnayn",
+          "Talut"
+        ],
+        "answer": "Talut"
+      },
+      "trial": {
+        "label": "Key Challenge",
+        "options": [
+          "Facing the army of Fir'awn",
+          "Being cast into a well by siblings",
+          "Leading a small army against a giant",
+          "Building a massive barrier against aggressors",
+          "Enduring a long period of imprisonment"
+        ],
+        "answer": "Leading a small army against a giant"
+      },
+      "location": {
+        "label": "Significant Object/Place",
+        "options": [
+          "The Ark of Nuh",
+          "The Burning Bush",
+          "The Ark of the Covenant",
+          "The Iron Mountain",
+          "The City of Iram"
+        ],
+        "answer": "The Ark of the Covenant"
+      },
+      "outcome": {
+        "label": "Outcome of the Campaign",
+        "options": [
+          "Being swallowed by the earth with wealth",
+          "Ascending to the heavens alive",
+          "Achieving a decisive victory against a powerful foe",
+          "Receiving a kingdom after being saved from a great flood",
+          "Being granted the ability to speak to animals"
+        ],
+        "answer": "Achieving a decisive victory against a powerful foe"
+      }
+    },
+    "verseRef": "2:247",
+    "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+    "verse": "And their prophet said to them, \"Indeed, Allāh has sent to you Saul as a king.\" They said, \"How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?\" He said, \"Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing.\" (2:247)"
+  },
+  "scramble": {
+    "verseRef": "109:6",
+    "reference": "Al-Kafirun (109:6)",
+    "segments": [
+      "لَكُمْ",
+      "دِينُكُمْ",
+      "وَلِيَ",
+      "دِينِ"
+    ],
+    "translations": [
+      "For you",
+      "(is) your religion",
+      "and for me",
+      "(is) my religion"
+    ],
+    "hint": "This verse concludes a surah emphasizing a clear distinction in faith and religious tolerance.",
+    "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "words": [
+      "لَكُمْ",
+      "دِينُكُمْ",
+      "وَلِىَ",
+      "دِينِ"
+    ],
+    "verseEn": "For you is your religion, and for me is my religion.\""
+  }
 }

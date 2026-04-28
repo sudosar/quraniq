@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "puzzle": {
-    "title": "The Silent Protector's Burden",
-    "intro": "In a time of great oppression, a divine command brought both profound fear and unwavering hope to a particular soul. This individual faced an unimaginable trial, entrusted with a precious life amidst a ruler's cruel decree. Their story is a testament to trust in the unseen and the miraculous safeguarding of Allah.",
+    "title": "The Unconventional Leader",
+    "intro": "In a time of great challenge, a people sought a leader to guide them in battle. A divine choice was made, not based on worldly expectations, but on wisdom and strength. This individual faced initial skepticism but was destined to lead with courage.",
     "clues": [
-      "I lived in a land where a powerful ruler caused great corruption and tyranny.",
-      "I was overcome with fear for my newborn, as the ruler decreed the killing of all male infants.",
-      "I received a divine inspiration, a command that seemed both terrifying and miraculous.",
-      "I placed my infant in a chest, entrusting him to the currents of a mighty river.",
-      "I instructed another of my children to follow the chest's journey, to observe its fate from a distance.",
-      "My child was eventually returned to me, to be nursed and raised in the very household that sought his destruction."
+      "I was chosen by divine command to lead a people who had asked for a ruler.",
+      "My appointment was met with doubt because I was not from a lineage typically associated with rulership, nor did I possess vast wealth.",
+      "My people were given a sign of my authority: a chest containing relics and tranquility, carried by angels.",
+      "I led my forces to a river, where I tested their obedience by forbidding them to drink, save for a single scoop.",
+      "With a small, steadfast army, I faced a giant warrior who boasted of his might.",
+      "Though I was the leader, it was a young individual from my army who ultimately struck down our formidable enemy."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The wife of Fir'awn",
-          "The mother of Prophet Musa",
-          "The sister of Prophet Musa",
-          "The wife of Prophet Ibrahim",
-          "The mother of Prophet Isa"
+          "Prophet Yusuf",
+          "Prophet Musa",
+          "Qarun",
+          "Dhul-Qarnayn",
+          "Talut"
         ],
-        "answer": "The mother of Prophet Musa"
+        "answer": "Talut"
       },
       "trial": {
-        "label": "Trial/Event",
+        "label": "Key Challenge",
         "options": [
-          "Being thrown into a fire",
-          "Being swallowed by a whale",
-          "Being accused of immorality",
-          "Placing an infant in a river",
-          "Leading a migration across a desert"
+          "Facing the army of Fir'awn",
+          "Being cast into a well by siblings",
+          "Leading a small army against a giant",
+          "Building a massive barrier against aggressors",
+          "Enduring a long period of imprisonment"
         ],
-        "answer": "Placing an infant in a river"
+        "answer": "Leading a small army against a giant"
       },
       "location": {
-        "label": "Key Element",
+        "label": "Significant Object/Place",
         "options": [
-          "A staff turning into a serpent",
-          "A talking bird",
-          "A wooden chest",
-          "A golden calf",
-          "A ship built for a flood"
+          "The Ark of Nuh",
+          "The Burning Bush",
+          "The Ark of the Covenant",
+          "The Iron Mountain",
+          "The City of Iram"
         ],
-        "answer": "A wooden chest"
+        "answer": "The Ark of the Covenant"
       },
       "outcome": {
-        "label": "Outcome",
+        "label": "Outcome of the Campaign",
         "options": [
-          "Becoming a ruler",
-          "Being reunited with the child for nursing",
-          "Witnessing the splitting of the sea",
-          "Receiving a kingdom",
-          "Being granted immense wealth"
+          "Being swallowed by the earth with wealth",
+          "Ascending to the heavens alive",
+          "Achieving a decisive victory against a powerful foe",
+          "Receiving a kingdom after being saved from a great flood",
+          "Being granted the ability to speak to animals"
         ],
-        "answer": "Being reunited with the child for nursing"
+        "answer": "Achieving a decisive victory against a powerful foe"
       }
     },
-    "verseRef": "28:7",
-    "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
-    "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+    "verseRef": "2:247",
+    "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+    "verse": "And their prophet said to them, \"Indeed, Allāh has sent to you Saul as a king.\" They said, \"How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?\" He said, \"Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing.\" (2:247)"
   },
   "generated": true,
   "model": "auto (chain)"

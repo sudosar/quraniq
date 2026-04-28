@@ -1,29 +1,29 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "puzzle": {
-    "verseRef": "52:49",
-    "reference": "At-Tur (52:49)",
+    "verseRef": "109:6",
+    "reference": "Al-Kafirun (109:6)",
     "segments": [
-      "وَمِنَ اللَّيْلِ",
-      "فَسَبِّحْهُ",
-      "وَإِدْبَارَ",
-      "النُّجُومِ"
+      "لَكُمْ",
+      "دِينُكُمْ",
+      "وَلِيَ",
+      "دِينِ"
     ],
     "translations": [
-      "And of the night",
-      "glorify Him",
-      "and after",
-      "the stars"
+      "For you",
+      "(is) your religion",
+      "and for me",
+      "(is) my religion"
     ],
-    "hint": "This verse encourages continuous remembrance of Allah during specific times of the day, emphasizing devotion at night and dawn.",
-    "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+    "hint": "This verse concludes a surah emphasizing a clear distinction in faith and religious tolerance.",
+    "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
     "words": [
-      "وَمِنَ ٱلَّيْلِ",
-      "فَسَبِّحْهُ",
-      "وَإِدْبَـٰرَ",
-      "ٱلنُّجُومِ"
+      "لَكُمْ",
+      "دِينُكُمْ",
+      "وَلِىَ",
+      "دِينِ"
     ],
-    "verseEn": "And in a part of the night exalt Him and after [the setting of] the stars."
+    "verseEn": "For you is your religion, and for me is my religion.\""
   },
   "generated": true,
   "model": "auto (chain)"
