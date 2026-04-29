@@ -1,29 +1,32 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "puzzle": {
-    "verseRef": "109:6",
-    "reference": "Al-Kafirun (109:6)",
+    "verseRef": "46:13",
+    "reference": "Al-Ahqaf (46:13)",
     "segments": [
-      "لَكُمْ",
-      "دِينُكُمْ",
-      "وَلِيَ",
-      "دِينِ"
+      "إِنَّ الَّذِينَ قَالُوا",
+      "رَبُّنَا اللَّهُ",
+      "ثُمَّ اسْتَقَامُوا",
+      "فَلَا خَوْفٌ عَلَيْهِمْ",
+      "وَلَا هُمْ يَحْزَنُونَ"
     ],
     "translations": [
-      "For you",
-      "(is) your religion",
-      "and for me",
-      "(is) my religion"
+      "Indeed those who say",
+      "Our Lord (is) Allah then",
+      "remain firm then no fear",
+      "on them and not",
+      "they will grieve"
     ],
-    "hint": "This verse concludes a surah emphasizing a clear distinction in faith and religious tolerance.",
-    "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "hint": "This verse speaks about the reward for steadfastness in faith and belief in Allah.",
+    "arabic": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
     "words": [
-      "لَكُمْ",
-      "دِينُكُمْ",
-      "وَلِىَ",
-      "دِينِ"
+      "إِنَّ ٱلَّذِينَ قَالُوا۟",
+      "رَبُّنَا ٱللَّهُ ثُمَّ",
+      "ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ",
+      "عَلَيْهِمْ وَلَا",
+      "هُمْ يَحْزَنُونَ"
     ],
-    "verseEn": "For you is your religion, and for me is my religion.\""
+    "verseEn": "Indeed, those who have said, \"Our Lord is Allāh,\" and then remained on a right course - there will be no fear concerning them, nor will they grieve."
   },
   "generated": true,
   "model": "auto (chain)"

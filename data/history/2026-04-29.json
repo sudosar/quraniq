@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-29",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ مُتَعَلِّقَةٌ بِالنَّوْمِ وَالرَّاحَةِ",
@@ -144,6 +143,101 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "يهدي",
+    "display": "يَهْدِي",
+    "hint": "This verb describes the divine act of showing the right way.",
+    "verseRef": "72:2",
+    "arabicVerse": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+    "verse": "72:2 — It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone."
+  },
+  "deduction": {
+    "title": "The Fate of a Defiant Settlement",
+    "intro": "Imagine a community thriving, yet lost in its ways, rejecting the divine guidance sent to them. This collective soul faced a profound test of faith, their actions leading to an irreversible destiny. Can you discern the identity of this group whose story serves as a powerful reminder in the Quran?",
+    "clues": [
+      "We were a community to whom messengers were sent to guide us to the Straight Path.",
+      "We accused those who brought us guidance of being ordinary mortals like ourselves, and denied that the Most Gracious had sent down anything.",
+      "We threatened our messengers with stoning if they did not cease their preaching and warnings.",
+      "We claimed that the messengers' message would bring us ill fortune, and that they were an evil omen for us.",
+      "We had a devoted supporter who came from the farthest part of the city, urging us to follow the messengers.",
+      "Our ultimate end came swiftly, with a single, devastating cry that left us utterly extinguished."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The People of Saba'",
+          "The People of the Ditch",
+          "The People of the Elephant",
+          "The Companions of the Sabbath",
+          "The People of the Town"
+        ],
+        "answer": "The People of the Town"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Worshipping idols made of wood",
+          "Breaking a sacred covenant with Allah",
+          "Rejecting the messengers and their message",
+          "Oppressing the poor and needy",
+          "Building a towering structure of defiance"
+        ],
+        "answer": "Rejecting the messengers and their message"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A flood that engulfed everything",
+          "An earthquake that shook the ground",
+          "Birds carrying stones of baked clay",
+          "A single, devastating cry",
+          "A strong, icy wind"
+        ],
+        "answer": "A single, devastating cry"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Being granted dominion over the earth",
+          "Being saved by a miraculous ark",
+          "Utter destruction and transformation into lifeless ashes",
+          "Being transformed into apes and swine",
+          "Being raised in rank and given wisdom"
+        ],
+        "answer": "Utter destruction and transformation into lifeless ashes"
+      }
+    },
+    "verseRef": "36:29",
+    "arabic": "إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ خَـٰمِدُونَ",
+    "verse": "It was not but one shout, and immediately they were extinguished. (36:29)"
+  },
+  "scramble": {
+    "verseRef": "46:13",
+    "reference": "Al-Ahqaf (46:13)",
+    "segments": [
+      "إِنَّ الَّذِينَ قَالُوا",
+      "رَبُّنَا اللَّهُ",
+      "ثُمَّ اسْتَقَامُوا",
+      "فَلَا خَوْفٌ عَلَيْهِمْ",
+      "وَلَا هُمْ يَحْزَنُونَ"
+    ],
+    "translations": [
+      "Indeed those who say",
+      "Our Lord (is) Allah then",
+      "remain firm then no fear",
+      "on them and not",
+      "they will grieve"
+    ],
+    "hint": "This verse speaks about the reward for steadfastness in faith and belief in Allah.",
+    "arabic": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "words": [
+      "إِنَّ ٱلَّذِينَ قَالُوا۟",
+      "رَبُّنَا ٱللَّهُ ثُمَّ",
+      "ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ",
+      "عَلَيْهِمْ وَلَا",
+      "هُمْ يَحْزَنُونَ"
+    ],
+    "verseEn": "Indeed, those who have said, \"Our Lord is Allāh,\" and then remained on a right course - there will be no fear concerning them, nor will they grieve."
+  }
 }

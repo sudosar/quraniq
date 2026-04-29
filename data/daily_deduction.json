@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "puzzle": {
-    "title": "The Unconventional Leader",
-    "intro": "In a time of great challenge, a people sought a leader to guide them in battle. A divine choice was made, not based on worldly expectations, but on wisdom and strength. This individual faced initial skepticism but was destined to lead with courage.",
+    "title": "The Fate of a Defiant Settlement",
+    "intro": "Imagine a community thriving, yet lost in its ways, rejecting the divine guidance sent to them. This collective soul faced a profound test of faith, their actions leading to an irreversible destiny. Can you discern the identity of this group whose story serves as a powerful reminder in the Quran?",
     "clues": [
-      "I was chosen by divine command to lead a people who had asked for a ruler.",
-      "My appointment was met with doubt because I was not from a lineage typically associated with rulership, nor did I possess vast wealth.",
-      "My people were given a sign of my authority: a chest containing relics and tranquility, carried by angels.",
-      "I led my forces to a river, where I tested their obedience by forbidding them to drink, save for a single scoop.",
-      "With a small, steadfast army, I faced a giant warrior who boasted of his might.",
-      "Though I was the leader, it was a young individual from my army who ultimately struck down our formidable enemy."
+      "We were a community to whom messengers were sent to guide us to the Straight Path.",
+      "We accused those who brought us guidance of being ordinary mortals like ourselves, and denied that the Most Gracious had sent down anything.",
+      "We threatened our messengers with stoning if they did not cease their preaching and warnings.",
+      "We claimed that the messengers' message would bring us ill fortune, and that they were an evil omen for us.",
+      "We had a devoted supporter who came from the farthest part of the city, urging us to follow the messengers.",
+      "Our ultimate end came swiftly, with a single, devastating cry that left us utterly extinguished."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "Prophet Yusuf",
-          "Prophet Musa",
-          "Qarun",
-          "Dhul-Qarnayn",
-          "Talut"
+          "The People of Saba'",
+          "The People of the Ditch",
+          "The People of the Elephant",
+          "The Companions of the Sabbath",
+          "The People of the Town"
         ],
-        "answer": "Talut"
+        "answer": "The People of the Town"
       },
       "trial": {
-        "label": "Key Challenge",
+        "label": "Trial/Event",
         "options": [
-          "Facing the army of Fir'awn",
-          "Being cast into a well by siblings",
-          "Leading a small army against a giant",
-          "Building a massive barrier against aggressors",
-          "Enduring a long period of imprisonment"
+          "Worshipping idols made of wood",
+          "Breaking a sacred covenant with Allah",
+          "Rejecting the messengers and their message",
+          "Oppressing the poor and needy",
+          "Building a towering structure of defiance"
         ],
-        "answer": "Leading a small army against a giant"
+        "answer": "Rejecting the messengers and their message"
       },
       "location": {
-        "label": "Significant Object/Place",
+        "label": "Key Element",
         "options": [
-          "The Ark of Nuh",
-          "The Burning Bush",
-          "The Ark of the Covenant",
-          "The Iron Mountain",
-          "The City of Iram"
+          "A flood that engulfed everything",
+          "An earthquake that shook the ground",
+          "Birds carrying stones of baked clay",
+          "A single, devastating cry",
+          "A strong, icy wind"
         ],
-        "answer": "The Ark of the Covenant"
+        "answer": "A single, devastating cry"
       },
       "outcome": {
-        "label": "Outcome of the Campaign",
+        "label": "Outcome",
         "options": [
-          "Being swallowed by the earth with wealth",
-          "Ascending to the heavens alive",
-          "Achieving a decisive victory against a powerful foe",
-          "Receiving a kingdom after being saved from a great flood",
-          "Being granted the ability to speak to animals"
+          "Being granted dominion over the earth",
+          "Being saved by a miraculous ark",
+          "Utter destruction and transformation into lifeless ashes",
+          "Being transformed into apes and swine",
+          "Being raised in rank and given wisdom"
         ],
-        "answer": "Achieving a decisive victory against a powerful foe"
+        "answer": "Utter destruction and transformation into lifeless ashes"
       }
     },
-    "verseRef": "2:247",
-    "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
-    "verse": "And their prophet said to them, \"Indeed, Allāh has sent to you Saul as a king.\" They said, \"How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?\" He said, \"Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing.\" (2:247)"
+    "verseRef": "36:29",
+    "arabic": "إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ خَـٰمِدُونَ",
+    "verse": "It was not but one shout, and immediately they were extinguished. (36:29)"
   },
   "generated": true,
   "model": "auto (chain)"
