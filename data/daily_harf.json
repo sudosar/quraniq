@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "puzzle": {
-    "word": "يهدي",
-    "display": "يَهْدِي",
-    "hint": "This verb describes the divine act of showing the right way.",
-    "verseRef": "72:2",
-    "arabicVerse": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
-    "verse": "72:2 — It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone."
+    "word": "يوم",
+    "display": "يَوْم",
+    "hint": "A period of 24 hours, often referring to a significant event in the Quran.",
+    "verseRef": "8:16",
+    "arabicVerse": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍۢ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًۭا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍۢ فَقَدْ بَآءَ بِغَضَبٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "verse": "8:16 — And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination."
   },
   "generated": true,
   "model": "auto (chain)"

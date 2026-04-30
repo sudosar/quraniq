@@ -1,6 +1,5 @@
 {
-  "date": "2026-04-30",
-  "puzzle": {
+  "connections": {
     "categories": [
       {
         "name": "كَلِمَاتٌ هِيَ أَعْدَادٌ أَصْلِيَّةٌ",
@@ -144,6 +143,98 @@
       }
     ]
   },
-  "generated": true,
-  "model": "auto (chain)"
+  "harf": {
+    "word": "يوم",
+    "display": "يَوْم",
+    "hint": "A period of 24 hours, often referring to a significant event in the Quran.",
+    "verseRef": "8:16",
+    "arabicVerse": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍۢ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًۭا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍۢ فَقَدْ بَآءَ بِغَضَبٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "verse": "8:16 — And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination."
+  },
+  "deduction": {
+    "title": "The Divine Trust and Silent Testimony",
+    "intro": "A soul of profound devotion was chosen for an extraordinary destiny, marked by a miraculous occurrence that challenged societal norms. This individual faced immense scrutiny and hardship, yet remained steadfast in their faith, relying solely on divine intervention. Can you identify this revered figure from the Quranic account?",
+    "clues": [
+      "I was dedicated to Allah's service from before my birth.",
+      "I lived in seclusion within a sanctuary, receiving sustenance directly from the Divine.",
+      "An angel appeared to me, announcing an impossible yet true glad tiding.",
+      "I conceived a child without any human contact, a sign for humanity.",
+      "When I returned to my people, they accused me of a grave offense.",
+      "My infant son spoke from the cradle to defend my honor and declare his prophethood."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Asiya (Wife of Fir'awn)",
+          "Hawa (Eve)",
+          "Bilqis (Queen of Sheba)",
+          "Maryam",
+          "Sarah (Wife of Ibrahim)"
+        ],
+        "answer": "Maryam"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being thrown into a fire",
+          "The dream of seven fat cows",
+          "The miraculous birth without a father",
+          "The splitting of the sea",
+          "The temptation by Iblis in Paradise"
+        ],
+        "answer": "The miraculous birth without a father"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Cradle",
+          "The Tree of Life",
+          "The Sacred Valley"
+        ],
+        "answer": "The Cradle"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Becoming a ruler of a vast kingdom",
+          "Being swallowed by the earth",
+          "The ascension of a son to prophethood",
+          "Leading a people out of bondage",
+          "The destruction of a wicked city"
+        ],
+        "answer": "The ascension of a son to prophethood"
+      }
+    },
+    "verseRef": "19:27",
+    "arabic": "فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَـٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا",
+    "verse": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented. (19:27)"
+  },
+  "scramble": {
+    "verseRef": "30:7",
+    "reference": "Ar-Rum (30:7)",
+    "segments": [
+      "يَعْلَمُونَ ظَاهِرًا",
+      "مِّنَ الْحَيَاةِ الدُّنْيَا",
+      "وَهُمْ عَنِ الْآخِرَةِ",
+      "هُمْ غَافِلُونَ"
+    ],
+    "translations": [
+      "They know (the) apparent of",
+      "the life (of) the world but they",
+      "about the Hereafter",
+      "[they] (are) heedless"
+    ],
+    "hint": "This verse highlights the human tendency to focus on material existence while neglecting the eternal life to come.",
+    "arabic": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
+    "words": [
+      "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ",
+      "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ",
+      "عَنِ ٱلْـَٔاخِرَةِ",
+      "هُمْ غَـٰفِلُونَ"
+    ],
+    "verseEn": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware."
+  }
 }

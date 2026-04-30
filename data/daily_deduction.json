@@ -1,65 +1,65 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "puzzle": {
-    "title": "The Fate of a Defiant Settlement",
-    "intro": "Imagine a community thriving, yet lost in its ways, rejecting the divine guidance sent to them. This collective soul faced a profound test of faith, their actions leading to an irreversible destiny. Can you discern the identity of this group whose story serves as a powerful reminder in the Quran?",
+    "title": "The Divine Trust and Silent Testimony",
+    "intro": "A soul of profound devotion was chosen for an extraordinary destiny, marked by a miraculous occurrence that challenged societal norms. This individual faced immense scrutiny and hardship, yet remained steadfast in their faith, relying solely on divine intervention. Can you identify this revered figure from the Quranic account?",
     "clues": [
-      "We were a community to whom messengers were sent to guide us to the Straight Path.",
-      "We accused those who brought us guidance of being ordinary mortals like ourselves, and denied that the Most Gracious had sent down anything.",
-      "We threatened our messengers with stoning if they did not cease their preaching and warnings.",
-      "We claimed that the messengers' message would bring us ill fortune, and that they were an evil omen for us.",
-      "We had a devoted supporter who came from the farthest part of the city, urging us to follow the messengers.",
-      "Our ultimate end came swiftly, with a single, devastating cry that left us utterly extinguished."
+      "I was dedicated to Allah's service from before my birth.",
+      "I lived in seclusion within a sanctuary, receiving sustenance directly from the Divine.",
+      "An angel appeared to me, announcing an impossible yet true glad tiding.",
+      "I conceived a child without any human contact, a sign for humanity.",
+      "When I returned to my people, they accused me of a grave offense.",
+      "My infant son spoke from the cradle to defend my honor and declare his prophethood."
     ],
     "categories": {
       "identity": {
         "label": "Who Am I?",
         "options": [
-          "The People of Saba'",
-          "The People of the Ditch",
-          "The People of the Elephant",
-          "The Companions of the Sabbath",
-          "The People of the Town"
+          "Asiya (Wife of Fir'awn)",
+          "Hawa (Eve)",
+          "Bilqis (Queen of Sheba)",
+          "Maryam",
+          "Sarah (Wife of Ibrahim)"
         ],
-        "answer": "The People of the Town"
+        "answer": "Maryam"
       },
       "trial": {
         "label": "Trial/Event",
         "options": [
-          "Worshipping idols made of wood",
-          "Breaking a sacred covenant with Allah",
-          "Rejecting the messengers and their message",
-          "Oppressing the poor and needy",
-          "Building a towering structure of defiance"
+          "Being thrown into a fire",
+          "The dream of seven fat cows",
+          "The miraculous birth without a father",
+          "The splitting of the sea",
+          "The temptation by Iblis in Paradise"
         ],
-        "answer": "Rejecting the messengers and their message"
+        "answer": "The miraculous birth without a father"
       },
       "location": {
         "label": "Key Element",
         "options": [
-          "A flood that engulfed everything",
-          "An earthquake that shook the ground",
-          "Birds carrying stones of baked clay",
-          "A single, devastating cry",
-          "A strong, icy wind"
+          "The Ark",
+          "The Staff",
+          "The Cradle",
+          "The Tree of Life",
+          "The Sacred Valley"
         ],
-        "answer": "A single, devastating cry"
+        "answer": "The Cradle"
       },
       "outcome": {
         "label": "Outcome",
         "options": [
-          "Being granted dominion over the earth",
-          "Being saved by a miraculous ark",
-          "Utter destruction and transformation into lifeless ashes",
-          "Being transformed into apes and swine",
-          "Being raised in rank and given wisdom"
+          "Becoming a ruler of a vast kingdom",
+          "Being swallowed by the earth",
+          "The ascension of a son to prophethood",
+          "Leading a people out of bondage",
+          "The destruction of a wicked city"
         ],
-        "answer": "Utter destruction and transformation into lifeless ashes"
+        "answer": "The ascension of a son to prophethood"
       }
     },
-    "verseRef": "36:29",
-    "arabic": "إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ خَـٰمِدُونَ",
-    "verse": "It was not but one shout, and immediately they were extinguished. (36:29)"
+    "verseRef": "19:27",
+    "arabic": "فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَـٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا",
+    "verse": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented. (19:27)"
   },
   "generated": true,
   "model": "auto (chain)"
