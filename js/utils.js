@@ -226,7 +226,7 @@ function normalizeForMatch(str) {
         .replace(/[\u0671]/g, '\u0627') // alef wasla -> alef
         .replace(/[\u0622\u0623\u0625]/g, '\u0627') // alef variants -> alef
         .replace(/[\u0624]/g, '\u0648') // waw hamza -> waw
-        .replace(/[\u0626]/g, '') // ya hamza -> remove entirely to match Uthmani isolated hamza
+        .replace(/[\u0626]/g, '\u064A') // ya hamza -> ya
         .replace(/[\u0629]/g, '\u0647') // taa marbuta -> ha
         .replace(/[\u0649]/g, '\u064A') // alef maqsura -> ya
         .replace(/\u0621/g, '') // remove standalone hamza
@@ -245,7 +245,6 @@ function deepNormalize(str) {
     if (!str) return '';
     return str
         .replace(/[\u0621\u0623\u0625\u0624\u0626\u0622]/g, '') // remove all hamza forms
-        .replace(/\u064A(?=[\u0627\u0648])/g, '') // optionally remove yeh chair if preceding alef/waw
         .replace(/\u0648(?=[\u064A\u0627])/g, ''); // remove و before ي/ا (handles رؤيا vs ريا)
 }
 
@@ -537,8 +536,7 @@ function playVerseAudio(ref, btn) {
     audio.play().then(() => {
         // Track this verse as actively explored (user heard the recitation)
         trackVerses([ref]);
-    }).catch(e => {
-        console.error('Audio play failed:', e, 'URL:', url);
+    }).catch(() => {
         quranAudio.playing = false;
         if (btn) btn.textContent = '▶';
     });
@@ -636,22 +634,9 @@ const VERSES_KEY = 'quraniq_verses';
 function loadVerseTracker() {
     try {
         const data = JSON.parse(localStorage.getItem(VERSES_KEY));
-        if (data && Array.isArray(data.refs)) {
-            // Clean up any duplicate verses
-            const uniqueRefs = [...new Set(data.refs)];
-            if (uniqueRefs.length !== data.refs.length) {
-                // Save cleaned version
-                const cleaned = { refs: uniqueRefs };
-                localStorage.setItem(VERSES_KEY, JSON.stringify(cleaned));
-                return cleaned;
-            }
-            return data;
-        }
+        if (data && Array.isArray(data.refs)) return data;
         return { refs: [] };
-    } catch (e) {
-        console.warn('Load verse tracker failed:', e);
-        return { refs: [] };
-    }
+    } catch { return { refs: [] }; }
 }
 
 /**
@@ -675,11 +660,7 @@ function trackVerses(newRefs) {
     });
     if (added > 0) {
         tracker.refs = Array.from(existing);
-        try {
-            localStorage.setItem(VERSES_KEY, JSON.stringify(tracker));
-        } catch (e) {
-            console.warn('Save verse tracker failed (storage quota likely exceeded):', e);
-        }
+        localStorage.setItem(VERSES_KEY, JSON.stringify(tracker));
     }
     return { total: existing.size, added };
 }
@@ -691,16 +672,14 @@ function trackVerses(newRefs) {
 function getVerseStats() {
     const tracker = loadVerseTracker();
     const surahs = new Set();
-    // Use Set to deduplicate verses for accurate count
-    const uniqueRefs = [...new Set(tracker.refs)];
-    uniqueRefs.forEach(ref => {
+    tracker.refs.forEach(ref => {
         const match = ref.match(/(\d+):/);
         if (match) surahs.add(parseInt(match[1]));
     });
     return {
-        totalVerses: uniqueRefs.length,
+        totalVerses: tracker.refs.length,
         uniqueSurahs: surahs.size,
-        quranPercent: Math.round((uniqueRefs.length / 6236) * 1000) / 10 // 1 decimal
+        quranPercent: Math.round((tracker.refs.length / 6236) * 1000) / 10 // 1 decimal
     };
 }
 

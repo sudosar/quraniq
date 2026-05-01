@@ -1,29 +1,29 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-02-27",
   "puzzle": {
-    "verseRef": "30:7",
-    "reference": "Ar-Rum (30:7)",
+    "verseRef": "4:36",
+    "reference": "Surah An-Nisa (4:36)",
     "segments": [
-      "يَعْلَمُونَ ظَاهِرًا",
-      "مِّنَ الْحَيَاةِ الدُّنْيَا",
-      "وَهُمْ عَنِ الْآخِرَةِ",
-      "هُمْ غَافِلُونَ"
+      "words 1-2",
+      "words 3-4",
+      "words 5-6",
+      "words 7-8"
     ],
     "translations": [
-      "They know (the) apparent of",
-      "the life (of) the world but they",
-      "about the Hereafter",
-      "[they] (are) heedless"
+      "And worship Allah And (do) not associate with Him anything and to the parents (do) good",
+      "and with the relatives and the orphans and the needy and the neighbor (who is) near and the neighbor",
+      "(who is) farther away and the companion by your side and the traveler and what possess[ed] your right hands",
+      "Indeed Allah (does) not love (the one) who is [a] proud (and) [a] boastful"
     ],
-    "hint": "This verse highlights the human tendency to focus on material existence while neglecting the eternal life to come.",
-    "arabic": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
+    "hint": "This verse emphasizes the importance of monotheism and social responsibilities, including kindness to family and vulnerable groups.",
+    "arabic": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًۭا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًۭا فَخُورًا",
     "words": [
-      "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ",
-      "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ",
-      "عَنِ ٱلْـَٔاخِرَةِ",
-      "هُمْ غَـٰفِلُونَ"
+      "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًۭا",
+      "وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ",
+      "ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ",
+      "إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًۭا فَخُورًا"
     ],
-    "verseEn": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware."
+    "verseEn": "Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,"
   },
   "generated": true,
   "model": "auto (chain)"

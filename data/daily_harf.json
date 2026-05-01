@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-02-27",
   "puzzle": {
-    "word": "يوم",
-    "display": "يَوْم",
-    "hint": "A period of 24 hours, often referring to a significant event in the Quran.",
-    "verseRef": "8:16",
-    "arabicVerse": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍۢ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًۭا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍۢ فَقَدْ بَآءَ بِغَضَبٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
-    "verse": "8:16 — And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination."
+    "word": "سحاب",
+    "display": "سَحَاب",
+    "hint": "A natural phenomenon mentioned in the Quran that brings rain and shade",
+    "verseRef": "13:12",
+    "arabicVerse": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًۭا وَطَمَعًۭا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+    "verse": "13:12 — It is He who shows you lightning, [causing] fear and aspiration, and generates the heavy clouds."
   },
   "generated": true,
   "model": "auto (chain)"
